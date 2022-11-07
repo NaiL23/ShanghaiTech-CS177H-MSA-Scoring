@@ -1,4 +1,7 @@
 esm_msa1b_t12_100M_UR50S.pt
+model/*.pth
+
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
