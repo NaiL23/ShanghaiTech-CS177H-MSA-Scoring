@@ -1,0 +1,990 @@
+>T1067-D1: 
+RSELERRMMVEDSYEAPRGRLFNEQAYLRGETYLNQYTNVIVINKAASGSQAQTLRLYTNRQLMLSTYVSTGREDLEYISAVRGVVNKIFKGATSSHWRHTTRGFYTIKRVHGYNYRSGESKFHMPFAMFFNETRGLAVHQVPPDLSGGEAAGEAMLGKRASSGCVRVHKNQIQTIHRAVTAADRGIVPVLDTRTGQPKYDQNGKVRYEKGYKTIVIVEEY
+>UniRef100_W5X078 YkuD domain-containing protein n=2 Tax=Bdellovibrio bacteriovorus TaxID=959 RepID=W5X078_BDEBC
+---QTYRSEMQSTQKLPDHffGKFSES--dFDSKPWMRDFIYVIVIDRAAKGAGAQSMRVYENGRLIHKAKVSTGRET--LELK-----RKNKscTGAPPKSYWSNtPTGYFTpkyLSKDhVSSSW-DSS----MPYAIFYD--idNGLALHEV-------YSKYAGYLGSRASGGCTRQDATSAQNLFN-QVRS-TEgrQIP-MIREDGTPVLDEAGRMIYITKqnfrsktnpnyattfntYSALIIVEDs-
+>MGYP001017788744	130	0.278	9.588E-30	1	219	221	43	234	249
+-------SDSQEIMDISSagn-ssKKITFD--SQASVLLRHYPLIVVVNKAAKGPGAQHARIYVEGSLWATVPVSTGREQ--QENS---TSGKK--------YFSAtSVGWFNptyQVENhFSNTW-QAN----MPWSTFFN--GGIALHAA-------LPPYYGKLGTRASGGCVRMMPDVAEFVFK-TAKG-YGkgTVP-AFTRYGGLQVKADGGLVMKTGSRTLIIVED-
+>MGYP000874464246	119	0.247	5.953E-26	6	220	221	159	380	386
+------------------------------raptptpfepgnplavhpvALRMlaqlppeivTHFELFLYVSKADEGPw-AQQMYVFDkdeGVGgiprftLLHQWFVSTGRE-TeeinargelMSTsT---------------------PQGLFklDpdrFYRRyWSSQWD-QA----MPWTMFFDyQnRGnmtGLAIHGT------VpETL--TELGSRASAGCIRLAPENAKTLYR-LVRRSYaGYVP-rfaidrtgTMSSEGIILRNRKGNPRMEQGFKVIVFIDNF
+>UniRef100_A0A2K9NXA0 YkuD domain-containing protein n=1 Tax=Bacteriovorax stolpii TaxID=960 RepID=A0A2K9NXA0_9PROT
+---AQDMAGATLGTTRPVDvdVTFTTK--tFETQPWTKEFRYVVVVNKANTGKDAQTIKVFEYGQLIRQEKISTGRDE--FERK-----GE---HHSKADSWTVtPTGYYTptfLSKDhRSSAYgGrfswltgGTK----MPFAIFFN--GGIALHEA-------PKGTEGMLGKKASGGCVRLPSSLASDLFY-RIQE-TEgaRNP-RFNVNGTAMLDAQGNQMYGTKsaFSALIVVQNk-
+>8860092 len:302
+-----------------------------------------FgVAT---G--RESYDLA-PGSdkvPpHYFWSVAEA-------------------------------GFFl-aqlLDKNhLSGSYKNHP----MQFSVFFN-m-AqGQASHQ--------g-----DNIGHHASAGCVRMTAKGAQTVFE-LVQDTFtSdrQtIP-vvdKVS--GELKMDLNGQVIMQSEfqndhdgnpirklqgYKTLYIIN--
+>19124579 len:710
+-------------------------------------------DA-AKGtPy-EDNAHRI--GDV-YPWnetKLiiprydAEGNKvGT-YSV-----------------Y---PLGS-nQatgpIAGQMIWKW-isDGQ----ggAEVDATFGwVSlSqvRHNISGV-DVT--FmTSQ--TRTGEADGKGSttahIVF-YGNGKAV-RGLL----GatyfQAPdpen-pkilfepifg--YKDGEIVKIKNG--DTSELDREMVQTDE-ddltkplldelgnpvldeygnpmyek
+>SRR5437868_7764046 
+--------------GVNE-svTTAEDLFA-EGINVYQEFPVVIVID-----KDIQRLQTYHHGQMVNEFKTSTGREQ--METP---HSGPR--------YVSNtPNGWYAplrYVEKyESKSW-YAT----MRYAIFFT--DGMAIHAT-------SLLRYPRLGSNASHGCVRLTRSNAKWLWD-LTRS-EPqtQVP-YLTRG--------------------------
+>10031298 len:340
+----------------------------------------L--TE-------RRMPSFQvqdpSGRaltekdFLGQWtYVf-LG-----YTSC--------------------PDAC--pttLAT-LTQAFD-G-----LPAdaqRiraLFLS---GDPQRDR------Pevl-SAYLANFSNRISAGSgspAHMttTAQAFGMRFD-VVgdtRS--GN---yaidhPV---VMLLFDPKG-------rFVTLVPAGV-saaela
+>tr|A0A2H0EBJ7|A0A2H0EBJ7_9PROT Uncharacterized protein OS=Bdellovibrionales bacterium CG22_combo_CG10-13_8_21_14_all_38_13 GN=COW79_00710 PE=4 SV=1
+------------------------------DNLITKAGVVVVVDKSIRTShrpSGQTATVYVDGHYYSEYDISSGTEE--LKET---TSGRK--------YVATtPVGIYRpirAYKDyMSRTF-lSAP----MTWAVFFN--GGIATHAT-------TRGAYAKLGHRASGGCIRMKLEEAEEVNQ-LIVS-RGeaNMNtvdqse-vidgamlkrVLYINRDKFPTVDRMTGKFLQeqmwtyDSLVVVI---
+>tr|A0A0J9E852|A0A0J9E852_9RHOB Uncharacterized protein OS=Candidatus Rhodobacter lobularis OX=1675527 GN=AIOL_002912 PE=4 SV=1
+------------------KVAYIAPSQI--DPA---YSHAVYVNTSTRSSg-GQKMWVLErrgdgwgvaiwdekywEKKgvtgApDYSWPVSTGRHyKgDr-RSgpT---------------------PLGIFnvDerk----trHRRGWG-SP----gMYNSIYIDlHyGsGrisGVAMHGT-------TSSKYRLLGRADSHGCVRMRQGNADKIWE-MFH---GqgrpgegspLwseVPryftsepg-psrkarwgYV-RDGSFLYSAAGERLTKPGYSALFVF---
+>32429904 len:180
+lvekgaeapgstemryasletnldpfakvvlk-------------------NKIKNT-----SSS-TKW-I-I-VTNC---Tf--NRTAIYKgsKGKwVLSKFYVcSCGKPS---TpT---------------------RKGTYtvkEr--GKy----FNGVD----kgAPYTcWYWTQySGNYLYHSV------VykrgssTKILDGTLGKNVSHGCVRLEISQ-------------------------------------------------
+>21517176 len:219
+llprlgftsVAEalaEKFHMAPALLKALNP-gaDFASGS--TITTVVTrapmPGvqvat----VQVDR---A--ARTVRAYDqNGELVAAYPASVGSTD--MPA---------------------PSGTWkvnavapNpvyyYDPSrltfgrAeAKGkLKiaAGP----nNPVGsTWIDlTKDTYGIHGT-------PDP--RLVGKTASHGCVRL--TNwdARQLg-A-AVK-a--------------------------------------
+>UniRef100_A0A3D3GDZ7 YkuD domain-containing protein n=1 Tax=Bdellovibrionales bacterium TaxID=2053517 RepID=A0A3D3GDZ7_9PROT
+---EELQEEAGLLDDSSS-apdRELLVRVSge-KGMKALAEKRLQIIVHKSMKEKGYQFMSVQVDGVEVSTFPVSTAYER--RVTG---KSKRT--------YMAStPNGSFLidkMQPKrFSNLW-QVN----LYHVLMFTghyaGRtlvdGGVWIHAT-------TPDHFAELGAPASGGCIRMHPNDAETLYK-LVSS-YGmqETAit-IIPAPGEPQVPS----KP----RNLPLR---
+>tr|A0A2E6W7M7|A0A2E6W7M7_9GAMM Uncharacterized protein OS=Legionellales bacterium OX=2026754 GN=CMF52_05505 PE=4 SV=1
+----------------------------------RQFfNLSqekIYIDV---E--TQTLYLT-TG-yntVISSYKISTGRTGTgeghgs-YKT---------------------PRGQFeiyskvgDnqdpMSK-yKARvkvgTYD--P--AHARFdnilSriLTLEgKqEhnkNtrqRcVYIHGT-------SAI--DRLGKKPcSMGCVRMCPYQIIDLYK-QVDS--G-TA-vyihd---SNNKLPWESKATVHIDADGNVLFSQRR-dklei
+>A0A1I5YPT8	49	0.240	8.321E-03	65	189	221	237	363	369
+---------------------------tWTGKGTVkyhDNaFK-WpdFSFSA-TAG--SESLGM-TsKGT--YTVkRIeGIGyNSGK-Y-S-----------------------GTYdKtnr--EG-PNnRYskDl-SA----nMSYAVFFN--GGEALHaGP--------------LD-w-SSHGCVHVD---wgS--I-E-VIqQINYhSvig-LT-kv-------------------------------
+>8670524 len:418
+----------------------------------KTVtpnQEYgLIVDK-----m--tQRLYIYKEGKLLTTLLISTGttSGSNsDYNeT---------------------ASGEF-LLCSATGGFWSGN--LWCDQAIRFN--GGDLLHLV------PaivssdgtvkdYSICESALGTRASHGCIRVqrvaneDGYNHQWIWDNLRGKknikiivwDDdGrrlsrpddsesvy-----------------------------------
+>10358392 len:376
+----------------------------------SQANQQV-VP----GA-EQaALSTYVpGGKL-DEFy-MfSSG--G--H-S-----------------------GQvfvYgi-psMRRLRTlDVFTSDP----aTGYG-Y-S--GeSRAMMqGL------Twg-DTHHPALsetGG-DYDG--RwLfiN-DNANSrI-A-RIdlQN-FqT-----------------------------------
+>tr|A0A2A2QDJ3|A0A2A2QDJ3_9BACT Uncharacterized protein OS=Verrucomicrobiae bacterium Tous-C5FEB OX=1982331 GN=B9S30_05720 PE=4 SV=1
+------------VQAPPE-pvLYGWHDDGg-PGKVT-------VRISL---P--DQIAEYHRGDRPIGWSYVATGKEG--HGT---------------------RARTYrimekIedkysnKYGWiedelgnvvdgdakvgdrvpKGMKYVPAP----MPF--WMRl--tsYGIGMHgG--------L------IpepGKPASHGCIRLPKDFVPLVYD---vvqvgtpvtityapsRHgpvspppnqqlaTNnGatpl-----------------------------------
+>1673357 len:230
+rlpsetvaypD--------------------------------LKQLnDFWIKVVI------SkNRVYLMDGKKVVYTMYASAGEYE--RqadgkkkStT---------------------PTGTYyiqaeRgdsFYNPnlseGANYW--------TSWlnHgeYLFH---TVPTDanGN-YK----vAEA--KKLGkKPASHGCIRLSVADAKWINQ-NV----------------------------------------
+>985296 len:263
+-------------------------------------------EH------AE--YL-PAvlGDLRQDLrgAVTSGSDG-iqtck-YAAR--------------------RNcGStlrF-pdlrIH--faFHHKFHESD----eRPaFhSRp-VRcSESlsAaLAaVEGL-------fg-KP--SCvIsGhdRePVHAGrC-Q-HDEQSRpVLRE---RK--G-----------------------------------
+>6102073 len:121
+---------------------------------------------------------F-NST---AYSI--GNSlvnG---STN--------------------PITIIsvAscserprLMREynCSSEiLEtlAScS----kATCELWISlK-GivserDkssmimVS-HSM-------wlTD-FFDSL-l-KVT--Cp-RsstFPPP-fA--IdFD-------------------------------------------
+>32195 len:426
+----------------------------------------------------Q----YDnNGR-IDpALSgVPTfnGR-iE-LYPN---------------------RDfhcGIFvdfdDedleIIScqKrvlRTwEviEWwcS-SE----IRrtWQQLITi-v-DktG-PeIQ-T-------RHM--D-FSvTTNSKSCsaVvEL-P---------------------------------------------------
+>16856325 len:222
+----EKFMVEKKRATLEK-klNLTQRKLDw------KtPR-SAYLVINS------SLnDFSLNRGGQVIKT-gKCSTGS-Y-illkngedqqwMFKT---------------------PKGEFriQgktTSPVwrKPD-WafvEEGlP----VP-aqyhysryeYgV-LGdyAlSlGdGYLIHGT-------lYQ---RFLGLPVTHGCIRLGDADLEAVYR-QM----------------------------------------
+>UPI0004472E15 status=active
+aeeetkvsan---EMVEVVEPVPYTKLTgKvLQESPES----IDL-SG-K-NVVAD------l-TSmQIFLYEDKRLVTVVPIvSIGKPGS-AwET---------------------PPGQYaiNtk-VENhFSSfgHvW--------MPYSMqFF---GNF-fIHG--------w--PYYPD-GTPVsEgySGgCIRLTTEDAEKMYG-FVD---------------------------------------
+>UniRef100_A0A660MXT6 YkuD domain-containing protein n=1 Tax=Candidatus Gracilibacteria bacterium TaxID=2044595 RepID=A0A660MXT6_9BACT
+pdlkevfpnqweaflen------------------------------EDFLkykdENAdHMLVVTKV-EDG--KHALAYYEDGVLkLATY-VSIGLP---YrKTV--------------------S-GAFdlQhdmIFRR-SRKYDNAP----MPYALHIT--GGF-fLHqGR-------SD------GKPRSHGCIRV-PG-lyQKWLYE-HLPRS-KKADet-gEVQ----------------------------
+>UniRef100_A0A2E1DLI4 YkuD domain-containing protein n=1 Tax=Actinobacteria bacterium TaxID=1883427 RepID=A0A2E1DLI4_9ACTN
+------------------------------------FDSIIVVD-----P-SiQKLFLVRN-lEIIg-VHGTSTGKKG-lsnISgSggT---------------------STGLFHtgevIEGEIGeRiKrWgaqgvlvDkNDP----adMTtrLiTLY-GqEsKNkntlsrGvY-IHGT--------NlP--NSIGAPDSHGCVRvLESSAIE-Ia-D-FVKE-Ae-MVQ-vyILNRP--------------------------
+>tr|D6U6B6|D6U6B6_9CHLR ErfK/YbiS/YcfS/YnhG family protein OS=Ktedonobacter racemifer DSM 44963 GN=Krac_1139 PE=4 SV=1
+------------------------------mleanyedttsynqphqvdqsllayYGLQnad-----VLVVSL---T--EQSMRIYHNGTLKQSLLLTTGRVY--RPT---------------------PVGHFhmstHyenltLTSYd-APsSpdYy--TP----vvVRDAVqFWD--NGY-lIHSS-------qw-R---KDYG-PMTqfphndsggdpeasvgsHGCINVAPSILRTLAPt--Ittq----------------------------------------
+>tr|A0A2P8MCL8|A0A2P8MCL8_9CLOT L,D-transpeptidase OS=Clostridium sp. NJ4 OX=2126737 GN=C7T89_18015 PE=4 SV=1
+atkekngyiycetnhvdnngifingwikkn------------------------------TDNLtglk--YinsDT-LIdVNI---T--SQSLNVYRNNVILnKE-PIkcSTGiK-GDe-YKeT---------------------PMGIFtikKkvqnLSNKrEGENamY--G-----MEFfG-dYF-i-NSvSFNeIKkgGK------IvydENIrEKNNLGKCDTNGGIRLSIADSQYIYN-LVTDk--------------------------------------
+>SRR5919201_2437241 
+liagesmklivlalgaav-------------------ALFGVA--L--TGNVtahaDTgCesNAsgkVIWISL---T--TQSV-V-AcDGPEA-VFttEVTSGRPG--LAT---------------------PKGTFqvlsKranwTMTS-GcKpgSacYyTPTH----VNYGLAFK-NVGY-yLHD--------wpPQEg--SAFG-PGTqtgrfgsHGCVHA-PLNvmAQ-IYN-W-----------------------------------------
+>5420202 len:450
+esslvkafrnsspvnrdgisss----------------------------------TDY-L-VWVTK---S--EFKTRVYLgsTHNrqLIKEFPCAIGAPG--TET---------------------VTGQF-eYI--eHISSWNy-DS----Y-YvGpVlrF-Y--NGYALHstllyygGG-------eYD---GTVGAKISHGCIRLHPSDINWLSA-YI----------------------------------------
+>489224 len:211
+-----------------------------------------HwCH-------TTwSLRLMaQlRGP-M-PWSL-V-HT---VPSE--------------------PPAT-EaacrV-A-VGED-D-GlA----tVPVdqSvLag-INEqRGvvaaGLNLKpAA-------DRK--TS-pDRSAP-GHVNV--ERAEEL-Av-LV----------------------------------------
+>3149478 len:331
+---AQIAQRYGVPASQIA-klNGIKNA---SLirvgqkllisgnPAKVkkktPRGKKKIVED------i-TeHRCRRYEGDKMLNTWRCSTGR-nN--S-TK--------------------T-GRFrv-qskLRKAy-GSTWNi-------wMPW--WMGiYwSGpvENGIHGL------PwnaktgGRTWAGLVGTPITYGCV-mLNDKAAETLWK-------------------------------------------
+>28396193 len:314
+----------------------------------ktellKEQevdQTYgLVIDK-----l--qQRLYVFKEGKLLSTLLCSTGfPRSDtPFAeT---------------------PAGEF-LMVSWTGGFWAGS--LFCDMGMRIN--SGILIHEV------PcliekdetgeetrnYARCERYLGEKASHGCIRVqrertpEGVSIKWLWDNLTRKpytkviiwDEiDre-----------------------------------
+>UniRef100_A0A1G2QFY0 Uncharacterized protein n=1 Tax=Candidatus Vogelbacteria bacterium RIFOXYD1_FULL_44_32 TaxID=1802438 RepID=A0A1G2QFY0_9BACT
+----DSQKFIRPFVIAKD---------nL--LSS-GE-K-FVVVN------f-FAkNIELYEGGALVATTSVrALGDPQG-WgGT---------------------PAGLYnvLdk-SERaFSAsaEaY--------MPNALhFY---GKY-yIHG--------e--PYYAS-GRKLgAdvSGgCVQLADSEAPNFFA-QVDQ--------------------------------------
+>tr|A0A2M6ZLI7|A0A2M6ZLI7_9DELT Uncharacterized protein OS=Deltaproteobacteria bacterium CG07_land_8_20_14_0_80_60_11 OX=1973972 GN=COS90_07150 PE=4 SV=1 
+----------------------------------dvfKEYRKVIWINQ------PKQVGIaY-qEGKKVFe-FPVi-TGDDE--TTTD--------------------P-GIYvvKlk-DDNyYSRTYD-TP----MPYSIFFDl-KErK-AIHeGE-------vPSPALKkEL---ATHGCIHVePP-YIKm-LYD-WADEE-nTvvVIS--------------------------------
+>ERR687894_103720 
+-------------------------------------------SR-------QVLVLARRGRAERIYHSSSGAP----ST---------------------PTvfGSF-rFYRRQPGT-NaKG-----M-vHSMYF-i--RGYAIHG--------yKSV--PTY--PASHGCLRVPIPNARSIAR-WVN-lgdrifVYreRrvAeLR-rhalvigqvtlTSGRTAEYYVDAKRAILRPEGflal----------
+>9738455 len:541
+-----------------------------------------------------TL---KNpHR-QRR-R-G-GQQG--------------------------PGG--DqenpFQD-fFDR-F-f-GgPQG--qNP-G---E--GG-PG-GP------PggEEMRERSLGSgvi-VDpKGYI-VtnrHVVNgADRIrVK-FMDDP-eG-AP-ghd-------------------------------
+>95417 len:340
+----------------------------------------------------------------------T-KD---FiAiNK--------------------PCG-LavQg--GS-SQKYHv-DD----M-LkCIFYD-ETtpKL-VH---------------RIDKDTS-GlLlVaKnQkSAKKISQFFKehKIIKT-YlAivsPCP-ktnsgVID--APILKKGvDGKQKMKVD---------Yskgkqsi
+>12594943 len:184
+----------------------------------SPYQS-LSLT-------PKRV-M-EAASSLSQN-IASA-PlSSilh-FTTL--------------------A-G-Ffv-awr-ANPy--N-FRSG-----LP-KVFFRmpfTcAGrGgFE-HQE-------EK---REpFqseGeeevEDMdSVGCSR---G-ARR----------------------------------------------
+>UniRef100_A0A536BGU2 L,D-transpeptidase n=1 Tax=Chloroflexi bacterium TaxID=2026724 RepID=A0A536BGU2_9CHLR
+------------------------------TRAAppstswrirarrwplrsrsgLRLaTTpgrstpspgscrapptrrpfSRSPRS---S--TRRSSAYQDGNAILTTFVATGRPQ--LPT---------------------PPGVYrifaRyspykMISPw-PYgSpwWy--PS----swTSFAMeFAA--GGY-fIHDA-------pw-R---SWYG-PGAnlyngtHGCVNVPYSPMATLWNwap-------------------------------------------
+>UniRef100_A0A3D3JGB1 YkuD domain-containing protein (Fragment) n=1 Tax=Bacteroidetes bacterium TaxID=1898104 RepID=A0A3D3JGB1_9BACT
+---------------------------F--PQYYraaDTIP-kLVLISN------KwQSYACYEYGEL-VRFaAANTGEER--KPT---------------------FPGRYavnwKqrlrLSS-LDSTW--R-----LPF--TVNfHqYAGSAFHQ--------F----E-MpGRPVSHSCVRQf-MDDAEWLFK-WVKTakidtvqhrFvpFtG-TPi--------------------------------
+>tr|A0A2T2UEX6|A0A2T2UEX6_9BACT Uncharacterized protein OS=Bacteroidetes bacterium SW_4_67_19 OX=1919115 GN=BRD52_06530 PE=4 SV=1
+------------------------------SPFPryypgaRTLpKLFI-MHK------GvQAWAAYEHGKLT-RWgIINTG-SDK-NPT---------------------PSGRFsfnwKqeyrV-STlSPPdEqWE-------M-yW-VF-Nf-yHArGMHVH-Q-------y-E-----MptGGPTSHGCVRLVNADAKWIYN-WAEPwEsSkGPiGP-qsaqg------------R---ITAPGTPVLVLGEN-
+>tr|A0A2M8A9T7|A0A2M8A9T7_9FLAO Uncharacterized protein OS=Flavobacteriales bacterium CG_4_9_14_3_um_filter_32_8 OX=1974004 GN=CO118_09475 PE=4 SV=1
+----------------------------------eylTLkYkniSFhkYMYISL---K--HQQLFLIKNDSTLKKYPIstskkGIGNQqDS-FQT---------------------PHGLHti-krkIGCDv-PYgGiLE-SR----EFngeiatiltkkekapkdYvtsRiMWLQ--GedlGinkgrkVdSynryiyIHGT-------PEEg---YIGEPASHGCIRMKNKDvIE-LFN-LVee----------------------------------------
+>SRR3984893_15073628 
+----------------------------------------l-vKVNL---K--TDRARFYINGSLARTLPVSGGIGgygsvgnD--LYT---------------------TSGVHlt-mgsDDSVwRTSp----NI-----KpgqpgyYheLvYDD-----vqISdsgeyMH---------QSPgRLWCIGhENCSHGWRRMTAGDAAWWRH-TAyrgDPvTItGtpralawdng-----------------------------------
+>5816806 len:142
+-------------------------------------N--IsILNTA--H--SPSLSLLMS--IL-T--IS-NR-A---KSL---II---------------P-S-MTnetL-K-yiRSiKSWpN-NS----LTfcsadgWrnthTLtW-Ti--RSMQhLHyG--------EN---KQ-GTKTlTyeQACSKLaPLHNpAA-ILG--IKAcQ-kA-MPg--------------------------------
+>3330726 len:470
+---AQIAQFYGVPVSQIA-klNGIKDK---SLirvgdklvisgnPKKVikkkRRVKKKFVVD------i-SeQRCWRYEGDKLLNTWKCSTGR-nN--S-TK--------------------A-GKFrv-qskLRKAy-GSTWNi-------wMPW--WLGiYwSGpiENGIHGL------PwdaktgGRTWAGLVGRPITYGCV-mLNDKNAETLWK-------------------------------------------
+>31411813 len:203
+------------------------------------------------------M---QAAS--RD-ALS-GR------TK--------------------EQGVLveqarEatqqLNDSLTQeEiFnrltDNGA--EQglI-lYnGkLYLN--ASY-VQtGT-------lSA---DRIGaNSISVGk-LAgtIS-ND-NWVLD-LTN---GT---lTI---GDISASN-----ITSG----------
+>1509240 len:192
+----------------------------------------F-TS-------SKf-MMMnITGG--I-A-NVTVGyANilG---EA----------------------AGAeYf-nr--K-hLGSAyWRyhKNK----I-gYiAhLY-DDKSS-SVEGA-LI----kfi-DvV--D-FDER-T-Gq-IKTnAEGNGK--Y--------------------------------------------
+>1197042 len:549
+------------------------------------YDSALnqFIN--------E-I--F-NGSTpeeFSNWAneIlS-NKPQEesnsneIKKeKV--------------------QVG-F-sqaL-NELAK--E-G-----LPVvSIs-ADl-QGstGVaGfqkennknyIDiGV-------aeSNMISSAIGM-AKQG-L-I-P--I--V-D--T----------------------------------------
+>1157150 len:163
+----------------------------------------TSTNR------SAPISVWgKpsDGSrL-R--PLTrI-KDlhlR--VQdicR---------------------TFG--avGkerI-K-----Y-i-AA--LLLSLTVWYQc-c-TTlFShTHtiGS-------yriTHS--HPYtG--TSDNpC-H-SHTAAQFLtIA-LLSAftalaAmLaGaaAAA--------------------------------
+>1057182 len:164
+----------------------------------------------------SRVVLFTDGpKg--YAgqWlQrLANAlPHvvAQ-FvhDAR--------------------P-GA-dvRahmenlvtgLSRDANRDaW---P----CPtdafFtdDVaWQRl-y-GhldAtfatapavFpTttteccVHNP-PR---PcfPN---STMG-PAI-GltmrCL-L--ADASCL-R-------------------------------------------
+>1044356 len:135
+-----------------------------------------gYspvSaepkklPKrLLVD-l-SeQKLRQELGGVVIEEHRISSGKAS--TPT---------------------PVGTFTVLSKHPRAWSNRaK--LWMPN--WMAf-k-GtVYGIHEL------PewpggKKEGESHLGTPVSGGCIRVg-VGVAKRLYE-------------------------------------------
+>UniRef100_UPI0015BEBEB0 L,D-transpeptidase family protein n=1 Tax=Clostridia bacterium TaxID=2044939 RepID=UPI0015BEBEB0
+----------------------------------KR-T-FVEVDIV-----SQTLRFYKNGf-LfLDS-AITTGKKGS-YDT---------------------QKGYYeimftDtnryL-QP-SNafvKyWmRfNNA--KAqgLHdanWrgateNFnYF---GGV-VY-K-------QN---GRAGsKySGSHGCVNIPPNKMPIIFQ-NA----------------------------------------
+>UniRef100_G5GGR3 Uncharacterized protein n=1 Tax=Johnsonella ignava ATCC 51276 TaxID=679200 RepID=G5GGR3_9FIRM
+------------EAAAIKk-liLEGKASERT--pefsKTAAsktePDYgNTYIEVnlTS-------QHLYYYKNGQKVFE-sDFVSGneASG--KST---------------------PAGVYqvmykRenaVLS--NEGEN-NN----AKY--WLPf-NGNIGFNDA-------pw-R---SGFGGetyknEGSQGNINLPPDAAKSLFE-SVengtpvlcfrtdntddivktqpdq----------------------------------------
+>UniRef100_A0A351JQL5 YkuD domain-containing protein n=1 Tax=Candidatus Magasanikbacteria bacterium TaxID=2026717 RepID=A0A351JQL5_9BACT
+-------------------mgDADSDDDGYNDfEEILygydpldrepiKKWNKKIVIDL---S--RQQLFVVVNA-IsVLQFPVSTGNPY--TPT---------------------PPGNFsi-erkVDTmLyQGLDYYy--P----gVKWNLqF-K--PRY-yIHTA-------ywHN---D-FGkRTRSHGCVNMREADVAVLYR-HI----------------------------------------
+>UniRef100_A0A1F4NRY2 YkuD domain-containing protein n=1 Tax=candidate division Kazan bacterium RBG_13_50_9 TaxID=1798535 RepID=A0A1F4NRY2_9BACT
+----------------------------------SR-dDKQIQIIL---D--EQRLLAIENHVVILDTPISSGKSG--YST---------------------AKGLYkif-nhIDTAy-SSayElYmdNwmalASlK----ygLTgYglhALpFWRvnpsgRyagREGevINgrLYtqGK-------lyED-y--THLGEKRSHGCVRVGITASKVLYD-WAE---------------------------------------
+>UniRef100_A0A1E8CWN9 Uncharacterized protein n=1 Tax=Humibacillus sp. DSM 29435 TaxID=1869167 RepID=A0A1E8CWN9_9MICO
+----------------------------------------tgrvMCVSK---S--TSVLTWVIDGKPQYQFTVRFGSAD--LPT---------------------REGLFsvyRka--REiRSNIDQ-SL----MPYSMFFS--GGEAVHySP--------NF--ARVG-yaGNSHGCVNVrDYNGIARLYA-AVN--LGd-----------------------------------
+>tr|D3Q1E2|D3Q1E2_STANL ErfK/YbiS/YcfS/YnhG family protein OS=Stackebrandtia nassauensis (strain DSM 44728 / NRRL B-16338 / NBRC 102104 / LLR-40K-21) O
+------------------------------KRIAdsslSKCkhstkRETVCIDlT------HQTLWILnKSGKRILG-PtVVrTGMKG--YAT---------------------TPGTHkiNvreY-KHw-SKPYKvw-------LYY--WQHf-HDGEGLHET------TtyiHDA--SI-G---SHGCANlL-PSDAKKAYD-LLS--YNDyIK-vfgKRPGT--------------------------
+>tr|A0A1Y6K189|A0A1Y6K189_9CHLR Uncharacterized protein OS=Brevefilum fermentans OX=1986204 GN=CFX1CAM_0335 PE=4 SV=1
+----------------------------------------------------wieldlfqQTAMVY-EDgQLLFA-tLMTSGWEP--FYT---------------------KPGLFtiyeKkeladMLGSf-EaDrsDyYLf--Q----dVPWQMYYD--EARAIHTA-------ywRT---N-FGYVGSHGCVNLSPGDAHWMFLwanegdyvWvhdtSGrtptd----------------------------------------
+>9286501 len:392
+---------------------------------------------------------Y-E------HSI-VGnvRDpE--SRT---------------------LTGNvYTgngvVVTdeQytLGQilEYNslkRNV----ldrVSYGLYYP-EETHTwTRGN-------yTEwV----F--PMAnyEGgnLVfSL---D---LVA--VKNESq------------------------------------
+>22182817 len:211
+---------YDAETRQLKa-dvKAGKDVKRD--fiyhSEAAnhgpaaSDYgDTYAEVnlAE-------QHMFLIVKGKKVLE-sDFVSGntSLK--RGT---------------------PTGTYavkykEkdaTLN--GENYS-TP----VKW--WMPf-NGGIGFHDA-------pw-R---HGnFGGtiyktNGSHGCINLPPSVAKKLFS-YV----------------------------------------
+>1759862 len:126
+-----------IKNSYEEKklERFSES--yFKIRPWLLEFKYVLVINKGDNDKEKATLRVYEKGKLIHISNVTTGRNI--LELK-----RFRPycKNRPPTFYYSSsGEGYYTinkLYYEkESLDW-G-------------------------------------------------------------------------------------------------------
+>UniRef100_A0A5P6AAB1 L,D-transpeptidase n=1 Tax=Raoultella planticola TaxID=575 RepID=A0A5P6AAB1_RAOPL
+----------------------------------------LVINL------AElRLYYYPPGKmrSPSTLSVSVSWEG--YPY---------------------SDDDHhr-lrqARK--SN-RtptanirarykamgIelpgvvpAGP----dNPMGhHAIRla-a-YggVYLLHGT-------NAD--FGIGMRVSSGCIRLRDDDIKTLFN-LVtpgtkvni----------------------------------------
+>UniRef100_A0A3D1M9J0 YkuD domain-containing protein n=2 Tax=Lachnospiraceae bacterium TaxID=1898203 RepID=A0A3D1M9J0_9FIRM
+aaafmsrknplaamdakaqgyssrtg------------------------------------Y--LILIDK---N--THYLSLYRgsQGNwgQDRSWRVDVGAPG--TST---------------------PSGVFnlGtk--LLyfDSGTCR-C-----W-Y--ASQv-t-GSIYLHSV------LyfqTgspsRIMDGRLGMSISHGCIRMELSNAKWIWD-NVpa----------------------------------------
+>UniRef100_A0A3A0BAJ1 YkuD domain-containing protein n=2 Tax=Bacteroidetes/Chlorobi group TaxID=68336 RepID=A0A3A0BAJ1_9BACT
+------------------------------ARFVsskdlnsvikDTvYtdqDTWIELV------l-PeQHAYLHYrDGRKV-KYPVSTGAGnfGVs-VES---------------------RPGLFaifyRnaHH--i-SSQFNSAD----MYH--FMAf-NQGIGFHSI-------ngTG-YYVHLGVrPSSKGCIRLTHDGARELFN-ATE-m--G-TLVlvhsynsnrvv-------------------------------
+>UniRef100_A0A2N1W5H1 YkuD domain-containing protein n=1 Tax=Candidatus Goldbacteria bacterium HGW-Goldbacteria-1 TaxID=2013807 RepID=A0A2N1W5H1_9BACT
+thviyvnkpekklyllssaldvmfvydiasgsgggdkvyqkdmctpageyriteiytvmepwqlvlae----------------------------------ERLkDA-V-LcNE-DTGEi-KQKVKQlrdnFNQGRnnLtsLnKTYyRAKDGyTRyG---TT---------------------QDlGInsYgpvf-mrL-D-f-PNaKdYkKyrkairEGR----VPMnedGTYAEi--GgGIAIHGT-------NDP--VSIGHDASQGCVRMRNSDvIE-LsW--YVK---------------------------------------
+>tr|R7I1R1|R7I1R1_9CLOT Uncharacterized protein OS=Clostridium sp. CAG:411 OX=1262802 GN=BN648_00171 PE=4 SV=1
+----------------------------------NVnkF--YIELNR---A--AcCvTVYAYDsVkKKyiIpVKTFTVSVGRDtvttaGAggLHtnsSyT---------------------PLGTYsicsNgtsV-K-y-TlKPmYEpDGS----tC-YARWTSHvVGNV-yFHaiavGS------QsHyAlnPnNYNRLGSAASAGCIRMTVADAKWIYD-YA----------------------------------------
+>tr|A6Q6C7|A6Q6C7_SULNB Uncharacterized protein OS=Sulfurovum sp. (strain NBC37-1) OX=387093 GN=SUN_0076 PE=4 SV=1
+----------------------------------------IVVvKK------ERKMYLYKDGKVKGTFPISLGRNpvGHkqqkgd-YRT---------------------PEGEFfihrKlcspkYYRSlcIS--YpR-PE----dKA-rArArg-VN-p-GGdITIHAQ------PkwNaD---GK-GdKytlnRNwTQGCVAVTNSSMKKLWY-AVRE--------------------------------------
+>tr|A0A2E8HAJ4|A0A2E8HAJ4_9BACT Uncharacterized protein OS=Gemmatimonadaceae bacterium OX=2026741 GN=CME04_24065 PE=4 SV=1
+---------------------------r------QrLV-TPYIVIDT------RDnRVLLRDSEhQIMRQ-aVAATGA-A-rrfegpkrykhnwMFST---------------------PKGRFqvLrkvKDPIwtRPE-WdfvEAGeE----IP-vfaedprrfqRgI-LGsyAiYfLkDIMIHGT-------lYE---LNLGKSITHGCVRVEAQDLSYLYE-NVet----------------------------------------
+>tr|A0A2E1K0N8|A0A2E1K0N8_9GAMM Uncharacterized protein OS=Legionellales bacterium OX=2026754 GN=CMF43_02945 PE=4 SV=1
+----------------------------------QQFfNLSqqkIYVDV---D--AQKLYLT-SG-yntVIASYKISTGRTGTgerpgs-YKT---------------------PRGLHtiqskigDnqdpMSK-yKSRvkvgTYD--P--AHSRYdnilSriLTLEgKqQhnkNtrqRcVYIHGT-------SAT--DRLGKKPcSLGCIRMCPYEIIDLFG-RINT--G-TA-vyihd---KNNCLPWESKATVHVSKNTIVS--PRR-ehisv
+>SRR3954467_6212557 
+----------------------------------------V-IDKTQTQ--RQSL-IaYRNvGtatEpVAQAvLqTeVSTGREDRqc-HkDrmrT---------------------PVnGIrwYTntriIY-LhTPTGY----------YPV-LDv--D-ID-HysNA-------ySD---AHMawGvRwR-EDG-F-FSHEKPDg--pY--------------------------------------------
+>8709683 len:170
+-------------------------------------------SggT---G-y-SRRISCLR--RVAASYVIAISvRH---WRHGL--------------------RGS-rl-drFARRIGQSWwQilw-A-----LSFelALFL----GvF-FR-R-------QQL----L---ISR-CAsEegwL---NSRAM-S-RC----------------------------------------
+>7129854 len:163
+---------------------------------HwqkvNTITSMIsVIffSRiI--E--TEsivHL-ILANA-flLIL-YcRrliVEMeAdQEiDR-YcRyT----------------------SC-FQthk-----S--iF---P----tVSLSIVLN-NNeNtI-L-SV-------f-RL--RKpfIGKylPQVykNG-QRLSKRDSKA-YNek-LIvE---------------------------------------
+>5597915 len:144
+----------------------------------------nrTEIDI------AkQVITLYNNNQVTLITTTSTA-SG-et-FcyvtpkkaptqricevAtT---------------------PNGRY-qYYFFYDG-WQDGD----L-gelYnPYYFF--KGRAIHGY--------D----SVpVNPASHGCSRIPMHIATYWHT-LVhd----------------------------------------
+>3640396 len:1305
+------------------------------------------------------IW-FNeEkG-IaI-K-RVTIGENmGNp-IPlhS------KRD------------KNGKFilDekg-SKQ-AvD-FvKSGN----n-HHvAIY-R--Kp-I-IDeRT-------NEP---QIdenGNvmyEMEERCV----S----FFE-------------------------------------------
+>28808120 len:135
+------------------------------------YRLHaLQkMtDR---A--SKA--AYfAaTG-M--SF--SECR---c-L-A---------------------AVGSFAplsI-NDLAfRaNLDKGQ----AS-raAqVLVD--QKL-VRKN-------TST--ED-AR----GIVmVLTASGEK-KWK-Q-----------------------------------------
+>18832 len:244
+------------------------------------FhNRSgdVsTdVSK-ARA-wAATAIASvMpRvDRR-TGSLTVPHpT-EA--HrRP---------------------PSaSSdnFKhsL-TLf-SKSF--SS----FP-rGtCLL----SVSpIFSL-------gRN-----LppGGaafPNNptrRQClvVRrSDTTGlSP-L-SG-A-P-FqGT---warsVAEDASPDYNSN-------------------
+>1812202 len:313
+------------------------------------------------------------GyaEL-RT--VR-GENG---RL----------------------GGKkwFvfEtsILD--NQTVK--P----sLS-S-H-R-QGGFPiI-GK-------TE---SR-ENRVS-Gnp-VQVNTDTlVNT-dYQ--VKPdlRVrGgk-----------------------------------
+>1700096 len:136
+------------------------------------------APR-GQG-f-TQSAWVdgLQqnaENRSnL-AL-INTGEVD---DR---------------------DI-VFei-dIYDgEtatLSKTvtMEEED--KLvVP-A---K---GFKqINQV-------lKH---SP-G--TTQGYIRI--RKVSg-A-N-------------------------------------------
+>12532906 len:190
+------------------------------------------------R--AlwRR--AWRDvAA-A-T-P-PPG-----YDD---------------------PRG-LpelRaeIAARLART-R-GlA----vd-Ad-DVRVT--VG-TTDGL-------RHL----LGAlG-V-Gp-VGV--EDP---gYRAAVATvEAaGrrVvdLP---P--GAAGADLGG-----------------
+>11502787 len:211
+------------------------------ARAFrvitAE-EMTpINpeVtDKkIIVD-v-NaQSLTCY-EGNseVYYC-QVATGkkLDelG-npvet-WAT---------------------PVGNFwvwRkLYSLhMSGgsagaGFD-TM----aIPWTCLFQ-g-DGVAIHGA-FW----H----NDFGTPKSHGCVNTTPEDAKWIFR-------------------------------------------
+>1138763 len:556
+------------------------------------------MP------f-A--MY-F--GE---T-QITAGST---LRvN---------------------ANGSatFtdlTgseL-S--PmK-YSSGfS----dLTa-nSIYYQ-AStsAVTVE---------wRKV--KA-GSNSlSfQ--LKLyPNGNIE-FrYGPMtI----------------------------------------
+>UniRef100_UPI00101D133A L,D-transpeptidase family protein n=1 Tax=Xylanivirga thermophila TaxID=2496273 RepID=UPI00101D133A
+llnredlegfanynefesete------------------------------------Y--FIWVDI---D--RQHTYVFKgsKDNwkIERVMPCATGCNK--SPT---------------------TRGLFsiAdr--GEwfYADQFQ-S-GA--K-N--WVRf-n-GTYLFHSV------AmdrHkNVKEPELGERITSGCVRLSVEDSRWIYE-NMpe----------------------------------------
+>UniRef100_UPI000405E146 L,D-transpeptidase family protein n=1 Tax=Actinospica robiniae TaxID=304901 RepID=UPI000405E146
+------------------------------KDYPaHDFSIrgtdLrLIVDK------DEySATCYRNGKAIRTFPIDTGvTSA-et-FVT-----------------Y----TGTMavlgKgnpveMKGNyg-PNdTYD-Df-----VNWaTqItW-S---GtY-VHaaG--------w-D---TEIGhaNDDSHGCVHCHPTDAEWFYN-LAEP--GdVVTIkg--SRKRPVAVSN-GICTFTLDWSSLL-----
+>UniRef100_UPI000364D8E8 L,D-transpeptidase n=1 Tax=Sporichthya polymorpha TaxID=35751 RepID=UPI000364D8E8
+-------------------------------------prPCYtgkiICVDK---S--QRLIRLLVNGKTIVRLDARFGARS--TPT---------------------NNGMFrvyWkn--ADhVSSLYG-SA----MPFAMFFS--GGQAIHySS--------DF--ARRG-ysGASHGCVNTrDYSRMRTLFN-NTP--T------------------------------------
+>UniRef100_R5B5X5 ErfK/YbiS/YcfS/YnhG family protein n=1 Tax=Bacteroides sp. CAG:927 TaxID=1262753 RepID=R5B5X5_9BACE
+eya------------------------------QKLLaSSYPYFIIVDK------GSrYVILY-NrfGEEIDRYRMCCSSKyGTkhakrd-NRT---------------------PEGFFaa-glTYD--STDWlytdDDGkT----spVKgqFGpRFIRvt-NpVttQVGIHGT-------CAP--WSLGGRSSHGCIRIHNDNiMK-LVE-FVtpgtpiiinpsdRDqavnRDeGynvvql-----------------------------------
+>UniRef100_A0A6J4UWJ5 Uncharacterized protein n=1 Tax=uncultured Thermomicrobiales bacterium TaxID=1645740 RepID=A0A6J4UWJ5_9CHLR
+---GEEVYKGADLWAKLGe-grYVYARN--VGRTAPVapldppPGApTVgkWIDVGL---V--QQLITAY-DGRTpIRTVEVTTGMAG--WET---------------------PPGFYqi-lnrVANEtmTSgAigaeHhYKl-ED----V-lFTQYFT--DrGHALHfA--------ww-R---TeeTIGRPGSHGCVNllL--DDARFFWDw-AG----------------------------------------
+>UniRef100_A0A520XEG2 YkuD domain-containing protein n=1 Tax=Candidatus Acidulodesulfobacterium acidiphilum TaxID=2597224 RepID=A0A520XEG2_9DELT
+rpeitdkllceleksarkkqfnr----------------------------------QPWD-WILVkqSK---T--NEKAELYENGRIIFSFPVnTgIlGltQDGTw-YvflrlPdT---------------------TMtGLFpv-pitkkLYASlKSKHFkNieclDGhP----VKlvhYsdsGIkYIDy-fHKSVALH---------ymHR----KYyGf-PQSAGCVELSEQDALLLYK-QI----------------------------------------
+>SRR5690349_7761611	60	0.302	4.551E-06	133	220	221	0	88	109
+---------------------------------------------------PTGLAIH--G----A-P-A-GyASmlG--HRA---------------------SAGCiHvsveNahtLYD-lVRSKFR-GK----TPeFN-Y-R-SNSTEISsdGI---------L----LrG-P-T-GHVRF--ESG---YRi-LVmiDS-F------------------------------------
+>GraSoiStandDraft_17_1057272.scaffolds.fasta_scaffold2474300_1 # 3 # 80 # -1 # ID=2474300_1;partial=10;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.538
+---------------------------------------NMVVkaDV---E--SHRLLVIVNDQIVKNYPVSYGKPASvdeg-RAT---------------------VSGIHivqDkedknpdgsftMCN--PK-YGyc-GvK----q-YWGVr-IN-NNGeF-THvNP-------qTEkA--GLLGKaNVSHGCINMSMKDGKEFYD-MV--y-YG-VP-vDIENTGVEMTYSD------------------
+>8847626 len:175
+-----------------------------------------RANR------NRRVMV--D--L-PAYP-D-NQR-----V---------------------P--VLlv-adLTA-vLNH-iFT-SS----LPvrvtY-LYFTi---SFP-QK--------wSyRVVSEKI-vRPFSGGrS-RgFAPHQ-------------------------------------------------
+>6802604 len:236
+-------------------------------------------gD------f-SQ-F-VrqFQN-TFL--FtSLMTGttRPfG--VSTAI-------------------PIl-TyFfriRrcassviepVANAhWTSAWqRl-SS----IKtsgviFtpSCFFSf-v---L-LFA---------EF----FN--IS-GCL-L-------VHQ-------------------------------------------
+>4069274 len:150
+-----------------------------------------neSrLlSQ------PHRL-LdYLNHQL-----MASGlRHS--FAmaAL----------------LFD-QHdGLvF-anagLTS--PH-WlmRSG-----gLPLGL-MR--SShYALHkRS-------wHEPf---AL-QfRSDSGsALH------------------------------------------------------
+>298544 len:90
+------------------------------------HHA-FATapeSK---DPp-AEpQVT-FDtKG-II-AWmP-wDAGKRG---SV-----------------------G--av-rFTD--GQ-F--SP----lg-Pd-qG-W-P--QRL-VH-I--------------V--PL-lDGSVlQIvRDENGK-I---------------------------------------------
+>257434 len:140
+------------------------------------------------------I-VgVKdsSGSiaqSL-DL-LA--TR---------------------------PAD-Fsv-LTG--EDAlF----------FPLLCNGaDGGiLAsa-HvAT-------DRfV---TIAkRvAANdhLGA-R-A-I-wET-L-Q-QF----------------------------------------
+>2056759 len:91
+-----------------------------------------------------R---FpTNGSpVI--LR-EAG--wG--YP----------------------PVNS--aasM----P--F---P----MPrFTrRkY----GGMEVPET---------P---EVGEE-AR--LKL-LAEA--MLE--ARAS-G----g--S--GASTDDQ-------------------
+>17217996 len:153
+------------------------------SAE-sPNAD--IqsATSA---S-iSEKylpKM-LF-S-KVV-S--VTIlG-EA----T---------------------QSvAIdF-gsrITSSlvVKAK-D-AN----LD-RVer-VE----IVVNptGT------AaTDS--HAFN-PTT-GfAASaL-S--y-R-FnYR--LSE--------------------------------------
+>1324410 len:193
+-------------------TEFIYV--n---KKAEaYKFDLkgkeFILVSvR-EAN--SDgRFYAVDrDG-TV--WlSggISSGEEK-g-Y-T---------------------PSGKWkvlRkvrF---yTSKQYpEeDGT----nnMDFSLFFT--KwGHALHkG---------N-----INS-TSHGCIHVRHQDIQVLYKw--AK---------------------------------------
+>12379539 len:392
+-----------------------------------------------------fTL-FFVlGGGL--TF-LSVS-SN--YQrV----------------------QGAeeFalgiAasrLHG--GQaEWaQi-A-----VP-AsTrtLM---GSI-V-A---------EP---KVDQ--SNGA-RFEKGN-R-----------------------------------------------
+>11390853 len:135
+-------------------------------------------RR---G--QRkEL-ApF--G-L--TFgQ-ARGlR-miA---SS---------------------P-G--gv-rI-GELAGMLEi-------VP-rsAtTMVDNlENaGL-V-S--------RRP-----D-PADrRSVlV-ISTSEGQTLLD-------------------------------------------
+>10766922 len:342
+-------------------------------------DV-LVINKI---Pm-NET-TL-KNAsN-V-KL-IcvtATGtDNvDMe-YcKS----------------------RG-ItvKnV-S--S--YS-TE----sVVqhtFAMyfYLS--EKLRFYDD-------y--V--KN-GE---Y-mkC-pRF----T-f--FGe-TFg----------------------------------------
+>UniRef100_UPI00117804DE L,D-transpeptidase family protein n=1 Tax=Amycolatopsis lexingtonensis TaxID=218822 RepID=UPI00117804DE
+------------------------------IKS-TTD-R-IVIDR------AAfQLTLYRDHQQIg-TWSVGVGTAA--APT---------------------PAGRtFvl-asMTDAk-QK-F--SP--VIFPlgiHsAtFstY-G-GGpGtTGIHG--------wPTT--DVFGRPSSDGCIRV-PADA--L-A-TLTNPI--DP-vp-------------------------------
+>UniRef100_UPI0004B5876B L,D-transpeptidase n=1 Tax=Actinomadura oligospora TaxID=111804 RepID=UPI0004B5876B
+edhqherlitlggvtagkgvygs----------------------------------RDYaRTFaVgAsqIATA--D--SRrHL-MtvWLDGSVRRTMKISTGsseRPN--F-iT---------------------ASGPHlvmGkkrV-E-hMDSRWmGv-GP----kdTAnggYsEeIpW-AvRiTSsGeY-VHqGA-------ASA--QRyLGvANMSHGCVRATPQDSQWFFG--IaQR--------------------------------------
+>tr|A0A2E8M4L5|A0A2E8M4L5_9BACT Uncharacterized protein OS=Roseibacillus sp. OX=2024856 GN=CMP30_11610 PE=4 SV=1
+lfslmgfaaprgdv------------------------------KMT-qlllGADlehEERwIKVD-----l--SeQRAWVYGREGglILTT-KISSEQKG--FRT---------------------EPGQFvi-tdr-DRHhVSS-iYkD-VR----MPY--FQRl--ScsAIGFHeG--------Y------CpDQPASHGCLRMPSKTAADFWA-ITk----------------------------------------
+>tr|A0A2E2SUC0|A0A2E2SUC0_9BACT Uncharacterized protein OS=bacterium OX=1869227 GN=CL655_04190 PE=3 SV=1
+----------------------------------QP-QL-LTVDV---G--ASKAELYQSGQLV--WaaPVTelASTES--WRhV---------------------PAGYYav-saV-R--SERY--SS----LAqayYtDvVeF-N--ERLALHGP-------AQK--ND-GTPAmAasl-G-LALGASDAAAL-AALVAS--G-TP-vlv-------------------------------
+>tr|A0A1N5CGH3|A0A1N5CGH3_9MYCO Lipoprotein LppS OS=Mycobacteroides abscessus subsp. abscessus OX=1185650 GN=lppS PE=4 SV=1
+-------------------------------------KH-YaFVDN---K--TKTAKLYVNDKLVHENLVTLGNPE--WPS---------------------VVG-Qlvv-leq-AD-k-YF-FNPTS----lklREgdphyYEpFWATnvsRlTeSGvF-VHQA-------lPSAy--PYVGvANVSHGCIGMMPEDAKYFFD-LFNP--GdIVE-TVNTDYPQADPDD------------------
+>tr|A0A0B1TVP1|A0A0B1TVP1_9DELT Uncharacterized protein OS=Desulfovibrio sp. TomC OX=1562888 GN=NY78_3438 PE=4 SV=1
+------------------------------RAAGadlsVS-QYFVYADR---NP-StQLILLaFfDaaGQHvvLLgAD-FISSGKLRPgedSF-iT---------------------PVGVFehlpEnwgyraegTKNSkgwrgLGaRgsRvWDf-G-------YqqApRqFRQ-GVydSqMRllMHAT--------DPdQGEpRLGGPDSKGCVRV-----------------------------------------------------
+>SRR5215469_9841939 
+----------------------------------------IsVADD---K--TKIVTVYQNGKIIKHMPTSMGKGG--STVDHGK--TIT--------FWT-QPGTYtv-ldqANPVrMDSrTF--GL-----SldaggYnvLvYWA-----trIStdgvyVH---------SAPwSVWAQGnTDTSHGCLNVSPANAQWFYK-WSqigDVvQVkhTggaplavwqngd-----------------------------------
+>SRR3989344_6374469 
+---------------------------------------YMRINF---G-l-EDgDLAVavFgdKqkactytvEqGKInVRSvYDVSTGKNG-fgtgAWtSkT---------------------PPGVLrvcaKlgngrpVGSVf-GREgYlgtRv-GiS----td-PdYnGdRYMTTRAiGvepleivnLdAkirgifLHGT-------NKE--GTIGKPDSKGCISFRNNEVIVFYD-EVp----------------------------------------
+>ERR1700710_699310 
+------------------------------------FDVYLYVSKAESGSl-AQHLFMFHkdaANNlvFEQSFPVSTGRE-RhekYFTsT---------------------PAGLFelDpnrVERGdyfptrdgrgdalcdvpqRDDSWppDg-CR----AAFRHRAHrAaRQprlGRVRPPA-------pG-----------------------------------------------------------------------
+>782976 len:143
+----------------------------------------FppSVNtywR---NS-SRGVYL-SK-RAM-DYKlhViEvVG-----HRTE--------------------P--IY-pneqL-KIcM---Y-l-SP-----PdLrkrDLdnF----AGk-AIF----------DA----L-KSAN---V-VTDDD-Q--FK-HIESKMnS-AD--------------------------------
+>782752 len:191
+----------------------------------------gvlVTVNK-----TAQELTVEIDGVPQYLWPVSTARWG--YNT---------------------PNGTYRpqrLERQwYSRKYDWSP----MPYSIFFA---gGYAIHGS-------NEIsGRpASHGCIRLHPKNAAVLFDLVKR---------------------------------------------
+>7669659 len:236
+--------------------------------------VSVVVSL---P--QQRVHVYRNGVrIAVS-TCSTGKPG--HST---------------------PTGVFvvlEkd--RNhHSSRYDDAP----KPNMNRLTw--SGVALHA-------------GTMpiGLIARYAVdfIVVPKPSGSTRY----gkptsssiqrtvrprERgcvyrirsrdiggvlarRAeHnl-----------------------------------
+>753180 len:101
+----------------------------------------LkKLDK---TPhsKTHtKI-LFnniQkaEsSnR-I-EY-VTFGT-iG-g-HmSSM--------------------PKephEEFvm-sF-N-y-TRPLE-G-----IP-N-YVN------LHGE-------eNQ---GTaMfGIADDNGypTktkMKITS---------------------------------------------------
+>5864605 len:147
+------------------------------------------LSK---E--TSiTLYLF----II-SF-IkALSK-S--I-I---------------------PNSKaYlsi-nlsL-S--TNTF-l--R----I-LE-YLS--K-vVSF-ST-------NDI---KLS--IS-S-IK-SKTSSS-YFSf-LgLY-f-FNIIS--------------------------------
+>5557073 len:441
+-----------------------------------------KAAQE--S--KEatPL-IhqYTlaQ--MV-EYvnTVS-AQElD--FikEAY--------------------KVN-Yell-qegL-KS-PKtTY--G------PY-L-LKKNGGvL-VSeDE-------RKT--ASLfcnGAiEARvi-G-LS-KP--A--M-S--ITGsgAHG-----------------------------------
+>4836796 len:404
+------------------------------dGAAFrpitAE-EMApISptVdpaQKrLVAN-l-TyQTISCY-EGEkeVYFC-RMSSGakLDaqG-navdt-WSS---------------------PVGDgHqtwRkSISIhMLGgtvdaGYD-TM----gVSWCTFFA-g-TGVAVHST-FW----H----NNFGTARSHGCLNVLPEDAKWIFR-------------------------------------------
+>4637653 len:131
+--------------------------------------------R---S--TEyRFPMqF--A-LVL-LSITAAAT---WQH---------------------PAG--miTdetIAEmgAkIAEQgW--AR----eV-YA---T-------H----------K---RAV-QP----WVDLSTAELRRIFP--V----------------------------------------
+>3693129 len:209
+------------------------------------------------------AYLF--GR---TY-AShyCG--A-FF-iT----------------------QGQFGcqqaVLAiSIGDNYmrTlvlnAGyE-----PLAvVsF-K--RALVL--V-------lNEK--ATiLAR-IDHEVVR-SASQ-E--FE--MPS-V--IL-l-------------------------------
+>3591894 len:334
+------------------------------------------------------LR-kFSE-HTL--WLL-IG-----FAT-----------------------GMtFvdyfSpI-RDlITD-lFT-GQ----ANgWA-YF-w-v--GfFTL-AT-------y--V--NA-GwlReQVCiY-mCpyARF--QSV--MFDkdTLIvsydpRRgEArG-----------------------------------
+>1664753 len:207
+----------------------------------NRftY-R-LFVNR------KTcRLTVqRLRGlRyeTVSIYDCAVGAIG--HET---------------------PGGVYkiRskkLDPPwwVPNsQWaiDa-GlkP----gemIEggaennpIkVAFLQiTQDptGnVGVHGT-------AAL--DSLGTAASHGCIRVAP-DVAkHLYL-VIpK--Ytr------------------------------------
+>14080227 len:223
+------------------------------------------------S--KQRTYVM-EGsEvLLAM-PVAVGAPG--SST---------------------PTGSFrifnKvqmk-RAnThgyayngkqimqtylakRPAGwsFk--GtP----MPY--WCEf--KpNYGFHtG--------w--V--KHH--PSTHGCIRMHENLAPKFFR-LVS-N-G-TP-vdiaysqsEDSTVGNIPLPPdAG--PLPDYAGSMYLTDGY
+>UniRef100_UPI0015BF227F CapA family protein n=1 Tax=Clostridia bacterium TaxID=2044939 RepID=UPI0015BF227F
+----------------------------------klFNVipaaR-YgILIDK---N--TQIMTIYEDGHKLGQITVSSGlmAQDKLFReT---------------------RAGAFlTtdrMIN-fKSEgyMYNy--A----IRIdGgNLIH--SlGCKLRgAK------WdysEHL--VELGKKASHGCVRMdtrmNEQGlnAYWVWT-HIp----------------------------------------
+>UniRef100_A0A6I2XXN4 L,D-transpeptidase family protein n=2 Tax=root TaxID=1 RepID=A0A6I2XXN4_9ACTN
+----------------------------------rnvPAYptrsrERgKrV-VyDK------AlMTIWLIDDrEQVVARFPV-VG----r-PDR---------------------PAaGVYrvysKseaSANPi-QKlTFkNmvrfaRGE----stgAAigFhDIprTYD---Gr-PIHGE--------N----VLGLPLGAGgCVRMATDASEVVYA-FAR---------------------------------------
+>UniRef100_A0A1V5TX08 D-alanyl-D-alanine carboxypeptidase DacB n=1 Tax=Parcubacteria group bacterium ADurb.Bin247 TaxID=1852940 RepID=A0A1V5TX08_9BACT
+----------PLVEDTLD---------sL--INN-KS-T-FIYIN------l-ENmKADLYKDGNLDQEIPIlARGNDLE-WsGS---------------------PAGIHevLas-YVTaYSVssYvY--------MPYAIqYY---GKY-fTHG--------v--PYYPG-GKKLvSrySGgCLRFSNENAKKIFD-FSKK--------------------------------------
+>tr|A0A2M7YP64|A0A2M7YP64_9BACT Uncharacterized protein OS=Candidatus Portnoybacteria bacterium CG_4_9_14_3_um_filter_40_10 OX=1974804 GN=CO159_01260 PE=4 SV=1
+----------------------------------qSS-NKLIRINL---A--TKSIILFENGELLKS-sKiVAAGHPrA--TPT---------------------PTGNFki-lLKDaDhISG-LS-G---LVMPWSLrFYN---GY-fLHGL------PyTRS--GKIiDTPYSNGCIRL-PAGLDqEVFN-WAd----------------------------------------
+>tr|A0A1E4D6V9|A0A1E4D6V9_9MICO Uncharacterized protein OS=Microbacterium sp. SCN 70-200 OX=1660113 GN=ABS62_11665 PE=4 SV=1
+------------------------------EVT-pavttTLAR-VLEVD-l---S--EQRLYLKENDVVVDSWLISSGESR--SPT---------------------ITGHYrvnsHyrvqtM-SsTsa-TDPywnYEv--P----nIEWIMYFN--GSQAFHGV-------ywHN---N-FGTAMSHGCVGMPNYRAKQIYDw--Ap----------------------------------------
+>SRR2546423_9832625 
+---------------------------------------ldsensaqvvlgiagvqryselihnglrhggpdrLIMVSL---D--SQRLTALDHGTPIIDTAVTTGRPT--LPT---------------------DVGAMhilgKdspwtMKSPw-PKgSpeWy--PD----tpVQMVVwFSK--TGE-gMHDA-------sw-QPa--GTYG-PDSqngpfasHACIHVPRAAEARLFNw-------------------------------------------
+>9646770 len:142
+-------------------lmSSPAMQDLkdY-----LdANYDV-VIMDT------PPnGI-V-ADAQLLQSWTdITlV------L-T----------------------R--FrltvReqVRE-IEE-WyQSG-----I-FpTMgVI-l--NS--VQvrG--------y-------YGNK--YSyYyTK---R--K-YgYK-YYs----------------------------------------
+>7768377 len:439
+---------------------------------------------------AS-IKMV-DG-IhL-NWP-ST-HHK--HAV----------------------DG--ki-dIRK--RKTYT-QQ----K-HEIerYFE-EArAYAeAHpepST-------SvmDVRHEAMrG--I-fDGSLALycHASDVREITE-AV----------------------------------------
+>732413 len:1049
+-------------------------------------------N-------ENCL-I-ASStR-SSNFPtVnpiqaAkSG--G---QD-----------------------GV-ii-kLSNDLST-L--------L-FSTYF---GGsqndacYSIKvDS-------SQ---NILvsGATSSP---NL-PATSGA-W--------------------------------------------
+>6756990 len:427
+-------------------------------------------QS---N--QESL-M-TEiSSML----I-T------H-V---------------------KAGV-edi-ekL---h-A--WH-GS----VD-KI-LN----M-LYA--------NE---Q-V-EECCvlmT-CnrVEIyvvSPKGSKVLFH-FAKK-MN-----------------------------------
+>320951 len:146
+------------------------------------gY--WgISrVE--------RPM--FKSGTSV--WP-D-G--D--Y-----------------------P---Fri-gI-D--PThALREAP----VT-SeQ-VR----VAL-G---------R---HHLvNRRSS-GVIRLS-KE-E--YD-VIakllRAKHaSAIP-rl-------------------------------
+>29523383 len:407
+------------------------------------Fa--YF-CNL-----i--RAL-AC--GKsLILlD-SdLSSS-E---ID------------------------G-IDeneINKSiaLDRcHLN-S-----IS-DV-VD-----AIEAS------PSEI---TIftsG--TT-G--Q--PK--------------------------------------------------
+>2405692 len:130
+----------------------------------------IaTqIssSQ-IKTlPASpSpTM-ILstpQqscNEDLeV--IPI-IER----H-S---------------------AAGTL-MGGT-SDVW--S------P-SA--N----ITtMTDE-------qGSI--NfRLG---SlHAS--L-P-NA--VF--------------------------------------------
+>20680266 len:191
+-------------------------------------------pE----D--AQ-L-VareYL--RLLrRE-SIPrVGKSG---DT---------------------AQRLlFal-arnL-GQ-AATYEtl-AA----dMTd-AsA--A--GGV-VEAT--------------V---ASY--LALf--RD---MY--LMDE-VpGw-----------------------------------
+>1741180 len:530
+------------------------------------------------------------GPYhLKEYvRrLPKGGKY--LSvM---------------------PNaG-Y-ptVIG--SRTfFG-SN-----PtY--F----GGeLAeiAAlGA--------KI----VG-----GCCGTTPEHIAAA-A-EqLnlraesVTK-lAinervtAAPKplpnRL-QQ-----------KEEICRRLLAV----e
+>141534 len:277
+---------------------------------------------------SsQSLTTFQDGVEKATYKVSTGKRG--MDT---------------------PIGTHKVLLKAKRPWSNKyK--LFMPW--FIGf-t-NqSHGSHPL------PewpggIKEGGQPLDIPVSHGCVRLg-IGPTKEGQPfvest-------------------------------------------
+>13453902 len:78
+------------------------------------------AN----N--NSvRLFLrlWENTQLLElSfYyVVlNTS--D--I-A---------------------KI-QYrnvl-diINKNaLSSRvLE-S-----VRnrYE-F-S--N---VH----------------FSN--NNG------DE-------------------------------------------------
+>UniRef100_UPI0015AE3CCB peptidoglycan-binding protein n=1 Tax=Clostridia bacterium TaxID=2044939 RepID=UPI0015AE3CCB
+pp------------------------------------Y-Y-VVVDV---T--NQVTKVYSldeNDeytVLERQMICSTGVKG--WDS---------------------DLGDWvtnGrrarWC--yFSKwGgH--AQ------YWTRIN--ENIAFHSV-------tysepdtrklniKSY--NKLGRRASHGCIRMLVSDAKWMYD-NIkk----------------------------------------
+>UniRef100_A0A6I2V7T9 L,D-transpeptidase family protein n=2 Tax=root TaxID=1 RepID=A0A6I2V7T9_9ACTN
+------------------------------------IGTtaArVEISL---R--ARKLRLRVAGKTVITTSAVVGKSS--TPT---------------------PVGNFaiYerA-DS-PrgSnvgPFAl--H----LTaFsDvLhsY-D-GGpGrIAIHGR-------AGslLa--DPLGSAASHGCIRINNSTLRRLAK-FAr----------------------------------------
+>UniRef100_A0A2H0VE48 YkuD domain-containing protein n=1 Tax=Candidatus Doudnabacteria bacterium CG10_big_fil_rev_8_21_14_0_10_41_10 TaxID=1974551 RepID=A0A2H0VE48_9BACT
+------------------------------SEPIvGDYK-YkL-VyN------y-EKlTLTLYDSGdRVLAEYPITSpARR----PS-----------------YW--P-GNaW-vskvvINPGwRPTvgtrEYyEkkEGrslP----dyLPpgnernamgnYKMYFDf--DqpvGmpIrG-HGN-------NRP--DQISMRLSRGCVRtLN-EDgVKFL-S-ILsdRDlseDFasGktltvKvAP-trVV-----------------------------
+>UniRef100_A0A1X7JM31 L,D-transpeptidase catalytic domain n=1 Tax=Dethiosulfovibrio salsuginis TaxID=561720 RepID=A0A1X7JM31_9BACT
+atvay---CSPIDRWNSISQKAT-AHLSWA-----kDVVAhTEGSPvisplWVCVKE------EHlLFGLD-GtsKTVFAVWPVATGRVkGQkqkvgd-MRT---------------------PEGDFtv-qrIDD--ASFWqpykDKKT----geTIgYGpWFIRi-KtPpwtGIGIHGT-------DDDhl--HEIGTDASHGCIRMANHSlLE-LKA-LVapgqrviilp----------------------------------------
+>tr|D6YRI9|D6YRI9_WADCW Uncharacterized protein OS=Waddlia chondrophila (strain ATCC VR-1470 / WSU 86-1044) OX=716544 GN=wcw_1332 PE=4 SV=1
+----------------------------------KNLSFYLLVDL---Q--RSKMWFY-ylDeESndrvLVKTYQVGLGRLEKdyesgs-L-T---------------------PLGKYslGekvaVYRPktmgfhqgdkvemvriFGTRW--------IPFEEELDHcTaPakGFGIHGL------PlmpnakgelvENS--DTLGKYESDGCIRLATKDMEELFS-VI----------------------------------------
+>tr|A0A2P8DRN8|A0A2P8DRN8_9ACTN Lipoprotein-anchoring transpeptidase ErfK/SrfK OS=Murinocardiopsis flavida OX=645275 GN=CLV63_1029 PE=4 SV=1
+----------------------------------------stttlrVEIDP---D--AFTFAVHDGAKEIRSGKIGTGTGK--TPT---------------------PPGRYfl-telLEPPd-PGgDY--GA----YAfglsgFsEtLetFAG--Gpg-qLAVHGT-------NDNg---DLGREVSHGCIRVSDKDITWMAE-KL----------------------------------------
+>tr|A0A124C1L5|A0A124C1L5_9ACTN Putative L,D-transpeptidase LppS OS=Streptomyces acidiscabies OX=42234 GN=lppS_3 PE=4 SV=1
+----------------------------------------rvEaVIDA---S--AHRMSVLRDGTTLRVIPVTTGKEG--YRT---------------------RAGIKvv-ldkQAVLrMRStTi---GI-----PsdtdeaYdlPvRHA-----irLTrsgeyLH---------AAPwAASSFGrRDVSHGCVGMSDRDAAWLFL-VLgegDItRTvHtrgqem-----------------------------------
+>SRR5699024_4645277 
+egfp------------------------------------Y--LLAVNR---A--ASTVTVYAadaGNRytvPFMAMVCSGGE-----DT---------------------PTGYW-tTPVNy--D-WRlll-GP----s--YGQYATRiYGGHLFPRG------PyasqhkgDgegdQL--NQLGDPARPGCTRLAAGDVNGVRR-------------------------------------------
+>SRR3990167_1287242 
+emkkekgyw----------------------------------------IEVQV------PQrKLVLAKGAHIIKTFPVAVGMPS--YQS---------------------PIGKRtt-nrvVWN--PW-WhppkgsdwveNpasvpPRsA----nNPLGeIKMPl--GkSYLIHGT-------RAI--QSIGQWASHGCIRMLFEDLFGLVQ-LLmteysktsaieamekanknpqtefetklnhdvpvafnydlvkihdsy----------------------------------------
+>8806316 len:139
+------------------------------------------------G--ERRMHVVRAGEsFwsIaRRYKVNV-RSlAS-WNS----MA---------------P-GDvLsv-greL-V--V--WT-AP-----P-AQ-IAAaAAaGASVTRS--------DS--AA-Gf--A--GVAnRI--R--Q-ItY--VVRR--Gd-----------------------------------
+>8358502 len:642
+-------------------------------------------ER---H-y-DE-I-IYTspDG--VR-YdQ-hEANR-lST-LDN----II---------------iLCGHYqgiDhrI-REhlVTREISi-GD------Y-V-LT--GGeLAaciIADS-------vVRiiP--GAIGDEASalTDCFQ------------------------------------------------------
+>7509572 len:224
+------------------------------------YG-W-ATST------QiKr-LP-YAmlNAD-V-N-PaeiVDVARDilD---EK---------------------AAGRL-mkrAAN--AGiQFT-AE----qI-LEL-SQc-EAdeG--LY-M--------i------L-ETSS--GtFsQtqL--DD---LyFE--TgNDNV------------------------------------
+>7315739 len:285
+----------------------------------------------------QIMFVVALDGTYTILNVSTG-NN-as-YrhpggytavAvT---------------------PTGTY-aVGRKIDA-EEHAP----L-gtlYrPMYFY--GGYAVHGS--------R----SVpAYPASHGCVRVSYEDEDWLFP-VIq----------------------------------------
+>5983539 len:278
+----------------------------------------LVIHV---R--EQKLYVYQGKTLAAIAPICTGDAR--HPT---------------------PLGRFtviqkDrnhlsnRYGCfvdnatgrivdanavigqrppPGTHYEAAE----MPH--FLRi--taDGVGLHgG--------Y------LpGFAASPVCIRLPTSFASEPVA---lvqd----------------------------------------
+>546537 len:116
+---------------------------Y-----LdANYDV-VVIDT------PPfGI-V-ADAQILGEWAdVTlI------V-T----------------------R--FqqtiRdqIQE-INE-WhNRK-----L-FrNMaLV-f--NG--VRdkG--------y-------FGSK--YGnYyYK---R--K-YgYG-YYsse----------------------------------------
+>465958 len:117
+--------------------------------------------L---H--THYFFFFNDTATTEIYTLSL-HDA--LPI---------------------SALGAag-nvaAGDRiTVGCV--GV----GPqgtavMrNfL-----------AQ-------KDAq---VVAVCDVKS----------QVLK-AD----------------------------------------
+>4083271 len:119
+----------------------------------------------------Re-YHRrF--G-LaITEWRVmAVlGR------F---------------------P-G-LSageVAAR-TA-MD-KvA----VS-rAVarLLE--RA-LIQrEI-------HG---DD-RR-RSV--LALTDEGFR-VYDe-------------------------------------------
+>18277158 len:138
+------------------------------------------TS-------SQwRHHAYSitqSSRVARS-KMrAAAAK--LFD----------------------P---LamDasd-PAT-TSSMD-HQ-----PCGR-L---GA-A-H----------D---A--GDART-G-VG-ASAD-D-I-Q--V----------------------------------------
+>17860130 len:168
+-------------------------------------E--AAMER------AER-YL--AcGiDAL--F-IeAV-R------T---------------------P-----eqMDAAc-AR-F--AH----rIPmLAnM-VE--GGkTPVQSA-------HEL--GQRGyKivifP-G-GTARaVA-HTLQGYYA-SLHQ-HQ-----------------------------------
+>UniRef100_UPI0003A92C84 L,D-transpeptidase n=1 Tax=Corynebacterium ciconiae TaxID=227319 RepID=UPI0003A92C84
+----------------------------------AE-AR-ACVD----A--NKQVA-WlQDGRgHrVSDvIHISTGANN--FDT---------------------PAGRHhvTrkVKNEVSREYfN-AP----MPn-AVYFA--DhGIAFHG--------GNP--ERL----SHGCVHVPMRESEQYFN-HLN--IGdLVY-vw-------------------------------
+>UniRef100_K4LHX9 Putative L,D-transpeptidase n=1 Tax=Thermacetogenium phaeum (strain ATCC BAA-254 / DSM 12270 / PB) TaxID=1089553 RepID=K4LHX9_THEPS
+lpgnslasker-------------------------------------GSRLEVSI------GeQQQSVYYNGNLHRTFTVSTG-VN--NST---------------------HLGHFiiqnRgewFFSEkyqqGAMWW--------VSFkNwgvYLFH---SVPMDrqKI-LF----kRKR--KSWEARHHTGVSICKSSRAKWIYE-NIpe----------------------------------------
+>UniRef100_A0A348ZJP1 YkuD domain-containing protein n=1 Tax=Eubacterium sp. TaxID=142586 RepID=A0A348ZJP1_9FIRM
+svp------------------------------------Y--KVKINR---V--ENFVMIYGidiHGKykiPYKCFICSSAK-nI-k--NT---------------------LLGDY-rLNDRy--R-WHqmv-DG----s--YAQYAIRfYDKLMLHSV------PyfkqspdSlevdEY--NKLGHSASLGCIRMRVSDIKWIYKhcn-------------------------------------------
+>UniRef100_A0A1Q6QHV8 YkuD domain-containing protein (Fragment) n=1 Tax=Firmicutes bacterium CAG:137_57_8 TaxID=1897029 RepID=A0A1Q6QHV8_9FIRM
+------------------------------tkEGFVnQKgYssPTgYLLwISL---K--TQRVNIFQgsKGNwkLIRS-sPCSTGT-N--L-T---------------------PTvtGVFsv-IYKTy--R-WRfsdtiDGQ----yIDdYyRVY-Hi-TGfwgGQAFHSR------PyrssDESLLDgTMGTPSSHGCVRMYDEDCSYIYD-EIp----------------------------------------
+>UniRef100_A0A1L9GVY7 Uncharacterized protein n=2 Tax=Bacteria TaxID=2 RepID=A0A1L9GVY7_9BACT
+dwqi-------------------FKPQQLN----LIS-SH-K-TIVAD------l-GQmVLYLYQDKQFVSSTTIlAKGLVGS-PwEA---------------------PVGEYtvKik-DLRhFSPlaKvW--------FPYSVqFF---GNF-fIHG--------q--PENSN-RRLLpDsfSAgSIRLANDFAKMVYD-FADE--------------------------------------
+>tr|A0A1Z9J7J5|A0A1Z9J7J5_9SYNE L,D-transpeptidase OS=Synechococcus sp. TMED169 OX=1986593 GN=CBD29_06465 PE=4 SV=1
+----------------------------------LPWQPTeLVLE-r---S--KRQLRVIQNGRQIARYPVAVGRTS--NPT---------------------PLGTHrv-hrLEKD-PvwSSpWrkrQv-EA----saTgPlgtrWiGFWFRc--GqrsstDrrpprFeaeScreigFHGT-------GKT--ESIGQAATFGCVRLSNQDAVALFE-MVKE--------------------------------------
+>tr|A0A1G9DJX3|A0A1G9DJX3_9CLOT L,D-transpeptidase catalytic domain OS=Sarcina sp. DSM 11001 OX=1798184 GN=SAMN04487833_10565 PE=4 SV=1
+----------------------------------aQGYssSTryLILVNK------KEhKINIYQgsKGSwAaVKrNMICTIGK-S---ST---------------------P-spsGSFhl-dH-KS-SKVY--GyK-----DFknStAFFA-tRiSaGnY-FHSI-------tyKlgcrNPyTHTpkdaSLGKSKSNSCIRLSLENAKFIHQ-VTpR---------------------------------------
+>tr|A0A1F6WLQ7|A0A1F6WLQ7_9BACT Uncharacterized protein OS=Candidatus Nomurabacteria bacterium RIFCSPHIGHO2_02_FULL_42_24 OX=1801757 GN=A3B93_00965 PE=3 SV=1
+lvkslplwkpafgdipa----------------------------------ETFqpNIAekiIRLD------f-KQnKLEVYEKSELLKSFtiinSIhSlpAGRRA-dIFEKV--------------------PAGEYrvlQkk--EEhFShEaGvY--------LPLAIqFL---GDFSIHGV------PfyHG-g--SEINNNFNkDG-VRLNQEDAKWLFDw-SeL----------------------------------------
+>SRR6266404_2393203 
+----------------------------------------VAHGG---R--GVELRLYGhrGcHRSFTgDFSEQKTKSK--FPV----------------------C---hkvttMpvfrWDEAmlkhgrRSSDfYNipPGP----rNPVGiVWIGvSKKGIGIHGT-------DSP--DTIGRSASHGCIRL--ANwdAARVv-N-QVT---------------------------------------
+>SRR5919204_11896 
+nandlarvyntv----------------------------------------ITIDR------AHfKLRLFKALKFRKSYPVAVGQPA--YPT---------------------PTGRFsi-tskQVN--PV-WsvpnspwagElqgtvveGGsA----aNPLKaRWMGia--DGVGIHGT-------GAE--GEGGDLRDVDALARDLDETVGEHG-QAq----------------------------------------
+>ERR1035437_76807 
+------------------------------------W---VTVSE---S-l-PETLEVHVGHHvAFGT-PANTGVPG-a--ET---------------------AQGIFpiysRlasttMTGEd-VDgtKYK-VE----dVPW-VnYFN--GGd-AVHG--------yPR---ESYGFPQSNGCVELPFEASRTVFG-MLq----------------------------------------
+>97344 len:140
+-------------------------------------------SD---P--RSRAS-YRdAlA-LV-T-AIEDGR-vGVllVHDcN---------------------P--VYsl-pr--A--AG-FEAAlA----kVPF-VvsF----ASM-LDET--------AeQ--AHL-VlP-DH--TPL--ES----WGd-------------------------------------------
+>8253464 len:154
+----------------------------------------LAp-DL------SS-LTAp-EQAA-LKNL-LAVG--A--I-M---------------------QK-LYei-sr----h-P---D-A-----VS-A--MD--R---LR-V-------l-DV--S-LGQP------K-ATQN-------------------------------------------------
+>8100983 len:122
+----------------------------------------------------RHL-M-----LL--Wf-Lf-TG--D---E----------------------PVkG-CRhtV-R--A--vF-lAG-----LPg-GnTrqF-D--RKVnTIKS--------f-S---S--GNARSPSS-KWHP-DLQgYL-N-------------------------------------------
+>773802 len:521
+---SKLIEAYLSEQSKKN-qkALTTELEPtYSNKAYQkdyenfendwDT-QNYSENDL---T--EQRVYVYRDGQLA--YscIcVS-GLPteknD--RIT---------------------RTGVWyiKekkPEKVlVGEDYE-TP----VKyWiRImW-T--GtGY--HaldrSD-------wANwT--PDLykvkG---SHGCLNLQEEDAKKLYE-LIR-mne--------------------------------------
+>7673330 len:145
+-------------------------------------------------------T-YTiEGQ-TRD---ASGAAlsG--VTvAL--------------------SDGT-EsssMQTT-ESGY----------YS-F-KAv-AGnsYTVTAS--------KT--GiNFDSSArSfPG---LS-ANQKNIdF--------------------------------------------
+>7625247 len:104
+------------------------------------------------------FFTdYRETEsIVH-L-I-LA-NA-flliVFAK---------------------PI-VeWRrI-E-IDNEciYK-------L-fFrlhkNQYFT----VSRHQI-------vlaNEI---LiLS--VS-GQalLyKISP---Q-VYKngQRFRRR-------------------------------------
+>581018 len:350
+------------------------------------------------H-wPTeKRA-AYEthrHcGqS-IpgQRpaKS-ADGlPYA--HRarS---------------------SGG-Hvt-gICAEgLPAGG--------CP-GaA--A--GGr-A-HDA--------ALII-VMG---GDGTI-LHVA-VT-Lr-D-HpI----------------------------------------
+>5618280 len:197
+------------------------------------------------A--SQ-IQIqWlRssSNN-IKNY-I-V------YRS---------------------DNgGKY-qkIAT-ISN-LnNi-NT----I-YS-FTD--DS-TITDS-------HR-y--SyKI---VAvDSC-E-TASDtSK-VHQpv-LL-A-V--SP-t-------------------------------
+>423419 len:157
+------------------------------------------IQQ------NES-A-YQqQAQKQQEF-LD--RQQ--WlDnTI---------------------IG--li-tqI----ST-CK--E-------R--MN---GLAaLRTA-------f-R---RNF-RKRS-SAI-LwA-NTSRg-FWR--SK---------------------------------------
+>12664594 len:278
+eggryaeeaklnddpal------------------------------------F-K-AVVDL---T--NQAVFVYTadeNGeytTLVREMICSSGIEeT--NRS---------------------PRGTFtmgDdykrFA--fFVRfNcY--AQ------YWSQIR--GRIYFHSV-------pyserddrylmeEEF--WKLG-AVSYTHLT-LPTiySVVLVY--------------------------------------------
+>1132662 len:430
+---------------------------------------------------EQimi-V-V--D-RIL-A-PL--GRRlD--RSC---------------------PIvNA-rlaNgdrV-NAVADSIAiGGP----vVTIRRF-S--NR--I-TS-------lETlV---QLGSlP-AwYAqllrClVR------------------------------------------------------
+>UniRef100_A0A3D1TCX0 Uncharacterized protein n=1 Tax=Verrucomicrobia bacterium TaxID=2026799 RepID=A0A3D1TCX0_9BACT
+----------------------------------------IWIGM---E--QFALWVLNqERHIIAYFPVSIGRKD--NAR---------------------LISDWkiinhadLpsytFDPInypespEAQSlgrrLLipPGP----nSPVGvYWMGlGQGGIGIHGT-------PSP--ETIGSAESHGCFRL--QNwnISKLa-R-LAA-n--------------------------------------
+>tr|A0A1D7NPL8|A0A1D7NPL8_9SPHN L,D-transpeptidase catalytic domain OS=Porphyrobacter sp. LM 6 OX=1896196 GN=BG023_112808 PE=4 SV=1
+gdwywdesaapasgk--------------------------------------LVITVDL---E--ARVISAFRDGHeIGTA-VALLGTPA--HPT---------------------PLGTFpilTke--RDnVSEKYDNAP----MPWTLRLTw--EGVAIHG-------------SPVlNGYASQGCVGVPDEFAAKLF-AAAkr----------------------------------------
+>tr|A0A0R2HGT5|A0A0R2HGT5_PEDPE Uncharacterized protein OS=Pediococcus pentosaceus GN=IV86_GL000649 PE=4 SV=1
+----------------------------------------IEIDL---T--HERLYLVQNQTVAQKIRINTGSPkiN--IAT---------------------PTGAYfi-kfkIAP-ITmRGYEkNGE-----PYkS-YVPQaDNltddGiF-IHSA------PwvQA---SVFGNPSQrynHGsngCINIPPKDmVK-LYQk-------------------------------------------
+>SRR5919201_1182110 
+---------------------------------------WIg-INR------TAQIVVaYRDAQPQF-WaRTSTGRPG--WET---------------------PLGAFtv-lrrVASEtMDSsTlLgrDaaGGS----arIRtrpsFHTSVG--------T--------lwER---GR-GaAlLAA-GRAGIl-GRDAGGX---------------------------------------------
+>SRR5437763_805488 
+ndap----------------------------------DT-GQTIIVST---A--ENKLYV-RdGGRTV--FeAvCSTGkgTTlavdGKtlv-FDT---------------------PIGKLkvlSkee-NPQwVPPDWyyveearkngmrvvhldpgDsldadSGqparksdgvwgwfggsrrvlrvqgntvveddgggAVRRGhralaRRavraeer---arL-RlRg-RaADAGAGA-------AHP--RglRMRRRAEHAPPGRGSRPCGGVRP-RSA-raALrPhll-----------------------------------
+>SRR3712207_5816514 
+----------------------------------------VsVADA---A--AHTLKVYDGDRLVQNYPMSAGGPE--FPS---------------------RNGPHvv-telNRDRvMDSsTY--GV-----PvdspngYrtPvEFA-----vrLNnngefVH---------AAPwSLAQQGrEDRKSTRLNSSHANISYaVFC-LKk----------------------------------------
+>8308320 len:113
+------------------------------------------------------------GA-V-T-SV-F-R-D--L-----------------------PLGRYav-I----A--YhDeNAnnK----ldMKFGMF-P-KEGYGLSNN-------y-TP--S--GPPKfNAAAIEVTVAGAS---S-------------------------------------------
+>7736069 len:322
+----------------------------------------IsdpgedLVRLC--A--GQg-VTV-QSvpGccALITALAVS-GlPTER-F-VF---------------------EG-FlpvnRgerqerL-GRlLAEerTiiLyE-A------PHR--LR--A--TLDDL-------RAA----FGdRPVAl--CreLtKLH-EET--W-R-TtLdQA--------------------------------------
+>664720 len:251
+---------------------------------------------------AARLIIF-DNE---EYK-RS-PDS--FDiK---------------------P---Yliiy-dkLKDN-SK-iLK-A-------YSdLLIAi--SNTTV-SS-------RE---TDLSEiTAlTNA-INsVfnKQSESS--FT-ETSQ--------------------------------------
+>6374728 len:425
+-------------------------------------------KS---G--DAR---FHTAELIsFvEWaPFA-AwR-D---P----------------------PQG---qr--G--AA-Y--AA----LK-QR-IS--DGM-LRlA---------E---TAIaG--LS-ALVDyaeLsTPLSVEH-YT--SHP--------------------------------------
+>482255 len:200
+-----------------------------------------TLKR------QESAHVF----LsV-SIQIH--R----LRH---------------------A--IFqii-kfVFK-y-G--FfS-SQ----ISFCLYYT--RGF--Y-K-------fKRPa--AQI-KRSTdyKSALPIAP--fSQQLr-N--V----------------------------------------
+>435876 len:295
+----------------------------------------sVKVyT----G--QlvQySSHInFENNKikqInqVdtnkYykKlYkRIfiKqT-KD---FiAiNK--------------------PCG-LavQg--GS-SQKNHi-DD----M-LkSIFYD-QTvpKL-VH---------------RIDKDTS-G---------------------------------------------------------
+>3156123 len:123
+--------------------------------------------K---G---HvPLIVlWpRNtlrGvKftTVSShFDIaSTvGEEilG--IKT---------------------PSSKYsiGnsLLK-LAdRDYfvtNm-GA-----SL-LLIS-NNAVTVY----------R---KN-GR-A-Y--IeK-D-GE-KTV----I----------------------------------------
+>2237983 len:155
+----------------------------------------------------------------YTLAVENGrlqRKqEKIFl-K---------------------PMALYi-pqqVVEAVNG-L-l-SD----LPd-DK-LE--GEFVLTv-T-------NN---NN-GvSvDKSFSSLaALrDPLTAA---D-------------------------------------------
+>139450 len:108
+-------------------------------------DASIcrQIT-------PEEIA-pINpDaeDkRIvVDlNYqTLTcLeGDQE-vFYtKvT---------------------TGG-Y-nY-E--EEKW-l-TP----LgAHTIW-R--K-mVSTHmsaG---------E---A-VGNyDIP-G-V----A-wTT-LFD---NN--G-AA--------------------------------
+>UPI0004324345 status=active
+----------------------------------------VVVSL---G--RQRAYLYVDEEVAIDTPVSTGKRR--GQT---------------------PTGNFtvlekAteqssnLHGDfvdrdgnavrhgastridaapSGTTFRPVP----VRY--FLRl--ddAGLALHaG--------R------LsGYPSADRAVRLPVDIAPLIFQ-RVkq----------------------------------------
+>UniRef100_UPI0012E8E0BE L,D-transpeptidase family protein n=1 Tax=Klebsiella pneumoniae TaxID=573 RepID=UPI0012E8E0BE
+----------------------------------------IVINV------AEmRLYYYPPLGnSVEVLPIGIGQAG--RET---------------------PRNwVTav-erkQEG--PT-GcqppipaasmrkraKrcrrwcpPGP----iIRWGcMRSTs---agSTPSTVP-------MPT--LVSGCASAEGCIRLRNDDIKFLFD-NVp----------------------------------------
+>UniRef100_UPI00097150EB L,D-transpeptidase n=1 Tax=Burkholderia metallica TaxID=488729 RepID=UPI00097150EB
+-------------------------------------KS-IVVDL------SgQSVQAF-DGaETVFRFdc-VT-GDSE--HPT---------------------DRGAFrimRkyp--S-yRSRACNv--Q----MDCAMFFT-GDGKAFH-P-YH---GpmplslvflaaADS--DAvAV---TVDSLSAGHGGYAALVRsp-------------------------------------------
+>UniRef100_A0A6B2LWY5 L,D-transpeptidase n=1 Tax=Puniceicoccales bacterium CK1056 TaxID=2706888 RepID=A0A6B2LWY5_9BACT
+----------------------------------------lkrtddvLIAVL---G--EQILQRWQADQLVESLPFsrskkLLSCEqDS-LGT---------------------PWGLHev-aakHGDGq-PAgMvMV-GR----EPigerwqdrpdagpdqpcLvttRiLRLR--GlepGlnagpgVdSferyiyIHGT-------NKPe---RFPENISAGCLLMLDEPlTK-LYE-RIa----------------------------------------
+>UniRef100_A0A2N6A9Y3 Uncharacterized protein n=1 Tax=Parcubacteria bacterium TaxID=2053309 RepID=A0A2N6A9Y3_9BACT
+------------------------------------------AS----E--EKSFYIevY-yD--VffMRVWEInGEGaKKqiG-d-FPvT----LTWKR--------YKL-PKkAKisFlelDpvwkptpsVKARyFQKhgehlKdeY--GPGEEKnaMgAFKWYLEfV-DepGyFmGdnstrVHEA-------KAL--DKIGKRDSSGCVRlLH-DDG--IF--LTK-lMWGHMD-rTIV----------------------------
+>UniRef100_A0A1Y5SNM0 Putative L,D-transpeptidase YbiS n=1 Tax=Roseisalinus antarcticus TaxID=254357 RepID=A0A1Y5SNM0_9RHOB
+v----------------------------------------IYAWN------STrQLFWVQEPGRAMRYVIAIGAEG--RAF---------------------E-GTArv-srkAIA--PG-WrptesmirmepQiygrfrnglpGGhP----mNPLGaAALYldqgg--RdtFYRIHGT-------PQP--WTMGRSFSSGCLRLVNEHMMDLYA-RVp----------------------------------------
+>UniRef100_A0A1G3SU34 YkuD domain-containing protein n=1 Tax=Sulfuricurvum sp. RIFOXYD2_FULL_44_160 TaxID=1802249 RepID=A0A1G3SU34_9HELI
+-------------------------------------RIVIYIN----S--TNNF-MTVNGyKnqqKfkLNKYKVSTAKPD--VKK---------------------PEGK-ggi-ssisLHPIwYPtaEtlDyFkKvRNielP----kvISpespynYmGsAk-ISlThSvDGrqtYRIHGT-------iNE---KTIGKHESAGCIRMKNNDvlalAKYLkeFA-STR---GmkQIL-vv-------------------------------
+>UniRef100_A0A132H0G1 YkuD domain-containing protein n=1 Tax=bacterium P201 TaxID=1768112 RepID=A0A132H0G1_9BACT
+---EPQQQEAVIVEEMPV-dtIDVIPA---DTATYYsdvvDK-kNCFILISK------PEyRLYVCEvvEGDtIKRvHYPVcvGknKGqKEkkG-d-MKT---------------------PEctpDNpFvi-teIAD--ASKWthDfgDGR----gsIlSYGHWF-mRlKtpGhsGIGIHGS------TNNE--SSVpGR-GSEGCIRLR-DD-D-LIQ--LKENYAFvgMRVvilad-------------------------------
+>UniRef100_A0A0G0TRL1 ErfK/YbiS/YcfS/YnhG superfamily protein n=2 Tax=Candidatus Yanofskybacteria TaxID=1752733 RepID=A0A0G0TRL1_9BACT
+----------------------------------aQE-SSLsIRIKL------SEfRLDVY-DGDiIIANFDIAT--PA-VMPkNL--------------------PVeALirnFemNprwYPTELTREYylKrRGialP----kvLefgdPrnamgraIiRLdFIK-PGvmpSaVAIHGT-------NDE--KSIGTSISRGCIRMRNVDVEg-LVN-LI----GrnKAR-vi-------------------------------
+>UniRef100_A0A017T0Q3 Uncharacterized protein n=1 Tax=Chondromyces apiculatus DSM 436 TaxID=1192034 RepID=A0A017T0Q3_9DELT
+---------------------------------------kWIEARI------LPgTMVAYE-GlRPV--WtTLwSAGKGgvpvkGNdpkr-FAtT---------------------ETGIFafqwKdkvatMSPDkgAPSVfF-f-SD----VPH-IqYVH--Ap-LALHVT-------ywHE---D-FGHLRSAECLNVSPLDGEWLFGw-tL-----------------------------------------
+>tr|A0A1Y1R8Y2|A0A1Y1R8Y2_9PROT Uncharacterized protein OS=Campylobacteraceae bacterium 4484_4 OX=1970775 GN=B6D59_07490 PE=4 SV=1
+----------------------------------------FVVSvR-EPG--SDgEVYAVDrDG-TI--WwHgkISSGAGGgKlvkengklvpvggh-E-T---------------------SNNIFkvlAkrrF---hMSKTHpDpSGV----dnMDFEIQFT--PdGQALHlG---------N-----TAA-MSHGCIHVGRQDIGPLFKw--AK-vgmPvVvm------------------------------------
+>tr|A0A1H2I115|A0A1H2I115_9ACTN Lipoprotein-anchoring transpeptidase ErfK/SrfK OS=Jiangella alkaliphila OX=419479 GN=SAMN04488563_1368 PE=4 SV=1
+--------------------------------------QIATVDA---A--THTVTYNVDGTPAATWDTSLGAPE--FATR---------------------NGTYivleKfetrqMTScNanITcDpassDYyDl--E----VPNSVRLTw--SGtF-VHsAS-------w-sE---GSQGTeNVSHGCINLSEANGATFFQ-LAQ-------ygDivtvan--STRGPEDLIDrgdPG-----------------
+>tr|A0A1E8VXN9|A0A1E8VXN9_9ACTN Uncharacterized protein OS=Olsenella sp. HMSC062G07 OX=1739330 GN=HMPREF2826_08335 PE=4 SV=1
+------------------------------RARAtevGS-STpWVVLaDK---AR-GRaTV-FFrSGGSwVLaNSMDIrTGGNTftGT-FKvyiT---------------------ARG-YwkWpdcddVNDw-yVGymEDWwE-RP----sSSH-MrEVP--GrGYdeGqgFHyG--------y-------VG---S-GCITVeDKGRIKWMHD-NV----------------------------------------
+>SRR6266702_463190 
+-------------------------------------kR--ViVVfDA---D--TsKgQIFAVgQDGSIkLHG-SvV-VG--G--KDspT---------------------PTGTFhasrwEsnhVSKKygsYANTpWdqSpl-GlN----aFgPFQLHLKElDSrGiY-LHGT-MG---PswNPV--TTLNsllSPTSHGCVRMSNVDdVD-LHN-LM----------------------------------------
+>SRR4029079_16446420 
+----------------------------------------gyrLVIRL---G--AHKLNLWRGTKLLASFPVAVGAPH--TPT---------------------PRGLFyi-telLKPYdPNGAY--GP----YSfglsaHsNvLqtFGG--Gd-----GR-------TAVr---CRGGPRRRAgDDRAGTDRLErqpRLHS-PA----------------------------------------
+>7355600 len:117
+-------------------------------------G--ITSDH------RQR-E--QQG----SW-V--------YEmV---------------------DLG-Y-nyrL----TD-FQc-A-----L--GLFFN--DtATTeIYtG---------E---DTLSlHDAASD-L-L-P-N-RR--S-------------------------------------------
+>4442026 len:190
+-----------------------------------------------------AI-AF-TA--VATLAVGCGsSDsdGA-KDSG--------------------STG--Ggs--E--SS-LE-AiR----VP-qD-F-R-----TIQGA---------V--DS-AEP---GdLI-L-IDEGT--YKEAVD---------------------------------------
+>2713931 len:330
+--------------------------------------------------------L--SGA-MSK-AI---REA---DA---------------------A-G-W-kkA-D--GTPYfaE-GrA----avISY-V-L---GGIVM-GT-------QTV--V-FDNETKelYAd-L-LPP-D---L-SGIVQA--G-----------------------------------
+>2048714 len:686
+----------------------------------------IILT----E--TESLTMsSRpkNpSsDVCSSdLVIG-G-SG----S-----------------------GKtrFfvKpnIMQMh-SS-Yv-i-TD-----P-kGtVLLEv--GSM-L-A---------K------GSPMTdeNGk-I-MRDKEGK-V----I----------------------------------------
+>1622003 len:643
+-----------------------------------------------------KMFFpFlVilPG-LIAvSVPtVqDhlSGpSAA--VSrAA--------------------PQSA-TsaaIAQT-TEN-K-GD----VK-AVa-ME--GrGL-I-PV--------KV--NAItGQPVvDqDG--K--P--V--L-N-------------------------------------------
+>15953879 len:158
+---------------------------------------------------------F--G-LsIPEWRVlCIlAM------T---------------------P-D-LSaaeVAQR-TA-MD-KvA----VS-rATtsLLK--IR-RIErRI-------AK---SD-RR-RSV--LRLSKAGEA-VYEq-------------------------------------------
+>12220065 len:329
+---------------------------------------YLQ-DT---T--NDA--VFNnkNSS--ADWlTITTdGST---YQQ----------------------LANY-nsTTGE-GlERFEQAQ----I-lYN-YL-------IDAA---------------ANNASQ-Y-T-S-EN-N--YT--IT---------------------------------------
+>1210428 len:179
+------------------------------------------VDI---S--REE-F-Y-E--MLRK-gAdVATSQ-----PS---------------------PESVM-hM-------W--SA----MlQeYeELvYI------PI-SS---------------G--LS-GsCMTaqaMAQEEpyAGRVF--VVDN--------------------------------------
+>11588241 len:97
+-----------------------------------------Y-SyRC----f--QSIF-FRkwEywfSEtpAMHNYdvdAVSSG--N----A---------------------A-GSvYSdL-------FpQQSA----I--NVW-K---SY-I-SK-------KQ---NAVA-ATSQG---F-----------------------------------------------------
+>10013909 len:441
+------------------------------------------------------------GAYhMRRLlGgIAKPKKR--LIaM---------------------PNaG-Y-phVVD--GRTyYD-SD-----PgY--Y----AQqVCacAAiGA--------QI----VG-----GCCGTTPEHIRQI-A-LqLRSA-gGdaaalaQKPAgapacesEV-RR-----------KLENGRRVILV----
+>WorMetHERISLAND2_1045183.scaffolds.fasta_scaffold169791_1 # 129 # 332 # 1 # ID=169791_1;partial=00;start_type=ATG;rbs_motif=AAA;rbs_spacer=12bp;gc_cont=0.417
+----------------------------------------IIVDL---Y--RGRLEAWEDGALVAQGAIASGAEE--TPT---------------------PPGGFfv-teiQEHTd-PAtGG--TT----WLigtsaYsEaIdpTAE--Gdp-aVAILAV-------GDAa---HLSQAISLGCVRIHPDVLERLAL---l----------------------------------------
+>UniRef100_UPI0015B6EB7D peptidoglycan binding domain-containing protein n=1 Tax=Ruminococcaceae bacterium TaxID=1898205 RepID=UPI0015B6EB7D
+-------------------------------------NTYVEIDL---T--KQTLWYFENGkKILTA-KiVS-GlANA--SET---------------------PVGVYsvidkKqnqlLQGTLSNgKpWQ--E----yVTYEcV-LNl--NGVNISDS-------SKH--KTFGgtvyKKSgNRGgYVSLAKKDANTIYD-KVE---------------------------------------
+>UniRef100_A0A3B9WN33 YkuD domain-containing protein n=1 Tax=Acidimicrobium sp. TaxID=1872112 RepID=A0A3B9WN33_9ACTN
+----------------------------------------IvYANrQ-------QRVWVINtNNKVIRTFLVS-GMLR----Q---------------------PGkGTFkvFsksRAS-f-SPEFA-GV----tFRF-MtrF-Ai--GrnGgnVGFHeiplryGK------PmQTV--DELGAFKGSGCLRSSTQDARFIYR-WAT---------------------------------------
+>UniRef100_A0A1U9JU70 YkuD domain-containing protein n=1 Tax=Candidatus Tokpelaia hoelldoblerii TaxID=1902579 RepID=A0A1U9JU70_9RHIZ
+t----------------------------------------LVVDP------ANfFCYFILPDGKAIRYGVGVARnQS--ANF---------------------R-GQGsi-grkAEW--PY-WtptrnmmrtqpKryghlggglkPGV----tNPLGaRALYlyrng--RdtLFRLHGT-------IEP--WSIGTNVSSGCIRFLNQDIMDLYE-RVk----------------------------------------
+>UniRef100_A0A1M7RJL7 Uncharacterized protein n=1 Tax=Cryptosporangium aurantiacum TaxID=134849 RepID=A0A1M7RJL7_9ACTN
+-------------------------------------KGy-LTFDKNPQNP-QNsTL--twelYrtdLdpPRrTTKVSWRAgSgVGvTNpctrQRg-W-L---------------------PNGQYsv-tL-L--EG-YN-GS----kIWgTVFRLSDk-AckpGskIkrTelfIHsemtksGK------QgKtEP--QRWdGNgdfK-SAGCIKLRPADIKSLAK-YYKIaYkpgKT-YAKvltVKS----------------------------
+>UniRef100_A0A0R2CQ87 Cell surface protein n=1 Tax=Lactobacillus cacaonum DSM 21116 TaxID=1423729 RepID=A0A0R2CQ87_9LACO
+----------------------------------SE-NLWVKVSK---E--KQRLSIM-SGkKVIYRmY-VSLGtHTaG--YPneSK-----RKF------------PTGKFei-sdk--R--GE-fYfNqiTGN----g-gKY--WISw-KGnGkYliqTvptne-HGK-------ylvSDA--QNLGSQVnTNDSI-wLSTKDAKWFYK-NIK---Gn-----------------------------------
+>UniRef100_A0A0H4WNE3 ErfK/YbiS/YcfS/YnhG family protein n=2 Tax=Myxococcus hansupus TaxID=1297742 RepID=A0A0H4WNE3_9DELT
+----------------------------------AFFdGQpVrVVVAL---R--EHRTFLFDpRGQLV-DiFP-nATGATA--SPTR--------------------T-G-LkvvRtkLDQlaTeaAGARlWN-DR----hV-FgvrmlDLsWAD--GrhsGe-ELHGT-------NLP--SLLGTDVSHGCIRHSNEAVRVLHD-ALS---------------------------------------
+>tr|A0A1G5VXD5|A0A1G5VXD5_9LACO Lipoprotein-anchoring transpeptidase ErfK/SrfK OS=Lactobacillus kefiranofaciens OX=267818 GN=SAMN02983011_00982 PE=4 SV=1
+pki---------------------------------NPNEtDLTLRVSL------KgNRTYLLRKGKVIYTMLSTGGiykKGK--SLT---------------------PTGKYtiqggRgdsFFNYnlgeGANNW--------TSWspDnvYLFH---SVPTKgdGT-YN----lKEA--KKLGqTQGSHGCIRLSVPDSRWIMN-NIp----------------------------------------
+>tr|A0A1B2H6P0|A0A1B2H6P0_STRNR ErfK/YbiS/YcfS/YnhG family protein OS=Streptomyces noursei ATCC 11455 GN=SNOUR_42885 PE=4 SV=1
+----------------------------------------shIAkVDL---N--AHTLTLISDShK-VKTIPV-TGgDAN--HRT-----------------W---S-GKMtlmsKedairMSSQsigLGKEYDf-------MvQ-rSMr-MTv--SGtYA-HqAE-------wAE---ATLESPIPvMAALG------------------------------------------------------
+>tr|A0A0G1CFV8|A0A0G1CFV8_9BACT D-alanyl-D-alanine carboxypeptidase OS=Parcubacteria group bacterium GW2011_GWA2_43_11 OX=1618825 GN=UV60_C0022G0007 PE=4 SV=1
+----------------------------------TG-N-YIVLD-------TvDmQVSLFEdEvlvGRfeILHA-P-DTGSSE--Y-V---------------------PQGLYsidkKtrtkL-STITmvR-F---------PY--FIQf--GDtHALHAT------PQN---AE-GvelAEAHmDGLIELSAWDAERIYA-FAKEg-MS-VR-v-------------------------------
+>SRR5665213_418969 
+----------------------------------------TARPS---A-t-PDRRRSPPPGPhRCSQ-PSSSPWPA-w--DiC---------------------PQGIFpifaRdvsttMIGTd-TDgtKYD-DP----dVPW-VnYFN--NGd-AVHG--------yER---ASYGIPQSNGCVELPVSTAKTVFG-ML----------------------------------------
+>SRR5580704_105783 
+-------------------------------------KACFSVG-------KQQAWLkLASGEVI-SYAvFC-LKKK--HRT---------------------PLGKkFkv-isn-DKDhKSSLYKvkgKGaP----MPF--YVNf--ApAVGFHaGS--------------LSTP-SHGCVHLSASDAERFFN-NLDV--GdWVD-v-------------------------------
+>SRR5450756_959502 
+----------------------------------------ffffFFKQK---T--AYEIMPSLVGSEMcirdRAFHVALGRPG--YRT---------------------PIGRFhi---------Y--GK----RRpaggaLgAcAmfYRQ--Qg-gIAIHGT-------TEPw---LLSRfprPFSHGCARMYNAQALWLYA-RC----------------------------------------
+>SRR5271157_422855 
+----------------------------------kQS-E-YrIAIH----S--AlNVLQLWRENKLVREYPIETGKGgvGKqrsgd-HRT---------------------PVGDYevswMacrdg-SKGhriIDQrSWckgncfiDasTGP----aLEklwtdsYggdeaAvIs-INypNmNDkqrGFtGecihIHAN-------KKIl--EGMmGK--SYGCIHMYPKDaME-LY-y-IV----------------------------------------
+>SRR5262245_27219967 
+----------------------------------------LVINI------PQrMLFHLDQGQISCACPIAAGKST--WRT---------------------PIGPFei-lskEEK--PT-WdvpasiqeemaragKpvlthvpPSP----rNPLGeHWIGl--SipGIGIHGT-------NAP--TSIYQLSTHGWIRLHPADIQTLFS-KIrkgmrgri----------------------------------------
+>SRR4051812_23786041 
+----------------------------------------igndpyrVHVSI---S--NRTITVTHAGKLVRKIVAAVGERG--TPT---------------------PTGRYav-tdrINFTdr--GsVY--GC----CAlalsaHqpHtApgWTG--Kd-rIAIHST-------PTKs---SIGNAASNGCMRVSDDNAAWLMN-TV----------------------------------------
+>973564 len:142
+------------------------------------Y-A-FC-Q-------SE--SVHQtASQTVKSYllSVTAG--D--I-M----------------------LG--ev-adhL---cVND-LDRG-----L--S---D--KE-RIRAA-------AD-----IGfTD-TvDDAIeNIw--EDPEgLIpY--------------------------------------------
+>7076489 len:199
+---------------------------------------------------PcQKFY-FEpqgNGTYqIKT-DVTDGTSV--LEA---------------------DSG--kvSngtnI-KQy-SDR-EqKG------TY--FLVmKNDkNqY-VF-V-------vAN---KN-GSPAlTsDG-kV-------------------------------------------------------
+>6610051 len:191
+------------------------------------YRLHqLHkLtDM---D--SQS--VYpQrTG-L--SM--SDGR---c-L-T---------------------TIGTFEplsV-KELAdKaNLNKGQ----AS-raAqALVD--QGL-VLKA-------DHP--GD-GR----GVVlTLTLAGRE-VFE-R-----------------------------------------
+>6192903 len:122
+---------------------------------------VVLLaEcSE--G-lGSEALKLYVTNKLnLDEF-VKHGK----Y-V---------------------E-G-FEdL---L---YlK-NA----LQlYNIsLIS--T-LpS-H---------yTE---TKL------G-LR-----T---FK-K-----------------------------------------
+>553800 len:500
+----------------------------------------LEIpE----G--AP----F-D-ELLKRY-FGEGGPG----A---------------------P-G--Gpgg--GE-PD--D-AK----sLgSgF-I-IS-TDGYVI--T-------NN---HVVA-DADK-IIvRL-I-DRREL-E--AK---------------------------------------
+>4958959 len:136
+-------------------------------------DKSVVAnvKT-------HWLSAY-EGkTEVYR-tRIASGASffepdgsehA--GIN---------------------TGGVYniytKritrhMAGG-VfPNgYDl--P----gIGWVSYWH---aGAAIHST-------ywHN---D-YGRPRSHGCL-------------------------------------------------------
+>468499 len:167
+---------------------------------------------------GQ-LT--TNA-LT-N-TITIN--N-VTAN---------------------P---Ystil-qlFTTKETAKFiK-TQ----LgQYDLkLLDQi-RDvI-LH----------K---N-L-K------I-MAATN----WT-IItR---------------------------------------
+>4412678 len:91
+---------------------------------------------------------------------------------------------------------Ffff-FNETATTEiY---T----IAYTLs-LH--DALPISmlA--------DRA--S--eGARQlARL-ERrdAERAVelrAPr-LLV-FLD-pE-------------------------------------
+>3809051 len:139
+------------------------------------F--YFFFnDT---A--TTQI--YTPSyTLsLHdALPISSrGsRRSSa-SArTR--------------------SRGA--adMAEN-ENELERGQ----r-K-TR-V----GtV-V-S---------D---K-MDKTV---VVKV--ER-R--Y--------------------------------------------
+>3647089 len:617
+-----------------------------------------------------KMFFpFlvIlPG-MI-A--LAAG-SSA-VNTIV-------------------RQNAAqNaaq-NAAsASSSTpgTGAdkS----dAS-TnT-V---GqGI-IPPK-------fDEK---T-GAPArDnRGnVV-LDY-DlATp-MM--LVH--Y------------------------------------
+>3635473 len:237
+-------------------sfliiitnlFLWEEE--ILSAFKKeEP-QYHILVDV---E--DPRMYILKDGICMAEYTCSGGKPS--TPS---------------------PIGTWti-isk-DT-wgegFGGRW-m-GfN----VPWGNF-----G--IHGT-------TEM--YSVGWNSSHGCIRMNNDEVAEIYK-YI----------------------------------------
+>3589061 len:202
+-----------------------------------------------------------pQGglmNskrYIdSQ-PsVLSl-R-N-vIYQlM----------------------EGD-AarrerI---L-N-WQ--K----M-vV-vIFLR---NL-LRDA-------ElvRA--TK-ALP---G-NsQeisrdsLSPE-ILMgFWR-RNdKN--RwQwVShl-erylsTAS--AYFLNGR-------------------
+>3269729 len:279
+----------------------------------TP-G-H-TI-----G--CTSF-FWEeknpNGK-I--YQIAMhG--G----V-----------------------GAtmndeY-YAQ--SK-Y--------LtPYlrRKFFD-DAEkLkAIH-V--------DI---ALpSHP-NQ--ILI-TDRAGT-YTd-------------------------------------------
+>3010362 len:100
+-------------------------------------NA-V-VGTA--A--SiQSLDStY-SfyAQnLyVIS-NVTdPG-DG---AV---------------------P--LwFwtSattnhhMTTAs-SAgNaWasQNG-------YTrQr-IE---GY-VY-----------P--N--N---TDGTM-M-P--LE-MwY--------------------------------------------
+>2420689 len:216
+-------------------------------------------------------------QVLRTW--THAQSiQ---RT----------------------IK--hv-cL-N--AC-FmE--R----LrPLAnCLIRi----FTIKQV--------NL----L-KTTT---VSLyTVK-ASHLYN-R-RSN-------------------------------------
+>1071698 len:208
+----------------------------------tprqsrlssyas---NVEARIDI-----ASQRMIEKGDGELSHVWKVSPGRKG--FPT---------------------PRGASKthrMHVTvFSRRYSHTP----LPYSIFVR--GCSAITST-------KSL--NLL----------------------------------------------------------------
+>10702003 len:283
+--------------------------------------------------CPG-MHQFAEGR----W-LkDAGylR-D--Y-A-----------------------A-YwcRek--ND-ARRYSf--P----IAYS-FLEf----YKTHpDM--------EfIr--KSYpGlKEIyA-GweeS-HWD-EEAG-LF-w-QMDDR-dG-----------------------------------
+>106360 len:96
+-----------------------------------------SkIH-------KNKCCAeWKNTH-M--F-LST-lRR-----S---------------------S-A-W-INNKq-PQK-qNcpTAlP----LtdPFAIVVD--DApTQIKNP-------QK---QML-RRVEkHTYV-fVHSAQIQRL---------------------------------------------
+>UPI0008A22C5F status=active
+----------------------------------------LVINV------PEmRLYDYTrDKS-aPTVLAVAVGDIT--DPT---------------------PVQDFkv-gqkRTD--PV-WtvpesiraerpDlpavvpAGP----dNPLGdRWLTl--GsaNlneHSLFND-------TEM--NIVTHDpelATQTRRRLWAEHLELPLY-QLpad----------------------------------------
+>UniRef100_UPI00115FA3E5 L,D-transpeptidase family protein n=1 Tax=Actinomyces ruminicola TaxID=332524 RepID=UPI00115FA3E5
+----------------------------------AG-E-kWIDINL---A--DSTITAY-EGyEQVHG-PnlMNHGGPG--NET---------------------ITGTYevylSyekqdL-GcS-AG-WSyc-QR----dVAWvTYW-H--GN-yAIHSA------PwaRH-f--G-VGADAGsHGCINLPEEEAHWYYD-WAE---------------------------------------
+>UniRef100_R7GSR5 ErfK/YbiS/YcfS/YnhG n=1 Tax=Catenibacterium sp. CAG:290 TaxID=1262767 RepID=R7GSR5_9FIRM
+----------------------------------------MSIShQ---T--TQAITVIGDGgSyatLtVHTkhngvWtetlscSarVgrnGiTGnkREGDgktprgIYSfgqAF-----GVA------GN----P-GTsrrWlqvNnnhywvddVNSSyynklvdASqTgiQWSSAE----hlIsyPtayrYaiALnY-NtAcTpGaGsaiF-LHcST------------G--G--ATAGCISVSQSDmIR-ILK-MIQ---G-----------------------------------
+>UniRef100_A0A6J5ZWV5 Unannotated protein n=1 Tax=freshwater metagenome TaxID=449393 RepID=A0A6J5ZWV5_9ZZZZ
+----------------------------------------iaatdyhMELDL---S--TFHLKVFQGANVFVETDVVIGKDS--TPT---------------------PIGRFfv-tekIKNSs-DTgVY--GA----WIlptngYsEvLetFDN--Glp-qVAFHGT-------NQPe---LVRTKSSNGCVRIPNDVVITIAG-AIp----------------------------------------
+>UniRef100_A0A5B8ULD0 L,D-transpeptidase n=1 Tax=Flavisolibacter ginsenosidimutans TaxID=661481 RepID=A0A5B8ULD0_9BACT
+-------------------------------------KK-IIVDI---S--EQRLQALTDDKVVYDFPcV-TGDAE--HAT---------------------PRGKFtvl-skkeIYRskTyDAQmNYalQlttDG---IYIheSynYserpSqQsFLAkAvSDtaAtsVSrLRswfpGV-------aNK---ElKVGnvNlf-GSHGCVRLAHSDaVK-LFE-WA----------------------------------------
+>UniRef100_A0A4Q5X817 Uncharacterized protein n=1 Tax=Myxococcales bacterium TaxID=2026763 RepID=A0A4Q5X817_9DELT
+----------------------------------efvRD-QTrWLDVSV---T--AGTL-VaY-EGK--RaTFaTLlSVARElpETete-TRTV-----SDLSi-----------PLGT-stvRskaLSTSl-SApSF--GePFEVAdVPWALe-LS--SGqL-LHGA-------ywHD----RFG--IEHGAgtLALSPRDAARVFR-FL----------------------------------------
+>UniRef100_A0A2C1BSN4 L,D-transpeptidase n=1 Tax=Bacillus cereus TaxID=1396 RepID=A0A2C1BSN4_BACCE
+---------------------------------------stvkgkYILIKR------SEqKLYYVKSKLLLKSFPVETSCDE--SPT---------------------PAGRYtf-vykEEK--RP-Fykg-niaGGvS----nNPLGeQWLDlNi-NgakgnTFGLYGT-------NRV--GSIGIKGSTRCIRMKNADVEWLYN-HVar----------------------------------------
+>UniRef100_A0A0R1NS88 Uncharacterized protein n=1 Tax=Lactobacillus kisonensis DSM 19906 = JCM 15041 TaxID=1423766 RepID=A0A0R1NS88_9LACO
+---------------------------------------YVAIDL---K--NlKE-YIYHDGKLMVT-nPVmS-GtITG-g-NKT---------------------PQGAYyimyKqrnttLKGKn-DNgsKYA-SK----VSY--WEPlTNSGVGMHDS------Pw-QP--AFVyGNPSAraqyhsHGCLNNPPARMPLVWK-YTHTNEp------------------------------------
+>UniRef100_A0A060UTD3 ErfK/YbiS/YcfS/YnhG family protein n=1 Tax=Acidithiobacillus ferrivorans TaxID=160808 RepID=A0A060UTD3_9PROT
+----------------------------------------IVVDI------PArRIYYFPTNDr-vVYTYPVGVFLPG--WKE---------------------RLTATqi-iakFKM--PA-WnvpknihawfekkfhMdipwywpPGA----eNPMGeLAMEt--GlsGIFIHGT-------YHP--WGVGMRASQGCFQMFPENVAQLFP-MVp----------------------------------------
+>SRR5207344_608561 
+----------------------------------------ITIDQ------SAhLLTLERFGHPPVSFPVALGQPA--YPT---------------------PDGHFti-iskVEN--PT-WvpppdapwaqGavpipPGP----gNPLGtRWMGi--SapASASTAP-------TTR--RRSATASRTGASACRSPAPSGCSR-WSasawastsmr----------------------------------------
+>SRR4030081_1058118 
+----------------------------------------IEAIV---P--RRELIVRHGSRVVVRTNMGVGRPG--HET---------------------PAGLCaa-tynLLISrr--MsPY--AC----CVlaltgHqtRiPqgWGG--Gd-rLSIHST-------NDPs---SVGHPVSLGCMRIDASVARRVVR-LVp----------------------------------------
+>SRR3989338_860774 
+feeviqgvflngiealenkrvseryh----------------------------------------MVANI------PArTLSVYENDSLIKTYKIAVGTQE--FKT---------------------PVAQMal-keiVWN--PW-WippdeewaaLekptpPGP----kNPLGpVKMPl--QdAIMFQErT-------SLP--ASVDRPLMGVCGX------------------------------------------------------
+>RhiMetdeSRZDD1v2_1073273.scaffolds.fasta_scaffold3641178_2 # 218 # 487 # -1 # ID=3641178_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+----------------------------------------IaIADD---N--THHILVYQDGKLIRDVPTAMGMHA--STRgAHGE--EID--------FRT-RSGVHvv-lgnAYVThMTSaSF--GV-----KsgpfaYdeLvYWA-----thVSyageyIH---------AAPwSVAQQGhSDASHGCLNVNTDNAIWFYN-TFipgDVvDVrnTgapleltdglgd-----------------------------------
+>HubBroStandDraft_6_1064221.scaffolds.fasta_scaffold9365280_1 # 3 # 224 # -1 # ID=9365280_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.752
+----------------------------------pavrsRA-K-KqLVLHR---S--SRQLILLEQGQLRLRVPAAVGTQG--WET---------------------PLGEHrvl-fkAVD--P-VWrhpgtgAlvpp-GG----rNPlgsrW-IaFYHdcsNpGGwdGekvvqsaaalTsActarptvgLSDG------PCpmvA-f---ACMTNTSAGCLSLw-------MWG-LLW-wsCPdGcvvtd-----------------------------------
+>7167486 len:1429
+------------------------------------------------------IWL-NkEkG-ItIKRVSVS-GiSKA-qsLQeKkD---------------------KDGNF-ILD---K--D-SrR----IPVD-FVN-TGNnH--HvAI-------y-RkP---VLdkkGQAVfDeNGeLKfELE-EVvVS-FFD-------------------------------------------
+>6849306 len:232
+fvneglth----------------------------------SE-TI-MpMID--------K-L-L-KqNNiSVddIDAYAVNNG-----------------------------P-GSF-tgvrI-G-VAvvKgmAFKDNkD--CYeVStLdSIaY-N-cIDkeGkvVScIDAR-------RN---QVFnAVySVSEG--KLtKEVNdrSILIk-D-LY----------------------------------------
+>5441678 len:117
+-------------------------------------------NKS--A--SYALSEtLRNwEyKDL--Y-L-IfGmLDS---KD---------------------PKkflNNFkni-ikkLIT-VPiQS-N-S------PY--Y-S--NkKlYEI-AR-------lNE-f--N-VepSSSIKRA-LtKiL-IKESPg-----------------------------------------------
+>2867017 len:78
+-----------------------------------------------------LIFFF-ND----T---AT-TE--IY-T---------------------PPDTL-sL---h-----D-A-----LP--IsISGSdTSpAsAWDSKD--------CV--REIGRAVQQEC-R---DRGPYLvCR-------------------------------------------
+>1538770 len:100
+-----------------------------------------------------FVRFF-ND----T---AT-TE--IY-T---------------------PPDTL-sL---h-----D-A-----LP--IwRDRDpRDaApVPVRAG--------RG--AEIGRAVQQEC-R---DRGPYLvCR-------------------------------------------
+>1249360 len:207
+------------------------------------------F-R---G--ADPF-CF-D-RLaAeNSdLEI-IRlKEN--YrSS---------------------P----qi-I-RA-ASAlWN-NR----IR-E---T--AGISdL--S-------EDI--SA-GRAGgAdlHPnC----PDNVP-V-R-LVKA--G-----------------------------------
+>UniRef100_UPI0015D1E835 L,D-transpeptidase family protein n=1 Tax=Phytohabitans suffuscus TaxID=624315 RepID=UPI0015D1E835
+-------------------------------------sGTTFCVDlT------HQTTWAMRGGKVVIK-PtVTrTGMPG--YAT---------------------PTGAYsvQnkaL-KEw-SNPYEvw-------LPY--WQRf-NGASAStrpRRT------StrsRSA--RT-A---ASTCCPpT-PAPSTT-WA-RWA--AGCtCS-aagRAPEA-------pD-RR---------------
+>UniRef100_UPI0012FE911C L,D-transpeptidase family protein n=1 Tax=Kitasatospora phosalacinea TaxID=2065 RepID=UPI0012FE911C
+------------------------------------------------------MTVTgKDGQVtV--LDVTAGRPG--SET---------------------PRGRMtvQdklpkvgMSDDGPSggQ-D-GA----tAAWCVrLVR-PDGttttY-VCSM------Pwl-SP--SAIGKaNTTHGAVGlLA-DDARWFYD-HVDP--GdTVE-vvg-------------------------------
+>UniRef100_UPI0012F65001 hypothetical protein n=1 Tax=Marmoricola aequoreus TaxID=397278 RepID=UPI0012F65001
+-------------------------------------RAVLVFakNHD--DPf-DSRL-VWslyErRGaeErLVeRrDWRAGAGlpARgGKd--PcVR-----SVG--------WP--PDGSYrltYhrdYGGNaiKGRAFRmDDkA----CRdgtVrRsLFIHTeQGaGsrqCA-DrpGD-QL---Crw-EwP---RINDyK-SNGCLKMSPGDlRElAgLFERRFSA--GvHPP-lsRV---DLQVRTV-R-----------------
+>UniRef100_A0A537Y5Z3 L,D-transpeptidase n=1 Tax=Actinobacteria bacterium TaxID=1883427 RepID=A0A537Y5Z3_9ACTN
+----------------------------------VAStT-dYLRVTV------SQfRIDHYVDGKWQAGYRVAVGKPA--TPT---------------------PTGLFyilAsqvVDQaPyTPG-iFAlSGfA-----PrPiP-G-Fl--GAtLGVHG--------wTD---SSViGTRVSNGCVRLASKDMDPLL-h-HLi----------------------------------------
+>UniRef100_A0A1V6GXG2 Putative L,D-transpeptidase YkuD n=1 Tax=Verrucomicrobia bacterium ADurb.Bin070 TaxID=1852927 RepID=A0A1V6GXG2_9BACT
+----------------------------------------LTVFK------QTaSAVLVLNGQFCKRYTVGLGP-A--ADV---------------------PAGTFav-rnkVTE--PA-Yrlpdg-gevpFGhP----qNILGtRWITlsatgetpPa-RLLGLHGT-------WDV--SSLGRASDTGRVRFRNADIEELCV-LLpd----------------------------------------
+>UniRef100_A0A0J5QGF9 Ykud domain-containing protein n=1 Tax=Puniceibacterium sp. IMCC21224 TaxID=1618204 RepID=A0A0J5QGF9_9RHOB
+errpngp--------------------------------------ISIIISN---D--EQHVHVYRNGFeIAVS-TCSTGMSA--KAI---------------------PTGVFvvqQkn--RThRSSTYESVP----VQNADLLHw--SGIALHA-------------DNVaDNHSADGCVSLPLEFSVRLF-DEIhlgSPiii--------------------------------------
+>tr|A0A2D4QHL9|A0A2D4QHL9_9BACT Uncharacterized protein OS=Phycisphaerae bacterium GN=CMJ41_03915 PE=4 SV=1
+----------------------------------------aS-VER------NShRLDLYlgEGsNEVfVRNFLVGLGEHG---CT---------------------PSGMFrvRrnskLVNpPwtNPrTrEhYAaNDP----dNPIGeFWLGl-EGidDhnqqeagFGIHGT-------i-DP--GSIGRNESMGCVRMRTGEIDMIYE-VL----------------------------------------
+>tr|A0A1G3Z5P8|A0A1G3Z5P8_9BACT Uncharacterized protein OS=Verrucomicrobia bacterium GWC2_42_7 OX=1802430 GN=A2007_02395 PE=4 SV=1
+---------------------------------------MITVSV------RDSL-LcFHTGNSCKQYTISTSRKGIcsILnsEgT---------------------PLGLHevKekYGAGa-ETgSvFigrkEi-GkK--YWdLtePeFlgknlvTTrILRl-NGlemeknrGicqksgLscdSfdrfiyIHGS-------NN---EDLiGQPLSSGCV-LmRNTEiIE-LFD--LTP-L------------------------------------
+>tr|A0A136L1W3|A0A136L1W3_9CHLR ErfK/YbiS/YcfS/YnhG family protein OS=Chloroflexi bacterium OLB14 OX=1617415 GN=UZ14_CFX002000299 PE=4 SV=1
+------------------------------dGAAFkiltED-DVSmISpdIdpaEKtISID-l-DyQTLSCY-EGTreVFFC-QISSGksYDpvtG-eivdt-FAT---------------------PAGTLltyWkIVSKnMTAgnegasGYS-TP----aVPWCTFIA-s-GGVAIHGA-FW----H----NAFGEKTFTWLCECFTRTRQMDFSldn-------------------------------------------
+>tr|A0A087BSB0|A0A087BSB0_9BIFI ErfK/YbiS/YcfS/YnhG superfamily protein OS=Bifidobacterium minimum OX=1693 GN=BMIN_0904 PE=4 SV=1
+-------------------------------------DMRIVVDL---S--AQTATVYK-GsRVAARFLVSAGQ-G----A---------------------AEGStqsHvvKtakkasV-SvSs-SKT-gDGGA----sTSassssaaW-VtYY---GsSqaF-LSAS-------wSD---ESIktGNPSSapSSSfVDMYSSDAQWIYT-NC----------------------------------------
+>SRR5919199_282678 
+----------------------------------------yenIVATA---K--RSQIGVYQTPNSRTPYAKLDNPNL--DGA---------------------PLAFLvr-ktvGKWAnvylPirPNgSN--GP----YAfglsaHsNvLheFAG--Rdg-iLGIHGT-------NYPe---GIGTDVSHGCIRMSNRAIIKLAR-TL----------------------------------------
+>SRR5437763_326543 
+----------------------------------------YKLKY------VKkRSI-----KPTAKFRLNICDIL--TKT---------------------PEGFYsi-inkEPH--P-----------gGPFGvFWMGlSl-QHYGIHRT-------NNF--SSIGKLSSHGCIRMYNQYVLALAR-LV----------------------------------------
+>SRR5262249_53336957 
+--------------------------------------------S---G--SWSWTWSTSARTCWRTAGsrgrhRSPRRaGA-SaggrgpgKS---------------------PPRGPrg-krgVGEGa-EPgTvFK-SR----EPtgeiwkgearpddLiltRvITLD--GledGinrgpgCdSveryiyFHGT-------NQEs---LLGTASSIGCIRLSNADvVR-FFD-RVr----------------------------------------
+>SRR5258706_7792884 
+----------------------------------------------------tviavdtyeQSLGVY-FNgALIFA-tLVSSGSSY--FPT---------------------RPGTFqvwaKldagrMSGTy-LpDrrDyYFl--E----dVPWILYMM--ATARCTGP-------t--------GTTTSACAARMAAX--------------------------------------------------
+>SRR5207302_3037082 
+----------------------------------------VGAQR---R--SS-----TPARTRPSY--AVGTCC--RSP---------------------GLAPVai-lprRADGqp--DgPY--GC----CIvaltaTapHaIpgWTG--Gn-rIAIHAT-------AETe---TIGQPDSHGCLRVTAADANWLIK-HV----------------------------------------
+>SRR5205085_3711204 
+----------------------------------------ltqhswrALVEV---G--ANRLTVWKGKDLFLQDSVAVGTGG--TPT---------------------PTGDYyi-telLKPDd-PGgAY--GP----YAfglsaFsVvVdpLTG--Vrg-lVRMLAT-------IISs---SIGRAVSYGVASLTTSRTTKL---------------------------------------------
+>SRR3954447_16312173 
+----------------------------------------vtVaYDTA---P--KsvNKVRVYnAAGHVLRTMNTSMGmhSGT--R--IKGN--WIN--------FYT-LDGTYtv-lahEQPAkMCSaSY--GL-----PatdpngYaceKiYNA-----tkISidgiyLH---------ELTtTIWSQNhgQDVSHGCLNLNTANSLWFFT-HSmvgDPvEIhgAkgaptldiwqggd-----------------------------------
+>SRR3712207_9247677 
+-------------------------------------------------------MRLSSRVPLVTYTRLFRCPF--FFN---------------------DTATTei-ytlSLHDaLPIcTY--GV-----PvdspggYrtPvKWA-----vrISdsgefVH---------AAPwSVAQQGrEDRKSTRLNSSHANISY-----------avfclkkkkekqq-----------------------------------
+>SRR2546421_11397520 
+----------------------------------aGPISLALALAK---A--HGAVNALAVDMHRSLCHLREG----------------------------------yaRrVHLPw-PPgSlyYy--PP----twATYWMpFYE---GY-gLHDA-------ww-R---KHFG-PGTnvsgdgwgsgeptgsHGCVNIPATQTQWLWNw-------------------------------------------
+>ERR1022692_2761011 
+----------------------------------------LVaVaSA---A--THYMKVW-wNGTLVGNWPVSTGQPG-d--DT---------------------PDGPaMqmeSssatrLRRaaTmCSStTLsrttrSiaASflP----rMrPRAtApLLSl-PTG-ALTTI------Pw--P---RIS-PLTTAC-KLaALESA--FFR-------------------------------------------
+>85008 len:100
+------------------------------------------------------VHLC-DTR-L-SYKL--------------------------------PHSIF-cF---f----FnETAtT----eI-YTLsY-T----LSLHDA-------lSD-----LwqNEKAAiD-IIRsLK-GQLESL-R-AA----------------------------------------
+>7029304 len:137
+------------------------------------------LP----GT-TRfRVTAqFlVKG--VpRSHtSdLDSGERmtvG---RS---------------------A-GNdLpi-ddI-S-v-SK-MH-AS----ISVA---E--NGsFTV--A--------D----T-G--STNGTF-ID-GE-R-IaYG-K-----------------------------------------
+>6999122 len:313
+---------------------------------------------------------YlAD--FL-DYmEVEKGR-S--LKTI---------------------EN-Y-sL---yLNR-F--------YEFaG-d-IKv---GkIDLDmvSK-------wRK-w----LNRyKSEDG--ReI--SKtTQN-YH-LI----------------------------------------
+>4786646 len:533
+------------------------------------------------------MQ-WlSEcTDcLIRIFTI---QQiN-l-FkST---------------------PI-RFhtgEtthFYN-y--RSYT-SQ----L-VSTWL-i----FA-RG---------------L--P--H--IAV--DQTE--FD-F-----------------------------------------
+>476551 len:122
+-----------------------------------------------------VLVFVKDCKPGGLRNTSAA-QR-gp-CaegdqntagegiaggAlP---------------------PGGLH-nGNRErPGG-WWEGD----L-gqiYrPKYFV--GGVAVHGS--------N----SIpNNPAAHGCVRVSVPAMDWIWD-------------------------------------------
+>4646031 len:135
+-------------------------------------------S----S--ARE-YM-RD-E---A-SID-ER----L-S---------------------PIKS-ti-aaI-K-fLKRNLRvl-GD----LPLTiIsY-N-HGirGL-LK-V--------K---KEMGN-VS--VVDlLkHTAKSP-LgFA--SRN-YyA-----------------------------------
+>3548378 len:262
+-------------------------------------R--LALpQQ---P-y-CSSVR-VPQ-fPRpAQspAY-IQ-GRDT-vrilccIYGiiS---------------------P---Wtv-metF-ALvRRFGlYrrY--H----I-CrH--CW--RtGYGrISkGT-------ipPDVi--SAIlA-P-GH--I-FH-NLGA-NFT--VkyR--HG-----------------------------------
+>328219 len:511
+----------------------------------------------------Qi-LDLYEsmED--M----L-TNNES--L-T-----------------------DK-di-eqL----SS-F----------FS-Y-A--Q--KIHQV-------AE---KSyF----DKG---L---G-T-MFA-IIR--YhG-----------------------------------
+>32131497 len:121
+-------------------------------------DV-IILNKI---Vi-NEE-SI-GTArN-L-KL-VcvtATGtNNlDKe-YlAR----------------------QG-IvwRnV-A--G--YS-TE----sVAqhtFALlfYLA--EKLRYYDD-------y--V--KE-DR---Y----------------------------------------------------------
+>3076805 len:95
+----------------------------------------------------------------RS--CS-SK-D---KM---------------------PMATdF-q-----SA-CENAcK----I-LSdS-MA--NGqI-MAGS---------L----FAQQAST-CVTIHCGEAQD--D-HAA---------------------------------------
+>UniRef100_A0A1S9CP93 Uncharacterized protein n=1 Tax=Epulopiscium sp. Nele67-Bin004 TaxID=1764962 RepID=A0A1S9CP93_9FIRM
+---------------------------------IkED-RIWIAIHM---G--EEsKVVVYR-GQnVIKQ-SiASIGTNiNK-LQM-----------------------GTYyv-L-EK-GESFyD--S----VTkRGAsnWLKl--SeGLTIHGV-YRD--EywNvlDySe--SQLGKP-QYGssII-L-PEDmANWLVD-NIA---------------------------------------
+>tr|A0A2W4M1D8|A0A2W4M1D8_9PROT Uncharacterized protein OS=Proteobacteria bacterium OX=1977087 GN=DIU78_02170 PE=4 SV=1
+----------------------------------aRK-GRgWIDVSV---G--SGTLVLY-DGtRPV--FaTlVATARPdG-k-AEN---------------------GRfGTFevlaKhvthLRAD-PeRagErF---P--VLdLPW-V-LEl-SSGqL-VYGA-------yfHD----RFG--V--GqASRdfaLSPADARRVFE-FARP--------------------------------------
+>tr|A0A2P2BSC8|A0A2P2BSC8_9FIRM SH3 domain protein OS=Romboutsia sp. Frifi OX=1507512 GN=FRIFI_1744 PE=4 SV=1
+eefvnenhiksdtg------------------------------------Y--IIITST---K--DKLTYILKkvDYRfkVLHVWSSTVGKSS--TPT---------------------IKGIFksGik--YPaiGGEKSS-A-----K-Y--AMNi-v-DDYYYHSI------LydpKglYVIDDRLGVAISMGCIRLATENARWMYD-NIpi----------------------------------------
+>SRR6516165_4639260 
+----------------------------------------IEISL------SRgILVLYRNNQvqLI-SH-VSSG--G-hYYfc-N---------------------PGgGCgY-aV-T--PTgNFR-TR----V-F-McgWARc--TTrCS-SSA-------PRT--RSTAKP-T--C-RWrRSRTaASgS-rWT--SRPS-S-----------------------------------
+>SRR6266540_4290816 
+gergppapsl----------------------------------------PLLHR------DRsRRLQAPSLQPPEACPQlpDRGRPA--GAS---------------------DPGVYhi-qnkVVN--PS-WlvpssswtgSlagqlipPGP----dDPLKaRWLGif--NGAGIHGT-------DET--WSIGHAVSHGCVRMTIPDVIDLYD-RVs----------------------------------------
+>SRR5919201_5385547 
+------------------------------------------------W--PRPVSPCTATASRCSPPRPASEPA--SFQ---------------------PrTGDYfl-aFVAAPPVpAY--GA--FVMVtsaHsDgItdW-Q--GsGdgmVGIHGP-------lgSD---ARIAttgARVSHGCIRLHEKDl-------------------------------------------------
+>SRR5919108_206529 
+----------------------------------------FEIDK---R--ALKARLFVDGHEVWTSSVGIGAPG--MAT---------------------PSGHFwv-rerLSNLgGS--paY--GP----FAfgtsaYs-rLsdWPG--Gg-gLGIHvdldddpvradgGG-------GARe---RLDQPAVARCVAGVDDDRQVRVQ-LE----------------------------------------
+>SRR5690606_33916139 
+---------------------------------------WIEIDL------SEfEVIAWA-GDfeLLRS-KVVIGPP---Q-A---------------------PTptGDFeiy-iryeVQD-LRGiGWN-GqP--YYapsTPW-vMYF-f--EDYAIHgST-------w-R---NEYAIADGEGCV-IPPNDvAEKLWKw-------------------------------------------
+>SRR5246127_5704778 
+---------------------------------------pYrLVLDL---S--VMHLLLFKSSKVVACAPAAIGTAA--YPT---------------------PLGHYfv-aLLAQPPSpVY--GP--FVLVssaFaTtVtdW-E--QsGqpmITIGAA-------gdSA---SAIGttgARVTTGSVRVSDRDlLR-L--RVV----------------------------------------
+>SRR5207253_2206984 
+----------------------------------------IKISL---G--EQRAYFYKSGVLVGVSQLSTGREG--LNT---------------------PTGSFkiiqkDkdhvssLFGDyvdssgkvvvpnvevkkdpkpPGTHFQGTP----RNI--WLFl-----ALYlG---------------LqKIPAGVILIIPPEEYDRNHATqr-------------------------------------------
+>SRR5207249_4786283 
+----------------------------------------IAIDV---S--QHRLTFFRNGRRVFSATVAVGASA--TPT---------------------PTGRFyv-nqlLIPTd-PGgPF--GP----GEigisaFsNvLtgWTQ--Gg-rVPTPRR-------RPFa---TAAAATTPPRSRTSSPSGRTWAT-RT----------------------------------------
+>SRR4030095_2251768 
+----------------------------------------srpgphQADHP---R--GRGRPVVAHRQPARGPPQGALVPG--RGR---------------------DRGHAhp-draVLRDrEAAaAY--GA----WAlglsgYsEvHqsFGT--Gdg-qIALHGT-------YKPw---LLGRPVSNGCVRMDNATITLLAE-TL----------------------------------------
+>GraSoiStandDraft_24_1057298.scaffolds.fasta_scaffold3463417_1 # 1 # 255 # 1 # ID=3463417_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.718
+-------------------------------------lnALas-LDVDV---A---KQVCFaVsAKDEVLKVFHVstaksGLGQEyGS-WKT---------------------PLGIHkv-iakAGINa-PIrSvYE-AR----IPldftfdeysrnlhpekkdWilsRiFWLS--GcepGfnlggrCdTqsrmiyIHGA-------PDDv---DFTQPGSMGCVRMKNKDiVA-LEP-YV----------------------------------------
+>ERR1700704_2635086 
+------------------------------------------IST---A--DQRMLVLRDSVQIAEFPVstskfGAGDVpN--SNaT---------------------PTGLLri-rkkIGRHa-PAgAvFksRrlt-GE-----IvtvdapgRdpivsRiLWLD--Glq-apsnrtrtlstvT-fismapLRNA-------PLAl---PPATD-----AFACARAMSSLST-TRlas----------------------------------------
+>850.fasta_scaffold194519_1 # 2 # 79 # -1 # ID=194519_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.462
+----------------------------------------lrVEVNL------KdQVLVLYRRNHVALVSHVSTG-GG-hy-FctpdgrvLhA---------------------IAGPV-nAAEFLRE-cRARRQ----Q-gqqHrTD--D--DPHALH---------------DTpRRrappAPCGGRARADRRTG------------------------------------------------
+>662906 len:88
+------------------------------------------------------F-FF-----F--FN-DTATTE-IY-TV--------------------P---Ytl-sL----PT-lFR-SR----A---V-AD--AieAH-KDEL-------TDL--DRpIGD-SDHGi---------------------------------------------------------
+>602806 len:163
+--------------------------------------IWsaITIgDwK---Q-w-CHNFYII-N-lQLhIL-YSCP---ES-VLHT---------------------PDSViF------PGAWK-------F-F-LW-Q-----SVR-S--------D---SP-GK-LSF-vCL-V--GK-------------------------------------------------
+>5031288 len:125
+------------------------------------------LA-------AQ-LHLLRPG--V-GL-IDSER-S----V---------------------P-A-Lql-idM-RK-TDvlVvFD---------YRRY-Q--AD-TIE-C-------ARV--AA-GR----GCdVVLfT--D-Q--W--------------------------------------------
+>29401350 len:116
+----------------------------------------------------RSTPV--NG--M-A-PVAkVfGRH---VRTLV-------------------P-SV-nl-dr--RS-DEEFEKAA-----DH-Vkk-LE--SqReVTFN---------KR---AKV-RDASaliEGaAVTvLNPTSGR-----------------------------------------------
+>1913504 len:248
+---------------------------------------------------QRK-N-Y--GQMqSQSFQ---RKED--F-iT-----------------------N-Y-snnII--y-T--YfsNltsQSqS----ktlILWAkIYF-----Y-IR----------------FGwKK-E--CIEyI--NKIDg-IY---I----------------------------------------
+>11212555 len:611
+-----------------------------------------------------------SG-MaVARFNFSHG--D--HEmH---------------------KK-TL-erVVR-m-RDELD-------LPIAtM-LD-----T-KGP--------EI---RLG--AfKNGkVL-LKQGTA---FT--LRA----SP--------------------------------
+>UniRef100_UPI0009F827FD hypothetical protein n=1 Tax=Mobilibacterium timonense TaxID=1871012 RepID=UPI0009F827FD
+------------------------------GNSLwNAYN-W--IA----G-f-S-R-Y-YlTsDGR-T-SWPImS-SRDyA-IYGlN---------------------HHgGDcIvm-astL-R-yIAE-Y-l-GyN----aIQrfgYvgSaThsWVEi--NG-KVYDA------NfKN---ET-GRN-GFG-ISYGQRGT-W-kYR-IVKN--------------------------------------
+>UniRef100_UPI0006D0AC80 peptidoglycan binding domain-containing protein n=1 Tax=Lactobacillus collinoides TaxID=33960 RepID=UPI0006D0AC80
+---------------------------------------RVEVNL---K--TlEE-YAYVDNKLVFS-tPVmS-GtVTG-s-DKT---------------------PQGVFyvlyKqrnatLRGEn-DNgtSYA-SK----VKY--WMPfTEDGVGLHDS------Sc-NQ--AAFtGTSATgvnitlTAVSTTRLRRSRHSGK-LFRPTNq------------------------------------
+>UniRef100_A0A535XD12 L,D-transpeptidase n=1 Tax=Chloroflexi bacterium TaxID=2026724 RepID=A0A535XD12_9CHLR
+---------------------------------------HFEADL------REpAL-ItaFEDGTPV--WsTLTlKGTVS--HRT---------------------PSGVHhilw-rVPNEtMTSeRvYpPi--P----rdAPggyYltNvLWTQy-fTSdG-AsIHyNY-------w-S---SNWGYAGSHGCLGIAYNEAR-FaWD-WA----------------------------------------
+>UniRef100_A0A1C7AFP6 ErfK/YbiS/YcfS/YnhG family protein n=1 Tax=Sulfurifustis variabilis TaxID=1675686 RepID=A0A1C7AFP6_9GAMM
+-------------------------------------A--V-INV---A--ERRLYYYvgSllGrGaEVM-TFPIALGRRD--W-T---------------------RMlGS-trvEarLAESvSPvaaaRgtSLT-GR----AgPredLA--LRl--GisGcL-IEpiGA-------PEP---S-GG-ANAACIGLQPEDLHLLYE-EAR---------------------------------------
+>tr|A0A1M6LE06|A0A1M6LE06_9CLOT Putative peptidoglycan binding domain-containing protein OS=Geosporobacter subterraneus DSM 17957 OX=1121919 GN=SAMN02745975_02
+---------------------AWEE--QVIRDNPdYN-ALAIFVDI---Y--ENTLTLFDyeKNEILREYDIAIDSNS--AAL---------------------PIGTWqv-eak-GK-wkdgFGPRW-m-GlN----VPWGNY-----G--IHGL-------TNA--SDDGIVIASGCIQMGNADVEELYS-MIk----------------------------------------
+>SRR5450759_1716041 
+k------------------------------------YP-hLILIDI------SQyKLYYYERGRVVRVFDcV-LGRPS--LPT---------------------PRGHY-rI---y-AKDaHmY-G------PYGpRRMRd-P-RhQRALAA--------EPlPAQLLAR--LHAALQLSHP----LAL-RPR---------------------------------------
+>SRR5258706_511481 
+lrg----------------------------------RS-GRTLAADY---E--SNeglhllmKRWI-GfLGSWA--LlVlALGLaaFAiageSInit-DER---------------------RLDRVaaiDkmi-AERtGNKASelrdaasqktsrvnalqaklQdvakqTDdvpdtgqtilvstaenklylrrngqtifendngverelepgKTIVAgdaivVPpvntkqrhYdKvLgrF-RlEm-GnGYGIHGT-------DEP--DKLGQSVSHGCVRLGDADIEKLYS-IAN---------------------------------------
+>SRR5256884_4155370 
+----------------------------------------LVVNL------PEhRLYYYPKPRkge-qpvVITYPVSIGKMD--WRT---------------------PLGDThv-iakIKH--PA-WyppesirkehaangDplpkvvgAGP----dNPLGdFALRl--AagngEDKNHGT-------NKP--TSARMAGTHGGLPRNPQDVHPGFA-PT----------------------------------------
+>SRR4051794_37010551 
+----------------------------------GDAgARPAR--R------RPRVVLLvDGGHAVRVVHTSTGVGN--NstDlgT---------------------PPGKFkiiRkeaR-G-wsVPyKTW--------MPYAAYWN--GGWALAG--------aAGVvrLAGdaP-AEPlglLPGAPSAPSRREGVASRS-LAV-rpLGdGl-----------------------------------
+>ERR1019366_2013884 
+----------------------------------------lfiLMDNI---S--RQTVGLFVDYKCVKKVHNsisrfGIGQIeGS-NRT---------------------PLGLHri-aekIGRGe-LAgTaFQ-SR----QVightsqpefadaKittRiLWLE--GlepGfnqggnVdSharhlhsWHGR-------PDDn---WLSR-----VVRLHSSGrRG--FD-FA----------------------------------------
+>931316 len:240
+-----------------------------------------TMS-------PRgK--VLTQEHAreLSRKEglvIlC-GH----YE------------------------GI-DerLLQEyGAEEVSi-GD------Y-V-LT--GGeLpAmiL--A-------AAV--SRMlpA--VlSEEaC--FT-EESH--FS-------------------------------------------
+>92662 len:132
+----------------------------------------LLV-----------I-IL-SS--VH---IQ-AQ-D----T---------------------A-A-F-FAN--ADTF----------FkA-n-VK--NGL-VNyAA-------vkANP--QALDK-LlENAAsISVSTSDAAT-YQSFwINA-YN-----------------------------------
+>8443537 len:436
+-------------------------------------------D--------DAIHMnwpssFTSGR--W-W-L--G-ED--L-K---------------------PDKNYlkKteeITS-ffKSaKQYhqKDNS----IK-NLLFS--StkGlF-I-GT-------QKLf----I-H-AS-G-QKeIT--DA--V-T-------------------------------------------
+>6650198 len:97
+-----------------------------------------K-DL------RDRV-L-QspRARVVSA-PV--DK----VQ----------------------P----evTtdeLASHy-PS-YitiDRG------SFTLrLFKSlKlADeYTIAvG---------Q-----VGYDTSAG-LyDIQ-SK-Q-V-NP-T----------------------------------------
+>51159551 len:88
+----------------------------------------------------D-V-IFLN-K-VR---L--GEHN--LKD---------------------ASN-L-klICEA-ATGYD-N-----IDLE-YCR--ArGIAV--C--------N-----VpGY--SvHS-VsQVT---VS-M---------------------------------------------
+>33747214 len:642
+----------------------------------------FQVT--------E-I---K-AELL-K--LAAcA-EN--YSNH--------------------P---I-sksL-KE-A--YG-GD----IdPaSGIe--Ev--AG---HGI---------I--ARVsGKEVA--CgnIKL-MKKLG-VsY--FTpDK-TG-TE-v-------------------------------
+>2892452 len:98
+-----------------------------------------------------------E-Q--REM-V---RTS--FPR---------------------P--LFTsernvL-RK-S--F---------PL-VdF-T--NTVVWHNP--------E----S-G----YNCfaysMGLRYR-wIE-FYD-W-D---------------------------------------
+>1907159 len:177
+-----------------------------------------------------RIFLWL--TImLTTgFIVR-GQDN-VVQAL--------------------K-REiNrtiKkdn--DT-TGwNWKRG-----gL-FS-F-Nl--AqG-SL-SN-------w-A----S-G-----GdNFSLTV-NG-YM-N-------------------------------------------
+>1158094 len:125
+----------------------------------snleNDFA-kYLsKIDQ---NPnyQTNaKL-LFekiQkaEtSkR-R-EG-GKGGK-rG-g-KrERR--------------------KKekkEEGgr-eG-K-e-KRKGE-G-----RK-K-EGK------RKGE-------eKK---G------------------------------------------------------------------
+>10455396 len:122
+-------------------------------------------------------------------------------SQ--------------------PRtAKrsYc-srILQ-iIADS-E-SE----rKTLEV-LK-----TLRAV-------i-E---D-L-YR--Q-CydqhFRsvI---Dw-E-LsFDRVL----------------------------------------
+>UniRef100_A0A1V2YLZ6 Big_5 domain-containing protein n=1 Tax=Epulopiscium sp. Nuni2H_MBin003 TaxID=1884657 RepID=A0A1V2YLZ6_9FIRM
+---------------------------------VkDD-RIWITITQ---E--EPsMLRVYQ-GQtVVRE-IgCSMGEDiSA-YQK-----------------------GTYyv-L-EK-GETFlE--P----TQkIGAnkYLTl--SeGIVIHGP-KRD--EywNiiEsSi--SQLGHK-QTGdnVV-I-SEEdSIWLFE-NIP---------------------------------------
+>UniRef100_A0A1S9CHM4 Uncharacterized protein n=1 Tax=Epulopiscium sp. Nele67-Bin005 TaxID=1764963 RepID=A0A1S9CHM4_9FIRM
+----------------------------------iNE-dRIWINITT---SE-NRdVVRIY-EGqKVIKEIeSVVTGTQN---EK---------------------PKGTFyv-L-EK-GDSfYDHS-----LERGAnsWIKl--SeDIVIHGV-------wrdeDwEI--TTmLDwvvNE-NKGHIVVSEEEAVWIYE-NVp----------------------------------------
+>tr|A0A174PNE3|A0A174PNE3_9FIRM Uncharacterized vancomycin resistance protein OS=Blautia obeum OX=40520 GN=ERS852569_00170 PE=4 SV=1
+---------------------------------------YIEVDKE--N--SQf-I-LYVDGNpVIQT-TgIS-G--S--IEN-----------------------GVYsl-kkpVSEEd-GKSW--C-----LPFgsgQcIY----GaDmdISdetsdLDtaeET------DsldDlQIdDLEELlSDPAPvpeeDGCFAI-PEDsARDAFS-QCKK--G-MP-vi-------------------------------
+>SRR6266853_1771784 
+----------------------------------------LVVNL------PEhRLYYYPKPRkge-qpvVITYPVSIGKMD--WRT---------------------PR--Mai-rcrRSC--P---pdptihsvts-pcASP----rATVStCFMAp--TtqpRWAWRSR-------TGA--FACIRKTSRRCLRWCRSAPRCDWS-TS----------------------------------------
+>SRR6266545_3397481 
+----------------------------------------dysLEVDL---S--ARTVRLLRGGRAVRTWRAGVGRAW--TPT---------------------PTGSFyi-tvkLRPPqISSVY--GA----WAlgltgYaE-nLPD--Gsv-rVEAEGD-------pahldeLETf---LRGGPRFSEVERLDSDRVAATGE-FR----------------------------------------
+>SRR6266511_1711081 
+------------------------------------LE--ITVDN---A--TKQMTVTQDGQLLRTVPVSLGKPS----S---------------------PSfsGNMvv-mIKNEw--E-WfDSGtfgiP----adSPggYrTkVFWPi-RSwSr-Aps-RacpGP-------TAgPt--GT-ppGrstpRAArSrHRAQR-pRPPTADp-FWPGAA----------------------------------------
+>SRR6266508_538619 
+----------------------------------------svVsRVDV---V--HHVMTVSIDGKVARRIPVTAGKDG--FTT---------------------RSGNRvi-mekFRVKrLDRlerqlvhlQa---GL-----Rpqltrarp-HdRPA-----lsGTshgagRG---------LGPwLARSpegllEGvPSGPHTCGGLHAQRRRDCRE-HRrtg----------------------------------------
+>SRR5436305_409719 
+----------------------------------------VIISV---R--DQKLMLIENGAKLATYPVstskfGVGGNwG--RMtT---------------------PLGFLqv-aekIGDHa-PVgAvFrnGrft-GH------pgHnplaaHyYptrseIFR--Ese-mantksagkrVrQtaertIRTR-------SVLt---RLRKMQX-----------------------------------------------------------
+>SRR3972149_2173030 
+----------------------------------------vsLRAHL---S--RPRLWVYRGERVVLSARAASCAPA--SPT---------------------PTGRYmv-sdrVAFPg--GgVL--GT----YAfglsgIqpNlPpgWGG--Gn-qVAIHGP-------NDPg---AIRERWLPEGLRARPX--------------------------------------------------
+>SRR3954470_24120976 
+-------------------------------------------SR---A--QgEpNL----NARVqI--L-V--NK------A---------------------PRGS-aaTaqkM---yV---FlD-GK-----PvFA-W-P----FQ-QAA--------RV----L-RlPFQADIIvRaL--R-AE-FFG-STNE-X------------------------------------
+>ERR1039457_2591042 
+----------------------------------------VsIVNN---A--THTMQVFNNDMLLATYPVSLGKGG--FAT---------------------IQGTLivlyKtpvvvM-KSc-PT-FhTPPP----aSpvalsttatrstktrrsrpvatsstprPgpsarRdEpTCRTAaSTsa---MRAP------RsStT---SA-SrATSFRSRTPATTRRTRTVRE-I-GNcrSQrS-----------------------------------
+>475477 len:121
+------------------------------------------------------ISVYlSqtRtDDVrqVTA-DLSAAlAAD---ENV---------------------EG-Ytv-L----SGMvF--S-----MR-S---E--ERr-------------------------------------------------------------------------------------
+>379736 len:672
+-----------------------------------------------------------------NY-I---KE---LP----------------------P-AHYmsvSpyeikI-DKyWDiN-FssNtETlK----ikSDdLvNeIseTLM--DSVKIRlRA--------DV---PVGTy-LSGG-LDssaLT-ETVKKNFN-NeLRS-FG-----------------------------------
+>3274972 len:114
+----------------------------------------------------QYL-LhF---RfLLCKiWQ----K-N----T---------------------PQ-HY-hITSE-P--lF---P----LEkkhadY--YYE--DteSH--Y-T--------TV--AVF--P--fQ--LRhI---EVHTIp-S-------------------------------------------
+>2876407 len:490
+----------------------------------------FrCpVD----------I-IgMTtsEkGwRKLNlSW----G-----V-T---------------------PVlcEDF-ssM-EvMf----YHamkKAK----evLSLqtgDaVVLT--GGL-ING---------K-----VGN--TN-VIKV--E--------------------------------------------------
+>2675109 len:141
+------------------------------------------AsppGE---G--NDPAG-LR-A-LI-E-TMEQGR-iEAilVHDcN---------------------P--VHti-pp--A--SG-FQEAlA----kVPF-VvsF----SSH-LDDT--------ArM--ADL-VlP-DH--TAL--ES----WGd-------------------------------------------
+>25269568 len:218
+--------------------------------------------------------A-AQAN-V-AH-LAdTAK-A--H-A---------------------EAGHW-M---f----FTRDT----HPd-N-YLETREG-R-H----------------L--PVEH-CIE-G-EDG-WnL-APELENAMaGTEP-a-------------------------------
+>25195512 len:337
+---------------------------------------------------------F-E-TLLTT-SdiVSV------H-A---------------------PLNEY-tkdLMDR-EA-F--AK----MKkTAIFLNl-v-RGpIVVEqDL-------y-E----ALetGEiAAA-GldvlCeepMsEtnpLvKIKDSKKL---II----------------------------------------
+>1667416 len:216
+-------------------------------------------H----A--PST--A-TPGtE-TQSe-sPgTPTGSNS---AA---------------------PEPN-pAstnI-Q--PR--K-AA----VP-DI-L-----IAINKP-------TQ----RL-T-VTvNGHVR---------Y--------------------------------------------
+>11183938 len:708
+-------------------------------------------TE-------QHMYYYQNGSIIRS-eERRSGdiRYD--DrAT---------------------PPGIFtlyykKspdVLR--GekkpDGtyeYE-TQ----VTR--SEEr-RVGKECLTK-------cs-S---RGHTSelytyAGSHGCINMPLDAAATLYS-IIdtn----------------------------------------
+>SRR5690606_32347124 
+----------------------------------------AqTApkERA--A-l-STAVSLARGrGK-AEE-R-EEGRQvlA-VF-H---------------------PNG-FapmKlvgrdIMEE-AASvL--GP----edVLYlpDIYYA--GGTAdqsISSA--------ElV--AHLnaatGRE-A-G-VYLPSKDA--VIA-AIAAEAr------------------------------------
+>SRR5690606_29868499 
+------------------------------------FNQVVVVDV---S--NQNIATLERsGEgtwHILSMnPATSGKHD-pPYAmeT---------------------PLGIFvlQek--K--PKMlYteDGSE--VIkgyAPHAsRF-R--SEEHTSEL------Q----------sRENL-vCRLLX----------------------------------------------------
+>SRR5680860_1762923 
+----------------------------------------fFALCF---F--FFFFFFFFKQK--TAYEIGVRLVG--SEmC---------------------IRDRYyv-tikMRPSn-PAgVY--GQ----LAmgisgFsEqLpdWPG--Gg-qVGIHGT-------NDEs---SVGSSVSHSCIRLHNEDILELNP-SV----------------------------------------
+>SRR5260221_123026 
+------------------------------------Y---VFVHR---K-l-PQSLNLWHNGRvILRS-PGNTGVPA-a--PT---------------------KLGTFsvfeHvpvgeMRGTn-PDAYG-EA----r-----qHHG--EGa-LLDE--------lVR---ANPDadrppshTPEGLGEHALqPLGAAGALR--------------------------------------------
+>SRR5215208_7742609 
+----------------------------------------DLFAS------PPvA---TGGD-------MDAHTAW--SVS---------------------DREQVppsl-vvsARL--QL-Gagprsd-pARS----qKPTRnPWMGl--SvpGVGIHGT-------SQS--LSVGYSVSHGCIRMKRRDANRCSA-WSg----------------------------------------
+>SRR5213593_4972303 
+---------------------------------------AVrVrVS-l---S--KQNVYVM-EGdRcLMAA-AISVGIPG--KPT---------------------PKGNFtiyaKqeqk-RSgSygfsvqgnrivpstggg-PGRYv--GyP----MGY--CVNs--RqHMGFTrA--------l--C--IRT--RvrmDVFGCMAKPRQSFTRWX--------------------------------------------
+>SRR4051794_22732696 
+----------------------------------------v-sVVDV---A--SHMMDVYDGDQRVQTFPMSAGSEL--NPT---------------------RNGAHvv-tqsYRNItMDSsTF--GL-----AvdapggYraDvEYA-----vrISnngefVH---------GAPwwSISRAAaMcpTAASTSPPSAPPGSSS----------------------------------------------
+>ERR687886_214074 
+------------------------------------------------------TTPSVSGKFHWVSSSIVHWRpekywakgtkiK--VSV---------------------NGlGPHvv-lskEMVHsMSSaSY--GL----TDknnpyyYdpeDvKFC-----trITysgefLH---------AAPwN-HSLGrANLSHGCVNLSVADARWVYE-NFl----------------------------------------
+>ERR1700683_2801312 
+----------------------------------------IEIDK---G--RETVRTFpQDGTLV-AfYPASVGSEE--KPT---------------------PSALL-rV---f----WS-SP----IR-RTd-MT-QNtNLRvLSrRS------PSRS--TQVQtTRSAQ-C-GX-----------------------------------------------------
+>7202594 len:67
+---------------------------------------------------------YRlppDvDSIV--F--A-G-E-----V------------------------VFEde--EG-SR-FT-QE----dI--EM-LK--R---LHDA-------vEKL---KLDLP-P---IK-SPKTepPK-----------------------------------------------
+>7068111 len:111
+------------------------------------------------------LYYiY----IVY-FSd-dTTNNQK--Y-T----------------------IA-Ytl-sLHDDl-PiSqQHAPAP----MPgRPV-VP--R--SLRrdGA-------SR---HA-GRR--HRrqC-QcL---H-Q-LLR--A----------------------------------------
+>5896540 len:68
+------------------------------------------LH--------KPFAIFQND--------NTGR-S--W--------------------------IW-L-ED-ENRWsE-AS----AE-E-FI------ALQ-T--------------L---AEY--LRLS-DDpMQVLk-N-TLEAaE-------------------------------------
+>493893 len:151
+-------------------------------------------QK------AE-I-I---A-LTRALTLSKGKQvN-IY-TD--------------------SKcA-Yhil-psgV-R--GD-FllpK-GA-----P-S--LT----VPLF-T--------N----SF-RP--HTS-KLK-RE---LYT--VR---------------------------------------
+>4601326 len:935
+------------------------------------------------------IWL-DeEkG-IsIKRVTIS-SvSNA-eaLHdKrD---------------------NRGQL-ILD---K--D-GkK----QPTD-FVQ-TSGnH--HvAI-------f-R----------DaDG--NLQ-EHmVS-FYE-------------------------------------------
+>2588484 len:113
+----------------------------------------------------------VEGEQKHVWKVSAGKRP--GWT---------------------HTGTLRpqfLSRNhRSRLFPGAP----MPYVVFYY--RDGAIPGP-------TAI--SRLRKPAS-----------------------------------------------------------
+>236151 len:548
+-------------------------------------------DH---A--EHKARI--D-R-IRE--VSqkLGK------T----------------------VAIL-L-D--TK----GP----eIrTHN--MK--DGV-IE-L--------E----K-GKEV---IVSMS-E--------------------------------------------------
+>UniRef100_A0A3N0I860 Uncharacterized protein n=2 Tax=Slackia isoflavoniconvertens TaxID=572010 RepID=A0A3N0I860_9ACTN
+------------------------------------------MH-------QyDGYYLgtpYSAGfT-VETcmYP-N-GaRRwdG--FAgmNC---------------------TG-FvaHayrMCGgDlgaIGaNnnhSpWSGG------PgggsY-InaW-Rw-y--GYAVDsGA------KmytfNSV--RDmLasGvaQKGDiiffktDGsidChIGfFwgdGPSDNK-MWH-QI------LP-qnCI---SACFNNA-NKAEINQQ----------
+>SRR5919199_4307086 
+espepp----------------------------------AD-QPYIVVSI---E--DRRLWY-KkGDQVL--FtTqVAVGsgKTlvqragHDewk-FDT---------------------PRGRLvveSket-DPVwVPPDWhfveqakkkglgiiklqrgQsiplsDGsmitidgsdvvrkypdghsvpydaaegREIVAggniiVPpygtnqrrYmDvLgtH-RlSl-Gk--RVSGK-------TIE--PRLPAPX------------------------------------------------------------
+>SRR5919197_396003 
+-------------------------------------------GA---R--QRvpRLRQHvDrERQVVlQA-rP-S-RRRR--HrERL--------------------PQEA-qllDprr--RRl-EH-L--------LeP----LA--RGqrpLDVRRS-------PE-----MRKRRPHGr--RF-PESvsAAT-YSP-TwppRQ-Yh------------------------------------
+>SRR5699024_12543686 
+-------------------------------------------------------------SfICFMLPLFSSCFS--LIF---------------------PQCTTll-lfvSSD--PS--lsLsfptrrsSD-----------------LLIHGT-------SAP--DSVGLRVSSGCIRMNAPDIKALFS-SVr----------------------------------------
+>SRR5580693_7790122 
+---------------------------------------------------------LRQRQVVCDIPGQPWQGR--VPH---------------------PLGHPDrpvqdA-RGg-HE-VLPDV----pHAgraqyYdDpVYDDTaIStsGY-fIHAA------PwSvG---SQ-GrADVSHGCVNLSTARAVVYYN-F-----------------------------------------
+>SRR5437016_2304897 
+----------------------------------------lmprWFANR------LAiCYVCYGkpsASSp-AANAPFARGRGE--MTK------------------LTGkITGLMpr-mlvLAA--PA-Lllaacaap-apvvgpCGP----dNPLGaYAMHl--GwkSYLLHGT-------NKP-D-SIGRAVSHGCMRLYPEDIEKLFG-EV----------------------------------------
+>SRR3977135_3519410 
+--------------------------------------------------------------aCVIPVRVRIGTIG--GRT---------------------PRGEPrv-iakIKH--PA-WyppesirkehaengDplpkvvgPGP----dNPRGdFALGq--GavrgALTIPPV-------VWP--WGWPPVTASTCF--MAATTRRPSE-SRsrasv----------------------------------------
+>ERR1035438_729075 
+----------------------------------------VVVSK---S--DSSVTAFDaEGKILSYCVATIGSEH--DPL---------------------PIGDWkikrvwhNpvfyYDPQlfwnanPSDDkAEikPGP----rNPVGvVWIDlNDANRFWRSqskC-------RSP--QApSRLRAALRCALF--HNqsQLSpgLt-R-PAP-grarlkasvD-------------------------------------
+>6406385 len:820
+----------------------------------------LpYgLTV-------KGI-CrYVAGRACpApTgWreglrQgLY-GAAS---ST---------------------PRrGAaF-pV-S--PG----GR-----PV-LWP-p----WPF-AA--------A------GK-CPVGtAV--PPPASRqTFYKGaviMI----------------------------------------
+>UniRef100_UPI0011EFBA5E hypothetical protein n=1 Tax=Actinotalea sp. HO-Ch2 TaxID=2607497 RepID=UPI0011EFBA5E
+----------------------------------------lsstdlrLEVRL---T--EHRLLLHRRDEVVLDVAVGVNPQA--APA---------------------PGTGYfv-telLQPPt-PDgVY--GA----YAyglsgApPvLsaFAA--Gag-lVALHGT-------SQPe---TVGTDTPTGSIRMLDTDVTRLVQ-EFglp----------------------------------------
+>UniRef100_UPI000BEE738C hypothetical protein n=1 Tax=Bacillus thuringiensis TaxID=1428 RepID=UPI000BEE738C
+----------------------------------asiAT-PKYLVFKH-----f-ENKLY-YvKH-KLlIKEFLIITDQSK---KLI--------------------PAGRYtv-vytFSK-hYS--YkNiKEK----tLnhQL-Is-LKStKtNdvNYGICET-------NRE--NNTKNPINvD-CIYE-----KYRYT-VVT--FsGerRNNc--------------------------------
+>UniRef100_A0A2E3PZ25 LysM domain-containing protein n=1 Tax=Phycisphaerae bacterium TaxID=2026778 RepID=A0A2E3PZ25_9BACT
+-------------------------------------A--V-VDL---D--SRDLAVFQeidDGsRdLLIVMPIALGpdlEAG--IdPDR--------------------DRvtGVYrvRpqgMRRnpSwrNPaTgRmWSRGD----VgnPVGeHWISl-EAiDqIdeadAtrppvvLHGT-------TE---DHpIesGlHP---GLIALEPRDIEWLY--LMlDT--------------------------------------
+>UniRef100_A0A1G2KX43 Peptidase_S11 domain-containing protein n=1 Tax=Candidatus Sungbacteria bacterium RIFCSPHIGHO2_02_FULL_52_23 TaxID=1802274 RepID=A0A1G2KX43_9BACT
+-------------------------------------KReAL-IwD-------RRDF-VFADmraGimTwyeAgVpRAiFPiVaApkPG--G-FFDI---------------------PQGFYtaQdkaV-Q-hVSKS---GR----MRLsSvVYL-f--GNYMIHAA------PaART--SaALaG-AAlDeTG-IQLAPPDAKEFFA-RVAS--------------------------------------
+>SRR6266481_3066735 
+s----------------------------------------IEIDT---K--NKVLTVLEg-GKELAAFPITPGSKQ--LPA---------------------PIGTWrivkiatLpwfrWDKAmllhgrRSSDfYNipPGP----rNEVGlVWIGlKKGRFTHVRY-------RFS--LEKARRNLLPCVTD--RVlnDMLCf-E-ENX---------------------------------------
+>SRR5690606_40871461 
+-----------------------------------------------------ALYLYENGVRIREYPIAIGSvVE--KET---------------------VLGTTri-inrVVN--PT-Yyprnwwlregve-pipPGE----dNPVGtDRKStRl-NSSHVKIS-------YA----------------------------------------------------------------------
+>SRR5688572_32917649 
+-----------------------------------------------------RLRLRA-RpPGL--YRrhLLRPhRQrT--L-H---------------------PRRLLhqpPhryetMDSTtigYPKgHakYyRl-EN----V-lYTQYYN--GGe-TPHyA--------wwHN---N-FGNPMSYGCinLRL-T-TAKWFWDw-------------------------------------------
+>SRR5688500_20230105 
+-------------------------------------XMCrAVNVI---C--SDl-L------R-LNEFTAGIGRTA--APS---------------------PTGRIsiqDpVPTQ-PgwRTV-y-GG--GTLTltaHsNvLktFMG--GdGlVAIHG--------agtGRS--WRVGQASSYGCVILAERQLAITAR-YA----------------------------------------
+>SRR5438445_6594580 
+----------------------------------kSQ-S--MTwVPR------SyHRL--F--GwKvhvsIpVrYAYpsdkvPpIiArLARAvD---TQ---------------------PRpsG-VtaSaddM-SiDfvHSKpgrSVDQKK----aLAL-vMra-LRSHAsSVripVqvVSPK------VSD---KTLGRTITVDLSNntLHLYDgFN-VIR-------------------------------------------
+>SRR5438045_3741097 
+----------------------------------------IVVSI------PDrKLALVENDAVVTIYPIAVGAPV--SPS---------------------PVGTFsv-vtrVAN--PT-Yykq-vlkESP----------LLiQk-EGRQE-GR-------NYE--GGNGRRL-KGWLPCVSQTVPNAIP-FArrsgisratas----------------------------------------
+>SRR5436309_10707944 
+----------------------------------------RDVPs----F--PTRRSSDLEGRVVRRIRVAIGKPS--TPT---------------------PVGRFav-tdtLRISkr--DpEY--GC----CAvaltgRqpNlPqgWTV--Sd-rLAIHGR-------SEEh---TSELQSRENLV-------------------------------------------------------
+>SRR5436190_1390511 
+--------ITPATVEFEL-geAD--------VAGPFtpriPRd----LPAQA---N--LSELEYQSvSERLAERFHVSPAVLR--GMN---------------------RNKRFaagervlApavapFDPDtkp-EHEsATikAGP----nNPVGvVWIAlNLEHYGLHGT-------PEP--SRIGATESHGCVRL--TNwdATRLa-S-LVK---------------------------------------
+>SRR3981189_2573134 
+--------------------------------------------N---P--RRSADRRLPGELRARLrPR-----pR--HAQ---------------------RHSRGdv-qgr--DVlDEQpLY----------gyTdvNvPWA-----vrISnngefIH---------GLAaSIWAQGtKNISHGCLNLSPANAKLYYD-SVl----------------------------------------
+>SRR3954467_7014403 
+----------------------------------------IVVDK---R--IRPVLAFGrHTRLLAFFPASVGSAE--KPA---------------------PSGDFvvrsvayDpdytYNPAygfkgqKAKRpVRiaPGP----tTRSV-WSGlACRrrVTGFTAP-------PSL--TTSARRSRMAASAX-----------------------------------------------------
+>SRR3954454_5707467 
+----------------------------------------------------------------------ITTGrD--SPW---------------------SSGSShdat-aakL-DG-PGigGaFGccil-GlS----aqQAhppssWdEtRqWL-----VAIHG---------G---GGLGSAVSARCLHP--HEQS-LrY--LIRV-V------------------------------------
+>FLYN01.1.fsa_nt_gi|1067817245|tpe|FLYN01067383.1|_1 # 1 # 105 # -1 # ID=67383_1;partial=10;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.771
+----------------------------------------LrVeVDV------ERRLMVlFLD-EVfVKEFRVGVGKPE--SPT---------------------PRGLFevGkk-QEN-PD-WyppQGGK----I-LgatrATsWAR--SGsTSptprIPaatactapTS-RR---PwaaSaaRA--AcAWptSRPASsTGgCAR-TPAGARpR--R-SX----------------------------------------
+>ERR671937_610188 
+----------------------------------------SFPRL---G--SSRIAY----VAIVRSRVAVSRRP--GSR---------------------AFARFdrlnl-nhvPTIFs-IRgAA--VD----ATcnprsYlvqvprrpNvLtgWTQ--Gg-pIAIHGT-------NAPw---SIGKAVSNGCIRLPNPVLKKVFA-QA----------------------------------------
+>ERR671923_303347 
+----------------------------------------LVVRL---R--AHRLQLWsKrrlrQaGRIrrrTATaWR-A-GlRSvilN-LFQwclrSI---RK---------------PRAT-sv-r--Q--TS-FpaRTTqP----LPpp-A-F-K--AS-P--AA-------KK---SRLvlyGKiAAARPC-RLXX---------------------------------------------------
+>5105962 len:57
+--------------------------------------------------------------------C-R-KE-----I---------------------PH--Y-erhC-KK-AER---G-----I-FPL-VR--GkdG---KGA-------y-S---AQ-RKQ---GiR-KrpYSAVRSRA----------------------------------------------
+>450622 len:77
+------------------------------------------------G--AQHMWCYKNGALvVDT-DVVTG--N--I-S----------------------KG-Y-nt-----PS-I-v-AA----IQYKT--R--NAV-LKG---------D----QL--PTP---VNYwT---A---F--------------------------------------------
+>23778962 len:966
+----------------------------------------LaFV-----------MAFtF----IVST-QVhAAdGESS-aLMDiK---------------------SDG-Yei-qIADS-ASiTYT-GK----eVtP-A--IK----V-VR-T--------D----E-SKEET---V-LD-EN-------------------------------------------------
+>1982942 len:55
+----------------------------------------L-L-----G---E-LKVLRNGT-M-SLHC--G--N----V-----------------------A--ai-nIANN-TvQ-FERTK----hVEIDKFF-------IK----------E----KI-Y--S-GVLR------------------------------------------------------
+>1140885 len:89
+-----------------------------------------------------R---YEmANELV-T--L-TGNT---WNS-------------------------WtaiSpvtrL----PT-WcRHSR----CRHSV-TK-ANDY--H---------KR---RR--QP-AR---KVS-ND---LWQ-------------------------------------------
+>1095984 len:122
+-------------------------------------------EA---G---Q-LNL--DTTaVpVaATlYkSIAmVAQAA---EQ----------------------RGV--rI-D--TSACN--P----aLT-A-W-A--DD-TrL--T--------QV----L----TN--L-L--SNA--VkYN---RP--G-----------------------------------
+>UniRef100_A0A4Q8C4P3 Uncharacterized protein n=1 Tax=Nocardiopsis sp. CNZ304 TaxID=2512143 RepID=A0A4Q8C4P3_9ACTN
+----------------------------------------lvttayrVEVGT---G--DFAFTVFDGDEEVRTGVIGTGKGE--TPI---------------------PEGHYyf-pelLQPPd-PEgPY--GV----YAfglsgFsEtLetLAG--Gpg-qRHQRRG-------RAGp---RGQPRVRPGLRRGHRLDGREPAD-GRp----------------------------------------
+>tr|A0A1G2DMS1|A0A1G2DMS1_9BACT Uncharacterized protein OS=Candidatus Lloydbacteria bacterium RIFCSPLOWO2_02_FULL_51_11 OX=1798667 GN=A3J08_01310 PE=3 SV=1
+---------------------------iVDTPPFLapkEG-DApTVLVpTK---G---Ka-VRVdFETG-VV-TlF--SEGKEvGR-FtArTH--------------------P-DEFSpwrvLQGTytVSaRtNthY--SP----LAgasFkdAvLFAE--NGM-LRAA--------E----E-GeKnlPAHAG-FALAEADAHAVFT-FAdE---------------------------------------
+>SRR6516164_9385683 
+---------------------------------------ESrCVP-a---R--KILLPLH-HAnEcSHAC-AELDGYSP--DEN---------------------RR---Reqtr-TNnPldirrng-PGRYv--GyP----MGY--WCEf--ApAYGFHqG--------y--I--HPA--PHTHGCIRLHGEAAAKFYA-LVR---------------------------------------
+>SRR6266487_2325065 
+---------------------------------------VIVVSL---A--RKRC-AFiKTvSS--STpF-MSrlASTND---RRL--------------------PGcGAsFcanTppnsnrvIPRAq-PSGIprQKSS----TPWntivAaIsF-Ti-AGGalImAL-AL-------TS---RTM-TvVVTkH--M-L--ATAA-M-D-VLTR-Hq-TMQ--------------------------------
+>SRR5688500_20051246 
+----------------------------------------FFLQA---E--DGireyKVTGVQpCALPIFFAPVTSGSEH--DPL---------------------PIGDWkvkgvarDpsfsYNPDlfwdseTTDVkAKipPGP----nNPVGrSeerRVGiVGKESLDMQghiG-------NRX---------------------------------------------------------------------
+>SRR5512132_3833313 
+-----------------------------------------Q-DTTTSN--ADSLRVFiSlDARRLH-V-VNAhG-DT--LRTA--------------------PAavGS--graLASDl--RSWQf-NT-----P-----K---GVTtvIRKE-------ENP---VwI--PPDwH-YVEIA-RQ-------------------------------------------------
+>SRR5438034_928940 
+----------------------------------RP-R--TAASAC--T--SPTL----NGcsTTsrsArRsSsWrPsaFrATeGrRSG---PC---------------------P-GA-Rsr--PAr-AADLE-AlP----r-P-SR--EARGrqpGAGFHAL-------AS---RRAGRPRTllapgEGgCAQL-LG-I--VVRP-VQA--rG-----------------------------------
+>SRR5436305_1550382 
+-----------------------------------------QAkDL------AK---VY--GTVV-T--V--DKAH--FKlRL----------------F----KGLkF-ar--A--TR-WRSAS----r-R-TR--R-RAG-As-RSP-------tSRS--TPCGRcPTRRGrasC-R-A----------------------------------------------------
+>SRR5271165_1468109 
+----------------------------------------ikhadrvVLVSI---G--TSTLQFRRKGVVVKSYVIstskrPPSNVmHS-LGT---------------------PRGLHei-aerRAGGe-AAgRvPT-AR----VSse-----------------------------------------------------------------------------------------------
+>SRR5205814_992402 
+----------------------------------------LLAAP------GWaSVYPLppdgsPvGGSdesMQPVYEDTLPHIA--HRH---------------------SLGYyEii-patPGA--DV-Wwpgpgtk-lllPGR----rIPPAgSRVGl--AagdgEYMLHGT-------NSP--TAVGMAVTHGCIRMYPEDVAALFA-LV----------------------------------------
+>SRR5204862_82945 
+----------------------------------------IVAAP---S--FADGttPTPTTTTTTTSTTTATTAAP--LPA---------------------APAPKkt-tasVKAKrAT--sR--VN----MVfpaagepsaYs-kLteWPG--Gg-vVGIHGT-------SAPq---LLGQAVSHGCVRVSNQTAAAMVK-LA----------------------------------------
+>SRR4029079_4334527 
+---------------------------------------------------AKlpRL---RDrEE-VAAL-L--EK------I---------------------PARTaLelRdraIFE-l-A--YSc-GlrcE----eITaLdlGsLdF-D--SErVTVQGK-------gSK---TRIvpvGEPAQRA-VaRyLERGGHE-LVR-SV----G-----------------------------------
+>SRR2546430_784034 
+----------------------------------lSDHD-FrIVVEI---G--AHMITV-SRGtSVVdRE-PVGIGtRDT---PT---------------------PGGSY-F-T--TA-L--------IrPY---V-----VSVRRT--------R---STM--PAAASCaVQ--PRRrSStRI-K-KTRRpaERnGSQS-x-------------------------------
+>994482 len:246
+---------------------------------------------------QQQV-L--E--LIR-Y-M--DQ-------------------------------MLKqkV-------F--SQ----VE-QLdYV----A-QM-----------E----QL-------C-----EN---LYQNeKsV----------------------------------------
+>5177137 len:250
+---------------------------------------------------------YSnNyGE---SFEdIS----N----S----------------------IG-L-I-K--QQ-FR-D-----L--S---N--SD--LQ-T--------------I-TEDAYA-LK----DT---FD--I----------------------------------------
+>UniRef100_UPI00159ABC09 SH3 domain-containing protein n=1 Tax=Clostridiales bacterium TaxID=1898207 RepID=UPI00159ABC09
+-------------------------------------N-YTNLDY-----y--RN-Y-F-DySKLqqypMwYAqYQVASpDvKTS-LWQyS---------------------SKG--ti-dgINGDt-DlDRYNiAG-----LPestkTGI-CT-AAdGsVNVRrTA------PNgDP----VGqiSPNEevvvldqqlvNGAVwYqIRKTDgtVGWVYGEYLK---------------------------------------
+>UniRef100_A0A0C9PVN6 L,D-transpeptidase n=14 Tax=Lactobacillus TaxID=1578 RepID=A0A0C9PVN6_LACPA
+------------------------------------------------A--PAALSMaLQAvGvNpsLsyLmNNLPMagSVpGgQAGSIYGG-----------------------GFqYviTpaaL-TVy-AQNWdknarNiSGaS--TTqiIaevvtghPvlYyGFspY-Q-KSGdYNrnhCHviaG--------f-DPNRGfEImdpGyntQfdRAgSAGgnS-RF--DHGP-VY--WI----------------------------------------
+>tr|A0A0U1AF59|A0A0U1AF59_9MYCO Probable conserved lipoprotein LppS OS=Mycobacteroides abscessus OX=36809 GN=ERS075547_02789 PE=4 SV=1
+----------------------------------------vIsRVDD---T--NKILNIERNGEIIKTMPTSMGKDK--APT---------------------NNGTYii-gerFKDLiMDSsTY--GV-----AvnspdgYrtKvXVV-----tmSApkavrMS---------C---MWTSQcRTSPVR-MGRSIVNC------------------------------------------------
+>SRR6266540_1481920 
+------------------------------------------AGQ---P--RQaELTVLQrqHGRdD-QE-RV--GvvR-lR--HlRH---------------------P-GRL-prrV-P-hqgvLADavELERA-----VhPLGtV-VS-TRpGqaqrVArLHqhlsGE------RrlAvAPrAHRR-sGR--GQGhrAepaLgRrL--DRLERLLGG-VR---------------------------------------
+>SRR6266481_415825 
+----------------------------------------LVINI------AAmRIFYYppvRRGeRpLVLT-P-R-GVP---VPiTD--------------------PDATVeqilaGaprVQN-vLPEgsSWD-GkS----dLPMdeASF-K--Q-mLSeIEpGA------PAgDaP--EQTAdAPApADAAkApRARPKN-------------------------------------------------
+>SRR6266436_721633 
+-----------------------------------------------------MLGVF-EGdKIIAAYPVTVGSTR--TAT---------------------PIGEWkv-rgV----AK-L---P----M-Y--FFS-RASI-LRAR-------SRL--ESI-RRRS--CtkVRiMamfT-SSAREL-RRTLES-MA-TP-cSVKAX--------------------------
+>SRR6201747_1094393 
+-------------------------------------------------------------RKLRAFRAVIGAAA--TPT---------------------PRGLYaiYekL-PQ-AnpkGflgPWAl--H----LTaFsDvLfnY-G-GGrGaAgdprGARPR-------SHrrRq--HHLDGQGRPARHAGAHHLIGWCPA-GVpAP-MqGrww-----------------------------------
+>SRR5438874_3447834 
+va----------------------------------------VKIDT---K--TNMLEVHQg-DKLIAAYPVTIGSAK--NAS---------------------PVGEWkvrritkLptfrWDKEmlqhgqRSGKdRKstRLN----sSHVEiSYavFClKKKttnpGDGFQ-K-------IDR--GYSYMETGHGGIDLv-QtATwvALRLn-T-NAV---------------------------------------
+>SRR5438477_28977 
+----------------------------------------svrqVAAQI---Q--LWKFMVETDCPYLAPVPFrgkrc----------E---------------------PAYTRlv-aesIASA--RgIpLeeLatc-GG----AIvrrwakwksRkklatEcR--R--Grs-skivvgpaksC-yLTPS-------GAIr---SLAAF--FGCVGESRKTRILSVA-IS----------------------------------------
+>SRR5258706_1762887 
+----------------------------------------VTIYK---G--KRVLQAHDkEGNLIAQFQISVGIKR--FEL---------------------PVGKLkivsevkDfffkEEDGirdwsvTGVQtCAlpILI----aGHLSiRY-GlKGPNLGVVTA-------CTT--SThaIGlgmRTIQYGDADL--MIagGGEMa-T-------------------------------------------
+>SRR3546814_7440972 
+----------------------------------------mccmcLLFFF---S--SRRRHTSCAlvtg---VQTCALpssnGPGEVgGS-GCT---------------------PRGRHri-rakIGAGl-PHgAvLR-GR----RWtrevwspelgaqypgrdWilsRiLWPS--GaepGrseehtselqsLmRssdavfCLQK---------Kt---RIQVPKQY----------------------------------------------------------
+>GraSoiStandDraft_2_1057267.scaffolds.fasta_scaffold3603886_1 # 3 # 260 # 1 # ID=3603886_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.539
+------------------------------------------------------L-AFaSlntDG----T-PtTSSG-P---FTvTA--------------------PVttQTYtvTptaaqtvpVTNvvQytatglgtVPvDiQlFncaNvtntSGtvtfP----nsTnPg-GTgnFAQ-QGantGqITvLNGA-------PT---G-LpaGAP-DNG-VTpVS-GQAT--FS--VTDATAQcvTP-vvfqq-------------------------------
+>914871 len:119
+------------------------------------------IS-------KQRVYV-KSGdKVI--YTM-L--------C---------------------PTGQFy-adtV-R-yleFSRrKvclFRSGl-----ITvLSkIMVSHhHTApTSI--A-------wST---NSFSlRwKAkTiHSe-L-LmAVPDAKW-F--LLQ--I------------------------------------
+>5445147 len:123
+---------------------------------MtksAT-NA-LLVSV---P--EQKM-LFiENGqE--REFfLISTAKKG--IgDV---------------------P-DSY-M-T--PA----GT----MEIAeKF----GdNLAL-GS-------vlKD----RVatGEvvPVeAPG--RdpI-VTRV--LW--------------------------------------------
+>3811647 len:468
+----------------------------------SGVDV-IRINM------SHS-T-FEEARdVI--LKIrDLNRE---LSviT-----------------------GIM-I-D--TR----G------P-E--IR----ITeLE-K-------NKI---KL-E--A-GnTIRI-VKN-N-----------------------------------------------
+>11512013 len:131
+------------------------------------------VDL---H--TQTMMVqL-NNDFKKTYLIsSaAiGiNNimN--SQgT---------------------PLGQhivF-ekI----GE--N-AP----I-YTIF-EArENkGtW-LNNP------DlNqDlILTRilRLkG--LENDCVD-SY-D-RYIY--------------------------------------------
+>UniRef100_C8P7G4 KxYKxGKxW signal domain protein n=2 Tax=Lactobacillus antri TaxID=227943 RepID=C8P7G4_9LACO
+-------------------------------------NRWVDgVyfgaDgRM--T--NgQfsaRI-InwFvEhEGK-L-TYS-QRGaRNG--SDgT---------------------ADcsGSM-taaLQAagAtAPAy-vYATSN----ItPY-L-LQ--NGYRlIYqGD-------NEyiPQYGDIviwGhinNPwESrH--IVIasgSSDNqraIS-VcW--LTQ---G-QPg--------------------------------
+>UniRef100_A0A0H3IYW6 Uncharacterized protein n=2 Tax=Clostridium pasteurianum TaxID=1501 RepID=A0A0H3IYW6_CLOPA
+------------------------------KNT-nnvnKSYkNVYkVIVRI---G--SQILNIYNNDQLINimTY-F-MNR-S-iLL-I---------------------PMSIFvTcnk-KSEfFSNKY--GE----YRY-YWTSi-SNNY-lLNNS------SydkNkNTTENKtF-K-VSNN-I-L--NKS-WsFyFD--ITKfi-YGnRHE--------------------------------
+>SRR6266540_1300735 
+----------------------------------------VsVVNV---N--SHKMTV-TSGsKTVKVFPISAGRPK--YPT---------------------TNGIhFtl-ek-AKTv-T--MDSGT----L-VGR--R--AG--I-GQ------RlPRL--RQpVGRQ-RH-lVLQLQP--ARR-H--------------------------------------------
+>SRR6185312_322971 
+----------------------------------------IIVDR------SDgELFAF-AGdRIVASYPATIGsKSN---PS---------------------PSGKH-kr--N-vV---vWD--------PsYT-Y-D-PEkNFQ-HcDN-------RQPl---EI-PPRPN--VPV--GS---VW--------------------------------------------
+>SRR5688572_31466152 
+-------------------------------------------RP------PGST-LFpYT-TLFRSgLPVAVGRAD--WPT---------------------PIGSFti-atr-EEN-PT-WD-------VP-qSI-LD-EArraGrkHPIRvlpGP-------NNPl--GAfwLG--LSQGdrkSTRLNSSHSQ-I-S-------------------------------------------
+>SRR5688500_19149578 
+--------------------------------------------V---S--VFRTQASATLTPLHS-------SP--TRR---------------------SADLYyi-kelFQPLd-AnGrLypdgpY--GP----YAyglsgFsEvLfdFGG--Gdg-qFGIHGT-------NDPsrseEHTpELQSPCKLGCRIRSEKKTKTN---------------------------------------------
+>SRR5687768_18101685 
+------------------------------------------------------F-FFQaeDGirDvaVtgVQTcaLPIlGnmMGqfAEG--LQI---------------------PKkGEIisl-kV-T--TDgQFSKGQ-----SWtdS--LS--GeenGtikYtvtAITDK-------rSEE--RRVGK--E--C-R----S-RWSpYH-X-----------------------------------------
+>SRR5256886_15093178 
+----------------------------------------VYVDT---K--ERLLEVFDn-NQLVCVFPITPGSTS--PPA---------------------PIGTWkieaaatWpwfrYDEGidrkstRLNS----S----hSQISyAVFClKKK---ITYP-------KQA--PDCDRADPRD------HNhrERRLd-S-LTD---------------------------------------
+>SRR3972149_5572341 
+---------------------------------------SQESPV---I--RRl-VLIAITVVVTTTVAAAPaGaEEtrtpliG-vngfstlvrlepDDSgE---------------------DVADLqr-sLAA-a-G--FYhsala-GP----VTdwcvYKYW-Af--TNfYGIHG--------yHQV--PTY--PASHGCIRVETWDADWL---------------------------------------------
+>SRR3569833_733802 
+----------------------------------------IVIMT------GArQLYFVLGGGQAFRYLVGVGKAG--MAW---------------------H-GRAyv-alkRKR--PA-WqappelaggGygtviaGrStS----sSPVAaRISAf--RlwLTAIARX-------------------------------------------------------------------------------
+>SRR2546423_7429349 
+-----------------------------------------------------RMKAFIDGtEg--RDMPVAIGR----HES----------------------IG--si-dL---h-TRS---G------PH-VVL---GnDrYTrM-SS--------A----SFG--LT-GA-G-S-DEPP-VaWT-TpIS--HA-----------------------------------
+>EndMetStandDraft_2_1072991.scaffolds.fasta_scaffold5501226_1 # 2 # 226 # -1 # ID=5501226_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+---------------------------------------gLgAWVSI---P--DQMLRIIQGGEVIWQATCstaekGAGSEmDS-LKT---------------------PLGWHsv-kekFGDDa-PWgQiFR-SK----QAqadkwrpgmpvdedLvltRlLALT--GeerrkN-------------------------------------------------------------------------------------
+>16332639 len:615
+----------------------------------------FSI---------QTI---DpTG--I-D-PVASAEQ---FSTH--------------------PIAQ-sv-L-E--G--YA-GP----lLPTTnIqeF-A--GeGiLAeVDG--------KQV----LaG---NHKLMeRfeISFSSSQEIg-T-LL----------------------------------------
+>11458518 len:227
+-----------------------------------------------------------KGQn-VVHYPLGIAARA--EVR---------------------PVTNTas-rtkTKD--RH-RyppasiraehaadgDplptvcrRAP----dNPPGaSKLTl--GraGLLIHGS-------NKS--SAHRH--PHACFD------GHLFS-MI----------------------------------------
+>UniRef100_UPI0012B886A1 C40 family peptidase n=1 Tax=Enorma TaxID=1472762 RepID=UPI0012B886A1
+----------------------------------RSVN--IknLgVNQF--G-yRTEsRI--pYNatrEqciNAMItRamEY-M--GTPykwD--YAcA---------------------P-GV-gv-dcagLV--m-QA-lYatgmDl-SP----MnPWDHYYT-PGhDhYAndMRsNS------RfmHvDI--SQIqrGDlVLyS-GhvAIYIG-NNS--IIEatPpRVRT--------------------------------------
+>SRR5919201_3542464 
+----------------------------------------LSADL------DDgRV-LsMTEgGsqRraavwLVRDLgQVpGlAGlGPE---PlD---------------------P-G-Ftv-erlaaiLAEgGhtlkrmltdqraMAGvgNaWsdDvlhRAK----LsPFARpeRLD--AGeIArLHaalvGV-------lTEAr--GSLAEQVG-Ge-VEI-PKAaARR-FA--VHGRAG-----------------------------------
+>SRR5471032_620966 
+-----------------------------------------------------R--AHAAGRg-FdRS-RArDqrrrAGER---HDS----------------------NGRrvFqi-qpM---i-GK--G-GS----sAPRSM-IK-NGGeAAtISAS-------rAE---RTI-----H-liCL-LA-GTA--FF---ITSc-V------------------------------------
+>SRR5438477_2816817 
+----------------------------------tIN-D-FLKVSS---Q-f-DRdPYSLpFAltAGyaSyLLKQYnQeVSSwGNAhQ--YHD---------------------PVdgGTY-nL-D-y--E-YgSNGT----g-P-----D--GNAALQyaqST-------QQP--SDY-QSAiDtiNGnFLHLRAHEAD-----------------------------------------------
+>SRR5438105_15092898 
+------------------------------------------IPR---R--ACEAGLSRVGRGLR---CARGLLP--QMR---------------------PLQVIllPtgI-EP-PpdAvlgSWLm--P----LTaDsEpLqqF-A-GGdGpFRSHGR-------GGagQl---------------------------------------------------------------------
+>SRR5262249_6226698 
+---------------------------------------mg-ADPPA---R--RGSPKKR-AGRLAPPNPATVGSTE--RPS---------------------PRGEMkvtaiakNptyhYDPSlnfkgvHADQpLDlpPGP----nNPVGlIWIAlSAK-HPRHTR-------SWQ--DQQARLSRQHSPYQ-----LGRs-R-------------------------------------------
+>SoimicMinimDraft_15_1059743.scaffolds.fasta_scaffold83181_1 # 245 # 370 # 1 # ID=83181_1;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.603
+----------------------------------------IVLNL---A--ERRMYYFLPGnRVI-TYPIGIG-AiG--FTT---------------------P---LStttVVR--KEA-N--P----aLchPrcCSTrr-VETKSGW-FR-P-------w-QPn--SSFRSPRRWGW-R---RG-R--WT-------G-----------------------------------
+>ERR1043165_7554232 
+----------------------------------------------------------KGGvDdgLrpVITHPIGIGKIG--WQT---------------------PEGTTkv-tskQKN--PT-WtppvsvrkehkengDplparvrAGP----gKPAGrVTDDa--Rla--DLSGS-------RHQ--QALWRRHaLEPWLHSFLSX-------------------------------------------------
+>2498391 len:208
+---------------------------------------YL-AQ-------SE-LN-F---R--HSW-L-I------Y-N-------------------------Lti-nMVK-y----WQi-SS-----ALAVCLCl--AGFG--GS--------NPf--DiAIAQRSSdlS-SVR------------------------------------------------------
+>21613556 len:240
+--------------------------------------------------------FpF----LL--YqPDQAS-----Y-A---------------------PAE-QQaaa-PSE-DDGYQ-------MP-ARL-R--RQV-VN---------y-------TSREAP-GTV-iIdTP-HT-YLY--YVlGN--GQ----------------------------------
+>UniRef100_UPI0015ABC1F0 hypothetical protein n=1 Tax=Bacilli bacterium TaxID=1903720 RepID=UPI0015ABC1F0
+-------------------------------------pSVFVEVDI------SDKI-VnvYKDND---DYc-LAKAETSDd-VQN---------------------REGYFdv-eyk--E-f-DT-YlD-D-----VhTdF--WVQlNNDtGFC-NAS-------y-D----E-SQK-DN--IYLSYESAKEVYE-RVNP--------------------------------------
+>UniRef100_UPI00159A8674 C39 family peptidase n=1 Tax=Clostridiales bacterium TaxID=1898207 RepID=UPI00159A8674
+-------------------------------------T-YVSV-----G---KPVLVWATiN-MVPSYP-S--QT---WMiTN--------------------P-G-I-qsV-D-yY-D-yWDsvTGE----IftwPanehclvlvgYdSdYyYFNdPyDGnGVkAYDRA-------lAE---SRFqG--L--GC-R-S-A-V-VL---------------------------------------------
+>SRR6187401_3535489 
+-------------------------------------A--IRVD-------TKtNI-LeVREGeKLVAAYPVS-RlR-A--Y-H----------------------LA-YRrM-E--GTR-N-RQ-----N-A-YVSl---G---QG---------N---AT-GteRAAAiFAC-S-DP---------------------------------------------------
+>SRR5919201_1753249 
+-----------------------------------------NAnDH------ARvaRVH-pHARGR--RD-rPLQ-ARPD--RDAC--------------------P---Hpv-vtkASSSarAPvgAgSpWaR-SR-----P-SnS-CS-SSsS-A-NAS-------RSP---ALtccGsSPGSQSdTkAR-SPSS---L-R-MI----------------------------------------
+>SRR5690348_17422282 
+---------------------------------------------------------------------iaiaicAKPPSlP--LLsfP---------------------TRRSSdl-kIGDGa-PLgTvFkdRrrt-GE-----VvavnapgRdpivtRiIWLR--Gmq-aqnrnafgrdI-yIHGR-------SEEh---TSELQSPvhLVCRLLLEKKK------------------------------------------------
+>SRR5665648_591156 
+-------------------------------------------pG----G--DvRAV-Vg-AaEADLLHT-GV--GR----L-----------------------PSG-LDpvarANDgEhATSgGHQ-GA----vLgarrP-GVqHVH--AGYRL-GV-------GD---TlDLvprShRPRvAvR-CdhLSLiHISEpTR-L---------------------------------------------
+>SRR5438132_14032469 
+-----------------------------------------PVTIt---H--EvtgtrNRSAFY---VLAPVHSACSPRLC--RSA---------------------PASRRptkdvCsscekpDLDRniwlflalylglqkipAGVILIIPP----EEY-------dRNHATQr---------------------------------------------------------------------------------
+>SRR5436190_2638580 
+-------------------------------------------DE---H--AgEAV-I---GQ-VeRTqgL-LG-GlAQG--MQA---------------------PLGPsLdl-veavvgLREDvaQPDTaYpaQakAGP----IAMcGeMLIQ-QSG-QLH---------fl-E-----LGEQ-QwN-VIHaLT-ANSQNLaHSESLPQ-FAQ----------------------------------
+>9643723 len:98
+---------------------------------------------------PTGLH-YiaKKiGhD-MPRFTIfK-GRK---L-----------------------P-GNLtl-idFEKK-NNE-E-DD----VT-SrIlWLK---G---H----------E-----IGiNK-G-Gd-VD-SY-N-RYIY--IL----G-TA----DEDKIVKAA-------------------
+>2744134 len:337
+--------------------------------------------------------FpF----FF--FfPVQAG-----P-S---------------------PYS-YQtpq-QDE-DrSAIE-------QP-ARF-K--RQV-VN---------y-------MTREAP-GTI-iIdTP-NT-YLY--YVlGN--GQ----------------------------------
+>2004319 len:145
+------------------------------------------------------V-M----RIL--F--A---------T---------------------AVA-Fll-vL-------FQ-TQ----tAS-AnL-IA--Q-ISL-SS--------Q----TM-V-VTqNGAVK---------YR-------------------------------------------
+>SRR6266508_2505610 
+----------------------------------------------------QVIYIVSSGR-IQQiLDASSASAS---PP---------------------P-A-W-tr----y-TASW--SP----AP---------GCS--ST--------AP--D-L-Q--S-GA-TFT-R--R-M-Q-X-----------------------------------------
+>SRR5579885_2572226 
+-------------------------------------A--F-LS-------ARRL-Ap-RslGGHIaV-G-PggrArAqAGrcRDrcGLrg-RgArA---------------------PAAEHll-hdLADA-TER-aR-DP----ceVGWqdQeLLVRRv-GeGLQrLH-V-------llAE----EI-vER-ARGA-R---GHSK-LsLS--MT---G-DP-s-------------------------------
+>SRR4051794_1423218 
+----------------------------------------LDVDK------RNgTLKAFDQGaTLI-AfYPrqseVRiVRRRAVrsr-SPA---------------------PTRIrFi-tttLTTS-SEaS-NrNSR----sM-FsraRtIrW-E-HTGs-Acp-HrGT-------AST--ER-RSP-T-GsASpRrMAASGX------------------------------------------------
+>SRR3954471_764370 
+-----------------------------------------R-HQ---A--GQRL---QQRQP-RThYAhLD-GH-G-r-HPdDRC-------------------PHAV-vlDatrdLHR-h-GQ----GP----LSYhGlLHFR-PADqLAahrvtIHnatqistdGI-------ylHEL--DeTVsaqGnSNTSHRCLNLNGANAKWFMD-------------------------------------------
+>ERR1039458_3626189 
+qhsgpqtg----------------------------------------GSGRQ------PRgESSSNRRGSAV----------H--A-Q---------------------SHRVVhh-raaHSR--SH-Lvyqg-kdraPAI----pATAStiTWvLAfSk-R-------------------PDRGHAFSHALVRVS----------------------------------------------------
+>SRR5262249_13760469 
+---------------------------------------------------RQHVEI--D-EAV----LDQNR-S---ES-----------------------GAVarlv-aerrL-Q-l--R-FR--Q-----P-A--VA--DEhLAeLHlvRR-------yHAP---LL--PTPyNGpSARLaartAPTQ-RtW-Y---C----------------------------------------
+>SRR2546427_9257485 
+----------------------------------------xmirrpprstlfPYTTL---F--RSRKEHHENGEDLD----pvigpGPDNPlGryaFyl-RSeE---------------------HTSELqs-qsnL-----VcRlLleKkkk-KR------kssNrskkkTaYser--------------------------------------------------------------------------------------------
+>ERR1700730_17645678 
+----------------------------------------IIrVD-------TKsRM-LdLVDaNRVIASFPIRSD-DSVcVHQI---------------------EHATFciNsddaL-REf----W--S-------WrQIW-D--SrN-SL-----------D-----L-ERL-H--IRyL--DGTA-FFX-------------------------------------------
+>UniRef100_A0A530NIJ8 Uncharacterized protein n=1 Tax=Mesorhizobium sp. TaxID=1871066 RepID=A0A530NIJ8_9RHIZ
+----------------------------------------VEVD-------KRgf-IVVddqLRTG-VpgI--WAMGdcNGK-G-a-FThT---------------------SYNDFeiv-aanlLDND-PRKv-S-DR----IeAYALYIDPPlGrcGMteAaVRksGR------RalvgQRPmtRVGRaVekGetqgfmKilaDAdTgeil-GCsV-LGPGGDEVIHS-VLD-lMYAKAP-isTLARA--------------------------
+>SRR5215467_12945489 
+-------------------------------------------TQ---D--KRSVVLLSEDPVLQcR-P-RTA--D--MEvT-----------------------G---r--R-----W--GK-----Pd-AnSHLT---SLRVSwG--------NQ----SMGfQRLESG--EY-PSD-R-----------------------------------------------
+>SRR5205085_1582995 
+----------------------------------------------------QT----PDD-----Y-LS-Ai--D--L-I----------------------NNDFlhlRameadL-ND-ST-lWyhQHAT----dISlmqhYNVY-S--StiGpvLVVSl-V--------E---QTV-RyHNT-GTlVR-----A---FR-VVX---------------------------------------
+>SRR4030095_5333310 
+--------------------------------------------------------FFKfN-RSC-QF--A-AR-S---TS---------------------SIASL-L-S--ARSYSSSrP----VP-------------HRT--------R---ST-ASSSAHAN-R----NX------------------------------------------------
+>SRR3989344_6296699 
+----------------------------------------LR-EV------AK-L-V--SGdKLL----MET---D----S---------------------P---Y-L-S--PEPHRKEQ----nHPKNVkIIA--K-lLAdLRNT--------SI--NQI-EEITdRNCQRL-------LdFX-------------------------------------------
+>10_taG_2_1085330.scaffolds.fasta_scaffold208211_1 # 1 # 765 # 1 # ID=208211_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.588
+----------------------------------------------------SSL-IYQKcAS-I--FSLTlTRRRA-h-F-----------------------PSAS--aakdL-KHhkaKPKSF--GK-----P-T-Y-Q-HGdpppACAktIH-P--------SP--QRLA-PAyKtH-WVRM-P------F---IX---------------------------------------

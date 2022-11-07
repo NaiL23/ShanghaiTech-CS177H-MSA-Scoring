@@ -1,0 +1,180 @@
+>T1057-D1: 
+MLKNVLRYPGGKSKALKYILPNLPVGFREYREPMVGGGAVALAVKQLYTNVKIKINDLNYDLICFWKQLRDNPVQLIEEVSKIKENYKDGRKLYEFLTSQNGGGEFERAVRFYILNRITFSGGYSQQSFENRFTWSAINKLKQAAEIIKDFEISHGDYEKLLFEPGNEVFIFLDPPYYSSFDHERFAFNIKKCPHLWMITYDDSPEVRKLFKFANIYEWELKGKELFITNYKLEELRQKEKYALGL
+>875185 len:356
+-LNSFIPWVGSKGKLLWIINKMAPERYSRFIDVFGGSGTVTMNRPTRKGCMEV-YNDFNGNLTNLFCCVKNRTLALLSELGFLPLNTRDDfNVLYKFFSrgeftddylqeemdltevylkppdaeairalmlERAPRGDIRRAADYFKLVRYSFSG--SAKSFGGKpcdirrffhLIWECSRRLANVIVENKGFEEVIRQYDR------EGAVIYCDPPYYKAescyeveFppeDHQRLHDVLVTCEGYFIVSYNYQDYICEIYQDCYIFRTSRPNsmsqtagseyEEIVITNYD----PRKACWQLSM
+>UniRef100_UPI000CF4E4E8 DNA adenine methylase n=1 Tax=Deinococcus sp. NW-56 TaxID=2080419 RepID=UPI000CF4E4E8
+-TRGLFRYPGGKTWFAPSLLRFFQAHPPElFVETFAGGAALSATVlEHTPARVWL--NELDPDVHAVHATVYSDHAPQLAQ-RILDFPFRR-ETVLEVLHatprttldrafrtlvrnrvnrggiLAPGAGLVKKGENGKGLAQRWYPA-----TLAGRIAVLHAHRHRVTVTRGDALSILERTPFH------PGTVVFVDPPYtagkksagkrlYTHhql-DHARLFAACATLRVPWLMTHEHDEAVMALAWDHGLAWRPIKMtsghgvtaKELVVARDF--------------
+>UniRef100_UPI0010614427 hypothetical protein n=1 Tax=Lactobacillus crispatus TaxID=47770 RepID=UPI0010614427
+leiypyldgksikkveslfpvkirnyydlffsnqifkcyineknyfkghyylncqskdltefwdyyfekddtfirqlenlnqllitstvkvadvkgCLPVILKYLNDEADIA-SLAHFLDE----ISDVFTYRNTLFLEAlNLKIDRINQ---NINFNIMNTIAKWLKKKSKTLTDQAIV-------QEINTAIKraiykeiqtiynqrranksprlsvmycyLQTACYPYKYRYDTNGDFIVPYGG----TTYNELnfedqlIYLKSNSSLFNGTVSCRDYAGYLQSIED-KVT--ADDFISAIPPVntdtlsynklpFNAd-NEKHLFSLLKDIKCRFLLVLNKSEFTTSIKEHTNLkivnirSKYPFISkdqhttkeQKVIIKNYP--------------
+>tr|A0A0F3RDS3|A0A0F3RDS3_9RICK D12 class N6 adenine-specific DNA methyltransferase family protein OS=Rickettsia argasii T170-B GN=RAT170B_1401 PE=4 SV=1
+lraifgnfaatpipspgei---DFSIYNAQQKILIYNIYSFYGEHTVAYLRDLIRQHAI-----------------WQQAIICTNRIITKEEMSKFFK-----------NQIKDYFLvptkenivqiknandsndpaKITARFIYLNRYSFKGIYRINIDG-KAAQSFSGRnyskSDIAARLKQCSQLLAGTSICALDFSFIE--PQ--KNDFVYFDPPYhqsgekfYTRlpfdes-EQTRLKDFAKELDNkgvKIMISNSDTPFIKNLYKNFNVniikVKYSMPEhnkmsNEVIITNYQ--L-----------
+>MGYP000625075244	153	0.224	2.312E-37	2	230	246	5	279	280
+--RPPLTYYGGKQQLVNKILPLIPDHLL-YTEVFFGGGAVFFAKESVQSVI----NDKNNNLINFYRQLKENG-----------------KALIQRIQaslyseeehrlakkiyfdkisaeethfSPSTKMKLEKAWAVFMLSHLSFlrilgncwhtcfskrfdrnviSN--NPKRFSQKtinlVLNEYGKRLENTSIFNNDALKVLKKADK------EHSFHYIDPPYintncghysgYTEd-DFENLLKTCSELKGKFMLSSFPSDILEFYTLEYGWktikieKAKSASQpnsnnrkkIEVITMNY---------------
+>UniRef100_A0A1Q3UYT1 Site-specific DNA-methyltransferase (adenine-specific) n=1 Tax=Rhodospirillales bacterium 69-11 TaxID=1895825 RepID=A0A1Q3UYT1_9PROT
+---PPLKCQGIKTRLLPLIRDAVTWRGTGrWIEPFLGSGVVAF--NLAPPRALL--ADTNRHVIGFYRAIQAGT-------------IGP-EAVIAHLRregerlrlsegahyyevrarfnatADPLDFLFLNRACFNGLMRFNRAG-GFNVPFCRKpdrfrpalvTRIANQVGWVAGLLAGRDWRFEVADWRESLAAAGPDDVVYADPPYlgrhadyhdrWTDa-DADELAAALRALPCGFAMStwignrFRRNEHLARWFPGHAVrsqaHFYHLGAaeslrhpieEGLVLGPLR----TD--------
+>tr|A0A286C1C3|A0A286C1C3_9PROT DNA adenine methylase OS=Nitrosovibrio sp. Nv4 OX=1945880 GN=SAMN06298226_0446 PE=4 SV=1
+-HNPIIPWVGGKTQPCKQDHAAFPFPRM-LCRTVCGSGRAVLPEGAGTGR------NAQRHQWRVGEFIPSGQASY--------------GRACQAIQvgvnqqtnlqvaaghTRGKADRYQRAAKFYYLQKLAFggrvEG----QTFGTAttsppkLNLlrleedfsQAHLRLARTYIEHLDWRECINKYDR------PHTLFYCDPPYwgtegygvgFGLe-QYDEMAKLAKTIKGYMIISVNDIPEMRDAFAGLTMesvdINYTVGGaqrcgkrAELIIRNW---------------
+>2485820 len:623
+pvrylgkknmaliylvselgkqvpynkfldvfggssavtvgiskkknakyyindadptqtniylllrdygevfvktisk-IYDIINGLSKTSTIPNTNLDLFPEIT--VSEIIDRGNNFVIS-ARETQR-----KKRHNTCVEYEEHLKKEHPDMLLL--DEEERYKR-PSTYTKYNrevhnylgkieelrdrinaltddlnyseILYARGLFKyfddvqthpdcfseQQRAFASIFQQSFpersradlsnviTS-ETLDKVCNNLNIwnhviNEFEHYKIKVFNELDVEVVVRKEIN---C--RDTLLYLDSPYiatvgyksvYGRn-EFQALHDKLADFTGYWIFSc----------------------------------------------
+>UniRef100_UPI0009BC1342 hypothetical protein n=1 Tax=Cohnella sp. 6021052837 TaxID=1816691 RepID=UPI0009BC1342
+----TLKTIGGKTRLLKKLIPIMyyvikSEQIQGVLDLFGGGNKFIPQLDrFTIPIRIY--NERDEGISNLMACMTDEN-------------KAR-AVIDLAYRlqdeyrieaafhkareirrlketppIKSAALTLIvaefsRAADRVKYYKPNAeRG----FKYESHLPFlELVPIMRDVIITCASYEELFEYYSH---R--CDFLTILDPPYvgsdcYEDeFpdeKHEEMVRRIVDTKMKVILCGTDTTIYD-YLTERGWHKYCLGEiprsnvgeADAVQEEFI--W----TNFEIPS
+>UniRef100_UPI00084A7852 DNA adenine methylase n=1 Tax=Lysinibacillus sphaericus TaxID=1421 RepID=UPI00084A7852
+----TLATIGGKIQLLNLLIPIMrdfvnDNGLIGFIDVFGGGCKFIPHLDIHMEEVIY--NDIDRGFCNVMACCTEID-------------LLQ-EMIDAAYQyqyyvqskeeferackrrvdpstpmVESAALTIIvqafsRAADRRAFSKANAmMG----ISYESLLKFkELYPSMSKTRVLCTDYKNVLEVYKR---R--PDFLLYIDPPYfgttsYDGeVNHKELAQLIVNSRAPILISNFDNPDYEKILVGNGWKKYCLGEitksssgkKGITQLEFL--W----SNIDISN
+>UniRef100_A0A091FF37 DNA methyltransferase n=1 Tax=Smithella sp. SCADC TaxID=1499107 RepID=A0A091FF37_9DELT
+---PSTRFQGSKLKISDWIWEAVqeiN--FDTALDAFGGTGSIGYMFKMNGKKVTY--NDILKFNWYIGLALIENDEEQLSQ-----------NDIDFILKrhydikystfvqdtfrdiyfteeenkwidtVVTNIQRIEpifkKALAYFALFQACIiKR--PFNLFHRKnlyLRFsEVERNFGNKVTWDKPFDVHFRKFIE---Q--ANqavfsngkenkcfnldvfdvegkfDLVYIDTPYisskgmgtdYLGfyhflegLvNYDKWQDMIDSRTKHKRLKGTTMVWADKKLIHSAF-------dqlfkkfkDSILVVSYR-------------Adgiptleeliallkkykkdiieierknykyvlstnhseealiig
+>ThiBio_inoc_biof_1041523.scaffolds.fasta_scaffold02608_3 # 2664 # 3350 # -1 # ID=2608_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.581
+p-CTRLLPYFGGAASVAQHVGRQLaGARY--VVCPFAGGMSELLHL-LDANTIIA--GDLNRHVINLANVVKYDR-------------LR--AALVRDLRrlpfhedvlraaqqvcarveaggftgdaYEWAKAYFVacwmgrnghagTGAEFRSGLSVRTdgnGG-DSAGRFRTAtesLRAWRRIMPRCNFLVRDAVELIGETKDD------PDNAVYCDPPWptdgdkYAHrggdta-DERRafqvrVRDALARFEKaRVVVRYGEHPLVRELYAGERWrfiEVAGRTAkkrkkgskAEVLIVN----------------
+>MGYP001180378805	103	0.224	3.117E-20	40	233	246	84	329	340
+------------------LLAVLEEQPETIDDFIFKPHIINYLPKSSQNDIVY------ENCFEIVKSILENDDKY--------------DDKFKVISkksskyfdekilkdyiskvKKTDMPDVKRAARYYYLVKCSFNN-NPQSTFSKNssdwnteVFIndleLSRKHLENIVVENLDFRTLVDRYPP------REtDLWYLDPPYmiatkrkdyYIHtlvqd-DHLDllrICDIINNAGGKFMVSYDDDKKVYELYKNYNIekipVMYAG--qthkrgykNELVITNYN----QP--------
+>UniRef100_UPI00124D86DA DNA adenine methylase n=1 Tax=unclassified Corynebacterium TaxID=2624378 RepID=UPI00124D86DA
+--KPPFPYLGSKVSMARRIIELMPDHTH-YVEPYAGSLGVLLAKPRSVAETA---GDADHQLLNLWRTIRDHP-----------------AELAAAMRltphsraeyygalrdlpdtddpVENARRTLTvllqgtsRTTMHGGMWARYVkytpssrslPS--QLDAFADRIQ-PVADRLAGVSLDDRGAIGMIQKYGK---S--PTTLLYLDPPYphvtrsgtaYPYdlndd-DHQELLDVITTVEAQVLISSYPNRMYDTALDGWDRfeFPSQAGGrgtrhaprTEVVWRKPC--S-----------
+>tr|A9U709|A9U709_PHYPA Predicted protein (Fragment) OS=Physcomitrella patens subsp. patens GN=PHYPADRAFT_103644 PE=4 SV=1
+ailsp-AEQVDPYTAAQ-----HIISYFPNHRV-YAEPFGGAAHVIAQK-PRATHEVY--NDIDGNVVIFILESAKDP-ERLAQ-ACMSIPYS--RFIYERWKrealpeepfdravrwfylnrsgiaagnaAEVSNTGWRhsiwsGQNPANGYLSACE----EIVNFAARmrgVMIEWRGLTSLTVAEELELLQLLEIEER------HQastdyyaYVKYTHGSMygytrhgeYIAnvlddaVvARKRmLAGQIPVRTQYIMLSvppqHGKSMHVTETFPSYFLGHFPDEG-----------------------
+>ERR1035437_9319974 
+-IPHLIKYMGSKKELIDSVVDAIseNYHGETICDLFAGSSILSGAI-GTIASIHS--NDIQEYSAVFARTYLGDytwkefngiientveiaqkhvnkmydkfpkyvdnygKNISLSDFTIIEKEQQ--SLIRKDFKkinyflftkyysgtywsfdqcawidgLRLAADMYKDTTVFfpilsSLMYAMAYnsqsTG--HYAQYRDAydeksmNDIlsYRLRGIKEFYVKKLieliqftgknKRKHTITSLDY------RDclniikpqTIVYADPPY---vFvHYSRFYHALETLVKyDYpdvLFKgrYRSDRHQSPFCRKTEV-VSAFNDlfegiaekESKLVLSYS--------------dtgmi
+>SRR3990167_2425065 
+t-QSRALPWFGSDAMVCEQYAALLADCKH-VTVPFCGGLSVVAHLIETSGEVVC--NDKHRFAMNFYKCISDPetR-----------------RRLLDKLDatpfhqqlleesqaickclekrsdeligVEIAFHYFVtcwmgrsgksgTKSEFNGGLAMRWdAG-GGSSPLRCQTAVRSIKDFWGPICERCsfvymDWSEILAKVKD---D--PKCGIYCDPPWvgagddYKHaftee-DQSNLAYHLQCFQRtKVVLRHGDGPFIRELFGDERYwHIREITSrdqanggvRELCITN----------------
+>GraSoi013_1_20cm_2_1032415.scaffolds.fasta_scaffold523025_1 # 1 # 213 # -1 # ID=523025_1;partial=10;start_type=ATG;rbs_motif=GGGG;rbs_spacer=7bp;gc_cont=0.596
+-IITPLRFQNDASKITHIVAQIISGATRNITSPFFMGGGLEAGLLNYGYKIKG--YTDYKDLFDFWNCLLKDP-----------------EAVFQAAKclmpidedlfylmqtnLSENDEWFTKAAMFFAINRSTAHG---TVSYGKMqknhPHFnEHSLRLLRNFNAKNlqvfyepNYTNIIDNSDD--------IILCCPPTYismpgltggpVPHpenkni-DHSNLCELLSTKN-KWILFLNYHEDLIKMYESFNIifinKFYNKTEddpQYILVTN----------------
+>381245 len:413
+----LIKYMGSKAKIINFVSESIqsIYNGGVVCDLFSGAASLSGAL-GATYPMHT--NDIQHYSSHISSVYLKPaqvmhaetlildatanykkakskidididyeDFNSLAEFNEIEVRNR--TLINQDFRhhyhlfvknysgtwwsgeqclwidaIKQAIDKRVKNGEFkqaeyaltmsTLLHAMAYssqgTG--HYAQYRDAktdssmLDIniYRQKRLQDLFINKLdqmivwtkenviDLNHSITTLDY------TDclrklnggT-VYADPPY---aFvHYSRFYHAMETLCLyDYpelqikggsIVKgrYREERHQSPFCIRSQV-NGAFEDlfsgvkkaGANLALSYS--------------dtamis
+>UniRef100_A0A327P724 Adenine-specific DNA-methyltransferase n=1 Tax=Algoriphagus yeomjeoni TaxID=291403 RepID=A0A327P724_9BACT
+---PVTRYYGSKRKLVGRIWSEIenlDLAFDSVLDLFGGTAIFSYYAKVMGKKVIY--NDIFSFNTAIGRKLIQQTSNDLSY-----------EEALALLQpnpdylykkiiqenfrniyftdaeneqidiFIQNANELKdenkRLSAYYILFQSCIiKR--PYNLFHRNnlnMRLnYNGGNFGNKKTWERSFEELFERFLK---E--LDeftfdngrdnlavnfnaldcqetaDLIYIDPPYfsssrnhttYHAkyhflegLaNYDKIIDHINHAKNNKEITiNKSDHFEKSATFLADL-------erivrrynDSIIVISYR-------------Nngipsvqsindllvlcrpdrrvhtldlglygyalnkgnqfnsefliig
+>GraSoiStandDraft_5_1057265.scaffolds.fasta_scaffold1595269_2 # 90 # 395 # -1 # ID=1595269_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.627
+-MKSPLALKSRQFKSLTTLKDLIpPDSVVHSFLMYDGVLETSLA--DADRYVVG--HTNRYTIYEFWTCLSQNA-----------------NHLLEVIQhfdniedknifyllqetLPNYADPYVRSAIFFLLCKFSVsgrasSG-----GFDRTsynpLALsklkyLPFNRLMIQY-NKNkDFIRSIEDISV------RCDYVVIPGESfshdllnhaedekLQYdesiv-NHVAIKECMDTTERKVAVLYHFTPYLLKFYKGHKFyLINKWGRltqdaekaEEVIIANFX--------------
+>tr|A0A1P8K5X8|A0A1P8K5X8_9BURK Uncharacterized protein OS=Rhodoferax saidenbachensis OX=1484693 GN=RS694_01705 PE=4 SV=1
+------KYLGNKASLLPLIEQFFverIPGASSLSDVFAGTNNISRYFRARGWATAS--CDANRFSYVLAQAYLGTgdspqfqavrtrrndtfrllqmqtdl-RRGMARYGALYLPGCTGEKVFQDLRhlanvlarlqgigednqqpgvitefftqwgtrssyssrrgtegvrnyfsrknalfldgiLDTIRNWWQegclsRNELFllmtSVLEEVVItanvNG--TFHDFNRDRIWpnaEQAFRLRIPLISCAgqlaetanaDSINAAASFAQ---H----DICYLDPPYnfrqYSAyyhfl-NFIAaypFLNDIETYVKGLeYVRgqHPEDDFTSDFCSRARF-VDGLRKlievvdaKHVVLSYYG--------------
+>3116464 len:479
+mktfvnwgngrekdfgvllpmiphdieslvipflgcgdillnvearkyeagddceelvemwlfvskpqvlmlei-LAGLMRDWKALEGLMDAVMARLlav------YDSYFVGALDDHFSL-VNVAGRVV--DDVRIDGLTVLRGWREEglmmelrhqvvaamerakSAGVMDE-----------SRLKRRIMtagkeayfayvahlynqfgtkpqARIGALIWMmtyaKGHAFvkdnTGLFYPDYvgaegDG----LTYGKRIETlrdeAFFARMGRTQFYKKDVMPMLQYLSL--------nwrDFIFVDPPRlagkgkkktkmYSPs-TQFRLADFLLHRTKaRWMVIVPVADPVLSVYQEHNV-------rqvemnDEMVIWNY---------------
+>DeetaT_6_FD_contig_21_3580842_length_228_multi_3_in_0_out_0_1 # 2 # 226 # -1 # ID=159004_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.573
+-MKTPLKDLTRKTASTSYIKSLLkENSTVDTYCLYAGNCELSIA--DDAHHVNS--FTNSYVVYEFWRCLIEEP-----------------QEIYQIIScddfsfdsseyfkvfqekWFTYENKFLRSALFFLLNRCSEdglisSG-----DLKQEnyniLAMknvqnfKKPDNFSINYIKKPgQELTTFVDLET------KSDYVYIPVGRftynlfddgksYGPeetri-NNRALKKILDT-DKNIILHYNYHKALRNFYKKYNLtLIDRYGKmtadfqnaQEVIIANFX--------------
+>UniRef100_UPI000AFE7003 adenine methyltransferase n=1 Tax=Brevundimonas sp. DS20 TaxID=1532555 RepID=UPI000AFE7003
+-----MKYMGSKRsMLLNGLGEVIassAPKAVGFADLFTGSGTVACHVAERFSVPVL-AGDLQKFAVALADSVVGRvsavdsdnwidgwfsEARMFAE---RSSSWKEAIRIQSRLAtgdiggladesrelcrtherpfcrayggwyfspaqalildgLRASLPPQAdlSKVGLGALISAAStcaaaPG-HTAQPFKANetagpfLREAWRKDPLSSVSRVAselgqRYALTLGQSSI---G--PAaahsrklsegWLAFLDPPYssv----HYSRFYHVLESLARgTVgDVSgsGRYPAPSERPASDFSIptkAPSAFSSlfaelasvGADAIVTFP-------ANG----
+>UniRef100_A0A1V5C0G2 Uncharacterized protein n=1 Tax=Pelotomaculum sp. PtaU1.Bin065 TaxID=1811696 RepID=A0A1V5C0G2_9FIRM
+l-FDSLPPCYEYKRRMASSVFKVISPAQGTFADASLSGGALCLYAKALGYRVET--ADDSPAGYIMGKALIENNRAKIND-----------IDIKRLLTgqpkrsfitenfvpeaftakhaefleraFDRAIADIGaSPKQWlllYLLIRFVYkVR--PFMKYASHVTTIPVEDWRVEYTQSRgfysALKTVLRPVDE--------ilnelagqiNRGIIDNAKenqv----GRDApLDFLLRTEADAVYMEpyskRESFHMLDEILKGHRFKERKEDDsedpqraaKMFEAAEHI-------PVWVVGVrnpd
+>tr|A0A1Q9J1K9|A0A1Q9J1K9_9FIRM Uncharacterized protein OS=Roseburia sp. 831b OX=1261635 GN=BIV16_11370 PE=4 SV=1
+--------PATKGWVAPKKEQLLp------FIDVFAGSGCVAAS--VDANEMVV--NDFDIGVACFLYSMSHDekevrtRLAELHN-----------SFVSRDLSnganhytsdmwmehkrkvrayskitdVAYDELMIRLRNNYeeiYKMYVSALDE--VAVDFSNPsendIQMYYDIGVAWYFINAIdanGFSGNVHKVTD------MDtknYYAYLENKLevFKA-NSAGvvpFQKLLDKYSGvNYkIISeLTLKPKDIKFGDGKSF-MKALKKshvqsadFSQLVQTFS-------DGFIYE-dspyfltaeyetgfgdeqqkimldqlrgsdfkwlfs
+>1185.fasta_scaffold1847310_1 # 2 # 328 # 1 # ID=1847310_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.691
+-MQPFFTYFGAKWRNSTAYPDPQfdt------IIEPFCGAAGYSVRR-SNGRNVEL--YDKSEHIIMTWNYLIGAS-----------------EKEIRNLPdieygtsvedekykltqeqqnfvgwfmNTGTVKPYKKPSKW--------faPE----SAFDASIIWgqVRRNRISSQLRYIRHWKATQSSYED-I----PNkeACWFIDPPYqvhgkhYKHsnkyi-DFKHLGEWCKARKGQYIVCEGIEADWLPFEALGRF-------ktksdkkkKDQLAKNGE----FK--------
+>UniRef100_A0A2N1S175 Uncharacterized protein n=1 Tax=Spirochaetae bacterium HGW-Spirochaetae-4 TaxID=2013836 RepID=A0A2N1S175_9SPIR
+--DQLISMIGSKRPIAEQLRILLsslvPKRGTAvFVDPFCGSGTVSRMARSMGMEVFA--SDLEPFSYIMNRVYLGLssddllpmfvemggidaylsllNLQGLYA-SKTGGGLSR-AFLSRHYApgddtsydgekerlfftganarfldavREEIEESWIhrkisateKAVILaSILYEASRkantSG--SFTAYHKRFSTpggAVRTRILDSCMLRApvlpdaDLPKGEMHLCE---A--SEfvkryraDICFLDPPAtvhqYGStyh-----LLNSITMWDD--FLPSDARDQAGNLLDKAGIrtDWKRTHSpycslkhaDAAFIHLFA--------------nidarhivvtypstgiv
+>1196155 len:281
+-------------QAYRYVYPNYKPAST-FVDCFTGGGKIGLTIpTGWFDKIII--NDLNFGVYSYYLCCQKAplalcrmieEIGKIMS-----------KEVFHGLArerstppdpwnkavranlvdyldrkplskqkekkakeifphvLTSAAITFWitqsswlgetdPNNCFYALVGNTKsEK----EEIEKRIRIakKRIMDINKQMTRQEyivenlDYVELIETYGL------NEkgkqnedVIWYLDPPY---------------------------------------------------------------------
+>LakMenEpi03Aug12_release.lakeMendotaPanAssembly.Ray.scaffolds.fasta_scaffold5389911_1 # 20 # 280 # 1 # ID=5389911_1;partial=01;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.644
+-----MKWPGGKYRIAKRLIPHFPEHTT-YVEPFAGGASIFFQK-PPAEYNVL--GDLDPYVWKFYRDVRNRkm------------------KKCRGGIRntdavlkkakksnhpcfkMAHTMMTYQgkRSGSFrpkQKIIATKKmKN----------LA-EYERRLRKAHIVGTGFDETMRRFDG------PDAFHFLDPPWplaskYSEq-NYHGGKTRVSKIAEkDL---gaTNDRRAFDPFYFKNQC-------nklEGAVMMIYG-DH-PD--------
+>UniRef100_A0A0P9I305 Tyrosyl-tRNA synthetase n=1 Tax=Pseudomonas coronafaciens pv. atropurpurea TaxID=129135 RepID=A0A0P9I305_9PSED
+-----------------------------MESNCGKSGKAKVKG-KKRKRTKL------VKVMPLYCVVQNHl------------------EEFVRQFKwalssrqvfewqkmtrpetltdIQRARFFYLQHHAF--------agkvSG----QTFGTAttgpaINLlRIEETFPQPGNVCQvRMWRTCRGWIV------PSATTCPTPSTtwtrltgrrLGTgvdflFeNYERMADFMRRCKGKVMVSINDHPDIRRVFKDFHFetvkiRYTAANQrqaktecsGELIITNWR----PD--------slag
+>SRR5438093_12288041 
+--------------------------------------------SSDLDRVTM--VELDDAVASVWQTITSDDggAEWLAT-AILSFNLQP-QNVTDLLKralltnreqalqtiirnrvnrggiMAAGAGLLKDGEAGKGLRSRWYPG-----TLNKRILAIFTYRNRITFIHGDGLEILRQKIGC------TESLFFIDPPYtaskngsgkrlYTHsni-DHPQLFRLTAEVAGDFLMSYENSDEVRQLAN----------------------------------
+>OrbTmetagenome_4_1107371.scaffolds.fasta_scaffold104946_1 # 279 # 572 # 1 # ID=104946_1;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=3bp;gc_cont=0.344
+--------------------------FPRLIEPFVGSGQVFLNA-CQwgpyfnqgiplFHQVIG--GDLNPYVVAAFALMRTNglafvqsylKYAALLD------ENPE-VAFNQRLTyldahgyyaatgqgdsrihgsMEFAVWSYIyvvnrclHGSKLnanKGVTTSRDPN-RKLDKVRERetatLTSicQTLQTLGTTQFACQDFEVTCNMAQS---T----DIVFMDCPFptFTKtVpKKDAKNPEADSETAnTYGVGDDGASLQSRIVKVAG-ELINKGTtvilcnfaNAGLVRAYT--N-----------
+>ERR1700722_1034714 
+----------------------------KWSADYAGP----------RFHAVL--SDIPYGLHFMNAKWDDPK--QMTK-----------SQVVRYLPsgqrittveeniefqnavqqWGEAMLPLLYTGALVMMFAAPRmwewvaTG-MQFAGFEHWdtIMWIHSQGFPKAR----DIGGMIAKATG------EKpMAEVSNPAFtFQKnsg-QTSTgWKGVVPETKK--IFANQWQGYKTAALKPAHEPILCFRApgqgmtcaERALQFGTG--A-----------
+>1703807 len:210
+----------MMLSIMDQIGEMMAGQTMEINSAMSSMGEMMNRLVASeiagkATEASF--AQVDIAGYNYAACRYEQDGKEYPN-----------RIIVGSETypqdldvnwelveknpyvigdFSWTAWDYLge-----AGIGKISYgesqgMG--FYADYPCKAAYCGDMNLLGDRRPVSYWREIIWGFRK---A----PYLAVQPPQhhgqe----HHMTSWSMTNAVRSwNWsg-------------------------------------------------
+>tr|X0Y725|X0Y725_9ZZZZ Uncharacterized protein (Fragment) OS=marine sediment metagenome OX=412755 GN=S01H1_76505 PE=4 SV=1 
+--------------------------------------------EIEiy--------GDSEYSICNLISILRDFP-----------------KHFTQEIKkikydkqqylemrstyqsdeftslskMKQAIITYSvrrmsRGGLCgtFCWSKRMYaggtvPA--EIHGWNTMLEIlpKISERLKNVQIIHNDWKEVMNNFNH------ENSVAYLDPPYpkttrvfknaYLKemtie-QHQELGHYLRFTKSKVLLSSYPSKLYDELFQGWRCekkQAANHSShekikekkTECLWLNFM--------------
+>46703 len:252
+------------------------------VSFYYKDGKLYAGP-AWDYDLSA--GNINDNLSSQRYKAANPtNGLYCNQ-----------KNIYVYLCdkdwfmkavkrfyrehydyfcnvsadgglmds---------LYQEYGAIFNRNYaSG-----NWSVS---KWWINIQKQPLSTYqaNYDYLKNWYSE--------RNLWLTEYF----GIGQDTPILGDADS--dgSVSAVDVTIIQRSLAHL--------------------------------
+>LauGreSuBDMM15SN_2_FD.fasta_scaffold2728873_1 # 173 # 241 # -1 # ID=2728873_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.449
+----MIPYVGCKvyqnnwqNSTAMGILQAMPDAEH-FYDLFGGGGSVTETA-LKlHNKGIL--GTWNKWQHIHYNELNTG-VYLLNK-----------AIWEGTFDfdkarntwisrerflaekdepTAWGAFVWFcwsfgNGGDFyiygekIELAKQLMhvlvtsdisiiKG----ETIKERrlaLKRifIEHKVVELEMLQNLERVQNMERVET------PQkihttnldyrdvpiephSVVYCDIPYe----GATKFYGVAFDVPA--FYEWAKTRDFPVYFSGYTCt------------------------------
+>ERR1035441_387887 
+-----------------------------YAPIHQGRELIDVCGG--LVNLTW---QALKLGFQFQEWVVNDpiQLPFYEA---V-------RAIGHKIKvpprsrekferqrdlaaagdqRAIALAPWIsfNGGGY-GYGGSAYtgrgSG--YSNSLGNGhrsaggRRTpeseERNLRLMHKLFNDKrmrlsglDWLDCLEAAQP---T--KDDLILIDGPYvdcktgaYEPd-TFIPieVIHYLKSHPDlNWLYCEYFQPMYQYAF-----------------------------------
+>UniRef100_A0A6C8U1J3 DNA (cytosine-5-)-methyltransferase n=6 Tax=Enterobacteriaceae TaxID=543 RepID=A0A6C8U1J3_ECOLX
+--GGITGALTGNADTATKLKTARNINGVR----FDGSGDININTLVSrgrVTALEA--NAQGTSGIQLYEAYNNGyP-----------------SPYGNVLHlkgataagegelfigwsgtsgdhapvhIRSRRDTDSaNWSEWAQVYTSKDsipgvnaKG--DQDTSGNAataTKLQTARTINGVSFDGSkNIELTAENLNL------EQTVELAAGSLqknqngadIPGkdtftk-NIGAcraFHSSISTGAGNWttaqLIEwLDSQGAFNHPYWMCKC-SWSYGNnkiitdtgCGTIHLAGC--------------
+>UniRef100_A0A090KMW4 Uncultured bacterium genome assembly Metasoil_fosmids_resub n=1 Tax=uncultured bacterium TaxID=77133 RepID=A0A090KMW4_9BACT
+-------------MIADEVWRRFGNVKS-YVEPFASFPTTLLAR-PDwqpgiWRHEMI--NDMDGMLCNFWRAMTDD-QKCVAR-----------HAAIPASKrdlrarnlwltgrresigsrLEGDPEWYDpKIAGWwVWAMNRKLGG----------VPRsipSLATRLRYVGVASGHWSRICTDVFT------KAgdlTGVFLAPAVdggiptdrYGD-RWSTdLPEAISKDVRTWAVERGNDPLLRIALCGYEGeHKMPKDWlchdqvrskKRIWFSPHC--------------
+>tr|A0A1I5TJF8|A0A1I5TJF8_9BURK Adenine-specific DNA methylase OS=Variovorax sp. PDC80 GN=SAMN05443579_11619 PE=4 SV=1
+-------------MLKNGLGDFLndeISGRKRFVDLFCGSAAVTWHVAQRYSVPTL-ACDLQLFSVVLAEAVSSRtevlstvdlwsgwlesSSRYVAE---RP------FPLMRKMSktlvgelrkwcktegqgallvaygghyyspeqatwldaFRKNLPENPtaQKVCLAALIIAASkaaasPG-HTAQPFQPTatalqyLGQSWALNIRDLVQSALadlvlRHAKVLGAAIV---G--DAnvlaeqamdgDLVFVDPPYsgv----QYSRFYHVLESIAAgDAgPVSgvGRYPVPSKRPSSDYSLkskSESAIDAllekladrGAVVMLTFP-------DHL----
+>SRR5215470_5829200 
+-------XMGWKQAALRSPDRFLfSLGHGQVFRAVPGERGGPWDAR--AGTCRW--VRLFRPLMEIWQTLHGApaRLKEWYT-----------ERWHVLMRgervaeyerikaaynaspygadllflcrsCYGGVVRFRQADGYmstpCGIHDPIHPR-----SFSKRVD-AWACRLRGTTFKLMEYAEAMELARP---G----DLVYCDPPYsdtqailYGA-QSFKLSHLFDAIRQc---------------------------------------------------
+>253821 len:272
+-LSAPLPFQGQKRMFAKEYIKVLqqfPDGTTFCRFIWRKWSAIAFAKCQKpHSKVVY--NDFDGYRLRLEHIPQTNELLAELR-----------EIVQGTLRckpitgdarekvfeclhkhqerygyldFITISSSIMFSMKYcLSIEEMRKET--LYNTIRKTdys---LCSDYLDGLTIVSADYKQVFNQYKN---T--PGVVFLVDPPYlspdvgtYNMcWSLADYLDVLTVLTGhSFvFFTsn----------------------------------------------
+>21853640 len:620
+-----------------------------------------------------------------------------------------------------------ayqNTYTYenDKLKTIGHNG----------MNYnFTYDEYGNTKKVAIgNNELISHTYNS------NNgTLLYSN---YGNgnsvqYTYDRFNRLIKEQTNsGKttEYTYDGRGKLEKIFNNGSEyptatFKYDMSGrmteqcnrQDEFEERYQ----YD--------ensnlkqinsni
+>UPI00043A42AC status=active
+---------------------------------------------NPNANFVL--NDSNPYIMGIYNAVKNDfD-----------------EFCRVVFDyekkylsfyppkkqitDSKDKKIWVdHPIGCaNKELENRYkVG--------SNVNWvDLWNQNPDYHVRRSYYFKTRHEYQK---T--QDdrlNTFYSATLYflmktgFNGvWqTYKVpVPGQMKGHDT--gLFHtpCGLMRHKDSIFSSKNGDGREDLKrwnhalqnATLLNVDFM-------DTL----
+>EndMetStandDraft_6_1072998.scaffolds.fasta_scaffold389350_1 # 1 # 654 # 1 # ID=389350_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.618
+---------------------------------FAGSAAYSLYHH--HHQVKL--FDKYSVICELWDYLINVsESELLSL-PLLDFG----EQIPTNIPqaaqhlmgfwvsrastqpkrsr---------RKTRWKREGRKADnPG----GEWSAQTRAMIASQLQHIR----HWTIEQRDYSS-I-D--PEeGTWFVDPPYqvkgsnYVHnei-DYAKLLLWCQSLPGQTIVCeNSQSDWLSDATP-----------lhetsgsrHSTIEIMYH--S-----------
+>APDOM4702015159_1054818.scaffolds.fasta_scaffold125144_3 # 703 # 831 # 1 # ID=125144_3;partial=01;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.543
+gylmnv-VARSADFVDADkASDTEHFEKTTVGQIVNQVASKTGKSAIVDPE-ISSIEIPY-RLRYNQSAVGFVKEIAEEfgGTLKLAG-----------GKMLMPKRsggksasgqelpaiavtfdqvisfeiSSEGRGRFKdvEAPYFdpmEGVQKLSKaAG---IGDLSRFLGLHPARSAEEASHASKaqagelGRGTISGSVTM------EGsDEAMAGAPVnlsgFGAsrdgl-DLVAssIQHEWSFDEAgGWLMTielANRKQGSSNAX-----------------------------------
+>tr|J0UWG5|J0UWG5_9HELI Site-specific DNA methylase OS=Thiovulum sp. ES OX=1177931 GN=ThvES_00017690 PE=4 SV=1
+-----MVYVGSKarvsSSISSIINRTIkKSKSKGYIEPFVGGANVIINIK--AQHRIG--SDIHEDLIKLFKCL---Q-----------------LGFVPSCNitaedyyksyhtedrtCQDIHNGYIgsYGAKYfpsDRLVPVSEnrdhmKE--RTDNLKKQIPLLHEIEFKSNNYLDIDIP--------------EDYVVYCDPPYftgradyYENnlm-NYEIFWSWVRETSKsNIvFVS----------------------------------------------
+>25932425 len:877
+---VLNKEIETQKSKIETLRSALENAATSFGETDRRTQNWQIQLN--NAEAAL--NGMERELSSNNAALEEANSNY--------------DDAEDALDdvnremndvtdsaddmgkeIDEAADSAEkSESKFKGLGTTLKsIG----IAMGAVaVAAgAAAVKLGKEVISAYaDYEQLVGGVDT-LFK--ENsqqLQDYASNAY---------------------------------------------------------------------
+>SRR5262245_54583193 
+-----------------------------SRGRLLGADAHRPTS-GAleaGSRIGV-RSGHTQAAVCLARPAAADdeG-----------------SVSIRRVTmdLTRHGNHYLSHFAYGKLRGKSYnpnaEG-IGARTIDRI---eKYRDRLRNVTVRSSHYADVVKEFDG------KDTFFFLDPPYpghnvevged----RFDEaeFRKVLDGIKGKFLVTy----------------------------------------------
+>SRR3989338_1297795 
+-----------------------------XMSFHSLSHCLTLYA---LNSLFL-----DKILRLYFNLLCTRl------------------SPLIHFLNcssdmlialwksfskhtcsnfVPSQSALYErgeVGLLFKKLLELRLqkadwDG----TKFEQV---CLENDFHKAMSISEeQFKKWINGESL-V----QSKLKYNLNILsrnk----EFKAykVKQWLNEWNDiDFs-------------------------------------------------
+>826732 len:173
+--------------------------------------------------------DIDKYVIATLNGLKDG--------------------------wippyevtkdeyidiknnknkYSECLVGYIgyelsFGAKWFGGYVERNdkkhRG--DIYSYKSC---vKQSANLQGIKFINKNFQELPSDKIK---N----YVIYCDIPYrnttnYKTdkf-PYDEFYNWVKVMSIhNTvLISe----------------------------------------------
+>22745085 len:214
+------------KSIIGLLQATMVDFGKIDYENFPVVSKEEFCA-ARDRN-----ETLNDFLIRYTCSFGANGMDYLWG-------------------eskikyktlmhnaialptmdqRRQALRDFI-----GCLVKDKLseaelKN---LDHIDQALMLNRIHKVENTMRSRKsktKLDFVCGSMFD-I----PFekyDVIYFDPPYaetsgYNKknf-DFIRfmtLLQVLKDMGKTVFVSeYNQP------------------------------------------
+>26000627 len:205
+------------------------------------------------------------------------------------------------------------EAVWrptgRVVDTLAYasPE--QATTWRQMvIRQHDFEDNGDLIIRRAgGQTQQQQARDT------NDvPMWELYDTMtgha---MhSFSNLDQNAASTRGrQWLQRmgaEDPNTYAERFAVRPKIdpmAAYQRNS-----------------------
+>9252482 len:147
+------------kRDIAEYINAN-SDHNQPLISLFCGSCAVESLLD--FDMKIL--NDLHPHLIAMWHDLQNE------------------RNFPDVITtdeyvkikdnqnedmglag-------FVgfgcsYGGKWWGGLAREHRG----DDFCKTPKASLMRDFEGVKTATFlcgDYRDVE------I----PDnAVVY--------------------------------------------------------------------------
+>4656183 len:161
+-----------------------EYDR--YVEVFGGAMWVYINGDIYLQDVSY--NDYNAQMSNLFSCCSKY------------------EEFIPYLEsneaqneemfnkfrdeivefINSGGKIEMpnfdMASKYVYLITQCFsgivsEK-VKFVDLKDKYRSkyySFLDRLKKPSIQKKlevlkiynlSFDDFIPEVDN------EKTLLY--------------------------------------------------------------------------
+>SRR5205823_6304893 
+larrgheaadlaaprrrrralpgaarrsdplv-VPHPIPYQGSKRQLAERILAVVdGRRFDRLYEPFAGSAALTLAAAAR--------DVADRRRLGMR------P-----------------ERMRRELL---GAGRLLggRTATF--------AG---------------------------DAERCLASAGA---R----DLVYLDPPWqgttegadkrYHQgFDRARLEALLADL-----------------------------------------------------
+>4634495 len:138
+--------------------------------------------------------------------------------------------------ppffndtatteiytdthtlsLHDALPIWTlaVNGRYiRGYCLPDYaskaeED----DDMDQTkfneMFLTAMAEYRNKLRDNDsgTWSREAREWAV---S----VGLFAGNGTtdng----DPNMmWEDFLTREQAaQLFYRyaqqHG--------------------------------------------
+>SRR5437588_12883695 
+-----------------------------------------------------------------------------------------------------------tpkARSEFeKAYRENGNgTG-------------DKLEQARRFLVASMmTVNGAIGKRET---GI-KHSGFSYSQSYarngHEArvs-RWNSMPERLRRVVERLkqvRVSTGTHETFS--------------------------------------
+>3389739 len:150
+--------------------------------------------GINvkANQVIY--NDIEEHIVELLNYFKNNeG-----------------NVIIKQIDSLIDEYGLTRTDKYgYEYYGCNSsEG---VSRINKKPYLKLREDYNKNKTPLLFFTTIILAFSN--------QMMFNSKGEFNVsv-NKRDFNNNIKNNSIRF---LNKMKEIEVFFYNEDFTKLKI-------------------------
+>279533 len:153
+-----------------------g------MFWVFFRMDDTKYPN---LKKVVY--NDFNPLNYNLFKNVRGSny------------------ESFGELLNeDCQGYKEYDvTTNKFKSYQKEIFaPD--FKIDVARKYAFVLTQVFSGTMPEKGKYMNFKGQYKP--------KFRTFREKL----KYDSFQKKLEKITFcE--------------------------------------------------
+>3219851 len:161
+---------------------------------------------SElGIPVEG--YDALHPLVIFWNILLDYN-----------------EDLVKRCRyLEPNKAEYAevKEELMkWCITQQMFPS----PRFAGDkdrWAYYRRDPITTLCHKDAaAYFYYNHNLSY---G--PMYLGWMSKIYenqd----KWNRMVEYIRSYKNpQLsvkkgcLLYtsp----------------------------------------------
+>MGYP001342159766	42	0.195	3.410E+00	82	213	246	8	195	213
+----------------------------------------------------------------IIESFVDSqeN-----------------DNVNNLFDfssakfiaissqslwanyflkqlsahinfTGQYDENFNkeygASLSFLNLLEIIQfskkEK-VILVDFSRI---PYERDFNRFFAKKNnirhlDYTELTDLIEN------EETFIYLDPPYrlttgaYNDgkrgfkgWgieEEKRlfkFADLLNEKSIPFMISyvIEHKGQTNEELKNW--------------------------------
+>SRR3712207_3116278 
+vrl-VYHTVVFVNDT-ATTEIYTLSLhd------ALPIFQRMSNTTIIRRINalIDEFEL--SRTRDHGFAFYGGDANLG-----------------VSVYNRQKylrlrerlnthkkkdnhyyillYTLILYGFNNQLRFNDKGEYNLpVG---KRDFNTAIEAklvRFLDALRQQPHEFQmhDFRRFNFERLT------PNSLVYCDPPY---------------------------------------------------------------------
+>864115 len:590
+----------------------------------------------------------------------------------------------------------------HNPFTAPHEE--DLDKLESDpgsVRSyQFDMVLNGNELASGSVRNARRDIQE---R----ILALMKHPKeeaar----RFGMLLNALQYGAPPHgGIGigl----------------------------------------------
+>7734162 len:476
+-----------------------------YCKNNAPEAFRNLINN----------LNANFIVVTYNNTYTSKsssSKNKITL-----------EQIEQILNekgetkifqkdykaFNTGKTNLNNHKEYLFITKVKD------IDLSKQ---KKNKPLRSPLFYVGDKYKLMPQLKK-L-F--PKhIENYFEPFCgggssFINt-HANHyFLNDIDPNIIRIhkFLGryaNNRDEFFNKLFAYINF--YGLSCsykgitvpD----------------------
+>UniRef100_I9VY16 Uncharacterized protein n=1 Tax=Bacteroides fragilis CL05T12C13 TaxID=997881 RepID=I9VY16_BACFG
+--------------------------------------------------------------------------------------------------VTRRTSPVPPCSFFyayllNGIYSVNRsgklsVT----FGFGGRVKLleEELIRFNHKLLQDVvildgDYQQTEKYLGS---K----SFFYYKPVNesnactsYMSqnFgDEEQvsLADFCKEIG----------------------------------------------------
+>SRR5699024_1973699 
+gv-ANNPIAYDFSKAELEHNSWEHYAQ----ELNTLVSDSNLASES-----------GDVRKMSQEALEHFHDAppreS-----------------MPVSENIAkgsdaingwyygaialTARGCNHYKwtsstggkdnEPKRYISFYDRLMSK--SKKHYSQE---NKNRPVGKAFINDSrKLSEFIEPNSV--------DIVFTSTSX---------------------------------------------------------------------
+>SRR5277367_4495238 
+--------------------------------------------------------------------------------------------------------------VFaRGILLCLYAG--DFADFAAG---TGPAIFRAGAASTHgsgKDAVCARPVRT---C--RARRFFVRARQvrtglaqta----SLGRWANCKNTSRAGMsgVVSrwLGSVESLPEIAERLLRvqIENRPAA-----------------------
+>SRR3546814_7761377 
+-------------VLIVVLVNVHt------MCALCRISFDVFFFFKQKtAYEMRI--SDWSSDVCSSDLQDPEKA-----------------EKLVWLLErtpfsraefelaykpakddveavRRTIVRSFMgfgsdgTAGVYpTGFRRNVTnagkfpAS--EWKSYPKALR-RTIDRFRSVVIEQTdAFEDRKSPRLN--------------------------------------------------------------------------------------
+>ERR1039458_10302842 
+------------------------------------------------------------ALVLLFGADASRvE-----------------QDRLGRFRnlgkafyenpttqpqavgefkkaLDLGPNSAREHVNYgLALLRAGRTK-------------EGVAELERAQKLDPKIPHTWFNLAK------AGDLVYADPPYagrhvdyfnsWSEs-DETELGYLLKRLPCSFILStWHSNEFRSNVMIERNWndpRFHVLTRehfyhvgpTEDLRHPMI-------EALVTNFpvhavqp
+>5818377 len:130
+--------------------------------------------------------------------------------------------------------------------------------------------LSNAEVENLeldeDITSLLRYMET------HESPGFITELYaprnpdFMRrmtrv-SIRAATPIVLDTAGQTIVAsGRSQALILSLLFWRKL-PSPQTHpaysrfykDGNGIGKFG--------------
+>3320568 len:208
+-----------------------------YWEPFCGSMAVLLAGASDhGNSERS--SQGSGQSGPCHTTLAARrsTVTSAGP-----------GSARNSLPnppercnaglpdlpdlpdlqraVDYFITSWQgmngvaGTARYNCWLRTSVheeRG-HAAKRWASSVSTipAWRRRLRNVTVLSADGIELCDNIED------ADgVVIYADP-----------------------------------------------------------------------
+>2652645 len:146
+---SMFSYFGGKAKLAPLICDLIdYKNTDTYIEMFGGACMVLLNK-ARHDLEIY--NDSSAGLCAFVSMMSNQdtA-----------------HELIARLYeteysqeqfdwaldirnkvddp----------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR5690625_4688021 
+-----------------------------NINVNTLIGSVFFFS-SRRRHTRW-PRDWSSDVCSSDLLIETKyEVIY--------------DNILHDIDeydlndlsgdgyyrlreifnernnprllFALITHSFNYIMRFnmSGEFNASFgrgkckLG----DNMLDKLRGyTEVFNKGNTKVTTKDFREYFDADMY------KEgDFVYLDPPYelt---------------------------------------------------------------------
+>SRR5574343_43365 
+-----VKYLGGKRQIASWVEEQVlarATDRSRYVEPFVGGASIWMRLAPQFQESHG--SDGHPDLVLYLNALRDGwvppT-----------------EFSLEEYEalRHAEPSPLRAHVGFnCSFGGMWFRG--WHGDLRDPrgITRtmdAYRAALRDAPLLARcppILRLDYREVEV---R--AGDVVYCDPPYhgte----EYSVgFCSYAFWARAgRWvregatVIVSEETAP----------------------------------------
+>875401 len:145
+-----------------------------------------------------------------------------------------------------------mFASEFRKVLKRFSdrtv----FVDLFGGSglLSHiTKRERPDATVIYNEprQLPRASGEHQP------DERPVFRPPPPlgrn---PpPQDAFQGYARHIPGTYppggkhRLRgLSHHLVLPAVLRQICQEHRGARK-----------------------
+>SRR6266508_6725320 
+-----------------------------------------------------------------------------------------------------------plaRPTERpSGILLPWRippvdppSG---WFGCAGRVRLphSRRKRFSTTSEISSspsadGRDFIQRTFEG-LYFP-PDDLAFLDAAWshieglppYKRsi-ALSAlcLAAARKQPRGVFtVVDlryEDSRRYLRMPLRDLFVeSAHAYDAvafdngrkNSVACQDV---------------
+>SRR5919107_1002912 
+---------------------------------------------VApaADGVAP--AELDEALARLDALPGRP------------------GYVTETFChasryfqphngarIDAIRHALAtehaGHPLWpvllTSLLVAADrvdstTG--VQMAYLKQ---WAPRSFRDLRLVRPdllpGPPSTRRTTST---A--TRPTTTCGRPSsaat---SpTTTAWPASVSTAATwSAra-------------------------------------------------
+>SRR5690606_20860604 
+--------------------------------------------RPR--------ARAHRRTVRRRRWLRGAqprPRPRRRG-----------AALRRRRTcrrdvgpastpqpqrgararDGPPGTRTTDPLHYTVMTSNAWgriSG-------------aKITPRMGRMWPSMKrRMARLLPHLRG--------RVTVKHAPYtaap----DVEA----------TWFVX----------------------------------------------
+>SRR3954469_430279 
+--------------------------------------------------------------------------------------------------wqgttegpdtryhqgfarsrlealladLNARGVPWIlsydgrsGARTYgtalpRGLWGERHelhAG----RSSQSTLAGRAEHTVESLYVSAAlspasTVTSRPTRRAS------PSRSSAARRPSgttpad----SRARx-------------------------------------------------------------
+>15002025 len:114
+-----------------------------------------------------------------------------------------------------------DFDNFTDYLTNESAD--ILKSVGELLEPyfKKYKKHEKTNANDTkEIRKIYFFVKN---K--YKERLYLRAVHsslwFRA-AINDPTPQIENKTNHYinskgLLNKNYKKEFSNYLTGLNV------------------------------
+>SRR5437773_8175028 
+----------------------------------------------------------------------------------------------------------------dPEISAMNRrRG----------IKAKPARKSAGELQSGAGCQKNFTLCEG---E----EVFFLDIPF--------YRTMVGMMPARCLSAhrLGPRNFSHEPPARNK--------searskkcRGAAVRGWM----PK--------elhslrrx
+>SRR5215217_3158102 
+-----------------------------------------------------------------------------------------------------------lGAVLFftskYGIYTIKMqkKE--ISFILIRHIGHqVPQHILQGTLMQDLlIRDQVFADFES--------EQVFLNRAYstglverFAQLsGLSApLQIRIDTPTFNFRLGk----------------------------------------------
+>SRR5207253_11286383 
+---------------------------------------------------------------------------------------------------------------------------------------xSCLTTVRHPSISTLvPYTTLFRSNRT-R-R--PHHFLYLLARCvkasvrYNAdgefnqSpDNRRMGALPETMREQIlgasfLLKGKTEDRKSTRLNSSHVaisy------------------------------
+>939526 len:379
+------------------------------------------------------------------------------------------------------------------------------------FPSiETHARKNGWRIHAVQLTISVAKSNR-R-R--QEEWIVLQLRIdgtdY--------------------------------------------------------------------
+>SRR5207237_5026576 
+-----------------------------------------------------------------------------------------------------------hlSSCHFaPSVPPCAHplslHA--ALPILHASDALRYAAILARCYVATDsrhsrRAQRLLSSLAR-V-R--PRDGWFTETYCrhsrFFQrse-EHTSeLQSHLNLVCR--LLLEKKKTI----------------------------------------

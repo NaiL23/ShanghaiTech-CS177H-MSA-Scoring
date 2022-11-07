@@ -1,0 +1,414 @@
+>T1098-D2: 
+PFKGNAALPTKSNEPAEPEGTGPLAVLKGFRNLPTGMPSVLIVTGLTWLSWFPFILYDTDWMGREIYHGDPKGTDPQIEAFNQGVRAGAFGLLLNSIVLGFSSFLIEPMCRKVGPRVVWVTSNFLVCIAMAATALISFWSLKDFHGTVQKAITADKSIKAVCLVLFAFLGVPLAVLYSVPFAVTAQLAATRGGGQGLCTGVLNISIVIPQVVIALGAGPWDELFGKGNIPAFGLASGFALIGGVAGIFLLPKISK
+>tr|A0A2J6S5Y1|A0A2J6S5Y1_9HELO_8_0
+-IQEKTQPTLQQHKKYSPLYR---EILRTFRSSPQKLKTVCAVNFAQWLAWCPFWFSITTYL-RNIYEESLLSKTNMPTAFltlgalhEYSLRLAhTLVFILFQFValltlIGFGSIISKkpltvPRLRVRAPsstrerdiprmsietlRDRYLQKESLMCNSIAARECFSLtraWRYSHIVTSIcyLGATLGSDFIKSV--VFVMILGSSWALTQATPLAIIGteiaqdtnpeerepcmqdtitastwmgdNCQSQRLPGTGLdleqnedhanvsseteidirsrahtMLYLHNTAISAPQILGAMVNAViyWLfGILGLGETQPMIWTLRVCCFAAIAAAFCA-----
+>171380 len:696
+-----------------------------------------------------------------------------------------------------------ARTKELTPseedlaelraqpkglgafVTDIADAVRTMSVAMHKIgvvflfQWYAMfiyWQFLAVSIGEtaFNATPeegGRDWDSAI--AWSGLMNGAYNFFTmISALFLVGlaqkmgakrvhafslglaagaliwvaqisnqYLALVPMIGLGIfwasavgipylmvasmvpakrtgvYMGILNMMIVVP----MLIETVtfgWIykNLLDNKGSNAITLAGVMMAIGAVAMLWVN--PP-
+>tr|A0A2J6S5Y1|A0A2J6S5Y1_9HELO Uncharacterized protein OS=Meliniomyces variabilis F OX=1149755 GN=L207DRAFT_577034 PE=4 SV=1
+-IQEKTQPQLSQKFKYQPIYR---EILRTFRSSPQKLKTVCAVQFFSWLAWCPFLFSITTYL-RNLYEEQLLSKTNMPTAFltlgalhEYSLRLATLAMVLFQIValltlIGFPSIISKkpltvPRLRVRAPsetrerdipredietlRDRYLQKESLMCNSIARRECFSLtraWRYSHIVTSIcmLGATLGNDFIRSV--VFVAILGSSWALTQWTPLAIIGteiaqdcnpeerepcmqdtitastwmgdNCTSSRLPSQGLdleqtedhaqvsseteldirsraatFLGLHNMAISLPQILSAMVNAViyWLfGILGLGETQSMAWTLRVGCFAAIAAAFCA-----
+>tr|A0A2J6S5Y1|A0A2J6S5Y1_9HELO_2_0
+TIQEKTQPQLAQKFKFQPIIH---EILRNFRSSPQKSMEVCAVQFFSWLAWCPFLFSITTYAKRNLYEEQLLVDTNMPTAFltwgalhDYSLRLAhTLAMVLFQIValltlIGFPSIISKkpltmERLRVRAPsetrerdipkedietlRDRYLQKESLMCNSIARRECFSLtraWRYSHIVTSIcnLGATLGNDFIRSV--VFLAIWGSQWALQQWTPLAITCteiaqvcnpearepcmqdtitastwmgdSCTSSRLPSQGLdleqtedaaqvsseteldirsraatFLGLHNMAVSLPQILSAMVEAVhyWLfGILGLGETQQMAWTLRVGAFCAIAAAFCA-----
+>171380_1_3
+-----------------------------------------------------------------------------------------------------------PRTKELTPseedgaelraqpkhlgafVWDIADAVRTMSVAMRKIcvpflfQWYAMfiyWQFLYVSIGEtaFNATPeegGPDWDSAI--AWSGLMQGAYNWFTmISALFLVGlaqkmgakrvhysfdlglwagaliwgtvaqlsncYLALEPMIHLGIgwasavsipylmvasmppakwrrgvYMGILNMMIVVP----MLIETVtfgWIykNLLDNKGFNAIPLAGWFMAIGAVAMLWVN--PG-
+>tr|A0A2J6S5Y1|A0A2J6S5Y1_9HELO_5_4
+AIQEKTQTQLSQKFKYQPIYR---TILRWFRSSPQKLKQVCAVQFFSWLAWHPFLFSITTWL-GNLYESQLKNKTNMPTAFltlgalhEYSLRLATLAMLLMQIValltlAGFPSIISKkpltvPRLRVRAPsetrdrdipredietlRDRYLQKESLMCNSIARRECFSLtraWRYSHIVTSIcmWGATLGNDFIKSV--VFVNILGSSWAKTGWSPLAAIGteiaqdknaearepcmqdtitastwmgdSCTSSRLPTQGLdleqtedhakvsseteldirsraatFLGLRNMAISLPQQLSAMVNAViyWLfGILGLMETQSMAWTLRLGCFAAIAGAYQAK----
+>tr|A0A2J6S5Y1|A0A2J6S5Y1_9HELO_5_2
+-KSEKTQPQASQKCFYQPIQR---EILRTFRSSCQKLKTVCAVGDFSWLAWCPFLFSITTALTRNLYEDQLLSKTNMPTAFltlganhEYSLRLDTLAMVLFQWValltwIGFPSIISIkpltvPRLRVRAPsetrekdiwredietlRDRYLQKESLVCNSIARRECFSLtraWRVSHIVSSIcmLGATLGNDFIRSV--VFVAILGSTWAHTQWTPLALIGteiaqdcnpeerepgmqdtttastwmgdNGTSSRLGSQGLdleqtedhaqvsseteldvrsrratWLCLHTMAISLPQILSAMVNAVieWLfGPLGLGMTQSMAWQLRVGCFAAIAAAFCA-----
+>171380_1_2
+-----------------------------------------------------------------------------------------------------------ARTKELTPseedlaklraqpkgvgafVTDIADAVRTMSVAMHKIgvvflfQWYDMfiyWQFLAVSIPEtaFNATPeegGRDWDSAI--AWSGLMNGAFNFFTmrSSALFLVGlawkmvakrvhaefsyglaagvliwvaqisnqYLMLVPMFGLGIfwhsavgipylmvasmfpakrtgvYMGIPNMMIVVP----MLIETLtfggWIykNLTDNKGQNAITLAGVMMAIGAVAMLWVN--PP-
+>tr|A0A2J6S5Y1|A0A2J6S5Y1_9HELO_5_1
+-IQEITQPQLSQKFHYQPIRR---EILRTMRSSPQKAKTVCAVQHFSDLAWCPFLFSITTYL-RNLYEDQLLSKTNMPTAFltqgalhDYSLNLATLAMVTFQIValvrlIGFPSIISKrpltvCRIRVRAPsdtrerdipredietlRDRYLQKESLMCNSIARRECFSLtraWRYSHIVTCIcmLGATLGNDFIRSV--VFVAILCSSWALTQWTPLAIIGteiaqecnpeerepqmqdditastwmgdNCTSSRLPSQGLdlentedhaqvsseteldirsraarFCPLHNMAIQLPQILSEMVNAViyWLfGILGLGETQSMAWTLRVGCWVNIAAAFCA-----
+>171380_1_0
+-----------------------------------------------------------------------------------------------------------ARTKELTGseedlaelraqgkglgafVTDIAEAVRTMSVAMHKIgvvflfQWYAQfqyWQFLWWSIGEtaFNATPeegYRDWDSAP--AWSGLMNGAYNFFTmsmISAVGLVGlakkmgakrvhafslglaagalielvaqisnqYLALVAMIGLGIfwasavgipylmvatmvpakkrtgvYMGILNMMIVVP----MLIETVtfgWIykNLLDNKGTNAILLAGVMMAICAVAWLWVN--PP-
+>tr|A0A2J6S5Y1|A0A2J6S5Y1_9HELO_8_4
+HIQKKTQPQLNQKWKYQPIYR---EILRTFRSTPQKLKTVCAVQFFSWLAWCPMWFSITSYL-RNLYEEQLLSKTNMPTAHltlgalhfEYSLRLATLYMVWFQWFalltlIGFPSIISKkpltvPRLRVRAPshtrerdipredietlRDRYLSKESLMCNSIAHRECFSLtraWRYSHIVTSIamLGQTLGNEFIRSV--VFVVILGSSFAMTQWQPLAIMGteiaqdcnpeermpcmqdtitastwfgdNGTSSRLPSQGYdleqtevhaqvssetewdirsravtFLGLHNMAISLPDILSADVNAViwWGfGILGLGDQQSMAWQLRVGCFAAIAAAFCA-----
+>tr|A0A2J6S5Y1|A0A2J6S5Y1_9HELO_5_0
+-ILEKTQPQLSQDFKYQPIYR---EILRSFRSSPQKLKTVCAVQFFSLLVWCPFLFSITTML-RNLYEEQLLSKTNMPTAFltlmalhEYSLRLAhSLAMVLFQIQalltlIGFPSIASKkplnvPRLRVRAPsesperdiprddietlRDRYLQKESLMCNSIARRECFSLtraWRYSHIVTSIcmLGITLGNDFIRSV--VKVAILGSSWALNQWTPLAIIGteiaqdcnpeerepcmqltitasswmpdNCTSSRLPSQGLdleqtedhaqvsseteldirsraftFLGLHNMAISLPQILSAIYNAMiyWLfGILGIGETQSMAWTLRVGCFAAIAAAFCA-----
+>tr|A0A2J6S5Y1|A0A2J6S5Y1_9HELO_2_4
+IIQEKTQPMLSQKTKYSPIYR---EILRTFRSSPQKLKTVCAVQFWSWLAWCPFHFSITTYL-RNLYEDQALSRTNMPTAFltlgalhEYSMRLATLAMVLYQIValltlIGFCNIISKkpltvPKLRCRACsetrerdipreeietlRDRYLQKESLMCSSIARRECFSLdraWVYSHIVTSIcmLGATLGNDFIRSV--VFVVSLGSSWALTQWTPLAIIGleiaqdcqpeerepcmqdtitastwmgdNCTSSRLPSQGLdneqtedhaqqssdteldirskaatFLGLHYNAISLCQILSAMVNAViyWLfGILGLGETSSMAWTLRVSGFAAIAAAFCA-----
+>171380_1_4
+-----------------------------------------------------------------------------------------------------------ARTKELTPseedlaearavpkgrgafVTFIPDAVRWMSVAMRCIgvvflfQWYAMfiyWQFMAVSNGEtaFNATPeegGRDWDSAI--AWSCLMNGAYNFVTmqITALFLVGlaqkmgakrdhamslglaagaliwmpvaqisnqYLALVPMNQLGIfwashvgipylmvasmypakrtgvYMGILNMMIVVP----MLIETVtfgWIykNLLDSKGSSAITLACFMMAIPAVAMLCVN--TPA
+>tr|A0A2J6S5Y1|A0A2J6S5Y1_9HELO_8_3
+-IQEKTQPQLSQKFKYQPIYR---EIHRTFKSSGTKLKTVCAVQFYSGLAWCPKLFSITTYL-RNWYSEQLLSKTNMPTAFltlgalhEYSLRLAfTLAMVLFQIValltlIGFPSIVSKhpltvGRLRYRAPsetkerdiprenietlRDRYGSKESLMCNSIARRECVSLtrlWRYSHIVWSIcmLGATLGNDWIRSV--VFVAILGSSWALTQWTPLANIGteiaqdcnpedrepcmqdvitastwmgdNCTSSRLPSNGLdleqtedranmsseteldirsraitFLGLINMAISLPQILFAMVNAViyWLfSIRGLGDTQSMAVTLRVGCFAAIAAAFCA-----
+>tr|A0A2J6S5Y1|A0A2J6S5Y1_9HELO_8_1
+-IQEKTQPQTSQRVKYIPIYR---EILRTWRSSCQKLKTVCAVQFFSWIVLCPFLFSITTYLYRNLYEEQLLSKTNMPTAFltygalhEYSLRLAiTLAVVLFQIValltlIGFDSIISRkpltvPRLRVRAPsetrerdigrcdietlVDRYLQKESLMCNSLARRECFSLtraWRYSHIVTSIpmLGATLGNDFIRSV--YFAAILFPSWILTQQTPLAIIYteiaqdcnpeerepcmqdtitastwagdNCTSSRLPSQGLdleqtedhaqvsseteldihsrnatYLGMHNMAISLPQMLSAMVNAViyWLfGILGLGETQSMAWTLRVGGFAAIAAAFPMM----
+>tr|A0A2J6S5Y1|A0A2J6S5Y1_9HELO_5_3
+-IQEKTQPQLSQKFKYQPTYR---ELLRQFRSSPQKYKTLCAVQFFSLLAWCPFLFSMNTYL-RNAYEEQLLSKTNMPTAFltlgalhEYSLRLAgTLAFVLFQIValitlIGFPSIISKppstvPRLRVRAPsetrerdipredidtlRDRYLQKESLCCRSIVRRECFSLdrfWRYSHIVTSIcmLGATLGNDFIRSV--VFVAILGSSWALTQWTPLAIICteiaqdcnpferepgmidnstastwmgdNCNSSRLPSQCLdleqtedhvqvsseteldiksraatFLGLHNMAISLHQILSAMVNAViyWLfGFLGLGETQSMAWTLRVGCFAAIAAAVCAV----
+>tr|A0A2J6S5Y1|A0A2J6S5Y1_9HELO_2_3
+VIQEKTQPQLSNKFKYQPIYR---EILHTFRTSPQKLKTVCAVQFYSWLAWCPFLYSPQTYL-RNLYEEQLLSKTNRPTAFltlgalhEYSLRLATSAMVHFQIValltlIGFPPIISKkplrvPRLRVRIPsenrerdmpredietlRDRYLNKEFAMCNKIARRECFSLtkaWRYSHIVNSIcmLGATLPYEFIRSV--VFVAILGSSWALTTWTCLAIIGtpifqdcnpeerepcmqdtitastwmgeNETSSRYPSQGLdlestedhaqvsseeeldirqhaatFVGLGNMAISLPQILSAMVNAViyWLfGILGLGETQSIAWTLRVGCFAAINAAFCA-----
+>tr|A0A2J6S5Y1|A0A2J6S5Y1_9HELO_2_1
+nVIQEKTQPQLSQKFKYQPIYK---EILRTFRSNPQKLCTANAVQFFSWLAYCPFLFSITTYL-RNLYEEQLLSKTNMPTHFltlgalhcEYSLRLATLAMVLFQIValltlLGFPQIISKkgltvPRLRVRAGsetrendiprddpdtlRDEYLQKESLMPNTIARRECFSLykdWRYSHHVTSIcmLGATLGNDFIRSV--VFVAILGQSWALTQWTPLAIIGteiatdvnpedrepcmqdtitastwmgdTATSSRLPSQGLdseqtedhatvsseseldirdraatFIPWHNMAISLFQILSAMVNAViyWLfGIHGGGETQSMALTMRVGCFAAIAAAWCA-----
+>tr|A0A2J6S5Y1|A0A2J6S5Y1_9HELO_2_2
+MIQEKTQPQLSQKFKYAPIYR---EILRTFRSSPQKKKTVCAKQFFSWLAFCPFLFSITQYWERNLYMEQLLSKTNMPTAFltlgalhEYSLRLAfTLNMVLFQIValltdIGFPSIISKkpltvPRLRVYAPshtrerdwpredietlRDRYLQKESLYCNSITRRECFSLtnaIYYNHKVTSIcmLGATLGNDFIRSV--VFWAILGKSWALTQWTPLAIIGteiaqdcnpeerepcmqdtitastwmgdNCTSSRLPSTGLdlesttdhaqvsseteldihsraatFLGLHNMAIELPQIMSAMVNAViyWLfGILGLYETQSMAYTLRVGCFAIIAAAFCA-----
+>171380_1_1
+-----------------------------------------------------------------------------------------------------------ARTKELTPseedladlraqpkglpafKTDIADAWRSMQVAMHKIgvvflfQWYAMfiyAQFLAVSIGEtaFNATTeegGRDWPSAM--AWSGLMNGAYNFFTmdtISVLEAVGlaqkmgakhvhagfslglaagalimyfvaqisnqWLALVPWIGLGIfwasyvgipylmwfsmvpakrtgvYMGILNMMYVVP----MLIETVtvgWIykNLLENKGSNAITLMGVMMAIGAIAMLWVN--PPP
+>tr|A0A2J6S5Y1|A0A2J6S5Y1_9HELO_8_2
+AIQEKPNPQLSQKFKYQDIYR---EILRTSRSSPQKLKTVCAVKFASELAWPCFLFSITTYYYRNQYEEQLLSKTNMPTAFltlgalhEYSLRLASKAMLLFQIVallqlIGFPSIISKkcltvPRLRVRAPqetypqdipredietyRDRYLQKESLMCNSIARRECFSMhraWRYSHIVTSIcmLGATLGNDFIRSV--VFVAILGNSFALTQTTPLAIIGteiaqdgndeerwpcmqdtitastwmgrNCTSSRLPNFGLdleqtedhaqvssetdldirsriatFLVLHNMAWSLPQYLSAMVNAViyWLfGILGLGETQSMAWTLRVGCFAAFVAAFCAV----
+>tr|A0A1J4JB48|A0A1J4JB48_9EUKA Major facilitator superfamily transporter OS=Tritrichomonas foetus GN=TRFO_37433 PE=4 SV=1
+------------------------------------------------------------------HEEPLEEKPSSANPFavlYRAMK--EINSTYFRIAmvy--FMAMIASyqigiQLTDFMGAvifggnnelnanpedvel---YQKGVswAMMCQVVSCG-----vqFLYGFVNSKVc------------------DIIGLKWVF--FVTLTLLGvmyllfffvknriayiimhvpigvav-VCYNNLPPAVVtlitpteklgaalallncfnvigqqvsNFGIGmGVAKAWPGKPGHLVGISciFAf-------------------LGAILCFWLI-----
+>tr|A0A1J4JB48|A0A1J4JB48_9EUKA_3_4
+----------------------------------------------------------------APgkHEEPFEPKPSSANPFavlYKAMK--EINSTYFRIAmvf--FMAMIISyqiglQLTDFMGAvrfggnnelnanpeevep---YQKGVpswAMWCQVVSCG-----vqFLYGFVNSKVc------------------DIIGLKWVF--FVTLTLLGmmyllfffivkqriayiimhvpigvmv-VCYNNLPPAVVtlitptdklgaalallncfgvigqtesNFGIGpmGVKKAWPGKPGHLVGISnmLAf-------------------LGAILCFWLI-----
+>tr|A0A1J4JB48|A0A1J4JB48_9EUKA_3_2
+------------------------------------------------------------------nHEEPLEEKPSSARPFavlYRAFK--EINSTEFRIAmvy--FMAMIASysigiQLTDFMGAvifggnnelnanpeavel---YQKGVswAMMCQVVSCG-----vqFLYGFVNSKVc------------------DIIGLKWVF--FVTPTLLGvmillfffvktrmayiimhvpigvhv-VCYNRFPPAVKtlitpteklcaalmllncfnvigqqlsNFGIGmGVAKAWPGKPGHLVGISciFAf-------------------IGAILCFWLI-----
+>UniRef100_A0A6A5INB4_6_0
+-------------------------------------------------------------------------NPQVKGAFysvYLGIKQIPAVLVVYGIGfffvqYGYTPTtatrVSSsalrgTVMRQPTPtaatpwreqnayndgvs---LAPGTaDLLYNkQVGYV-----ysWCICELYSK---------------------FGLKWV---ILTISTIPqmlllimawdnnkcfdvfvvaitgmtsSIWFSCIVPVIThvygddmtieigmyvgalnsancfpqlllnyAIGsaidVNtSLGYKLPVFLGGVMSALgyFSp-------------------------------PSS
+>tr|A0A1J4JB48|A0A1J4JB48_9EUKA_2_2
+----------------------------------------------------------------GFHEEPLEEKCSSANPFavlERAMK--EINSTYFDIYcvy--FMAMIASyqigpQWTDFMGAvifggnnelnatpedvel---YQKGVswAMMCTVVSCG-----vqFLYGFVSSKVc------------------DIIGLKWVF--FVTLTLLGvmyllfffvkqrfayiimhvpigvav-VCYNNLPPAVVtlctpteklgaalallnwfnvigqqvsNFGIGmGVAKAWPGCPGHLVGISeiFAf-------------------LPAILCPWLIc-----
+>ERR1712032_157769_7_1
+----------------------------------------------------------------------------------lpvrapqrRRRAASTSPKLNYQLAvvhcfV-WNALKVWnlfgmSFFTITVYggdfikdatgeekka---FAAGQLAFSYGLQCEALLALlssFYCTFLATLKsy-----PPRVVYAY--DFLTIvavvsLAAAFLVQQNGTMAAIClvpvsclpevasfavpfglvamlnawavKKGKPLKTALQLawnnscitvgqevcilakfgietFMPTKaALKPMFAAGGSLFVAATg--CVLLIDDSVE------------------------
+>ERR1712032_157769
+----------------------------------------------------------------------------------lgvrapqrRRRAASTSPKLLYQLAavhcfV-WFALTVWnnfglQFFTLTVYggdghadatgeekka---FAAGQLAFSYGLQGEALLALlssFLCTFLATLKsi-----PPRVVYA---VFLTIgavvsLAAAFLVQQNGTMAAIClvvsclpevasfavpfglvamlnqqavKKGKPDKTALQLallnscitvgqevcilakfgietFMPTKaALKPMFAAGGSLLVAATg--GVLLIDDNVE------------------------
+>UniRef100_A0A6A5INB4 Major facilitator superfamily domain n=1 Tax=Phytophthora cactorum TaxID=29920 RepID=A0A6A5INB4_9STRA
+---------------------------------------------------------------------------QVKGAFysvYLGIKTLPAVLVVYGIGfffvqYGYTPTtatrVSSsalrcTVVRQPTPtaatpareqnayndgvs---LAGGTaDLLYNIVGYV-----ysWCIPFLVSK---------------------FGLKWV----LTISTIPqmfllimawvnnkgfdvfvvaitgmtsSIWFSCIVPVIIhvmgddveigmyvgalnsancfgqllnyAIGaaiVNtSLGYKLPVFLGGVMSALgfFSp-------------------------------PSS
+>tr|A0A1J4JB48|A0A1J4JB48_9EUKA_3_1
+------------------------------------------------------------------VEEPLEEKVSSQNPFavlYRAMK--EINSTYFRIAmvy--FMAMITSyqigiSLNDFMGAlifgpnnelngnseevel---YQKDVtswAMMCQVVSCG-----vqFLYPFYNSKVc------------------DIIGLKWVF--FVTLTLPGvmyllfffhvknriayiimhvpigvav-VCYNNLPPAVVtlitpteklgaalallncfnvigqqhsNFGIGfmGVAKAWPGKPGHLVPISciFAf-------------------LGAILCFWLIk-----
+>tr|A0A1J4JB48|A0A1J4JB48_9EUKA_2_4
+------------------------------------------------------------------HEEPLEEKPSSANPFavlYRVMK--EINSTAFRIAmvy--FMAMIASyqigwQLTDFMGAvifqpnnelnanpddvel---YYKGVswMMMCQVVSCG-----vqFLYGFVNSKVc------------------DIIGLRWLF--FVTLSLHGvmyllfsfsevknriayiimhvpigvav-VQYNNLPPAVVtyitpteklgarlallncfnvigqqksNFGIGmGVAKAWPGKPGMNVGISciFAf-------------------LGAILCFYLIqF----
+>ERR1712032_157769_7_4
+---------------------------------------------------------------------------------LlmvrapqrfRRRAASTSPKLLYQLAavhcfV-WFALTVWnnfglQSFQYTVYggdgladatgedkka---FAAGQLAFSYGLQGEALLALlssFLCTFVATLKsi-----PKRVVRG---VFLTIgehvsnLAAAFspLHQQNPTMAAIClvvsclpevasfavnfglvamlnqsavRKGKPDKTALQLlllnscitvgqrviiwakfgidtFMPTKaALKPMFAAGCSLLVAATg--GVLLIDDNVN------------------------
+>ERR1712032_157769_7_0
+---------------------------------------------------------------------------------HlgvkapqniRRRAAKTSCKLLYQLAavhcfW-WFALTVWnnfglQFFTLTVYggdghadatgnehka---FAACQLAFSYGLQGEALLALlseFLCTFLATLHsa-----PPRVVYAS--VFLTIgavvsLGAAFLVQQNGTMAALClvvsclpevasfgvpfglvamlnqqavKKGHPDKTALQLallnscitvgqevcilakfgaetFMPTKaALKPMFAAGGSLLVAATg--GVLLIDDNVH------------------------
+>UniRef100_A0A452ILZ1 Solute carrier family 45 member 2 n=1 Tax=Gopherus agassizii TaxID=38772 RepID=A0A452ILZ1_9SAUR
+--------------------K---CLLKALLSMPSHYRCLCVSHLIGWTAFLSNMLFFTDFMGQIVYHGNPY-APHNSTAYltyERGVE------------------IGCwgmciNAISSSLY--SYLQKAFLPYIGLKGL-----YFIGYLLFGI-----GTGFIGLF-PkVYSTLaLCSLFGVMS-STLYTVPfnliaeyhreeevralkddkviaeklneLFASVFMAEDVReipkpessfvddkseelsqtevsleevleLIDkLNiNKSPGPDGIHPRVLKELkc------------------------------------
+>UniRef100_A0A452ILZ1_13_2
+----------------PPEgtVK---CLLKALLVMPSHYRCLCVQHLIGWTAPLSNMLFFTDFMGQTLYHGNPY-APHNSTAFltvERGVE------------------IGCwgmciNAISSSLY--SYCQKAFLPYIGLKCR-----YFIGYLLFGI-----GQGFIGLF-PkglVYSNLaLCSLFGVMS-STLYTVPfnliaeyhreeevralkddkviadklneLFASVFMAEDTReipkpessfvddkseelsqtevsldevweLIDkLNiNKSPGCDGMHPKFLKDLkq------------------------------------
+>tr|A0A1J4JB48|A0A1J4JB48_9EUKA_2_0
+----------------------------------------------------------------WPHEEPLEEKPSSANPFavdYRAMK--EINSTYFRIAmvy--FMAMIASyqiciQLTDIRGWvifggfnelnandedvel---YQKGVyswAMMCQVVSCP-----vqFLYCFVNSKVc------------------DLIGLKWVwF--FVTVTLWGamyllfffivknriayfimhvppgvmv-VCYFNLPPLVVnlitpteklgvalallncwnvigqstsNFGIGmGVAKAWPLHYGKLVMMSciFGy-------------------LGAQLCFWLI-----
+>tr|A0A1J4JB48|A0A1J4JB48_9EUKA_2_3
+----------------------------------------------------------------DQHEEPLEEKPSSANPFavlYRAMK--EINSQYFRIAmvy--FMAKIASyqigiQLTDFMCAvimggnnelnanpldvel---YQKGStdAMMCQVVSCP-----vqFLYGFVNSKVp------------------DIIGLKWVF--FVTLTLLGvmyllfldnkknriayeimhvnigvai-VCYNNLPCAVVtmitpteklgaalallncfnvigqqvsNFGIGmGVAKAIEGKPGHLVPISciFAf-------------------LGAILCFWCI-----
+>tr|A0A1J4JB48|A0A1J4JB48_9EUKA_2_1
+----------------------------------------------------------------H-HEEPLEEKPSSANPFtvlYRAMK--EIGSTYFHIAmvy--WMAMIWSyqigiSLTDFMGAvifggnnelnanpemvel---YQKGVnwAMMCQVVSCG-----vqFLYGFTNSKKc------------------DIIGLKWEpF--FVTLTLLGvmylgfffvkqriayiimhvpicvav-VCSNNLPPNVVtlftmqeeklgaalallncfgvipkqvkNFGIGidmGVAKAWPGKPGHLVGISgiFAf-------------------LGWILCVWLI-----
+>311207_10_0
+--------------------------FRVWTYDPATTAR---------------------------YHGASEEDNHKGGNWftlwk-------HAPRVFWNVAlvqffC-WFSFqyLSTyavgmIAKNVWLTtdass-AVYQAAGntwYGAMEAVQSI-----aaVVWSYVLAKVp-----ANHHKAGY--AFSTLLGAIG----YTSIFFI-hsqnalifsfvligiawa------------smntypltmvtialsgykhmgtYLGLFNGSICVPQMVASLLSFGlf--PLLGSSQVNMMLVTGISALLGAISVFFIK--ET-
+>UniRef100_A0A6A5INB4_6_3
+-------------------------------------------------------------------------VRQVKGAFysvYLHIKTLPAVLVVYGIGfffvqYGCTPTtatrPSSsalkcTVVRQPTPsaatparrqnayndgvs---LAGGTaDLLCNIVCYV-----ysWCIPFLVSK---------------------FGLKWM---ALTITQIPqmfllimawkcmvnnkgfdvfvvaitgmtsRIWFSCIVPVIIhvmgdeveigmyvgalnssncfgqllnyLIGamiVNtSLGYKLPVFLGGYMSFLvfFSp-------------------------------PSS
+>UniRef100_A0A452ILZ1_13_3
+----------------YN-FK---CLLKVFLSMPSHQRCLGVSHLIIWTAFLSNMLFFQDFMWAIVYHGNPI-ATVNSTAYltyERGVE------------------IGCwgmciEAISSSLY--SYLQKAFLGYAGLKGL-----YFIGYLLFGI-----ATmGWIGLF-PkgVYSTLaICNLFGVMS-STLYTIPfniiaeyhreeevhalkddkaiteklneLFASVFMAEDVIeipksessfvddkseelsqtdvsleevleLIDhLNiNKSPGPDGIHPRVLKELkc------------------------------------
+>tr|A0A1J4JB48|A0A1J4JB48_9EUKA_3_3
+----------------------------------------------------------------FCCEEPLEEKPSSANPFgvlFRAMR--EINSTYFRYAmvy--FMMMITSyqiciQLQDFMGMvifcgnndlnancedvel---YQKGVswAMMCQVVNCG-----vqFLYGFVNQKVc------------------DIIRLRWVY--FCQLTLLGvmywlfffqcvksriayiimhlpigvav-VCYNNLPCLVVtlitpteklgaalallncfnvigsqvsNFGMCmGVAKAWNGKPGHYVGISciFAf-------------------LGAILPFWLI-----
+>ERR1712032_157769_7_3
+---------------------------------------------------------------------------------TllgvrapqrRRRAMSTSPKLLYQHQavhcrV-WIALTVWnnfglQFFRLNVYggdghadatgeekka---AAAGQLAFSYGLTGEALLALlssFLCTFLATLKsi-----PGRVLYAS--VHNTIvavvsLAAAVqLVQQNGTMAAIClvgdsclpevasfavpfglfamlnqqavKKGKPDKTALQLallnscitvgqevcilahfgietFMPTKaALKPMFFAGGSLLVAATg--GVLLIDDNVE------------------------
+>ERR1712032_157769_7_2
+---------------------------------------------------------------------------------EllgvraaqhtRRRAASTSPKLLYQLAavhcfV-WFALTVWnnfglQFFTDQVYggdghaeatieekka---FAAGWLTFSYGLQGEALLALlssFLCTFLNTLRsi-----PPRVVYA---VFLSIgapvsFEAAFLYQQNGTMAAIClvvsclpevasfavpfglvamlneqavRKGKPDHTALQLalynscitvgldvcihakfgieqFMPTKaALKPMFAAGGSFLVAATg--LVLLIDDNVE------------------------
+>311207 len:457
+--------------------------FRVHEYDPATYAR---------------------------YHGISEEDNKKGGNWftllk-------HAPRVFWNVAlvqffC-WFSFqyLSTyavgaIAKNVWLTtdass-AAYQAAGnwYGVMTAVQSI-----aaVVWSYVLAKVp-----NNHHKAGY--AFSLLLGAIG----YTSIFFI-hsqnalifsfvligiawa------------smntypltmvtnalsgkhmgtYLGLFNGSICVPQMVASLLSFGlf--PLLGSSQVNMMLVTGISALLGAISVLFIK--ET-
+>UniRef100_A0A6A5INB4_6_4
+-------------------------------------------------------------------------NSRVKGAFysvYLGIKTLPCVLVVYGIPfffvqYGYTPGtatrVSSsalrcTFVRQPTPtaatpakeqnyyndcvs---LAGGTaDLLYNIVGYV-----isWYIPFLVSK---------------------FGTKWV----LTISTIPqmfllifawvvnnkgfdvfvvaispmtsSIWFSDIVPVIIhvmgddveigmyvpalnsancfgqllanyAIGaaiVNtTLGYKLPVFLGGVMWALgfFSp-------------------------------PSSh
+>UniRef100_A0A452ILZ1_13_1
+-------------------IK---CLLKYLLSMPSHYKCLCVSHLIGWTAFFSNMLFFTDFMLQIVYHGNPY-APHNSTAYlgyERGVE------------------IGCwgmciNAISSSAY--SYLQKAFLPYIGLKGL-----YKICYLLEGI-----GTCFWGLF-PkVYSTLaLCSLFGVMS-STLYTVPfnliieyhreeevralkhdkviaeklnePFASVFMAEDVReipkpessfvddkseeesqtevslevvleLIDwLNiNKPPGPDGIHPRVLKELkc------------------------------------
+>tr|A0A1J4JB48|A0A1J4JB48_9EUKA_3_0
+----------------------------------------------------------------C-HEEPLEEKPKSAQPFavlYRAMK--EINVTYFRIAmvy--FMAMIANyqigiQLTQFLGAvvfgpqnelnsqpeevee---YQKGVnwAMMCQVVSCL-----vrFLFGFVNSKVc------------------DIIGLKWFqF--FVTLTLLGvwyllfgftvknpiayiimhvpigvav-VCYNNLYPAVLtlitpteklgaalallncfnvicqtvsNLGKGmGVMKEWPGKPGHLDGISciFFf-------------------LGAILCFNLI-----
+>ERR1719291_110740
+---------------------------------------------------------------------------GACAPVvdvAKAVK--GSPKILYHLAfvqclV-WIGLTSWnlyagQWFGVSVYggdetappg---LPRAR-----GLRQGrg-----avRPWGPVQGRA-----GARVLPNH--h-----LGPPVQ---QSPSQAgVRpvhlrrrcrggvgrllrqaerl------LRARVHdvfraarggilrhpvrldcgpqqarRAGg--eAGERGLADGTPELLHHCWPa---GLHHDTCCHRGPNVARAGAAGDFHGG--GD-
+>311207_10_3
+--------------------------FRVHEYDPASYAR---------------------------YRGISEEETKKGGNWftllk-------HYPRVFWNVAlvqifC-WFSFqyLSTyvvgaIAKNVWLTtdass-AAYQLAGnwYGVMTAVQSI-----aaVVWSYVLHKVp-----NNHHKAMY--AFSLLLGAIG----YTSIFFI-hsqnplifsfvligiawa------------smntypltmvtnalsgkhmgtDLGLFSCSICVPQMVASLLSFVlf--PLLGSSQVNMMLVTPPSALLGARSVLFIK--ETG
+>UniRef100_UPI0006984665 MFS transporter n=1 Tax=Archangium violaceum TaxID=83451 RepID=UPI0006984665
+-------------------------------------------------------------------PEPLAPVLRTSSQEprlglg-EAFRLLGTHPTLRPLAvvlllS-WLSFQSSdnmsvLYTAHRYG---WSTVQFGAFVAVEAS-----lgILVQGLVAGAa-ARRLGE--RRAL--iLGTTLqgLGMLA-M-GLAPVAIlfWPgalvavmgaiarpalqtlmseavhadeQGRLQGIVSSIAsatsvvaplvftslyawaiggdrspaWAGITl--------LCGAALCALgaWVAWRTAPRRQA------------------------
+>UniRef100_A0A6A5INB4_6_1
+---------------------------------------------------------------------------QVKSAFysvYLGIKTLRAVLLVYGEGftfvsYPGTPTtatrVSSnalrsTVVRQPTPtaatpareqnayndgvs---LAGGTaDLLYNIVGYV-----rtYCIPELVSK---------------------MGMKWV---RATISTIPqmflpimawvtvnnkgfdvfvvaitgmtsSIWFSCIVPVIIhvggddvaeigmyvcalnsmncfgqrlnqAIGaafVNtSLGGKLPVFLGGMMSALgfFSp-------------------------------PSS
+>311207_10_2
+----------------------I---GRVHEYDPATYAH---------------------------PHFISEDDNKKGGNWftllk-------HAPRVFWNVAlcqffC-WFSFqyLSTyavgaIAKNVWLTmdvss-ADYQAAGnwYGVMTAnVQSI-----aaVVWSYVLAKVc-----NNHHRAGY--AFSLLLGAIG----YGSIFFdI-htqtalifsfvligiawa------------swntypltmvtnalsgkhmctYLVLFNPSICKPQMVASLLSNGlf--PLLGSSKVNMMLVTGASALLGAISVLFLK--ES-
+>311207_10_1
+--------------------------RRVHEYDPATYAR---------------------------YHGISEEDNKKGGNWftlyk-------HAPRVFQNVAcvqffC-WFSFlqyLSTyavgaIAHNVWLTtdass-AAYQAAGnwYGVMTAVQSI-----aaVVWPYVLAKVp-----NNHHKAGY--AFSLLLGAIG----YTSICFqygI-hsqnalifsfvligiawa------------smntycltmvtnagsgkhmgtYLGLFNGSRCVPQMVASLLSFGlf--PLLGSSQVNMFLVTGTSALLGAISVLFIK--DTR
+>UniRef100_UPI0006984665_5_4
+-------------------------------------------------------------------PEPLAPQLRTSSQEprlgle-QAGRLLGTHPTLRPLAvvlllS-WLSFQSSdnmsdLYTiAHRYG---WSTVyQNGAFVAVEAT-----lgILMQGLVAGAa-ARRLGM--RHAL--vLGTTLqgLGMLA-MMwpGLAPVAIlfWPgalvavmgaiarpalqtlmseavhaddIGRLQGIVSSIVsatsvvaklvftslcawaigpdrspaWAGITl--------LCGAALCALgaWVEWRTAPRRQM------------------------
+>UniRef100_UPI0006984665_5_2
+------------------------------------------------------------------WPEPMAPVLRTSSQEcrlgpg-EAFRMLPTHPTLRPLAvvllyS-WLSTSSSdnisvLITVHRYG---WSTVtvfkQFGKFwAAVEAS-----lgILVQGLVACAa-ARRLGE--RRAL--iLGTTLqgLGMLA-M-GLAPVAIlfWPgalvavmgaiarcalqtlmseavhadeQGRLQGIVSSIAsatsvvlplvffslyalgaiggdrsgaWAGYNl--------LCGQALCALgaWVAWRTAPRRHA------------------------
+>UniRef100_UPI0006984665_5_1
+------------------------------------------------------------------VPEPLAPVTRTSSQEprlglg-GAFRLLGTKCTLRPLAvvlllS-WLSAQNSdnmsvVYTAHRYG---WSTVQFGAFLAVEAS-----lcILVQILVAGAa-ARRLGE--RRAL--iLGTTLqgLGMLA-MPcCLAFVAIlfWPgalvavmgaiarpalqtlmseavhaddQGRLSGIVSSIAsatsvvaplvftslyawaigpdrspaWKGITl--------LCGAALCALgaWVMWRTAPRRQA------------------------
+>UniRef100_A0A6A5INB4_6_2
+-------------------------------------------------------------------------KWQVKGAFfnvYHGIKCLPAVLVVYGIGfffvaYCYTPTtatrVSSsalhcTNVRQRSPeaatpfreqnayndgas---LAGGTaDLLYNIVGYV-----ysWCILFLVSR---------------------FALKWV----LTISTIGqmflliyawvnnkgfdvgvvaitgmtnSIWFSCIVPKIIrvmgddvdeigmyvgclnqwncfgsllnyAIGaaiVNtSLGYKLPVFLGGVMSNLgfFSp-------------------------------PSS
+>UniRef100_A0A452ILZ1_13_4
+----------------TNA-R---FLRKALLSMPSHYRCLCVSHLIGWTAFLSNMLFFTDFMGQIVYHGNPY-APSNSTAYltvMRGVE------------------IGCwrmciNAINSSLP--SYLKKAFLPYIGLKGL-----YFIGYLLFGI-----GTGFIGRC-PkVYSTLaLCSLFGIVS-STCYTVPwnliaeyhreeevralkddkviaeklneLFASVFMAEDVReipkpessfvddkseilsqtevsleevleLIDkLNiQKNPGPDGIHPHVEKEQkc------------------------------------
+>ERR1017187_8164180 
+ldgigslaafrrqnagwlepfadfmalkahfggrawtawperfrswnpelratlpe--------SVRRDADRHAFYQ------HLFFGQWDRLRRYAADQGVGIIGDVPI------------FVALDSADTWRNRAVfrlDeqgqpRAIA--GVPPDYFSEAgql--WGNPlYDWdhlasSGYSWWID---RLRAAFELYD-IIRLDHF--rgFDTYWEVSTDaLDARGGQGRKGPG--lPFFDVvqkaLPAAR-II-AEDLGYIGpdvvalrraaglpgmkvlqfayghdagNVNLPHFYSPESvvytgthdntttrgwlenlpketagqvadYFGLDGSRSAWPLIRAALATVSrl--SVVPMQDLL-------------------------
+>UniRef100_W7TQ05_8_4
+------------------------IPEPSTMSAPPNLRGEGSER----KANVPNP-----------KEEPEIERKANANGTtavYgKGSVASRSKDGVWDLYrhgpqGGQVAVLLAvrkvfvAMS-----sgifetsaan---YASKH----LFMDGQn-----lgLLLSFLGVFQv-----aNN--------NFIHRwdGSNSF---QDHQLIFpaiVGqafstfcwghvhnlasllpvlasltitGSYFQTLLQTELstvtpkalvgtvlgisyaietfakittpFLGgylIErHWGHALKFVSALFVLPVcwHVAFTEFFKVRKMLQE--------------------
+>UniRef100_W7TQ05 Major facilitator superfamily mfs_1 n=1 Tax=Nannochloropsis gaditana TaxID=72520 RepID=W7TQ05_9STRA
+-------------------------PEPSTHSAPPNLRGEGSER----KANVPNP-----------KEEGS-ERKANANGTtavNgKGSVASRSKDGVWDLIrhgpqGGQVAVLLArkvfvAMS-----sgifetsfan---YASKH----LGMDGQt-----lgLLLSFLGVVSv-----vNN--------VFIVRwLSNSF---QDHQLIFpaiVGqafstfcwghvynlasllpvlasltitGSIFQTLLSTELstvtphalvgtvlgisyaietfakiltpFLGgylLErHGGHALGFVSALFLLPVcaHVAFTEFFKVRKVVQE--------------------
+>UniRef100_UPI000B9C2CBE MFS transporter n=1 Tax=Aquimarina agarivorans TaxID=980584 RepID=UPI000B9C2CBE
+-------------------------------------------------------------------PETIKQKKCQKLRWheflpLKVFIKLKATALPFQLLiasllY-----qISFhsftaIWSYYMIAkfnwgvkeiggsl---LAVGl-SNFF--VQNVv-----arYLIPKLGAKKtFFI--GVSFaIPAF--YLYAVVNVEW-LV-YVTILLgsLGalmrpclrgimssylsyvdqgslmggITSISGMA----liigpivmtqtfsvfqnesyALDMSGAPFLVSFLMSIIATIFvfWAfSKKKV-----------------------------
+>UniRef100_UPI000B9C2CBE_11_3
+------------------------------------------------------------------icVHETIKQKKCQKLRWhehlpLKVFIKLKATAYPFQLLiasllY-----qIRFhsftaIWSYYVWAkfnngvkeiggksa---LAVGl-iSNFF--VQNVn-----arYVIPKLGAKKttFFY--GVSFhalaIPAF--ILYAVVNVEW-LV-YVTILLwsLGalmrpclkpimssylsyvdqgslmggRTSISGMA----wiigpivmtqtfspvfqnehyALDMSGAPWLQTFLMSISATIHvfWAdSKKKV-----------------------------
+>UniRef100_UPI0006984665_5_0
+------------------------------------------------------------------egCPEGLAPVLRCSSQEcrlglg-EAFRLLGTKPTLRCLAvvlllS-WLSFQSSenmsvAYTAHRYG---WSTVwQFGFFVAVEAS-----mgALVQGLVAGAa-ARRLGE--HRAL--pLCSTLqgLGMLA-MAddiGLAPVAIlfYPgalwlvmgaiarpalqtlmseavhaeeIGRLQGIVSSYAsatsvvaplvftslyawaiggdrspaWAGITm--------LCGAALCALgaWVAWRTMPRPQA------------------------
+>UniRef100_A0A146KH77_14_0
+-------------------------------------------------------------------EKPQKMKRKQSNPFchlVREFR--IMDQIFLRAMcplflS-WVSL---apmmmFMG-----vm---FDKETTFIAT-IASMqhet-----vsTLVSLAMGQIm-----NK-------------FGERLSFLt-CSSVYTAGmlwlhiigaynpnlwvsaQWCNCLALGLVGfmqyaintipfmaigklspsqskglLFGVFNCVIVIGQALANILLAIi--NMINQDTRNTMWVAMIFSALTIASTFILM-----
+>ERR1017187_8164180_4_1
+qgyaldgigslaafrrqnagwmdpkcdfmaskahyggrawtawpehfrswnpdlratlpe--------SVRRDADRKAEIQ------HLFFGQWDRLRRYAADQGVGIIGDVPI------------FVPLDSADTWRNRAVfklDeqgqpRAIF--GVPPDYFSEAgql--WGNPlYDWdhlasSGYSWWIE---KLRAAFELYD-IIHLDHF--rgFDTYAEVSTDaYDARPGQGRKIPG--lPFFRVvqkaLPAAR-AI-AEDLGYIGpdvvalmraaglpgmkvlqfayghdagNVNLPHFVSPESvvytgtndstttrgwlenlggdtagqvadYDGWDGSRSAWPLIRAALLTVSrl--SVVPMQDLL-------------------------
+>UniRef100_W7TQ05_8_1
+------------------------LPEPSTPQAPPNLRPEGSER----KRNVPRP-----------KEDGSiQDRKANANGTtavNgKGSVASRSKDGVWDLIrhgpqLGQVAVLLArkvnvAMS-----sgifetsaan---YASKH----LGMDGTt-----lgLLLSFLGVVNv-----vNN--------VFIVYwLSNSF---QDHQLIFpaiVGqifstfcwghvknlasllpvlasltktGSIFQTLMSTELstvtpralvgtvlglhyaiesfakiltpFLGgaylLErHGGHALGFVNALFLLPVcaHVAFTEFFKVRKMVQE--------------------
+>UniRef100_W7TQ05_8_0
+------------------------DPEPSTHSAPPNLRGEGSER----KANVPNP-----------KEEGSDERKANANGStavNgKGSVASRSKDGIWDLRvhgpqGGQVAVLLArkvfvAQQ-----ngiqettfan---YASKH----LGMDGQt-----lgDLLSFLGVVSv-----vNN--------VFIMRwLSNSF---QDHQLIFpaiVNqafstfqwghvynlqswlpvlahltitGSIMNTLLSTELrtvtphalvgtvlgisyaietfakiltpFLGgylLErHGGHALGPTSALFLLPVcaHVFFTDFFKVRKVVQE--------------------
+>UniRef100_A0A507FIS2 Uncharacterized protein n=1 Tax=Chytriomyces confervae TaxID=246404 RepID=A0A507FIS2_9FUNG
+-----------------------------------------------------------------EERSTLHLQSLEPIQWkrffkDlvapllenRDFRLVFISRFLFQLGiatvnQ-FLQYWIGdcvntTM------psteavslalipl---LVLAPiAAMF--IPKK-----krKVVVYVASGIm---------IATC--VLLEVATELW-----MALLIgglFGmgygpfisaefamlmdvlpsegeAAKDIALWHSAMvlpqifatpaagwlldyyqsvgsaLVPpIHCLGYKVTFALCIIYFAVgt--EITRRI----------------------------
+>UniRef100_A0A452ILZ1_13_0
+-------------------kYK---CLLKALLSMPSHYRCLCVSHLIGWTAFLSNMLFFTDFMVQFVYKGNPY-APHNSTAYltyETGVD------------------IGAwghciNAISSSLY--SPLQKAFLPYIGLKGL-----YFIGYLLFGG-----GTGFIGLF-PdrVYSTLaLCSLFGYIS-STLWTYPfnlifeyhreeevralkddkviaeklteLFASVFMLEDVReipkmessfvddkseelsqtevseedmleKIDkLNiNKQPGPDGIHPRVLKELkc------------------------------------
+>UniRef100_A0A146KH77_14_4
+-------------------------------------------------------------------EKPQRMRKKSSNPFlhlWREFR--KMEQIFLRAMtplflS-WVSL---apcmmFMG-----vm---FDKETTFIYQ-IASMt-----vsMLVSLAMGSLm-----NK-------------FGERWSFLi-CSSVYTIGllhliigaykanpntwvsaNWCNCLLLGLVGfmqsaintipfmyidkltpsqskglYFGYFNCVIVIGQALANILLAAi--NAINQDTKNTMWCAMIFSAGTIASTFIL------
+>ERR1017187_8164180_4_3
+aqaldgigsliafrrqnagwlepladfkflkahfggrlwtawperfrsmnpelratlpe--------SVRRDADRKAFYQ------HQMFGQWDRLRRYAADQGVGIIGDVPI------------FVILDSADTWRNRAVfrlEengqpRAIA--GVPGDYFSEAgql--WGNDlYDWdhinsSGYSFWID---RNRAAFEDYD-IIRLDWF--rgFDTYWEVSTDaLDIRGGQGRKGPP--lWFFDVvqkaLPAAR-II-AEDLGYIGpdvvalrraaglpgmkvlqftvghdlgNGNLPHFYSPESvvytgthdntqtrgwceslpketagqvadYFGLDGSRHAWPLIRAALATVSrl--SVVPMQDYM-------------------------
+>311207_10_4
+--------------------------FRVHEYDPATYAR---------------------------YHGISEEDGKHGGNLftlfk-------HAPRVFWNVAlvqfrC-WFSIqyASTyavgcIAKNVMLTtdass-AAYQAAGnwYGVMTAVQSI-----gaVVWSYVLAHVp-----NNHHKACY--AFSLLLGAIG----YTWIFLrkndeI-hsqnalifsfvligiawi------------smqtypltmvtnaltgkhmctYLGLFNCSIFVPQMVESLETFGlf--PLTGSSQVNLMLVTGISALVPAISVLMIK--ETM
+>UniRef100_W7TQ05_8_3
+-------------------------PEPSTHSAPPNLRGEGSER----KANVPKP-----------KWEGSCERKANANGTtavNgKGSVASRSKDGVWDLIrhcpqGGQVAVLLArkvfwAMS-----sgifytnfan---AASKH----LPMDGQt-----lgLLLSFLGVVSv-----vNN--------VFIVRwaLSWSF---QDHQLIFiaiVGtafstfcwghvynladlrpvlasltitGSIFQTLLSNELstvtprasfytvlglsyaietfakiltpFMGpwlLErHGGHALGFVSALFLLPVcyHVAFTEFFRERKLVQE--------------------
+>UniRef100_W7TQ05_8_2
+------------------------DPEPSTHSAPGNLRGEGSDR----IANVPNP-----------KEEGShCERKANANGTtavNgKGSVAGRSKDGVWDLIrhgpqGGQVAVLNArkvfvAMS-----sgifetsfln---YASKH----LGMDGQt-----lgLLLSFLGVDSv-----vNN--------VFIVRwfLSHSF---QDHQLIFvaiVGnafqtfcwghvynlasllpvlaslsitGSIFQTLLYTELstvhphalvgtvlgisyaietfakiltpFLGgalLEhHGGHALGFVSALFLLPVcaHVAFTEFFKVRIVVQE--------------------
+>UniRef100_UPI000B9C2CBE_11_2
+------------------------------------------------------------------WPETIKQKKDSKLRWhmflpLKVFIKLKATFCPFQLTiasilY-----qISFhsftaIWSYYSIAkfpwgvkeiggysl---LAVGlam-rSSFF--VQNVv-----arYLFPKLGAKKtFGI--GVSFmaIPAF--YLYAVVNVEW-VV-YVTILLtsLGalmrpclrgimssylsywdqgslmggITSGSPMA----liigpivmtqtfsvfqnesyAMDMSGAPFLVSFMMSVIATIFvfWAfSKKKV-----------------------------
+>UniRef100_UPI0006984665_5_3
+------------------------------------------------------------------RPEPLAPVLRTSSQEprlglg-EAFIACGTHPTLRGLAvvlllS-WLSFQNNdnlsvLYQAHRYG---WQTVpfQFGAFVAVWAS-----lgILVQGLVAGAa-ARRLGE--RRAL--iLGTTLqgLGMLM-MAiGLAPVAIvlWPgalvyvmqaiarpalqtlmseavhadeQGRSQGIVSSIAsassvvaplvlqslylgwaigperdpaWAGITl--------LCGAALCALgaWVAWRTAPMNQA------------------------
+>UniRef100_K9UDX8_12_3
+----------------------------------------------------------------------------------vLKIPRQPSGSQKIDLKiyqqkV-WQSYSNStvlglLLA-----igym---FLIQsGpFITYIPIhlAGF-NFGNsgLFIGVVLASMs---------------VSLGLVASNLPRLaRhASPITLIKlafaiaaislsiipvsqidrawll-FVPSILFPIPLalaipashtllahltiddtragFMAHNASVQSFGFHEGPFIAGIfa--GLWGMHGVFFATAGLAVATFALFHFLFSQ--GIGg
+>UniRef100_UPI00039B01E0 MFS transporter n=1 Tax=Bacillus massiliogorillae TaxID=1243664 RepID=UPI00039B01E0
+------------------------------------------------------------------EDKKSINESGEEVATfsl-KSIKLIFKLPAVWLISfniff--WMCAYNTlayatPYFTQVYGisessagtigi--------VRMFL-VAAI-----aaPLAGFLSDKMk-----SA--SKLL--MYLGIlsiiLSAVYI---FAPNTAnFGvvmivvtllvggafaaargiyfaTLAETKIPLYVTglatgiisiiayssdlfmhvmiggwldKYGLEGFKITFTWMTACTVGALit--SILIRRLVVK------------------------
+>UniRef100_K9UDX8 Arabinose efflux permease family protein n=1 Tax=Chamaesiphon minutus (strain ATCC 27169 / PCC 6605) TaxID=1173020 RepID=K9UDX8_CHAP6
+----------------------------------------------------------------------------------vLKLPRQPSGSQKIDLKiylqkV-WQSISNStvlglLLV-----igvm---FLIQsGpFITYIPIlAGF-NFGAsgLFIGLVLASMs---------------VSLGLVASQLPRLaRhASEITLIKlafaiaaislsiiplidrawll-FVPSILFGVALalaipashtllakltiddtragFMAVNASVQSFGFGLGPLIAGIfa--GLWGMHGVFWATAGLAVATFALFHFLLSQ--GIG
+>UniRef100_K9UDX8_12_0
+----------------------------------------------------------------------------------vvLKLPRQPSGSSKIDLKiylqkV-DQEISNStvyglLLV-----egvm---FLIQsGpFITYIPIlllpyAGF-NFGAwgLFIGLVLASMs---------------VFLMLIASQLGRMaRhLSEITLIKlafaiaaitlsiiplhgidrawll-FVCSILFGVALalaipashtllawltfddtragFMAVNASVQTFGFGLGPLIAGIfa--GLVGMHGVFFDTAGLAVATFALMHFLLSQ--GIG
+>UniRef100_A0A146KH77 Major facilitator superfamily protein (Fragment) n=1 Tax=Trepomonas sp. PC1 TaxID=1076344 RepID=A0A146KH77_9EUKA
+-------------------------------------------------------------------EKPQRMKRKQSNPFlhlWREFR--IMDQIFLRAMtplflS-WVSL---apmmmFMG-----vm---FDKETTFIAQ-IASMt-----vsMLVSLAMGSLm-----NK-------------FGEKLSFLi-CSSVYTIGillliigaynpntwvsaQWCNCLALGLVGfmqsaintipfmyigkltpsqskglYFGVFNCVIVIGQALANILLAIi--NAINQDTKNTMWVAMIFSALTIASTFIL------
+>UniRef100_A0A146KH77_14_3
+-------------------------------------------------------------------EKPQHMKRKQSNPFlhlWREFR--IMDNGFLRAMspfflS-WVSL---apmmmFMlT-----vm---FEKESTFIAQ-IASMt-----vsMLVSLAMGTLm-----NK-------------FGEKLSFLi-CSSVYTIGmlllivgavhnpntwvsaIWCNCLALGAVGfmqsaintapfmylckltpsqcsvglYFGVFSCVIVIGQALANILRAIi--NAINQDTKNTMWVAMIFSALTIASTFILT-----
+>tr|A0A1V5WK65|A0A1V5WK65_9SPIR_9_1
+-------------------------------------------------------------------VREAESRVAAEEGVpdaTEEIPEEKKEPFFHSIImvf--YAKDhSGPlvlvsLFLWFVGYqgvvg---FLTEySIKTYD-LtTGQsc-----gpLAMGMVGISSa-----lAK--------IPIGYAARRWP--rRrMLRIkSLVMitvivtavfflepygktlgtlsngletIIFWALIFGYGVpwicvvantfpmlyqmahfsaNIGVYtGLYYTFSQLAAIVAPAFsg--AIIDVAGYRSMFLFCAVFCLLQFVMMGFVT-SGE
+>tr|A0A1V5WK65|A0A1V5WK65_9SPIR Major Facilitator Superfamily protein OS=Spirochaetes bacterium ADurb.Bin215 OX=1852910 GN=BWY20_01351 PE=4 SV=1
+-------------------------------------------------------------------VREKDSRVAAEEGVpdaTEEIPEEKKEPFFHSIImvf--YAKDkSGFlvlvsLFLWFVGYqgvvp---FLTEySIKTYD-LtTGQ-----gpLAMGMVGISSa-----lAA--------IPMGYAASRWG--rRrMIRISLVMiavittavfflepfgktlglsnglltIIFWALMFGYGVfwicvvansfpmlwqmahftNIGVYtGLYYTFSQLAAIVAPAFsg--AIIDVAGYRSMFLFCAVFFLLAFVVMGFVT-SGE
+>ERR1017187_8164180_4_4
+eqldgigslamfrrqqagwleifadfmalkahfgrrawtkwperfrssnpplratlpd--------SVRRDADRHAHYQ------HDFFGQWDRLRRYIAKQGKGIIGDVPI------------FVALESADTWRNRAVfrlDeqgqgRAIA--PVPPDYFSEAgqi--WGNPlYDWdhlktSGMSWWID---ELRAAFELYD-IWRLDHF--rgFECYWEVVTDaLDARGGQGRKGPW--lPFFDNvqkaMPAAR-II-WEDLGYIGpdvvalrraagypmmkvltfaychdagNVNLPPFYSPEIvvytgthdntttrgwfenlpketagqvaeYLGLDGSRSAWPLIRAALATVSrl--SVVPMQDLL-------------------------
+>ERR1017187_8164180_4_2
+ldgigsnaafrkqnagwlepfadfmalkahiggrawtawperarswnpelhatlpe--------SVRRDADRHAFYQ------HLFFGQWDRLRRYAADQGVGIIGDAPI------------FVALDSADSWRNRAVfrlDeqgqpRAIA--GVPPDYFSEAgql--WGNPlYDWdhlasSGYSWWID---RLRAAFELYD-IIRVDHF--rgFDTYWEVSQDaLDARGGQGRKPPG--lPFFDLvskaLPAAW-II-AEDLCYIGpdvvalrraaglpgmkvlqfayghdagNVNLPHFYSPESvvytgthdntqtrgwlenlpketagqvpdYSPLRGSRSAWPIIRFALATVSrl--SVVPQQEHL-------------------------
+>ERR1017187_8164180_4_0
+iafklegigqlaafrrqnagwlepfldfmaykahfggrawtawperfrswnpdiratlpe--------SVRRDADRHAEYQ------HLFFGQYDRLARYCADQGVGIIGDVPI------------YVALDSADTWRNRAVfrlDeqgqpRAIA--GVPPDYFQEAgql--WGNPlYDWdhlasSCYQWWID---RLRAAFHLYD-IIRLDHF--rgFDTYWEVSTDaLDARGGQGRKGPG--lCFFDVvqkwLPAAR-ID-AEDLGYIGpdvvalrraaglpvykmlqfaygkdagNFNLPHFYSPESvvytgthdntctrgwlenlpketyhqvadYFGLDGSRSAWPLIRAALGTVSrl--SVVPMQDLL-------------------------
+>UniRef100_UPI000B9C2CBE_11_4
+------------------------------------------------------------------EPETIKQKKCQKLRWheflpLKVAIKLKATYLPFQLLmasllY-----qISFhsftmIWSYYMIAkinwgvketcggsl---LAVGl-ySNFF--YQNVv-----arYLIPKLGAKKtFFI--GVSFyfpwaIPAV--YLYAVVNVEW-LV-YVTILLgsLGalmrnclrgimssylsyadqgslmgwITSIQGMA----liigpifmtdtfsvfqnesyALDMSGAPFLVSFLYSIIATIFlfWAmSKKKV-----------------------------
+>UniRef100_UPI000B9C2CBE_11_1
+-------------------------------------------------------------------PETIKQKKPQKLRWhefvpLKVFEHLKATALCRQLLiasllY-----qISFhsftaIWSYYMIWkfnwgvknipgtsl---LAVGl-cSNFF--SQNVv-----arLLIPKLFAKKtlFFW--GVSFsrhIPAF--YLYVVVNVEW-LW-YVTILLgsLGaimhpclrgvmssyptwvdqgslmggITSISGMM----wiigpivmtqtfsvfqnesyALDYSGAPFLVSFLMTIIATIFvfWAfSKKKW-----------------------------
+>UniRef100_UPI000B9C2CBE_11_0
+------------------------------------------------------------------MPKTIKQKKCSKLRWheflpYKVFIKLKYTALPFQLLilsllY-----qISFhsfmaIWSIYVIAkfnpgvkdiggsl---LAVGl-dSNFF--VQNVv-----arYLIGKLGAKHtFFI--GGSFswaIPAI--YLYAVVNVEW-LF-YVTILVgsLCalmrpclrgimssylsyvdqgslmngITSISFMA----liiccivmtqtfsvfqnesyFLDMSGAPFYVSFLMSIIATIFvfWAvSKKKW-----------------------------
+>UniRef100_Q4WX75 Sucrose transporter, putative n=1 Tax=Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSC A1100) TaxID=330879 RepID=Q4WX75_ASPFU
+--------------------------------------------------QWTFLLAFRQFV-----GRNSGLGLAGSPSFstvllgSvRRTSDTKSPKTLHSQAtfsakL-----DASappdsKRSRFTPRpppgiaa---LLKRiT-----AIrPDLQ----tsWMISHVMFAAtmIFAPLAR--SRAF--atCLVALCGIPWAISSWAPFAFMGveinklamgpaaaarssgvtmitsstirsSNFDTDTEMDVLrlnhhdtdsdsdsdddanipstgelagiYLGVLNLLDDYAMLADSSECLTafq------------------------------------
+>UniRef100_K9UDX8_12_1
+----------------------------------------------------------------------------------rvLKLPRQGTGSQKIDKKpylqsV-WQSISNSsvlgmALV-----igvi---FLIQsGpFITYIPIlDEYhcAltNFGAsgLFIGRVLASMs---------------VSVGMVASQYPRLaRhASEITLIKlafliaaislsiiglwtidrawll-FVPNLLFGVKLalwipasgtllakltiddtragFMAVNCSVQSFGFGLGPLIAGIfa--GLWGNHGVFWATRGLAVATFALFHFLLSQ--PID
+>UniRef100_A0A146KH77_14_1
+------------------------------------------------------------------DiEKPQGMKRKQSNPFlhlWREFR--IMDQIFLRAMtplflS-WKSL---apmmmFMI-----vq---FDKETTFKAQ-IASMht-----vsMLVNLAMGSLm-----NK-------------YGEKLSFLi-CSSVLTIGillliigaynpntwvsaQWCNPLALGLMGemesiintipfmyigkvtsvqskglYFGVFNCVIVIGQALANILLAIc--NAISQDTKNTMWVAMIFSALNIASTYILS-----
+>tr|D1Z1H1|D1Z1H1_METPS MFS transporter OS=Methanocella paludicola (strain DSM 17711 / JCM 13418 / NBRC 101707 / SANAE) OX=304371 GN=MCP_2471 PE=4 SV=1
+----------------------------------------------------------------------------------vnivTSLK--GFTPRFKGFLsavllFGVSDFs---htmliLFAVTTLTptlg---FVQAtamGVLLY-GVRNV-VYAAacYPFGAL---------GDRFgRKEV-------LAFGYA---LAVLMFVGfilappnvivygllfaiagayiaaeDTLEGAVCGQMVeeprralgfgamatmngvgdfissFVVgvLWsAFGFAYGFAFAALAGAAgvI-ALILTNKKYD------------------------
+>tr|A0A1V5WK65|A0A1V5WK65_9SPIR_9_4
+-------------------------------------------------------------------VREKDTRVAIEEGVpdaTEDIPEEKKEIFFHSIImvf--YYKDqSGFlplvsYFLKFVGYqgvnp---FLNDmSIKTYD-LtTGN-----qgLAMGMVGISSa-----rAA--------IPMGYLASRWG--rRrMIHIySLVMiavittavfilepfagktlgevlsnglltMIFWALMFGYGVfwicvvanffpmlwqmarftNIGVYtGLYYTFSQLYAIVAPAFsg--AIIDVAGYRSMFLFCAVFFMLAFVVMGFVT-SGE
+>tr|A0A1V5WK65|A0A1V5WK65_9SPIR_9_3
+-------------------------------------------------------------------VREKDSRVAAEEGRpdaTEEIPEEKKEPFFHSILmvf--YAKDkSGFwvlvsRFLWFVGYqgvvp---FLTEwSIKTYD-LtTGQ-----gpLAMGMVGvISSa-----lVA--------IPVGYAASRWP--rRkFFRISLVMiavittaifflepfgktlcilsnglltIIFWALMFPYGVfwicvvynsfprlwqmahfqefNIGVYtGLYYAFSQLAAHVAPAYsgc--AIIDVAGYRSLFLFCAVFFLLAFVVMGFVT-SGE
+>tr|A0A0Q9ME91|A0A0Q9ME91_9MICC MFS transporter OS=Arthrobacter sp. Soil761 OX=1736400 GN=ASG79_15400 PE=4 SV=1
+------------------------------------------------------------------VPDAPAPKEARIGSLmdiFRHLAFNPKKHRDFAWV--WVGK---falniGFS--------FFST-YQFYF-LlDRM-GFT--------PETa-----GQ--------QMATVGGLSL----LGTLLFtLGggylsdrlrrrkpfiylssamiaagsitiaisPDFLTYIIGGVVlsagvgafnsvdlalaadvvpkgnengkWMGIYFLSGSLASTVGPVMAPLvlAIGGTGANYTALFIVGGLLSLGAAITAARVR-----
+>SRR5579875_3498526 
+----------------------------------------------------------------------------------------DAPACVGATVlvvraV--------rdvdlHHRR----ggagavrrhrralgd---LQRGG----Q-LGGR-----avRRVQRLGGRGgaADPADGAPLgpaRQPP--gqPVAGRRGADR-VPvHpRSPLAAaadGGrglrlgvdpvaalrdalrqparredgrVHGHFQFLHRD-patgrrqragrtaqalfprpaGMG--aGGGRRQPVRGGAVHAARar--SRADRADRRS----GGVMPRRAVPPFLCEI----
+>SaaInlStandDraft_3_1057020.scaffolds.fasta_scaffold741177_1 # 2 # 214 # 1 # ID=741177_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.469
+------------------VLR---QIMGDLYGMPRAMRRLNWVQFFSWFAMFAMWI---------------NTTPAVAGHFygsA------DPTSAAYNTGan--WAGVlmGTYngvgvLA-AIAIPqyqn---YITKTqFSESQTIaDGMK----tsVSEYYTQAGTc--PTLGT--TAGF--p-----TGVSYA--gKYVASAAVAagtagtspmcditltfkstagSISAPLQGGKTVlfqgsnaggnftwkcssanvaskYLPqaCQx-----------------------------------------------------
+>UniRef100_K9UDX8_12_2
+----------------------------------------------------------------------------------vLKLPHQPSVSQKFDLKiylqkV-WQSISSStvlglHLV-----igvm---FLIQsGpKITYIPIlrmyAGF-NFGAsgLFIGLVLASMs---------------VSLGLVASQLPRLaRhASEITLPKlafaiaasslsiipleierarll-FVPGILFGVASalaipasrtltakltiddtragFRAVNVSVQSFGDGLGPLIAHIfa--GLWGMHRVFWATAGYAVATFANMHFVLSQ--PNGg
+>UniRef100_A0A2E5EUX2 MFS domain-containing protein n=1 Tax=Actinobacteria bacterium TaxID=1883427 RepID=A0A2E5EUX2_9ACTN
+------------------------------------------------------------------EEPKTHRQVSSKKGFfss-YNYL--SVPGILLVCGtyfi--YMCCFSGfetsfSMFTYSIFq---FTEQqNsYLFF--YAGI-C---slFVQGFLVRKAp-----KN--LPLM--TMVGLLAVAT--------AFVGmamapiwqwl-LIWMMFFAIGIglvntylpsiltletnednkgeILGLYEGIGSLSRIIGPLLAYTlvVPiPRVGYGCYAVVLVGTAIGLFYLLNRAKT------
+>UniRef100_A0A146KH77_14_2
+------------------------------------------------------------------PEKPQRMKRKQSNGFlhlWRENR--IMEQIFLRAMtplflS-WVSP---mpmvmFMfG-----vm---FDKETKFIAQ-IASVqdt-----vsMLVSLAMGSLm-----NK-------------FGNHLSFLi-PSSVYTKGillliigaylnpltmvsaQWCNCLILGLVGfmqsainhipfmyigkltpstskglYFRVFNCVIVIGQAIANILLAIi--SAINQDTKNCMWVAMIFSALTAASSFILH-----
+>UniRef100_A0A0M0BNZ0 MFS domain-containing protein n=1 Tax=miscellaneous Crenarchaeota group-1 archaeon SG8-32-1 TaxID=1685124 RepID=A0A0M0BNZ0_9ARCH
+----------------------------------------------------------------------------------pKAYN--KSIKALIKSSkpmlfL-FTSFaIYHfawymCY-PYLIL---YATGVMNISD-FdwATL-----maWFsVVNVLSAIp-----cGK--iVDRF--g-----rkkpLTIAW-FLf-IPGL--VGfvygnviiisasllllgvalilaNIAYQALMTDFVarkkrgkiigstnfffnilsavgqLSGgfIYdYVSPGFPFIFSAILFIPclFLTFFKVHDPD-------------------------
+>UniRef100_A0A0M0BNZ0_15_2
+----------------------------------------------------------------------------------cpKAYN--KSIKALIKSSkpmlfL-FTSLaIYHfawymCY-PYLIL---GATGVMNISD-FdwATL-----mhaWFspVVNVLSAIp-----cGK--iVDHV--g-----rkkpLTIAW-YLf-IPGL--VGfpyqkgnviiisasllllgvalilaNIAYQALMTDFVahkkkgkiigstnfffnilsavgqLSGgfIYdYVSPGVCFIFSGILFTPclFYTFFKVHDPD-------------------------
+>tr|A0A2E5RZ57|A0A2E5RZ57_9LEPT MFS transporter OS=Leptospiraceae bacterium OX=2026757 GN=CMF59_05650 PE=4 SV=1
+-------------------------------------------------------------------------------------------------KnfiafV-FSDFVYFcaltiILTGVLYYatvll---YPEN------PLEGK-----qLAgLLMVVMTVt-------SF-AMY--PFVNLlarkVGKRI-LV-LGSFAFyaFVflyiffmgpmpfspliqglil-AVSAALPNAFLgilqnavladiaehdahktgikqegmYFGARTFMQKFGQTAGLFIFAGlt-VfGVDPGEDSGIRYSGVAGMVLCILAVLFFSR----
+>tr|A0A1V5WK65|A0A1V5WK65_9SPIR_9_0
+-------------------------------------------------------------------VREKDSRVAAEEGVpdaTEEIPEEKKEPFPHVIIvvf--YAKEkSGFlvlvsLFLWFMGYqgvvp---FLTEySIKTYD-LtTGQ-----gpLAMPMVGINSa-----lAA--------IPMGYAASRWG--rRrMIRISMVMiavittavfflepfpktlgqplsnglltIIFWALMFGYGVfwicvvaesfpmlwqmahftilTIGVYtGLYYTFSQLAAIVAPAFsg--AIIDVAGYRSMFLFCAVFFLLAFVVMGFVT-SGEe
+>tr|A0A174HU62|A0A174HU62_9FIRM_14_3
+----------------------------------------------------------------------------------------------------------------------TTPNrHwLVLC-GV--------qFNsLTYMMVRNq-----GTYYyt------kYYLGQeiLAfpsSLY-LS-HLPLAKVAvafilpaiarrrgmrfcvrsgnilwcmsmagTwsmcaAGKNVAAAIAFhitasigwamltgmvfvmlsqVIDYSqwKTGVRPQGFLTNMIAAVlfrq------------------------------------
+>UniRef100_F8L7H1 MFS domain-containing protein n=1 Tax=Simkania negevensis (strain ATCC VR-1471 / Z) TaxID=331113 RepID=F8L7H1_SIMNZ
+------------------------------------------------------------------------SETHIHREIftlDpfKGMRNIVNCFRIKGLGilyafY-FFLM---mgwgiNL-LWLNPyalerfeisqtqvmw---LLVGTGVVW-SIgsAGIN----qILLKRMSSEDi-----SR--IGLY--gLFVVFivcgLSSNY-FT-FAIFAMLAsafgalawtnslsiisl-CSTEDAQGKVMglsqsvgsismllapliagIVAaFKiQFVYPIAALLIFIATLV------------------------------------
+>UniRef100_A0A3D5G0K2 MFS domain-containing protein n=2 Tax=Chloroflexi TaxID=200795 RepID=A0A3D5G0K2_9CHLR
+---------------------------------------------------------------------MIVQPGGMAPGLevv-PGLTDAAARRGIITVAaatifL-YLSL------YLYVP---FLP--LRAAE-LGAS-----nTMIGLVIAGFa-----vGQ--------VVLRLpigIGADL-IGRRKPF--aVGslalatvgglglalapntgml-FAARLLTGASVagwvaitvlfssyyrpndtakamsrIMTVWAAGLVLGTFAGGVVAEVfgteatfW-GSVGAGAIGTALIVSA------------------
+>UniRef100_A0A2W1ASW9_4_4
+---------------------------------PDGDTPSSGPARL---------------------APCVTQRKGHSRYEisfhls-ETLR----QHSFYLLTvafnlS-TLAIIGSsfhsvAYL-----ndr---MLSMQtAVVVPAVwAAS-AVG-gMdlLiAGFLVERV-----CA--RRTL--vVTFGFAALSYALMy-eCLAYHSttIAevwgvafgltiggmtvfqqviwadyfgrE-SLGAIRGTFAifqsnfqasvtllaaiafdtlgsyslVFCAFGFVSVVSAILVMFAKPPkhp------------------------------------
+>UniRef100_A0A2W1ASW9_4_3
+---------------------------------PDGFTPESRDARL---------------------AGCVTQGKGHSRAEisfrls-ETLR----QRSFYLLShafslS-TLAIAGSsfhsvAYL-----tdr---MESAQwAVVWIDWwAAN-YVG-gMnwiLqAGFLVERV-----GA--HRML--vVTFGFAALSYALHv-iSLAIHSttIAivwgvyfgltigamqvfqqvsfadyfgrE-SLGAIRGTFAifqssfnysgtllaaiafdtlcsyslVFTAVGFVSVVSAILVQFAKPPihp------------------------------------
+>UniRef100_A0A2W1ASW9 Sugar phosphate permease n=1 Tax=Chloroflexi bacterium TaxID=2026724 RepID=A0A2W1ASW9_9CHLR
+---------------------------------PDGDTPESRDARL---------------------AGPVTQRKGHSRAEisfrls-ETLR----QRSFYLLTlafslS-TLAIAGSsfhsvAYL-----tdr---MLSAQtAVVVIAVwAAS-AVG-gMLiAGFLVERV-----GA--RRTL--vVTFGFAALSYALM-L-AIHSttIAivwgvyfgltiggmtvlqqvifadyfgrE-SLGAIRGTFAifqssfnasgtllaaiafdtlgsyslVFTAFGFVSVVSAILVMFAKPPihp------------------------------------
+>tr|A0A1V5WK65|A0A1V5WK65_9SPIR_9_2
+-------------------------------------------------------------------VREKDSRVAAEEGVpdaTEEIPEEKKEPFFHSIImvf--YAKFkSPFlvlasLFLWFVGYqgevp---FLTEySIKTYD-LtTGQf-----ppLSQCMVGISFa-----mAQ--------IPMPYAASKWG--rRkMIRINLVQiahittavffeegngktvgflsnglltIPFWWEMFGYYLfwicvvansfpmywqmahftQIGVYtGLYYTFSQLAAIVAPAFsp--VIITVAGYRSMFLFCAVFFLLAFVVMGFVT-QGEn
+>tr|A0A1A8DY85|A0A1A8DY85_9TELE Solute carrier family 45, member 3 (Fragment) OS=Nothobranchius kadleci OX=1051664 GN=SLC45A3 PE=4 SV=1
+----------------------------------------------------------------------------------------------FVGEgl--YEGVp---salpgSMSRQRYDegirm------GSLGLF--LQCAT----stF-FSLVMSRLv--RRFGSRR------VYLSSMEeERL-------LNHNAapyvhpflsqasyesvpipqspngsSSCPSGSEQEEAesgyekrgvgldfaildsafllsqvFPSLFmGMIVQFAQSVTAYIACS--AIFGAV----------------------------
+>tr|A0A174HU62|A0A174HU62_9FIRM_14_0
+----------------------------------------------------------------------------------------------------------------------VSCffNrHwLVLC-GV--------qFLsLTYIMVRTq-----GTLWyt------rYYLGQeaLSSLF-LS-IMPLASVAvafilpaierrrgmrfcvrsgnilwcmsmvgTtwlawaAGKNMAAAILFhitasigwamatgmvfvmisqVIDYSqwKTGVRPQGFLTSMIALWwghg------------------------------------
+>SRR5450759_1945161 
+-----------------PV---V-EILSAIRQMPRTMRQLAPVQICTWLGLFCMWLYFPVAVAHQVfgASGSLAPNTWCATATgky-SHMQ--NSPSQVqICTGascrmV-----RGIcrmaeRI------satgelpvrssg---WSEGsGgYSLV--V--------qM-VHRTAARNtAAPTAKESFtVGGI--aCPATLaLDtPMW-------VSSHGsaeaitapkpmnrlcmanpcvrcssgsRSATNARNGSMLmlmeassihsspaaihsaeafgmarsaaelRIAptRKygRRRPSLPQVWSLKCPMIgc--TTRPVSGAASHSRGI----WSGLAPRYSX-----
+>SRR5258706_11651950 
+--------------------------------------------------------------------------------------------------------------QYAEDheaarhcsdv---YLAG-IVLHVDVlwPDH------LLSCLW--------rQE--RRRY--sLCPGAgMGrQCFCYL-LDSLLRhrVPaaeisgchepqdsprnlaylwwrgfav-gLLHPGQMGPARhygrrghclasilsmpyailsgalpaarmgvYMGIFNFFIVIPEIIASLFFGRIIrAFFGENSTVAPLYMVIAGGVFMLIAAALV--TT-
+>UniRef100_A0A2W1ASW9_4_2
+---------------------------------PDGDTPESHDARL---------------------AGPVTQRKGHSRAEisfrys-ETLR----QRSFYLLTlafslS-TYAIAGSsfhsvAYL-----tdr---MLSAQtAVVVIAVwAAS-AVG-gMyViAGFLVERV-----GA--RRQL--vVTFGFAALSTALM-W-AIHSttIAivwgmyfgllfggatvlqqvimatyfghEy-SLGAIRGTFAifqsifnasgtllaaiafdtlgsysvVFTAFGFVSAVSAILVMFAKPPihp------------------------------------
+>UniRef100_A0A2W1ASW9_4_1
+---------------------------------PDGDTPESRDERL---------------------AGPNTQRKGQSRAEisfrls-ETLR----FRSFYLLTlafslS-TLAILGSsfksvAYL-----tdr---MLSAQtAVVHIAVwAAS-AFG-gMaLiAGFLVERL-----GA--RRTL--vVTFGFAYLSYALMh-mL-AIHSttIAivwgvvfgltigpmtvlqqvifadyfgrEe-SLGVIRGTFAieqssfnasgtllaaiafdtlgsyslVFTAFGFVSVVSAILVMFAKPPihp------------------------------------
+>UniRef100_A0A2W1ASW9_12_4
+---------------------------------TRGDTPDSREARL---------------------AGGQTQRKGHSRAEicfrls-ETLR----QRSFYLLTwafslS-TLAIAGSsfhsvAYL-----tdr---YLSAQsAVVVMAVwAAS-AVG-gMrLiAGFAVERV-----GA--RRTL--vVWFGFAALSYALMd---AIHSttIAivwgvyfgetiggmtvlqqvifadyfgrEy-SLGLIRGTFAifqsnfnasgtllaadarfdtlgsyqlVFTAFMFVTVVSATLVMFAKPPmhp------------------------------------
+>UniRef100_A0A2W1ASW9_12_2
+---------------------------------EDGDTPESRDARL---------------------AGPVTQRKGHSRAEisfres-ETLR----QRSFYLLTlafslS-TLAINGSsfhsvAYL-----ter---MLSAQtAMVVGRVwYAN-AVG-gMcykmLiAGFLVERV-----GA--RVSL--vVTFPFVALSYALMm-DLAIHSttIAivwgvyfgltigghtvlqqvifadywgrE-SLGAARGTFAifqssfnascqllayiaifdqlgsymlVFTYFGTVSVVSAILVMFAKNPihp------------------------------------
+>UniRef100_A0A2W1ASW9_12_1
+---------------------------------PDPDTMESRDSRL---------------------ACPVTQRKGHSRAEisfrls-ETLR----QRTFYLLTlafslE-TLAIAGSsfhsvAYL-----tdr---MLSAQtAVVVIAVwAAS-AVG-gMLiAGFLVERV-----GA--RRTL--vVTFGFAALSSALM-YLAIHSttIAivwgvyfglticgmtvlqqvifadfygrE-SLGAIHGTFAkfttsfnasqsllaaiafdtlgsynlVFTAFGFVSAVSAILVMFAKPPirp------------------------------------
+>UniRef100_A0A2W1ASW9_12_0
+---------------------------------PEGMTGDSREARL---------------------AGPITQRKGHNRADssfrls-ETLR----QRSFYLLTlafslS-TLAIAGSnfhsvAYL-----tdr---ILSAQtAVWVIAViAAS-VVG-gMwpaLiAGFLVERV-----GL--RRTL--wVTFGFAALSYAMMf-vLLAIHSttIAivwcvyfgltiggmtvlqqvifadyfgrE-SLGAIRYTFAifqssfnasgillaapafdtlgsyswVFTVFGFVSVVSAILTMFAKPPihp------------------------------------
+>UniRef100_A0A1M5NUC4 Predicted arabinose efflux permease, MFS family n=1 Tax=Kaistia soli DSM 19436 TaxID=1122133 RepID=A0A1M5NUC4_9RHIZ
+------------------------------------------------------------------FRETHAPDARAQSQKiaaslg-------NLLTVFtdKPLRayylvN-FLVFVASmgfwrVITEYLVDvfdlsvgevtvd---YAA--LALTAGIGNL-----v-IMPILV--------GR--------VDMRRLG----MI-STTLGALGvllvlvpagasvavafgalasialALSFASLSGLLSarvgperqgavlgnntalgflgeaigVLGgsMLaGISPELPMVLFALVALLaviil------------------------------------
+>tr|A0A1V5HVN0|A0A1V5HVN0_9SPIR Inner membrane symporter YicJ OS=Spirochaetes bacterium ADurb.BinA120 OX=1852913 GN=yicJ PE=4 SV=1
+-----------------------------------------------------------------------TGRARTLPAAgqmppa-gEQLRIALKNRPFLLLAssym------LQSagmgvLM------agliy---YIK-HVMML-PESAM-----gVVFPILF--------GTAI------VFIPIwvkVGKKLGKIrAyRTGLAIIIillvstfftrseqlilfyvqvfllgigfssFqLFPFSMLPDTIeydemrsglrregifsgvwasgqkmaySVGpgIMGFALALSG---------------------------------------------
+>tr|A0A1F5DFQ0|A0A1F5DFQ0_9ARCH Uncharacterized protein OS=Candidatus Bathyarchaeota archaeon RBG_13_60_20 OX=1797380 GN=A3K81_00430 PE=4 SV=1
+-----------------------------------------------------------------------IPAYRSILDSvkwmn-RSLR----VIVILEMVasf--FIAMs---apfyvVYA-----tklig---LSEAqwGLGMF--ISGL-----igIMLAFPLGSAt--DRVGP--RRMI---MLGMflvpF-MIFSFQysGgFLGVAAvlIGvqicnnimvpafstiiantiprsrrgrLYSLIGERGISInfgnfwgggfllfppaalgaYVGgwVYQLDPNLPWIITSGALLVcalMVyLFVQEP----------------------------
+>tr|A0A1A8DY85|A0A1A8DY85_9TELE_15_2
+------------------------------------------------------------------------------------------IDHFggcwkFVGEgl--MEGVp---salpgSMSRQRYDegkrm------GSLGYF--LQCAT----stF-FSLVMSRLv--RRFGSRR------VfYLSSMEeERWYKHf----FNHNAapyvhpflsqasyenvpipqspngsSSCGSGSETWEAmsgyekrgvgldfaildsmfilnqvFPQLFpGMIVQFAQSVTAYIACS--AIFGAVE---------------------------
+>tr|A0A1A8DY85|A0A1A8DY85_9TELE_15_1
+------------------------------------------------------------------------------------------TDKHFVGEgv--YEGVp---salpgSMSKHSYDegerm------GSLGLF--LQCAT----stF-FSLVMSRLv--RRFGSHR------VklYLSSAEeERLKHAf----LNHNAapyihpflsqlsiesvpipqspngsSSCPSGSEQEEAesgyekrgvgldfaildsafllqqvFPSLFmGIIVQFAQSVTAYIACR--AIFGAVL---------------------------
+>tr|A0A1A8DY85|A0A1A8DY85_9TELE_15_0
+------------------------------------------------------------------------------------------RFPSFVGEgl--YEGVp---sylpgSFSRQRYDegirm------GSLGLF--LQCMF----stF-FHLVMSRLv--RRFGSRR------VwYLSNMEeERLP------VNHNAapyvhpflsqasyesvpipqspngsLSPPSGSEQEEAesgyekrgvgldfawldnafllsqvCPSLFmGMFVQFANSVTAYIACS--AILPAVT---------------------------
+>tr|A0A174HU62|A0A174HU62_9FIRM Inner membrane symporter yihP OS=Faecalicatena contorta OX=39482 GN=yihP_3 PE=4 SV=1
+-------------------------------------------------------------------------------------------------------------------------NrHwLVLC-GV--------qFLsLTYMMVRNq-----GTLYyt------kYYLGQeaLSSLF-LS-IMPLASVAvafilpaiarrrgmrfcvrsgnilwcmsmagTwaAGKNVAAAILFhitasigwamatgmvfvmlsqVIDYSqwKTGVRPQGFLTSMIALV------------------------------------
+>UniRef100_A0A5C9E450_1_3
+------------------------------------------------------------------v-DRIDCPKCDAARGGlsiRSYLKSLKSRKMVlpYQTAvfseiSLFGAVFTTlpfflSSN--------YSLNPQSIgdF--VASI-----gSpIWSFIASVVs-----GK--IAKY--iTNRQMIALAF---f-FNAIGLHGlwfhaaptkiltiiagsqilaIvgFTLPAVDALISreidekargeaysfrnsftflgrTLGsiLFtGhiaavtgfpSLLQWSGILCVLTVAVanm--AYRSKSD---------------------------
+>UniRef100_A0A523X087 MFS transporter n=1 Tax=Candidatus Bathyarchaeota archaeon TaxID=2026714 RepID=A0A523X087_9ARCH
+------------------------------------------------------------------LPDDSSRRGKAAKAKpsfRKVLSKKILRAAFvYRAVgalg--RGSIMGFlslyi--------sgs---VESGGLGL--PISMA-----gLIlsVGQFSAALl-QSPFGI--aADKY-NkNLLILL-GGF-------VGAIGlamfpfangpwevlaarlvfsvgsSIGMPALTAIAViegreigigttmsvlqsamslgmIAGplLSGFLVDIYGLKPIFFVSSli--TLMGTAAFWILQRSEGT-----------------
+>UniRef100_A0A2W1ASW9_4_0
+---------------------------------ADGDTPFSRDARL---------------------AGPVTQRKGHSRAEiqnrls-DHLR----QRSFYLKVlafslS-TLYIAGSlfksvAYL-----tdr---MLSAQtAVVVIVVwAAT-QVG-gMqhpLiAGFLVERV-----GA--RRTL--vVYFGFAALSMALMv-eQLAIHSttIAidwgvyfgltiggmtvlqiviyadpfgrE-SLGAIRGTFAifsssfgasgtllaariafdtlgsyslVFTAFAFVSVVSAILVMFAKNPihp------------------------------------
+>UniRef100_A0A2W1ASW9_12_3
+---------------------------------PDGDTPESRDARL---------------------AGPVTQRKGHSRAEisfrls-ETLR----MRSFYLLNlafdlS-TLAIAGSkfhlvAFI-----tdr---MLSAQtAVVVIAVwAAS-AVC-gMeweLiAGFLVERV-----GV--RRTL--dVTFPFAALSYALMr--LAIHLttIAivwgvyfgltiggmtvfqqvidadyfgrE-SLGAIRGTFAifqsnfnashtllaaiafdtlcsyslVFTFFGFVSVVSAILVMFAKCPirp------------------------------------
+>UniRef100_A0A0M0BNZ0_15_0
+----------------------------------------------------------------------------------pKAYN--KSYKALIKSSkpelfL-FSSFaIYHvawymGY-PYLIL---YATGVANISD-HdwATL-----maWFsrffVLNVLSPIp-----cGK--mVDRF--g-----hkrpLTMAW-FLy-IPGL--VGkcyylgnviiisasllvigpalilaRIAIQALMTDFVarkhrgkiigntnfffnilsangqLSGgfIYdYVSPGFPFIFSAILFIPclFLTFFKVHDPD-------------------------
+>tr|Q01XR3|Q01XR3_SOLUE Major facilitator superfamily MFS_1 OS=Solibacter usitatus (strain Ellin6076) OX=234267 GN=Acid_4593 PE=4 SV=1
+------------------------------------------------------------------------------------------SPNVWFLClay--FSNSYGSyfvmtWLPTYLSEqrh---FQKESLSLFSGL--------pLLlsvFGDLS--------GG--------A----L-TDW-MTrR---FGLrVGrsavcvagysvaaaamfasVySATPVLAACLIavavaasmvtlsatwaacmdiggehtaVLS---AAMNTTGQLGSIISPVatgWVvSRFSNWQAPLVIMGVLYLISAVLWTMVDA--RKR
+>tr|I0H4K1|I0H4K1_ACTM4 Putative MFS transporter OS=Actinoplanes missouriensis (strain ATCC 14538 / DSM 43046 / CBS 188.64 / JCM 3121 / NCIMB 12654 / N
+------------------------------------------------------------------FRDKTFAEQRPNGPHigmrwsDvldnMYFRPREAPDFARVLGamf--LVTIg---valssTYTVYSLQdhvkvdssdl------NNSVAFVTIfATLP----aLVLSPLA--------GS-------------LAEKYG--RWRP-YFaAGaliaalgvlisfggrtl-pwyYTGALINGVGTalysgvyvgyaittmgdtehkarNLGLTNIALSLPLAIAPLLGPIFLNIGPGAGDNYVSLSLAACVFMAASVPVLF--RIR
+>tr|A0A1A8DY85|A0A1A8DY85_9TELE_15_4
+------------------------------------------------------------------------------------------VDTTsIVGEcl--MEGVp---salpgSMSRQHYDegihm------GSLGLF--LQCMT----stF-FSLVMSRLv--RRHGSRR------VYLSSMEfERLIIHv----HNHIIapyvhpfqtqasydsvpipqspngsSSCPSGSEQEEAesgyekrgdgldfavadsafllsqvFPSLFmGMIVQFASSVTAYIACS--AIFGYTH---------------------------
+>tr|A0A174HU62|A0A174HU62_9FIRM_14_1
+----------------------------------------------------------------------------------------------------------------------TEPkNrHiLVLC-GV--------qFLsLTLMMVRNq-----GTLYyt------kYYLGQeaImSSLF-LS-IMPfLASVAvafinpaiarrrgmrfcvrsgnilwcmsmagTwiaAGKNVAAIIMFhitasigwvmatpmvfvmlsqVIDYSqwKSGVRRQGFLTSMIALVwvpew------------------------------------
+>UniRef100_K9UDX8_12_4
+----------------------------------------------------------------------------------tdvPHVPRQPQGSQKIDLKiylqaV-WQSISNSsvlglLLV-----igvm---FPIQsGcFITYIPIlkASF-KFGAspLFIGLVLASMs---------------VSLGLVASELHRLwKhANDITLIKlafaiaaislsiiplidrawli-FVPSILMGVNValaipashtlllkltidetragFMAVNASRSSFGFGLGGLMAGIfa--GCWGMHGVFWATAGLDVATFALFKFLLSQ--GIGah
+>UniRef100_A0A1Z4JPV1 Na+/melibiose symporter and related transporters n=2 Tax=Leptolyngbya boryana TaxID=1184 RepID=A0A1Z4JPV1_LEPBY
+-----------------------------------------------------------------------LPEHPKHNATvtmsfg-QSLR--AM----FQNRpflilC-SSTILVQtayamLL------snlpy---FVT--LILREP-eAAVGRYQ-aIVvIAMLIAAPi-WNRLSRIYrDRAL--LQVSLLG----FA-LTS-ALlTGvgwfinvsstlqaaivfgilgpflggYfVLIYAMMGDVVeqdakvtgqrreafhysifsfSIG---MGLSFSTLIIPLIFSQYGySLEHPTGVRIVFLVAAVLVMLSVVT---------
+>UniRef100_A0A1H1TXR9 Na+/melibiose symporter n=1 Tax=Corynebacterium timonense TaxID=441500 RepID=A0A1H1TXR9_9CORY
+-----------------------------------------------------------------------VVLGSGDAPAetlP--------ARAYrnYWTVfatrfV-----MHAtnyta--LFYLLY---YLRDH---I-GVADPD----tWvLiLTIVFAGVt---------MATA--AVSGVLSDKL---ERRRIFLIAaaltmalatgmmtiagsigaVTAAAAVLGLAWgvwssveqatineslpsrrnrarDVSVMTLAQGVANMVAGLLAAA--ALQFLGGYPGLYQACAAACVLAAGLALFI-----
+>UniRef100_A0A0M0BNZ0_15_4
+----------------------------------------------------------------------------------tpKTYN--KSIKALWKSSkpmlvL-FNQFaIYHiawymLY-PYLIA---YATGVDNISD-FdwATL-----maWFsyqeVVNVLSAIp-----cCK--iVDRF--p-----rkkpLSIAW-FLf-IPGL--VGfvyinfqgnviiisaslkllgvalilaNIAYQALMTDFVarkkhgkiigstnffftnlsavgqLSGgfIYcCVSCGFPFIFSAICFIWclFLTFFKVHDPD-------------------------
+>tr|A0A1V5DMG0|A0A1V5DMG0_9DELT_6_4
+----------------------------------------------------------------------------------mhyq------HLSRQFWMISgvfvnM-----nINVhsvmvHIV-----phatdvr---IADAttIVQIL-SVIGVnA----sIVSKLVV--------GA---------YLDRLGnKTVVII-IVSLMEISlifiqfwpsnclwvfyvfavffafAyGGFAASQSPYIaqlfglkhhgtifgfssfifmgraAFGplISpKsnifevtNSYNNGFILLSWLSVLailFAcGIKKTG----------------------------
+>tr|A0A1A8DY85|A0A1A8DY85_9TELE_15_3
+----------------------------------------------------------------------------------------------dfwkleFVGEgl--YEGVp---salggSMSRNRYDegirm------GSLGTF--VTCAT----stM-FSMVMSHLv--RRAPSYK------VYLSSMEeERFSGWg----LNHNAapyvhpflsqasyeslpfpqspngsSSCPSGSEQEEAesgyekrgvgfdfaildfafllsqvFPSLFmGMIVQFAQSVTAYIACS--AIFGAVM---------------------------
+>UniRef100_A0A5C9E450 Putative arabinose efflux permease, MFS family n=1 Tax=Thorarchaeota archaeon (strain OWC) TaxID=2053491 RepID=A0A5C9E450_THOAR
+--------------------------------------------------------------------RIDCPKCDATRGGlsiRSALKSLKSRKMVvpYSTAvfseiILFGAVFTTlpfflSSN--------YSLNPLSIgF--VVSI-----gSIASAIASVVs-----GK--IAKY--iTNRQMIALAF---f-FNAIGLIGlwaaptliltiiaasqigaAvgFSLPAVDARIStiidekhrgealsirnsftflgrTLGpiLFtGiaavtgypSLLLWSGILCVLTVVVlsv--AYRSKSD---------------------------
+>UniRef100_A0A5C9E450_1_0
+-------------------------------------------------------------------ERIDCPKCDATRGGwsiRSALESLKQRKMVvpYSTAvfseiILFPYVFTSlpfflSYN--------YSLNPLFQgF--VVKI-----gSddIASRIASVVs-----GK--IAKY--iTNRQMIALAF---f-FNAIGLIGlwrggaaaptliltiimasqigaMvgFDLPAVDARCNtiidekhrgealnirnsftflgrTLGpiLFtGiaavtgycSLLLWSGILCVLTVVVlwv--AYRSKSE---------------------------
+>UniRef100_A0A0M0BNZ0_15_1
+----------------------------------------------------------------------------------qvKAYN--KSIKALIKSSkpmafL-FTSFaILHfawvmKY-CYLIM---YASGMMNISD-FdwATL-----maWFslqVVNVLSAIp-----pGK--iVDRF--g-----rkkpLTIAW-YLf-IPGL--VGavywdgnviiisasllmlgvwlllaNIAYQALCTDFVarkkrgkiigstnfffnilsavgqLNGgfIYdYVSPGFPFIFSAILFRPclFLTFFKVHDPD-------------------------
+>tr|A0A2V7LCU9|A0A2V7LCU9_9BACT MFS transporter OS=Gemmatimonadetes bacterium OX=2026742 GN=DMD60_10110 PE=4 SV=1
+--------------------------------------------------------PLASS------TSPSLPRPSRSSPLlai---------SAFYlLRMPdtlii------LRSqelgvPVAMVPLL---WAA--VHV---VrSSS-----sFLGGAATDRLg-----pGQ--------T----M-wVGW-LVyA---ITAVGmaragtaaaawglflalglv-SGLTESPERALvarlagthpgggvpavrggrrvsgeHSGHDSPRADLA----------------------------------------------
+>tr|A0A174HU62|A0A174HU62_9FIRM_14_2
+----------------------------------------------------------------------------------------------------------------------IKPNrHwNVLC-GV--------qFIsLTEMMVRNq-----GTLYwt------kYYLGQeaLSSLF-LS-IMPLASVAaafrlpciarrrgmrfcvrsgnitmcmsmagTrdwaAGKNVSAAIDFhitasigwamatgmvfvmlsqVIDYSqwKTMVRPQGNLTSMIAAVitdd------------------------------------
+>tr|A0A0S7BYH2|A0A0S7BYH2_9CHLR_3_0
+-----------------------------------------------------------------------SQPSRGKYGKfpi-QLYIIA--GSALiFSIGssmiwP-YDNIFLKeraelPL------------RVQTLYHSLRSmcVT----gILASFFV--------GQ---------FADRFGrRGLL---LTSL--FRgapyyflmyydesvttlwqfavlmgtwkaYdyfyeISSSAMVADLVsqdaeraeayswlrqmsnsgfviggIVGgfLAtKsyALIFYCASIGYLISFKi--SILTIKEN--------------------------
+>ERR1712113_461757
+-----------------------------------------------------------------------SACGPLVSMFrgmRESFK--GMPIGFYILIfvqcmV-WLGNTVWgsygqVWF-----tnnv---FPGDSeAALg--TVAH-D----nYVagsAAFSTAGQf-----GSVFnlVLSF--IFMGLgftsLPSKL-IY-SPCLVLTTivcflcafvvghsrvlamtcfiisnvgl-TAAGSIPYGIVavwnkmkeeknrrsrersyayghse---lLHhRRTTAHNHHLDCARRILfccW-CAEGSVHHQYGCQRIVCRCHTLHQLEQCK--QGP
+>UniRef100_A0A5C9E450_1_4
+--------------------------------------------------------------------RIDDPKCDATRTGlsiRSALKSVKSRKMMvpYSTVvffeiILFFAVFTTlpiflSYN--------YSLNPLSIgF--VVQI-----gKcFASLIASDVs-----GK--IAKY--iTNRQFIALVF---f-FNAILLIGlwgaapkldltiiaasqagaAvgMSLPAVDARIStiidekhrgeyfsirnsftflgrTLGpiLFtGiaavtgypSLLLWSGICCPLTVVVlsv--AYRSKSD---------------------------
+>UniRef100_A0A5C9E450_1_2
+-------------------------------------------------------------------ERIDCPKCEATRGGlqiRSALRSLKSRKMVvpYSFAvfseiILFGAVFNSlpffleSSN--------YSKNPLSIggF--VVDI-----gSiIASAIATVVs-----GK--IAKY--iTNRQMIILAF---f-FNAIGLIGlwdlaaptliltiiiasqisaAvgASLPADDARIWtiidelhrgealsirnsfsflgrTLGpiLFtGvaavtgypSLLLWSGILCVLTVPVlsv--AYRSKSD---------------------------
+>UniRef100_A0A5C9E450_1_1
+------------------------------------------------------------------p-KRIEPPKCDATRGGlsiRSAEKSLKSRKMVvpYSTAvfseiILFGAVFTTlpfflSSN--------YSLNPLSIgF--VVSI-----gSngIASAIASVVs-----GK--IAKY--iTNRQLIALAF---f-FQAIGLQClqwcqaaptliltiiaasqpgaAvgFSLPAVDARIStiidekrrgealsirnsftflgrTLGpiLFtGiaavtgygSLHLYSGILCVLTVVVlsv--GYRGESD---------------------------
+>UniRef100_A0A1Y4ET09 MFS transporter n=1 Tax=Blautia sp. An249 TaxID=1965603 RepID=A0A1Y4ET09_9FIRM
+----------------------------------------------------------------RA-SGQEEGKQGAKKENlil-KSLKSPSIWNCIFIIMcgyal--WNTVNGYlgtycTR-VLHIPeni------S-STL--SI--IR----sYIIVFVAGVTg-----GI--lMDKF-PsKGHGMM-AAFA---CTLLSVLGvlvtgnvlmlcvamtvvl-sYMVNAIKSTYWsilgdagippedtgmatgiisligltpdiFVSpvIS-RFITWGETNGSVERGFllmW-AWMGAWALLGIAFSWILKQRRKK-----------
+>UniRef100_A0A0M0BNZ0_15_3
+----------------------------------------------------------------------------------vpKAYN--RSyIKALLKDSkpmlfL-FTSFaIYHiawymGY-PYLWP---YATGVINIYD-FdwATN-----faWFnWVNVLSAEp-----cGK--iVDRF--g-----rkkpLTIAL-FLf-IPGL--VGfvycppnviiiswsllllgfalikaNIAYQALMTDFVarkkrgknicstnfffdplsadgrLSGgaIYdYVSPGFPFIFSAILFIPclFLQFFKVHDPD-------------------------
+>tr|D7BH38|D7BH38_MEISD Major facilitator superfamily MFS_1 OS=Meiothermus silvanus (strain ATCC 700542 / DSM 9946 / VI-R2) OX=526227 GN=Mesil_2019 PE=
+-------------------------------------------------------------------------------------RFRWRGFSFgYRWFllvssV-FTPGLSSnafliLKL-----sslg---LSSTQTTL---VyTGY-----nLLYALIS-----YPLGS---------LADRIGlRRLVATGFATYALvyLGfglstaiwqgiglfllyavysaaf-eGSSRAYLATIIpatekasaiglyhtlvglllfpasaLFGfLWeHAGVSTAFFTSAALAGVal--VLFVLEPRTP------------------------
+>tr|A0A2H0VMC4|A0A2H0VMC4_9BACT MFS transporter OS=Chlamydiae bacterium CG10_big_fil_rev_8_21_14_0_10_35_9 OX=1973935 GN=COT84_08565 PE=4 SV=1
+------------------------------------------------------------------------TGLKNLKKAlym-KKVRVIILCAFILYFGwsffyE-FVPVflIGQysfksHQI-----gnf---YAYS-GFIY-ALCS------gWLIRPIIQRFs-------SY------rIFLGSlFGAGLTML-LFSL--vKGstllffyapfllyfialifptimtlvsNFAPKKAQGETLgvlqsvqasafalsplfsgsLIGFYRvMPVIIGGISMLLSATIfsiFM----------------------------------
+>tr|A0A1V5DMG0|A0A1V5DMG0_9DELT_6_1
+----------------------------------------------------------------------------------pfh------KQSREFWWISgvflvM-----sICVhsvmvHIV-----phatdvg---KADAsaaVCKIL-SVIGVknA----sIISKLVV--------GY---------AWDRLGnKTVVII-IVSYMLISlifisfvsnalwvfyvfavffafAyGGFAATQSPYIaylfglkhhgtvfgfsififmgsaAFGplISgNkvifdvtSSYNYSFILLSVLSVLailFAcGIKKTG----------------------------
+>tr|A0A1V5DMG0|A0A1V5DMG0_9DELT Putative MFS-type transporter YhjX OS=Smithella sp. PtaU1.Bin162 OX=1811697 GN=yhjX_6 PE=4 SV=1
+------------------------------------------------------------------------------------------SRQFWMISgvflvM-----nICVhsvmvHIV-----phatdvg---IADAtAAVIL-SVIGVA----sIISKLVV--------GA---------ALDRLGnKTVVII-IVSLMLISlifiqfsnalwvfyvfavffafAyGGFAASQSPYIaylfglkhhgtifgfssfifmgsaAFGplISgKifdvtSSYNYVFILLSVLSVLailFAcGIKKTG----------------------------
+>tr|A0A0S7BYH2|A0A0S7BYH2_9CHLR_3_4
+-----------------------------------------------------------------------TYPSRSKAGHfpi-QLYRIM--GSALiFSIGssmawP-YLKINLSerldlPL------------RVTTLLISLRSVT----gFRASFFA--------GS---------FADRFGrRGYL---LTSL--FGgatyyflmywpsattlwtfavhmgtwgaLdlfysISSSAMTADLVsdadrieayswlrmmsnsgfaigpIVGgifLHtKsyAVIFYCASIGYLISFLi--SILTIKET--------------------------
+>tr|A0A0S7BYH2|A0A0S7BYH2_9CHLR_3_1
+-----------------------------------------------------------------------QMPSRGKYGKfpi-QLYIIM--GSALiFSIGssmawP-YLNIPLRerldlPL------------RVTTLLISLRSqyrVT----gILASFFA--------GS---------FADRFGrRGLL---LTSL--FGpatyyflhystydsattiwqfavlmgtwgaLdlfysISSSAMVAELFstdwdryeayswlrmmsnsgfaigpIVGgfLAtKsyALIFYCSSIGYTISFLi--SILCIKET--------------------------
+>UniRef100_A0A136A5F8 MFS domain-containing protein n=1 Tax=Paraglaciecola hydrolytica TaxID=1799789 RepID=A0A136A5F8_9ALTE
+---------------------------------------------------------KESLSKEDLASSKLKTRVTQWSAIktilsRRILLLIIGCGVLFNLAagl--FEAIfpIWTrdlgl--I-----sgpqglapml---LVSG-LTL-AAVQG------gL-VGKLSKKF-----GEHK------L----LKfSSW-------LYAVSmllmiytgskqiywavlvamsmqaasTGLMTTCIQSLIsqkaganekgsvmgvfsslgtlartiatFSTgfIYvGfgmqspLILAICSIIALFFVALaiqrqWFa----------------------------------
+>tr|A0A1V5DMG0|A0A1V5DMG0_9DELT_6_3
+----------------------------------------------------------------------------------------WFSRQFWMISgvflvQ-----nICVhsvmmHIF-----ghatdvg---IADAtAAVIL-SVQGAaA----sLISKLVV--------GA---------ALDRLGnKTVVII-ILSLMLKSlifiqfanfnalwvfywfavafafAyGGFAASVSPYIaylfglkvhhgtifgmssyffmgsaAFGplISgKhifdvtSSYNWVFITLSVLSVLainFAcGIKKQG----------------------------
+>tr|A0A1V5DMG0|A0A1V5DMG0_9DELT_6_0
+----------------------------------------------------------------------------------qh------VRSRQFMGISgaflvM-----nICVhsvmvHIV-----dhatdvg---IADAnAAVIL-SVIGVA----sIISKLVY--------GA---------WLDRLGnKTVVII-DVSHMLLSlifiqfdeffnsnalwvfyvmayffamAyPGFAASQSPYIaylfglkihhgtifgfssfifmgsaAFPplIQgKqifhvtSSQNYVFILLSVLSVLailFAcGIHKTG----------------------------
+>tr|A0A174HU62|A0A174HU62_9FIRM_14_4
+----------------------------------------------------------------------------------------------------------------------NTHcQrHwLFLC-GV--------fFLsLTYMMVRNq-----GTLYyt------rVYLRQeaLSSLF-LS-GMPLAMVAvafilpaiarrrktrfcvrsgniawpmsmagTswylhfACKNVYAAILFhifasigwamatgmvfamlslVIDYSqwETCVRPQGFPTSMIALVgwivaavp------------------------------------
+>tr|A0A0S7BYH2|A0A0S7BYH2_9CHLR_3_2
+-----------------------------------------------------------------------EYGQHGKYGKfpi-QLYIIM--GSALiFSIWsswawP-YLNIFLRerldlPL------------RVTTLLISLRNwVT----gIWASFFA--------GS---------FADRFGrRGLL---LTSV--FGgatyyflmwysattlwqfavlmgtwgaLdlfysISSSAMVADLVthdadhieayswprmmnnsgfaippIVGgfLYtKsyALIFYCASIGYLISFLa--SILTIKET--------------------------
+>tr|A0A0S7BYH2|A0A0S7BYH2_9CHLR Predicted arabinose efflux permease, MFS family OS=Flexilinea flocculi OX=1678840 GN=ATC1_131804 PE=4 SV=1
+-------------------------------------------------------------------------PSRGKYGKfpi-QLYIIM--GSALiFSIGssmawP-YLNIFLRerldlPL------------RVTTLLISLRSVT----gILASFFA--------GS---------FADRFGrRGLL---LTSL--FGgatyyflmysattlwqfavlmgtwgaLdlfysISSSAMVADLVsdadrieayswlrmmsnsgfaigpIVGgfLAtKsyALIFYCASIGYLISFLi--SILTIKET--------------------------
+>tr|A0A1V5DMG0|A0A1V5DMG0_9DELT_6_2
+----------------------------------------------------------------------------------------SMSHQFWMISgvflvF-----nIGVhsvmvHMV-----pkatdvc---IADAtAPVIL-SVIGVA----sIITKLVT--------GA---------ALDRKGnKTVVII-IVSLMWISlifiqfrniatnslwvfyvfavffafAyGGFNASQSPYIaylfgqkhhgtifgfstfifmgsaAFGplISgKyfdvtSSYNYVFILLnSVLSVLailFTcGIKKTG----------------------------
+>tr|A0A1B7GQ76|A0A1B7GQ76_9BACT Sodium:melibiose symporter OS=Opitutaceae bacterium TAV4 OX=278959 GN=Ga0100231_01865 PE=4 SV=1
+------------------------------------------------------------FV-----KERYYAKETSRQARdpfWQSIRESAQCPPLWMLIgvt--FFLVLGSssvas--L-----nq---YLN-IyYVMHGDLAGASVIA-gWKASVLV------------VTGI--VCIPLwtwLGERFD---KKTI--VGsmlavsifghllnywlltpahpywqlissVFESGAISAVWLfipsmkadvadhdelhtarrregslnaFYSwFFKASMTCAMGLSGFLLEF------------------------------------
+>tr|A0A0N1LHE3|A0A0N1LHE3_9PROT Uncharacterized protein OS=alpha proteobacterium AAP81b OX=1523432 GN=IP88_07010 PE=4 SV=1
+----------------------------------------------------------------------------------------------------LKDIIGVarlpl--LRRLLLvdllan---LAPGlagAlLIFfFEAArgySAAE----arWLlVPYFA--------aGM--LSAP--VWVRV-ARATS--KHRTIVWalVGyaaalsvtlvippgnftlalLgFGLSGIPAVAPlfllramladlsdaetlrtgkdrtalFYAaLV-AVQKLGYAIP------------------------------------------
+>tr|A0A0S7BYH2|A0A0S7BYH2_9CHLR_3_3
+------------------------------------------------------------------d-----SLPSRGKYGKmpi-FLYIIM--KSALiFSCGssmawP-YLNIILKerldlPL------------EGTTLLIQLRLrVT----gILASFFA--------GS---------FADRFGhRGLT---LTSL--FGgatyynlicysattlwqfavlvgtwgaLdlfysISSSAMVADLMsdrdrieayrilrmmsnsgfaigcIVGgfKAtKsyALIFYCASIGYLISFLi--SRLTIKET--------------------------
+>KBSMisStaDraftv2_1062788.scaffolds.fasta_scaffold12620418_1 # 1 # 204 # -1 # ID=12620418_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+----------------------------------------------------------------------------------SAIAVDAPPRPPLTLGqlinmA-----VGFlglqfAWS-----iqm------GQmSALYQKLgAS-D----tqFSIFWMAGPIt-----GI--LVQP---IIGSLSdRTWTRLgRRRPFFLVGailtgertalnflqrlsgiatLtrQFIEAIAGTPTqildtrkttptlralekyavavgggtnhRMGLY-DAVMIKDNHR------------------------------------------
+>UniRef100_A0A2E7SNB9 MFS domain-containing protein n=1 Tax=Acidimicrobiaceae bacterium TaxID=2024894 RepID=A0A2E7SNB9_9ACTN
+-----------------------------------------------------------KLEDHQP-GLKVSVREQISGAFaevR--------KPAIatnLVIGtiv--FMSI---fglllSLLPVHLDreyglspterg---LIASTpAIL-AALAA-------LtVARVRKRVq-----GG--i------iIYASLliWGISFLLMGFGSLPVlvIGtiaygfseglmiptlqdlia-eNAPDQFRGALLaiwtgagrlgqtlgpvaislalwglstsWVLiLGGLGMILISGLASITRTLii------------------------------------
+>ERR550534_389608
+----------------------------------------------------------------------------------cQKVQ--SQTSVHWRPAclfy--WHDFYGNrkikv--------------GSYTFFL-VSR---------------------NH--------V----F-NTF----YNAL--PNscplsetdcyseedkdktdeeKNQDGLVRGLGTdvgivstmvflaqfilslTMG--SIIQAVNSTTAVIIAASvl--SFCGAISASF------------------------
+>tr|A0A2A2KHU0|A0A2A2KHU0_9BILA Uncharacterized protein OS=Diploscapter pachys GN=WR25_27336 PE=4 SV=1
+-------------------------------------------------------------------KGLGAALREIGTAIvqm---------PLAMRKLAlmslfQ-WYAMMAYwayvi-----------YAIG-RSVY-GTaDATS----sgFHSAVLT--------nGV--MAAC--M----MGNPYVILaGaIPPXXXXGrvhghfqhddrhsdadllrddaadlrpvageRsAQRADIVRRADglrggggrlgpraprrggtgvsvwrredaARAVAEAAARLPVMLAKDVVAIdptrdlW-DMWPIARRDG-----TTATIDGRHYWFFL--AVP
+>GraSoiStandDraft_29_1057270.scaffolds.fasta_scaffold1146145_1 # 2 # 649 # 1 # ID=1146145_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.704
+sfndvtgtvakeleslgmvtaglwtdfdndgwrdlvlvgefmeitflknregqf-ENVTDQAGLGHTTGW---WN---SIAGGDFDRDGDIDYVAGN-----LGLNSR-LQASDSQPVTVYAKDF-DRNRRLDPIityylnGTEYPIYKRDQLLEQIPslrsr--FPTY---keyaqTPF-----def---FPEERLKEaF--VkKAT-----rFESSYIE------NLGN--------g-KFSIkpLPAQV---QWAPV--YGlevrdingdqfldilaignsyapEVITGRLDASIGtllagdgdggfkpishlesgffvdgngkgLIALD-SENGKPIYIA------s------------------------------------
+>GraSoiStandDraft_29_1057270.scaffolds.fasta_scaffold1146145_1_11_3
+sfndvtptvakeleslgmvtaglwtdfdndgyrdlvlvgefmeitflknpegqf-ENVTDQAGLGHTTGW---WN---SIAGGEFDRDGDIDYVAGN-----LGLNSR-LPASDQSPYTVYAKDFSDHNRRLDPIityylnGTEMPIYKKDQLLEQIPslrnl--FPTY---keyaqTPF-----eef---FPEERLKEaF--VkKAT-----rFESSYIE------NLPN--------g-KFSIkpLPAQL---TWAPV--YGlevrdingeqsldilaignseacEVITGRLDASIGtllegdgdggfkpishfesgffvdgngkgLIALD-SKVGSPHYIA------s------------------------------------
+>GraSoiStandDraft_29_1057270.scaffolds.fasta_scaffold1146145_1_11_1
+vafsfndvtgtvakeleslgmlgaglwtdfdnegwrdlvlvgefmeitflknregqi-ENVTDQAGLGHTTGW---WN---SIAGGEFDRDGDIDYVAGN-----LCLNSRVLQASDMQPVTLYAKDFTDRNRRLDPIityylnITEYCIYKRDQLLEQIPslrsr--FPTY---keyacTPF-----def---FPEERLKEaF--MkKAT-----hFQSQYIE------NLGN--------r-KFGIkpLPAQV---QWAPV--YGlevrdfngdqfldilaignsyhpEVITGRLDASIGtllagdgdgglkpiwylesgffvdgngkgLIALD-SENGKPMYIK------a------------------------------------
+>9256297_9_1
+-----------------------------------------------------TYIPSAEVA----LENLEEEPKADRTGVmap-------EVRRSLrMILIsiflw--FSAY---qavttAFSRYARTvwgmeggg---FAN-CLMVVTCIAAI-----isYIpFGIISLKV-----GR--KRCI-------LGgLTL-ML----IQFFAaifpfrqshvsinpcfaaigssfiqq----------------------------------------------------------------------
+>21641811 len:316
+-------------------------------------------------------------------------------------------------------------------mpnspal---WIAA-GMLWM-MdASI-----nIsMepFRAFV--------GDNLPTEQ--rT----MG----FA-MQSF-FIGvgavvasalpymltwfgvSnTAPEGIIPQSVklsfyiggvvllasvlytvftskeYSP--eE----------------------------------------------------
+>tr|A0A2S4E697|A0A2S4E697_9RHIZ MFS transporter OS=Agrobacterium rosae OX=1972867 GN=CPJ18_22850 PE=4 SV=1
+------------------------------------------------------------------------------------------QTSIWGLVltqacL-----VYTaylflTWLPTFLQstrelstmntg---YLTAApYLLtM--V--F-----gLIIAWSSDRIl-----SS--------TSIQA-GkRRY---f-VAAMALLSllillapvvdnlwqllavltlvltgsTTGAGLNFTLASdllrnprdvsrviaitalggnlfgliapIITgyVVsAtGGYTWAFRIAALLLVCgai--ATLSLSRKPI------------------------
+>tr|A0A2N2PCD6|A0A2N2PCD6_9CHLR MFS transporter OS=Chloroflexi bacterium HGW-Chloroflexi-10 OX=2013724 GN=CVU39_08675 PE=4 SV=1
+---------------------------------------------------------------TRE-RKEFQKPPEKFDWKiafIEPFR----NKTFVGALlmyllA-FVAVDTVsslivYFMKYYLQrgsess---FVSGTLLVVQ-V--I-----aLpLYVFLSKKL-----GK--QKAF--T----IGaTVWAVM----M-LFSlllipgqapafvyifa-ALVGIGTGGVIvimyaifpdipdvdelasgqrregIYSaMVTFMRKMSSAFAIFLVSQ--AIARSG----------------------------
+>SRR5207302_12342 
+----------------------------------------------------------------------------------XMVRHG--AAMLLRSTrslvsR-WPSC---crlwp---RSQAEksc---MPSR-FIVIPEIIA------sFAFGPVIRTAf-----GPDNPNSA--IYVVMAGGVF-LT----LAAISvllvrdvaerggtieavinadehalln-LPESAQPTPSTglideex----------------------------------------------------------
+>SRR3712207_7722671 
+-----------------------------------------------------------------------------------------------------------FFFNDTATtei---YTRSlHDAL--PIcSN------aMIlAGALL--------GC--------AALAMlwVNAPRP--DeDSSV-MpLGgqreitvydrvvvgsDGSPSALYA---rseehtselqsrqyl----------------------------------------------------------
+>9256297_9_2
+-----------------------------------------------------tgTVDPSAAVA----LENLEEEPKADRTGVlap-------EVRRSLrMWLIsiflk--FMAC---navntAFSRYARTvwgmeggg---FAN-CLMVATWIAAI-----isYIpIGIIVAKV-----GR--KRCI-------LGgYTL-ML----ISFYAaifqfrqshvsinpgfalipnvsafylpnetnT---------------------------------------------------------------------
+>9256297_9_0
+-----------------------------------------------------TAIPSAEVA----LENLEEEPKADRQGVgaq-------DVRRSLrMINIsiflw--FMSY---vaittAFSRYARTvwkmeggg---FAN-CLMVIN-IMAI-----isYIpMGIISAKV-----GR--KRCI-------LGgYTL-ML----ISFFLaviffhqshvninpgfamigdwsiyqvkS---------------------------------------------------------------------
+>9256297 len:153
+-----------------------------------------------------TAIPSAEVA----LENLEEEPKADRTGVlap-------EVRRSLrMILIsiflw--FMAY---navttAFSRYARTvwgmeggg---FAN-CLMVAT-IAAI-----isYIpIGIISAKV-----GR--KRCI-------LGgLTL-ML----ISFFAaiffrqshvsinpgfalig----------------------------------------------------------------------
+>SRR6056297_1782875 
+-------------------------------------------------------------------------------------------------------------AAKQVRaelne---YQKElQaTDA-NQVTA------sMkVIKYFS--------GEEKSKRF--d-----LSKAA----KQEITHIQsqynegadwvgvCfsVYNGAAIGFAFllvflakvtsrkithlialvvggisFISIY-FINDPTILIV------------------------------------------
+>9256297_9_4
+---------------------------------------------------ITmnTARPSAEVA----LENLEEEPKDDRTGVlap-------EVRRSLrMILRsiflw--FMQY---navttRFSRYARTvwgmegmg---FAN-PLMVATKIAAL-----isYIgIGFISAKV-----GK--KWCI-------IGgLTL-ML----ISFFAaifvgifwrqshvsinpgfaligfci----------------------------------------------------------------------
+>SRR6185312_15631116 
+-------------------------------------------------------------------------------------------------------------------pstppptpgi---YMATlNpFITFPQI--IN----gLFGGWIVKRIy-----qGQ--------pIYAIVL-AGF-LL-FCA-A-ISvlfvydagdirisrtqskrttwi------------kgsspfffftfyfllshHMPsPDSKSTRKTGSPE------------------------------------------
+>SRR5260221_10615691 
+----------------------------------------------------------------------------------------------------------------------FFS-PLYIHLNL--LQ----pYLiFFFLMIRRp-----PRSTLFPY-TtLFRSLMPESHVLL-MAALLLwmLDaslnismepfrafvgdMLPRGMAPSDR-kstrlnsshtvisyavfclkkkkkkKKSMKdKekrei----------------------------------------------------
+>9256297_9_3
+-----------------------------------------------------hWAIPSADVA----LENLEEEPKADRSGVlaf-------EVRRSLrFILIpiflw--FMAH---navttAFSRYIKTvwgmeggg---FAN-CLMVATEIAAI-----hsYEpIGIISAKV-----GR--KRCI-------LGgLTL-ML----ISkFVMiifhfrlshvsinpgfaligstlfgskrrkD---------------------------------------------------------------------
+>tr|A0A2V7GKH3|A0A2V7GKH3_9BACT Uncharacterized protein (Fragment) OS=Gemmatimonadetes bacterium OX=2026742 GN=DMD33_20545 PE=4 SV=1
+---------------------------------------------------------VPDR------PAPPTAKTMRERAFaawGTDLL--ENRDYVWLLVsrlfv--LTALVSLqafavFFL-----enahh---MAPNqAqSSQF-PI--I-----laVAVAALLSAVp-----GG---------WISSrIGRKP-VL-FVAIALgvLGavvlavgpqywmvvaaavpigicsgV---------------------------------------------------------------------
+>ERR1051325_3267607 
+-------------------------------------------------------------------------------------------------------------------tl---FRSArVgAILH--VARI-----vLhVAAFLE--------RR--------A-----GGLWQQRsKHRPLQArrgMGgrllfsegrshvccgvridgggaEIGPAAYSRTLFgarrtrvaggglhsrrrakrf----------------------------------------------------------
+>3_EtaG_2_1085321.scaffolds.fasta_scaffold63336_1 # 1 # 483 # -1 # ID=63336_1;partial=10;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.578
+-------------------------------------------------------------------------------------------------------------------d---FRKVlAaNSLsWIGVQTM-----fvYMIAFVQQRFp-----kGH---------------PSYDYH-PGEI--IGavsvtiplaglyremsvnlrhdlffrggMfLLVLLIMGYLIhqaiiapltmvsvsigrvartgnFSDrv-------------------------------------------------------
+>SRR3546814_2299044 
+--------------------------------------------------------------------------------------------------------------------------lCCYVF--Vw--V-VF--lFLLSFFF--------fKQ--------kTAYEMrI-SDW----SSDVCSsdLGafvvfvqmragllrevlllgallag-YGLASMLAIALarrgketnmlssivgdFAGm-------------------------------------------------------
+>20227690 len:258
+-----------------------------------------------------------------------------------------------------NKVEERskmgi--I-----rsifg---YISG-MII--SV--------gLIpITNML--------GG--------------NqKAW-II-ISVI--FGvicslsflatfavskedv------------ekeekeekisfkeslsllf----------------------------------------------------------
+>SRR5574344_2549784 
+-------------------------------------------------------------------------------------------------------------------dv---INKAaGkMQI---IAE-D------LGFLT--------QE--------V----IDlKEYS--TWPGLAIYQfafdsrnprdpylpenykenvva-YIGTHDNDTLLhllqerqdliphieyclnakgideIYDkmLSRlHRSRANTVILTMQDYL------------------------------------
+>COG998Drversion2_1049125.scaffolds.fasta_scaffold2918291_1 # 3 # 65 # -1 # ID=2918291_1;partial=10;start_type=ATG;rbs_motif=TAA;rbs_spacer=5bp;gc_cont=0.349
+-------------------------------------------------------------------------------------------------------------------ngk---FVMAG---V-SIDG------nFTsPGTVV-------LdGD--------TIING-GqPVY----VGGVAKIApheasvdlvgrelqvdgaa-VSASRLSTVSQfsliepgatlrlahiakadgsgeyFLEdTK-----------------------------------------------------
+>ERR1700691_340348 
+------------------------------------------------------------------------------------------------------------------------------H--VDG------aVLhVAIFL--------GG--GGAQ--r-FWGV-Gp---A---QRALHRgrgVGglllrdvlrgvccvvvraaavgpragtqgdAx---------------------------------------------------------------------
+>ERR1035437_10299205 
+--------------------------------------------------------------------------------------------------------------------------------DL--------gFdFSEHDNERLk-----GVSR-----------M-ESLDIL----LY-IGkikidlrakeelaaiknslyvsfiqk-MTPDEILPGVIrfldelhnggilialgsasknamtILDkIN-IAQKFDAV--------------------------------------------

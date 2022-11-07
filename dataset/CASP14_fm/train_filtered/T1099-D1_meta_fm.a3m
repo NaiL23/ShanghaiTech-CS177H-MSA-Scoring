@@ -1,0 +1,596 @@
+>T1099-D1:
+NVYDLPDDFFPKIDDLVRDAKDALEPYWKSDSIKKHVLIATHFVDLIEDFWQTTQGMHEIAESLRAVIPPTTTPVPPGYLIQHEEAEEIPLGDLFKHQEERIVSFQPDYPITARIHAHLKAYAKINEESLDRARRLLWWHYNCLLWGEAQVTNYISRLRTWLSTPEKYRGRDAPTIEA
+>sp|P13845|HBEAG_HHBV External core antigen OS=Heron hepatitis B virus OX=28300 GN=C PE=3 SV=1
+NVYDLPDDFFPQIDDLVRDAKDALEPYWKAETIKKHVLIATHFVDLIEDFWQTTQGMSQIADALRAVIPPTTVPVPEGFLITHSEAEEIPLNDLFSNQEERIVNFQPDYPITARIHTHLRVYTKLNEQALDKARRLLWWHYNCLLWGEATVTNYISRLRTWLSTPEKYRGKDAPTIEA
+>tr|M1G524|M1G524_9HEPA Precore/core protein OS=Parrot hepatitis B virus OX=1128118 PE=4 SV=1
+NIYDLPDDFFPKIDDLVRDAKDALEPFWKTDSIKKHVIIATHFVDLIEDFWQTTQGMNHVAEALVSLIPPTTVAVPQGYLTTHEEAEEIPLDGLFNYQEERIASYQPDYPVPARIHTHLKVYTKINEQALDRARRLLWWHYNCLVWGEANVTNYISRLRTWLSTPEKYRGKDAPTIEA
+>M1G511	235	0.820	5.744E-67	0	177	178	52	229	304
+NVYDLPDDFFPTTEDLVRDAKDALEPYWKSESIKKHVIIATHFVDLIEDFWQTTQGMVHIAEAIRTLIPPTTVPVPEGYLTSPTEAEEVPLDGLFNHQEERIASFQPDYPITARIHTHLRVYTKINEQALDRARKLLWWHYNCLVWGEANVTNYVSRLRTWLSTPEKYRGRDAPTIEA
+>tr|M1G516|M1G516_9HEPA Precore/core protein OS=Parrot hepatitis B virus PE=4 SV=1
+NIYDLPDDFFPKIDDLVRDAKDALEPFWKTDSIKKHVIIATHFVDLIEDFWQTTQGMNHVADALVSLIPPTTVAVPQGYLTTHEEAEELPLDGLFNHQEERIASYQPDYPVPARIHTHLKVYTKINEQALDRARRLLWWHYNCLVWGEANVTNYISRLRTWLSTPEKYRGKDAPTIEA
+>tr|A0A218NK28|A0A218NK28_9HEPA Precore/core protein OS=Tinamou hepatitis B virus OX=2018685 PE=4 SV=1
+NVFDLPHDFFPDIEDLVRDAKDALEPYWKQDSIKKHVIIATHFVDLIEDFWQTTQGMSSVANALLALIPGTTTPVPQGYLIDTKEAEEIALTELFNSQEERITSFQPDYPVIARIHTHLRVYTKLNEQALDRARRLLWWHYNCLLWGESNVTNYISRLRTWLSTPERYRGRDAPTIEA
+>tr|I6QDU5|I6QDU5_MELUD Putative PreC/C OS=Melopsittacus undulatus OX=13146 PE=4 SV=1
+NMFDLPIDFFPSIEDLIRYTKDAIEPFTKEGSLKKHVVLATHFLDLVEGFWATTRGMRDVAAALRPLVPAELEPIPEGNYTTKSELEELPVDGLFNYQEELIRNRDPNYPLVGRVYTHLIVYAKLNEQSLDNARRLLWWHSNCLIWGEPNVTDYISRLRTWLSTPEKYRGRDAPTIEA
+>UniRef100_A0A0M3P3L7 PreC/core protein n=1 Tax=White sucker hepatitis B virus TaxID=1690672 RepID=A0A0M3P3L7_9HEPA
+-VKDLPHDFFPLLKDQVQFSKDVIKEYNEHHSQNRHVEVINCSLESYDNL---------------QLIYAKVTISNWTAIANNGDSVQVALDE---NARTGLA-----YIFQSTIEMSI--------------RRKLWWHTNCLMWGESQTAEYTAKLRSWLMTPTSYRNQYAPTIEA
+>A0A411NH22	183	0.274	5.475E-49	1	176	178	11	207	266
+-VENLPDDYFPSNDAFLKHAFDVAHLYWEDADNKTfHVQTSRSLYEMIlvlrtvppllaftyeqlKTHWEYIVAQEAWTSAIPiPTYP--LVPLPPTFPVSIGDPPLLTQFQRLTEGDRTLRGARLGSPNSYRELWMLSEFNRFLGTMIESQTRFLikrlWYHINCIAWGEAAVHNHVAKVRTWLATPPPYRGQNAPIIE-
+>A0A193AUV5	203	0.293	4.175E-56	1	176	178	11	207	266
+-VENLPDDYFPDNDQFLRHAFDVAHLYWEDAENKTyHVQTSRSIYEVIlilrtvppllgfthrqlREHWEYLRDQENWGNQTPPPYP--LPELPHSFPVSIRDPPLLTQFQAITDRHRELRGAvNVGQPNSYRELWMLSEFNRFLGIMLESQTRFLikrlWYHINCIAWGEATVHNHVAKVRTWLATPAPYRGQNAPLIE-
+>6954605 len:706
+-VFEQDATHFEKIVDAIREIRNVRSQMQAPPSRKAKVIIQSEVPDIFkqsASFFVRLASAEE------VVILSADSDVPENTVQLATDSARIflPLVDLIDYEKERarllrertacekeIASYESKLSNAQFVEKAPPAVVKAQREKLDRAKQRL-----------------------------------------
+>A0A165XEV6	46	0.232	8.208E-02	26	177	178	152	318	430
+-YWSWDDLYedFPVRAPVVRAPFIHSHPseLLLTDDL--QVARAHHFIARVRPLFLANAR---------PIIPPPVLKTPvvlviPGFLYNLNK----GVSRISRKPLEFIA--HPDiHPVNCDIHGCQRggCYDR-NHDAVRYCTRCDkWWHEGCLPLGDFDA---MFAGGSW---RQTLEGEEDPDVfEA
+>72626 len:356
+------------------EALDVFEPGRVADAVKklglKHVVITSVDRDDVED--GGAEHFAQTIRAIRRQAPQTTIEILtPDFIRcDPSVLEIVvaAKPDVFNHNLETVPGLYPEVRPGARYFHSLRLLQRVKE---------------------------------------------------
+>299121 len:373
+------------------DALDVFEPARVAVAVEklglNHVVITSVDRDDLED--GGADHIAQTIRAVRRKNPDTTIEVLtPDFLKcAPAALEAVvaAKPDVFNHNLETVPGLYPEVRPGARYFHSLRLLQRVKE---------------------------------------------------
+>4630301 len:201
+------------------NALDAKEPEHVADAVAklglSHVVITSVDRDDLAD--GGAEHFAQVIRAIRARSPATTIEILtPDFLRKDGALEVVvaAKPDVFNHNLETVPSNYLTVRPGARYFHSIRLLQRVKE---------------------------------------------------
+>3985020 len:229
+------------------DKLDIFEPARVANTVQklglGHVVITSVDRDDLED--GGATHFAKTINAIRRKCPKTTIEILtPDFLKcDDEVLKVIvdSGPDVFNHNPATVPGLYPMVRPGARYFHSLRHQTKVKE---------------------------------------------------
+>1616843 len:213
+------------------EALNPFEPESVAVAVKklglRHVVITSVDRDDLAD--GGAQHFADVIARVREGSPETTIEILtPDFQGKPGAIETVvtARPDVFNHNLETVPGLYPEVRPGARYFTSLQLLAKVKE---------------------------------------------------
+>E0ZRZ0	102	0.225	5.364E-21	4	175	178	18	139	183
+---------------------------------------------------------------LPSDFFPSVRDIIdtaSGLFRdAFESLEHCspYHTAlrqailcwgelmtlatWVGANLEDpasrdlVVSYV-NTHMGLK----FR--------------QLLWFHFSCITFGRDTVLEYLVSFGVWIRTPPAYRPPNAPIL--
+>7253984 len:318
+------------------DKLDIFEPARVANTVQklglSHVVITSVDRDDLED--GGAVHFAKTINAIRRKCPKTTIEILtPDFLKcDDKVIEVIvdAGPDVFNHNLETVPGLYPMVRPGARYFHSLRLLQRDRK---------------------------------------------------
+>5650564 len:324
+------------------FKLDMLEPERIGLSVQkmnlRHVVITSVDRDDLPD--GGARHYVKTIDAIKRYSPSTTIEILtPDFLKcDDDVIFPIlnAEPDVFNHNLETVPSLYPEVRPGARYFTSLRLLSRVKE---------------------------------------------------
+>4829698 len:320
+------------------EALDVFEPGRVADAVKklglNHVVITSVDRDDVED--GGAEHFAQTIRAVRRQSPNTTIEILtPDFIRcDPKVLEVVveARPDVFNHNLETVPGLYQQVRPGARYFHSLRLLQRVKE---------------------------------------------------
+>2014457 len:318
+-------------------SLDPLEPFKVSSAVNklnlKHVVITSVDRDDLDD--GGSNHFYEVITATRKKNPNTSIEVLtPDFLRKGDAYKKVleADLDVFNHNIETVPRLYTKVRPGARYFASLELLKNAKV---------------------------------------------------
+>8044092 len:286
+------------------NNLDLFEPGRVAVAVKklglNHVVITSVDRDDLND--GGAEHFAQTIRAVRKQSPSTTIEILtPDFLKcSNNTLEIVvkAKPDVFNHNLETVPGLYPKVRPGARYFHSLRLLQRVKE---------------------------------------------------
+>1603378 len:175
+------------------NALDAFEPGKVAHAVSelglKHVVVTSVDRDDLDD--GGAEHFAQTIRAIRKASPKTTIEVLtPDFLRKPGALEKVveARPDVFNHNLETVPALYLRIRPGARYFHSLRLLQRVK----------------------------------------------------
+>1143968 len:329
+------------------RAVDLLEPAHVAEAAGelglEHIVITSVDRDDLPD--GGASQFVKVIRELRARAPKTTIEILtPDFLNkADAAVQAIveARPDVYNHNLETVPRLYPTIRPGARYYHSLRLLETVKK---------------------------------------------------
+>8369587 len:993
+-LKDLPNDNESDIESMN---------MLRDLPIS-EQRISEIRQYTLND-----EQMQELKELIQNGWPNRKYDIPPSAMIYFDARDELTVQNgLIFKGERVviptslRLDMIKRIHSSlKGVECCLR---RARE-------SLYWPRMN------SQVKDFIRRCET------------------
+>7224870 len:369
+------------------RAVDPLEPEHVATAAAelglEHIVVTSVDRDDLPD--GGASQFVKVIEALRRNTPKTTIEILtPDFRNkSEAAVGAIvaAGPDVYNHNLETVPRLYPTIRPGARYYASLRLLESVKR---------------------------------------------------
+>2335728 len:402
+------------------KALDQFEPGRVAHAVSelglNHVVVTSVDRDDLAD--GGAEHFAQTIRAIRHRAPDTTIEILtPDFLKcPPSALEMVveARPDVFNHNLETVPGLYPEVRPGARYFHSLRLLQRAKE---------------------------------------------------
+>12837714 len:325
+-------------------GLDFTEPFRVAQSVArlglKHVVITSVDRDDLDD--GGADHFVNTIRNIRSLSPNTSIEILtPDFLRKFGAVEKVilSKPDVFNHNLETVPRLYSSVRPGARYFHSLNLLSKVKD---------------------------------------------------
+>11345 len:286
+----------------------------------SHLVVTSVDRDDLED--GGAGHFAAVIRAVRAAAPKTTIEVLtPDFLRKPGAVETVveARPDVFNHNLETVPRLYPSIRPGARYFQSLRVLAKVKE---------------------------------------------------
+>A0A1M6L3B3	90	0.209	8.663E-17	65	173	178	298	434	7759
+---PVP----PPVRE---GPPDPTPAPPIREGTPEPVPAPGTLNDDL------ADLFTRHRDEmLVPFHPNSPTGARa-----WDNAVERN----VFRTEVADvFQRAFAE-RLGtDQ----AR--------------RLGddYADTLVRSWGDPDLGSHlSRTIGDRLPPPLREHLSDVP----
+>61153 len:229
+------------------EQLELFDA--PAEKKP-DVLMTTAELAEALN--VSQSTLKNTVEKLRQVLGGVSTNSQGGYLFTQEQAT------LIKKEIQK----H-H-NLKSRQIDSVK-----------------s--ELEILGNAREAMADL-----AKLYASAAKRAEAL-----
+>5971339 len:250
+----------------------------------KHVVITSVDRDDLED--GGAGHFVLTIEAVRRAAPDTTIEILtPDFLRKPGYAERVidAAPDVFNHNIETVPRRYNSIRPGARYYQSLRLLDSVKQ---------------------------------------------------
+>4454142 len:144
+--------------------LDPMEPKNVANAIAemelDYVVVTSVDRDDLED--QGSGHFAACIDAIRQRNPQTRVEVLiPDFCGRTELLAKVtlAYPDVLAHNVETVKRLTKKVRPRAGYEQSLAVLAHIKE---------------------------------------------------
+>A0A0G3VUE6	86	0.290	1.434E-15	87	175	178	30	126	170
+---------------------------------------------------------------------------------------------didpykefgasaeLLSFLPSDffpsirdlLDTASaLyrealesPEHCSphhTK----IR--------------QLLWFHISCLTFGRETVLEYLVSFGVWIRTPPAYRPQNAPIL--
+>794734 len:388
+----------------------------------KHVVITAVARDDLPD--EGAGHFAACVRAVRAASPVCVIEVLpADLHARDELLALIceSRPDIYNHNQETVERLSPAIRPQAKYHRTLQALRKAKT---------------------------------------------------
+>4100819 len:1304
+--------------------------------IS-EQRISEIQQHTLND-----EQMQELKEEIQNGWPNRKYDVPPSAMIFFDVQDELTVQNgWFDIGERVviptslRLDMIKrRIHSShIEVEGCLC---RARE-------SLYWPGMN------SQVKDFIRRCET------------------
+>36091 len:364
+----------------------------------SHVVVTSVDRDDLDD--GGAGHFAETIAAIRSTCPETTIEVLtPDFLRKPGALELVvaAGPDVFNHNLETVPSLYVTVRPGARYFHSLRLLQRAKE---------------------------------------------------
+>220638 len:213
+----------------------------------RHVVITSVDRDDLAD--GGAAHFAETIRAIRAAAPGTTIEVLtPDFLRKDGALEVVvaARPDVVNHNLETVPALYPSIRPGARSYHSLRLLDRVKQ---------------------------------------------------
+>1556446 len:234
+----------------------------------RHVVITSVDRDDLKD--GGAAHFAAVIRAIRAAAPETTIEVLtPDFLRKDGAIEVVveARPDVFNHNLETVPRLYPTIRPGARYFQSLRLLDEAKR---------------------------------------------------
+>A0A2K8ID94	92	0.295	1.331E-17	112	175	178	14	84	128
+---------------------------------------------------------------------------------------------aWVGSNLEDpasrelVVGYV-NVNMGLK----LR--------------QLLWFHISCLTFGRETVLKYLVSSGVWIRTPPAYRPPNAPIL--
+>885558 len:168
+----------------------------------KHMVITSVDRDDLDD--GGARQFALSIQKVREYSPGTTVEVLtPDFRGKEGALEIVmdAHPDVFNHNIETVPGLYPAIRPGARYFHSLSLLQRAKE---------------------------------------------------
+>392548 len:161
+--------FFDQKTNVIKTAKTLTTVYNPSDGVIKSIDLASFENSLIkyfch----GGTTVINSITER-----KGSVTALLttKGF---RDVLEIGrgNRPDLYNLHTKSptpfVPRYL-RFEIDERIDANGKVIRKLNLKDLDKIIKLL-----------------------------------------
+>1594185 len:166
+---------------------------------QrmglRHVVITSVDRDDLED--RGAEHWARTIRALRRRLPAAGIEVLtPDFLGrEEEALVTVlgAHPTVFNHNIETVRRIQPRVRIKGDYERALWLLRRARE---------------------------------------------------
+>A0A2I7YUN3	91	0.271	2.486E-17	113	175	178	32	101	113
+---------------------------------------------------------------------------------------------WVGNNLQDpasrdlVVNYV-NTNMGLK----IR--------------QLLWFHTSCITFGREIVLEYLVSFGVWIRTPPPYRPPNAPIL--
+>A0A2I7YUM1	92	0.271	1.331E-17	113	175	178	43	112	124
+---------------------------------------------------------------------------------------------WVGVNLEDpasrelVVSYV-NTNMGLK----FM--------------QLLWFHISCLTFGRQTVIEYLVSFGVWIRTPPPYRPSNAPIL--
+>955011 len:354
+-----------------------------------------------fs----QTPASAPEGEPTLDEVIPGPRVNDPAIQAVSSEELRALvgCLSTALSDLESRVLALYLD----GRSYEEIG--------------GMI----DC---DAKTVDNALQRVKRKVGAHLGSRAILnlslihkyAsymdTWL--
+>836348 len:122
+--------------------------------------------------------MYTIMRLMRSTPPPPVPPRPlpPGNCY--QHQGEIhhDPPNpAAGQKQVRvLLQYH-H-RSRtVRKHQHLA--------------AAAa---------AAAAAAAAAAALHCCLWTP-------RPCL-L
+>5098844 len:248
+--------------------------------------------DDYlaKP--FNPRELLARIQAVLRRQPPTTVPAAPGALPGGDNLVHF----gSFEFNLANrTLSR-EgeDIPITSGEYALLRALVSHPR-------EPL---------SREKLMDM-----ARGREHEVFDRSIdvqVSRLRR
+>362990 len:221
+------------------------------------MRIATWNVERLkhkKHL-EQMQDLCDSVHA--DILVLTETDKRlhPNYAFCCESAPLLedEAVHyAVTENRVSiytnypVIQLHQTYEPHTAVCAELK---------TEAG-NLL-----------------------------------------
+>UniRef100_A0A1W6GWR4 Core antigen n=1 Tax=Bat hepatitis virus TaxID=1303386 RepID=A0A1W6GWR4_9HEPA
+-----------------------------------------------------------------------------------------------------------MNTFGLK----LR--------------QQLWFHLSCLTFGEATVLEFLVSFGTWIRTPQPYRPPNAPIL--
+>4012196 len:228
+-----------------------------------------------fs----ASPSASSENEPTLEEISPGPSVNDPISQVISTEELQSLvgCLSTALSELESRVLSLYLD----GRSYEEIA--------------ARL----DC---DAKTVDNALQRVKRKVGAH-------------
+>2509792 len:184
+----------------------------------GYVVVPSVDHDDLDD--GGAGHFAQVIEALHKAAPTTTVEILtPDFMRKAGAIETVvaARPDVFNHNLETVPRLYPTIRPGTRYFTSLRLLARVKE---------------------------------------------------
+>UniRef100_U3M5H3 External core antigen n=1 Tax=Roundleaf bat hepatitis B virus TaxID=1508710 RepID=U3M5H3_9HEPA
+-----------------------------------------------------------------------------------------------------------QASVGLR----MR--------------QLMWFHLSCLTFGQPTVIEFLVSFGTWIRTPQAYRPPNAPIL--
+>UniRef100_E0ZNB6 Core protein (Fragment) n=1 Tax=Hepatitis B virus TaxID=10407 RepID=E0ZNB6_HBV
+-----------------------------------------------------------------------------------------------------------NTTVGLK----FR--------------QLLWFHVSCFCFGRETVIEYLVSFGVWIPTPAAYRPPNAPIL--
+>UniRef100_A0A482KMS0 Core protein n=1 Tax=Tai Forest hepadnavirus TaxID=2557875 RepID=A0A482KMS0_9HEPA
+-----------------------------------------------------------------------------------------------------------QSTIGLR----VR--------------QQLWFHLSCLTFGNHTVLEFLVSFGTWIRTPAAYRPPNAPIL--
+>tr|A0A141R7Y7|A0A141R7Y7_HBV Capsid protein OS=Hepatitis B virus OX=10407 GN=C PE=3 SV=1
+----------------------------------------------------------------------------------------------------------------LK----IR--------------QLLWFHISCLTFGTQTVVEYLVSFGVWIRTPLPYRPPNAPIL--
+>6603081 len:428
+---------------------------------------------------------------------------------IQSDLVDLleGVAQgtlrekELTEDPRAavtvmlVSGGYPgSYEKGk--EITGLDLVTRSEE-------RRV---------GKECVSTDRGRGARWHERKKQKRRSKEEAL--
+>562501 len:174
+-----------------------------------------------kID--DLARESRNLVEEYRKLLDGSEYQAA-----YTRELEELeqAQQQQLDGLREQIVQA----RLTrQRIVPLMRSMA-----------DSLeKFVVLDLPFHQEERVAAVIDLKQRLRQPDISVSAKfrmlLEAF--
+>501167 len:245
+-----------------------------------------------lPD--GDGQKLAEAVRAaaGQRYVPVIVVSGT-----AQEHLEGR----HFSDDITD----YFDTSHGQR---ALA--------------EFIRGYVQPAPIPGARVLYVEDSRTVALATSRMLKAQEMEVV--
+>399577 len:222
+----------------------------------AHVVVTSVDRDDRDD--GGAEHFAQTIRAIRGRCPATTIGILtPDFLRKDGALEKVvaGKPDGRNHNLETGPSRYLTVRPGARYFHSIRLLQRVKE---------------------------------------------------
+>27966372 len:277
+-----------------------------------------------hfv----QALEHLNEATQSl--SQFSESIFTYV-----DNNHTPFTidQVDD-LKEVHTALIKLL-DE-----YCKMLQ--------------TGTYIQFDYTMVAQEQLLQLVAKATKRQIKRAQRNQTRtrSSLLY-
+>2112182 len:222
+-----------------------------------------------fa----QSPAAAGDSDTTLEEILPGPISDDPADRVIASEELSSLvaCLGDVLSDLESEVLSLYLD----GYSYEVVA--------------ERL----EC---DTKTVDNALQRVKRKVSAHISGREVL------
+>20420686 len:181
+-----------------------------------------------fa----TTPTAAGDGESTLEEILPGPRTEDPATKVISTEELGSLveCLTSVLSDLESEVLTCYLD----GRSYEEIA--------------DRL----AC---DTKTVDNALQRVKRKVTIH-------------
+>1880926 len:172
+------------------------------------MMLITHDRSFMd----SVVTHTVAIHRRRAKKIPGGTDKMYAQILQEEEIYEKT----RMNDERKRreverfIERFRAkN-SLATRVQSRVR--------------QLA----------KHERLEKLERIQTL-----------------
+>15573673 len:237
+----------------------------------wrsQGMKIATWNVERLkhkKQL-DQIQGLCNSIKA--DILVLTETDKRlhPKYTFCHETTSLIedKAIPyAVTENRVSlytnypVVQLHQTYDPHTALCAELK---------TEAG-NLL-----------------------------------------
+>UniRef100_W8PAA2 External core antigen n=2 Tax=Hepatitis B virus TaxID=10407 RepID=W8PAA2_HBV
+-----------------------------------------------------------------------------------------------------------NTHMGLE----IR--------------QLLWLLISCICFGRKTVLEYLVSFGVWIRTPPPYRPPNAPIL--
+>UniRef100_W5ZXR0 Capsid protein n=1 Tax=Woodchuck hepatitis virus TaxID=35269 RepID=W5ZXR0_9HEPA
+-----------------------------------------------------------------------------------------------------------NDTWGLK----VR--------------QSLWFHLSCLTFGQHTVQEFLVSFGVWIRTPAPYRPPNAPIL--
+>UniRef100_A0A5K6TV77 External core antigen n=2 Tax=Hepatitis B virus TaxID=10407 RepID=A0A5K6TV77_HBV
+-----------------------------------------------------------------------------------------------------------NTHVGLK----MK--------------QLLWFHISCLIFERKTVLEYLEYFGVWIRTPPAYRPPNAPIL--
+>UniRef100_A0A2H5BVJ1 External core antigen n=1 Tax=Bat Hepatitis B virus TaxID=1401315 RepID=A0A2H5BVJ1_HBV
+-----------------------------------------------------------------------------------------------------------QSTVGLR----MR--------------QQIWFHLSCLTFGQQTVIEFLVSFGTWMRTPAAYRPPNAPIL--
+>tr|U3M6H7|U3M6H7_9HEPA Core protein OS=Tent-making bat hepatitis B virus OX=1508712 PE=4 SV=1
+----------------------------------------------------------------------------------------------------------------LRsKYLKhIT--------------KAIWYHLSCLTFGKQTVHEYLVSFGTWIRTPAAYRPVNAPIL--
+>tr|A6MFZ2|A6MFZ2_HBV Core protein OS=Hepatitis B virus OX=10407 GN=C PE=4 SV=1
+-----------------------------------------------------------------------------------------------------------rNVKMGPK----IS--------------QLLWFHISWLMFGRETVLEYLGSFGVWIRTPTAYRPQNAPIL--
+>6634557 len:109
+-----------------------------------------------fs----TSPAGSSDSETTLDEVLPGPTANDPANQAISTEELQALigCLGSVLSELESGVLGLYLD----GRSYQEIG--------------ERL----GC---EAKTVDNALQRVKRKVGTH-------------
+>6252304 len:363
+----------------------------------sfeGEVILITHDRDFMd----SVCTHTMGIIRKSAFMIPGSTHKFYe-----------------LLASNEEH----Y-EK---QK----IA--------------QDK---------KIKDLEEFIAKNKARASTAALAQSKV-KIL-Eki
+>438342 len:241
+-----------------------------------------------fa----QSPAASGDAETTLEEVLPGPISDEPSERVIASEELSALvsCLGSVLSELESNVLSLYLD----GHSYEVIG--------------EKL----EC---DTKTVDNALQRVKRKVATHIT-----------
+>4256135 len:244
+-----------------------------------------------fs----QTPTASGDGESTLDEVLPGPTAHDPVNQVISTEELQSLvaCLSSVLSELESSVLSLYLD----GNAYEAIA--------------ERL----AC---DTKTVDNALQREIRKVGAHLSSREVL------
+>2953668 len:858
+--------------------------DRINASIIVAIVVLSNILNFVqtyqSQ--NAVEKLRANVSPtATVLRDGTWIELPRRDLVPGDMFRLAagDLVPadarLVQSTDLHIQQASLtgE-TLPvDKNADDLDAQT-----------ESFAEAHNCVFLGTSVVSD-------------------------
+>12200360 len:131
+------------------------------------VIIITHDRTFMd----SVITHTMGIQRKTLNIVKGTTKQYEe-----------------TLAMQDET----Y-EK---TR----LN--------------QEK---------KRKDLEEFIARNKARASTANLAQSKV-KIL-Ekmddmeslesessl
+>10123097 len:238
+-----------------------------------------------fs----HTRAGASDQEMSLAEVLPGDPVVDPITQVISSEELRSLveCLGDTLSDLESGVLTMYLE----GRSYEEIA--------------ERL----DC---TPKTVDNALQRVKRKVLSHLRSREVLdl------
+>UniRef100_Q80J61 Core protein n=1 Tax=Hepatitis B virus TaxID=10407 RepID=Q80J61_HBV
+-----------------------------------------------------------------------------------------------------------lPSDFFPS----IR--------------DLLDTASACLTFGRETVLEYLVSFGVWIRTPPAYRPPNAPIL--
+>UniRef100_A0A286QXE0 External core antigen n=1 Tax=Hepatitis B virus TaxID=10407 RepID=A0A286QXE0_HBV
+-----------------------------------------------------------------------------------------------------------DTNMGLK----FR--------------QLLWFHISCLTFGRDTFLEYLVAFGVSIRTPTAYRPPHAPIL--
+>tr|A0A2U8SZQ3|A0A2U8SZQ3_9HEPA Core protein OS=Domestic cat hepadnavirus OX=2107574 PE=4 SV=1
+-----------------------------------------------------------------------------------------------------------VNsTVSLK----LR--------------QQMWFHLSCLTFGQHTVLEFLVSFGTWIRTPAPYRPPNAPIL--
+>tr|A0A0K0WT52|A0A0K0WT52_HBV External core antigen (Fragment) OS=Hepatitis B virus OX=10407 GN=C PE=3 SV=1
+----------------------------------------------------------------------------------------------------------------LK----FR--------------QLWWFHISCLTFGKKTVIKYLVSFEVWIPTPQAYKPPNAPIL--
+>9326155 len:267
+-----------------------------------------------fs----VSPAANGDSDATLEELIPGPTAHDPVNQAISSEELRSLvnCLADALSELESRVLSLYLD----GRSYEEIG--------------ERI----GC---DCKTVDNALQRVKRKVGAR-------------
+>8477697 len:118
+-----------------------------------------------fs----MSPAGAEDGDSTLEELLAGPTAHDPVNQAISTEELRALiaCLSTVLSELEARVLGLYLD----GHSYQDIG--------------VKL----GC---EAKTVDNALQRVKRKVASH-------------
+>8258955 len:258
+-----------------------------------------------vsfs----ATPAGASENEPSLDELLPGSSVHDPVNQVISSEELRSLvaCLSTVLSELESRVLSLYLD----GHSYTDIG--------------QRL----GC---DCKTVDNALQRVKRKVGAH-------------
+>8123053 len:174
+----------------------------------ll-ALQIRDIEGDFL-----------RISKSw--DVGSNRLTETT-----KTGRIRYV----IMPARVQAeLARLVElN-PWGnPDSYVFFSTMPD----------KPI---------EAKIITRELYRALRTIGISEGERVRRnltfhSwrHLFNSilvnarv
+>611103 len:282
+----------------------------------------------------------EESDRtLLDVISGAKALNPEDLIISKEEFDDIemKMGELLSELERKVLVLYLD----GRSYQEIS--------------EDLnr---------HVKSIDNALQRVKRKLEKY-------yISLI--fs
+>569727 len:113
+------------------------------------VIISNVTYYINDG--TDNPYFVDEVSDsVVNVIPPTPYRAGYKFTNWYKEKECI----nLWDFEKDKVPKI-KyD-SDGNEIYEEIKIYAGWEENKMKKI-KRLf-----------------------------------------
+>3500011 len:105
+-----------------------------------------------fs----ATPAGASESEPTLDEIQPGPTAHDPVNQAISSEELRALiaCLSTVLSELESRVLGLYLD----GHSYTAIG--------------EKI----GC---DCKTVDNALQRVKRKVGAHHMARNVV------
+>15673138 len:415
+----------------------------------------------------------------------------lsEEYLPLLDSLTRIadAVRAatpLLKDNNPDdAIEL--Q-EQALDAIEEAN--------------SLI----EELTATRSSFAAVLGITESALAPSPLLAEIEDEQVRLtevtkk
+>1554846 len:442
+---------------------------------------------------SQENREEAAADT--ENSPPDTDPDSDEAYENEEDLEDWEIEDSSEENSEDISSF-MQPTEAIK----AK------------A-DLL---------AQKNISEE---SLAAMDDALLYQKFD-ALW--
+>13835090 len:130
+-----------------------------------------LLKDGL----KNPPGLSEVVRSRSSVFQDPPPTVPARW--------------ILRRQQAE------SLALGlAAVENHFR---------------LLpFRPVACL----------VAHANEYFPFATGYRDAClRAVW--
+>975437 len:217
+-----------------------------------------------fs----ATPAGASDSEPTLDEVLPGSPVHDPVNQVISSEELQSLvaCLSSALSELESRVLSLYLD----GHSYEQVG--------------ERL----GC---DTKTVDNALQRVKRKVGTHLESRNVM------
+>953822 len:166
+---------------------------WGGKSIDKAFLISGHYATVLnnkcagADWWQTLSALRDTEERARNLAAHTMTRVDEDWLK-----EKGlpSSREIMKLLKDAVVKLNNgSRPLATR----IA-----------------vsWSSYDEMNEKIKD----------------------------
+>8139195 len:339
+----------------------------------------------------------------------------sDEFLPLLDSLARIanAVDAatpLLKNNKPDdAIEF--Q-EQALDAIEEAR--------------SLI----EGLTATRSSFAGVLGITGSALAPSPLLAEIEDEQVQLtgitkk
+>3786055 len:321
+---------------------------------------------------------------LS----AKKITAIaWDYIRDEEGVFSIvrTMSEIAGTTSVLVAGELLsSFSEGkGLMLGGIA--------GVQPT-EIV-------VLGSGTVGEFATRAALGLGASVKIFDNSLSRLRRl
+>35713836 len:489
+-------------------------------------------IGVFfp----TRIDNYVKIVCG--VKYYGRYMDDMYIICQTREELESIivGIKAeaaelglFINERKTHICKL-SD-TYKyLQIKYSLS----------ETG-KVIkRINPKAVTRERRRLKAY---YRLMLRGEMQYADIE-QAVRSwm
+>2762093 len:114
+--------------------------------------VTTHSIVFL----EQIYNVAKNKEAIDGIIYLMDTKTPrVKDLTLREMQEEMllSKTAFSKKRKKELFVY-ME-DYEALFF--LK--------------QIIKFG----KIDEKSLRVTIRKVSVHNNC--------------
+>2223090 len:141
+-----------------------------------------------wlRD--MTPHKIQ---QSLSQIIPGIQQTVP-----STSNIEHQplCRVDskdDFGDDKERVHKVQSSALIEdNENEELMRIRQKMNA-------GVI-----------ATAMDLLEKNRHYLL---------------
+>2192127 len:218
+-----------------------------------------------fa----QTPASAGDGEQTLEDVLPGPSVHDPAIQVISSEELHSLvgCLTSALSDLESSRKSLYLD----GRSYEEIA--------------GRL----DC---DTKTVDNALQRVKRKVAAHLDSRAVL------
+>14666903 len:828
+--------------------------FRDDM----GKLVAAFKRELS-----------KAFQS--EDYEKQKRTLQRGFDLRQNALIDQmsAAAEeyqFHIERTDAgiyFVPLVNgE-TVDDEAYEKLPQEVR----------DRId---------ENSQLIQE--KAGAILREIQALEKENDEQLDQldk
+>10122013 len:231
+-----------------------------------------------fs----HAAGSSAETESTIDEVLPGPTVHDTVNQVISSEELHSLvsCLSSALSELESSVLSLYLD----GRPYEEIG--------------SRL----SC---DSKTVDNALQRVKRKVGAHLNARMV-------
+>UniRef100_U5JPQ9 External core antigen (Fragment) n=2 Tax=Hepatitis B virus TaxID=10407 RepID=U5JPQ9_HBV
+-----------------------------------------------------------------------------------------------------------NVNMGLK----IS--------------QLPCFHISDLTFGRETVLEYLVSFGVRVPTPPAYRPPNAPIL--
+>UniRef100_Q70HP9 Core protein (Fragment) n=1 Tax=Hepatitis B virus TaxID=10407 RepID=Q70HP9_HBV
+-----------------------------------------------------------------------------------------------------------NTNMGLK----IR--------------QLLWFHISCLTFGRETVLEYsaSFGVGFALLQPIDHQMPLSy-----
+>936747 len:286
+------------------------------------------------------------------------------YLLCDETFDGLdpVIRQgvksLFARDMADrgLTPII-A-SHNLRELEDIC--------------DHV----GLLHDGGVLLSEDLSDMQEKVQKVQAVFKTErdRIALEDlsiryqns
+>8381351 len:279
+---------------------------------------------------------------LI----DKKITCLaYEFIQDDSGMMPLirSMSEIAGNTSVLIASECLsNANNGkGLLLGGIA--------GVTPT-EVV-------IIGAGTVGEFAARSAMGLGASVKVFDNSLSKLRRl
+>8028544 len:271
+---------------------------------------------------PMTAGKAPLIRA--EIRPTDSRKPDPMMVGKPTPNKTNinNLIEnqTIGASGEQpaAYGRYKNIFLSDTDYADLQ--------------EEY----------PDRLERFIEEMSRYLAASGKTYSNYAAALRIwadndkk
+>7637042 len:196
+---------------------NQLSNYWVSSGKYdSIFTYSSHNVDEIqndltlmfaGE--KIPTGIQEYAATAPELNPSGALPVPpVKLLIPHAKAASIPLQKHLQKNLHRaisrstrspVVSL---I---RR----------------------------------------------------------------
+>6063733 len:233
+-----------------------------------------------fs----QTPAGQDDSDVTLGDALPGPSVDEPPIVVISSEELQSLvfCLGTGLSHLEAEALRLYLE----GSSYEDMS--------------IEL----GC---DTKTIDNALQRVKRKVLQHQRGRQVL------
+>547070 len:170
+-----PRRGFVSTRRAVGRLRKAIGEVHFSELIR-PLRVIATHLDTLervvfc------SGEVAAAVEAs--IAIPGVCVPVTmdgETYID-----GGIadPLPVdvLAEMGIERIIAVNV-IPPPER----IR-----------------fWLDAERETNGREARRSA---FGRFFRDHFNYLAHGN-----
+>5100083 len:145
+-----------------------------------------------tafm----DRISALAGTIGTLEEMSSEVEAIATqTNLLALNAAIEAAhaREHGkgfaIVASEVRKLSEQ--SGETGQR----IR--------------EHVag---------VSRTLGESLASARAFTEREDGFILEAeArihAVISEfqk
+>4336306 len:222
+-----------------------------------------------fs----YTPASAHEGEPTLEDVIPGPAVRDPVRQVISTEELRSLvdCLSTALSEPESRVPAPYLE----GRPYEEIA--------------GRL----GC---EAKTVDNALQRVKRKVGTHLAERA--------
+>3661162 len:172
+--------------DII------------------REIDTYLELDFMdvssygEG--TESSGEVIIIKDLDTSVTGRDVLIVEDIIDTGRTLQRLv----eLFKHRNAKsvkICTLL-D-KPERR-VEGVK--------------PDY-----------------------------------------
+>3122971 len:210
+----------PFMADIV------------------REMDCYLELDFMdvlsygNA--MICSGEVKIIKDLDTNVEGRDLLIVEDIIDSGRTLAYLv----dLFKYRKAKsvkIVTLL-D-KPEGR-VVNIE--------------ADY-----------------------------------------
+>3000823 len:252
+---------------------------------------------------------------aLRAGIDHGLTVIDTAEMYADGGAEEVvgQAIRGLRDRVVLVSKVYPwhagKAAMHRACENSLR-----------CC-RLTiWTCISCTGAGISRCRRRLRRWRSW-----------------
+>2322902 len:243
+-----------------------------------------------fs----TTPAGASEGESTLEEMLPGSTVHDPANQVISSEELRSLvdCLPSTRSELEARVLALYLD----GRSYEEIG--------------GIV----DC---DTKTVDNALQRVKRKVGGH-------------
+>1247324 len:511
+-----------------------------------GIEHLAEAIRAI----EAGDPTPDREEALSADEAAERVDVRdfLPLLLERVAFTESmeSRREkllaILNDPKDKtLNSILID-RAAt--LINDMR--------------RALen---------EKNELTEFLRQLTEALS---------------
+>10251126 len:627
+-----------------------------------DPRLRQVSRLIE----GARKQALAYFRGt--TLLPYVVVALH-----DDDILEDLanVFDKdqSVNPKIPPFPPLLP-VPPSPLILSPLP--------------DKIsPLSYIC-KWSDGNVV--------------------------
+>tr|A0A077YZ10|A0A077YZ10_HBV Core protein (Fragment) OS=Hepatitis B virus OX=10407 GN=C PE=4 SV=1
+---------------------------------------------------------------------------------------------------------------------KFR--------------QLLWFHISCLTFGRETVIEYLVSFGSVDSHSSSFLVSPHPPL--
+>9339809 len:247
+-----------------------------------------------fs----ATVAGASEGDTTLDEMLPGSTVWDPVNQVISSEELSSLvdCLSTVLSELESRVLGLYLD----GRRSEEHT--------------SEL----DC---DAKPVDNAVQRVKRKTRKHLTSRQVL------
+>9208308 len:150
+----------------------------------vlQRLSEQTRAMDAI----NAALSANAQAGS--AQLPTAVMQTKap-----TAAAIRELfvSIDSALARLQAEaprsaklLAAF-PklaD-DFERR----LN-----------EA-GLLl-----------------------------------------
+>8211128 len:126
+-----------------------------------------------la----RIRAQIRRNTRYSSPAEEKPEAIKAGELTLSLNNYTVTkkGVSLELTAKEFEILRLLME-NPKkVYTKEQIY--------------SKVWN--DAYLGDENAVNVHISRLRNKIEDEPG-----------
+>774349 len:525
+--------------------------------------FRRFRGEIS----NAPKHFHQFRHDARSIFRPTFLHILLGILLRSNKEETC----LIPQFLHEvDAALYQgDYRSKERIAVCIKVY------------TVLfQYR--------------LEKFRKLL----------------
+>651636 len:142
+--------------------------YMRGHQPK-HHVRSRRQRQMCirdrfnGS--EGGHALADVLSG--KISPSGKLPFTFPIKLEDSPAYHL----gVYPQQQPErprdvFVDLVNrdKFRAEQKAEADYA--------------EDIFVGYRWYATKNISCLLY------------------------
+>6318373 len:176
+-----------------------------------LIAHFLDTSDKMGE--YSAAKFKRIGKNVTEASTDYGAQTEtEQDIISNSATTEItgYQPTmSITQQCTKgdeVFEFI-D-KKRlERAM--LG--------------DSHaW----------------LLNVDMWNSTGSEDTTTYvAEVQEVsvqvdtygg
+>463405 len:137
+--------------------------------------IAEDPRAVFetfw----NDTEGSKGIANKLRGSIDETKVKIEerAGKASSTDQTYTIgkNLVD-VDKRIDTwKLKL--E-AIERRYWNQFTAME-----------KAI----------NKANEQS------------------------
+>4633725 len:185
+---------MPFMNDLL------------------KHVDSYLEMDFMdvssygNA--MVSSGEVKIIKDLNTSVEGRDLLIVEDIIDSGLTLSYLv----dLFKYRKAKsikLVTLL-D-KPSGR-KADIH--------------ADY-----------------------------------------
+>3274019 len:160
+-----------------------------------ELLQESAQWAQAft-----------GLSQAw--RRAPSAAEGSGpFRYLHGREEINDFv----qTLGSEAEEeVLTA--Q-PQGdRPVTEDLD--------------EYLe---------RTVQVERELLERGVRLL---------------
+>2346591 len:192
+--------------DLV------------------RAMDCNLEIDFMdvssygNE--FESSGEVRILKDLGQSVKGRHVIIVEDIIDTGRTLKHVv----eLLKHRQAAsvkVVTLL-D-KPERR-EEAIE--------------ADY-----------------------------------------
+>17548447 len:202
+----------PFMADII------------------RAMDSHVEIDFMdvssygNA--LVSSGEVKIVKDLDTNVEGRDMLIVEDIIDSGRTLAYLv----dLFKYRKANsitIVTLL-D-KPEGR-VVEID--------------ADY-----------------------------------------
+>1695456 len:257
+----------------------------------DDYVTKPFSPREL------TLRIRSLLRR--AGAPGADLPMPdvlADGDLSADTARRVasLGGEpvSLTGREFDLLAFLM-LHPGrAWSRAELL--------------EKVW---GWRVGDNSTVTVHVRRLREKI----------------
+>1624019 len:183
+---------ILFMADIV------------------REIDTYCELDFMdvssygDA--TESSGEVKIIKEIEVSVKDRHILIVEDIIDTGRTLERLv----eLLKHRKAAsvkICTLL-D-KPERR-VKSVV--------------PDY-----------------------------------------
+>14449487 len:299
+------------------------------M----ERLVTTLKKELQ-----------KVFHS--DDYEKQKLAITHDFEKKQDLFLNEmdATAAeydFFVKRTDTslyFLPLVNgE-PLEEEDINALSDEEK----------EAId---------NHSQILQE--KTGPILREIQNCEKECEQQLDEldr
+>1429130 len:189
+----------------------------------dlVRHLNIPVRFDFMsassygNG--TVSSGKVNITKDLEYDIKDADVILIDDIVDSGLTMYTLi----qKLKKREPHsikVCCMF-NKQTRRKVY--LT--------------PDY-----------------------------------------
+>1277478 len:223
+-----------------------------------------------fa----QSPAGAIDSDATLEEVLPGPVSEDPSERVIATEELRSLvaCMSSVLSELESRVLSLYLD----GYSYETIG--------------EKI----GC---DCKTVDNALQRVKRKVGAH-------------
+>12586437 len:756
+-----------------------------------------------mgqla----ESLRHMQGELMRtVGDVRNGANAIYSgaSEIATGNNDLSSRteQQAASLEETAASMEQLTAtvKQNAEnARQASHLA--------------VSAs----ETAQRGGKVVDNVVQTMTDMLGPGEDdTRRTTaei------
+>1235433 len:257
+-------------------------------------------DDYI----TKPFSVREFRSRVKAVLRRAELVRGNDEQREPVQLGDLriDFDKrVVENDGEAirltyvefeILAAL-A-RSPGRVFSRSQLL------------ERIWG--DAAYRDPRTVDVHIRHLREKL----------------
+>12039245 len:129
+-----------------------------------------------fs----HTRAGHGDQEIALADVLPGDPVQDPIRHAISTEELHSLvaCLGRVLSSLESDVLAMYLE----GLTYEVIA--------------DLR----GC---NAKTVDNALQRVKRKVGSH-------------
+>11663159 len:248
+-----------------------------------------------sfs----HTPAGQDsDGECSLGDALPGPAVHEPSVMVISTEELQRLvgCLGSGLSSLEADALRLYLE----GSSYEDMA--------------ARL----EC---DTKTIDNALQRVKRKIITH-------------
+>11507403 len:202
+-----------------------------------------------malla----SNVRDMQQALANtVSVVRDGADTIYTgaGEIAAGSNDLSSRteQQAASLEETAASMEQLTAtvRQNADnARQATSLA--------------KNAs----DTAARGGRVVDTVVHTMSEIAGSSQ------------
+>11274191 len:253
+-----------------------------------------------fs----QTPAASEEGEPTMADVLPGSTVHDPVNQVISTEEIRSLvdCITSVLSDLESNVLSLYLD----GRSYEDVA--------------ERL----EC---DTKTVDNALQRVKRKVGMH-------------
+>1126689 len:246
+----------------------------------DDYITKPFSVTEVla----RIKANIRRSTQYSKPAEPENETLLIGDLVMNLTDYTVTkkNVMVDLTAKEYEILKLLLQ-NPKkVYTKEQMY--------------SLIWN--DAYLGDENAVNVHISRLRNKIEDNPR-----------
+>UniRef100_E0ZNA5 Core protein (Fragment) n=1 Tax=Hepatitis B virus TaxID=10407 RepID=E0ZNA5_HBV
+----------------------------------------------------------------------------------------------------------------LK----FR--------------QLLWFPLSCLTFGRKTVLEYLVSFGVGFPPLKLIDP--------
+>SRR5688500_11771305	56	0.264	2.846E-05	1	74	178	20	96	117
+-----------------------------------------------------------------------------------------vgDVPAvRFDNVDHPLTRLWAnpGIPFPVKLRDDFV--------------DLFep---------GKTGCCMQVWTLDAYEPGVEAYPMAPpqgdATLHPV
+>995189 len:224
+-------------------------------------------IDDLwkmv----KSLQAENRHLSCsVKESTSGVLPSAPrDEDLIVMIELKELsnKQKEQIKDLQKDIESY--SCEAEn--LHNNIK--------------KLIr--QNEELLRKNASL---------------------------
+>9473598 len:176
+-----------------------------------LIAHFLDTSDKMGE--YSAANWARVGKNVTSAAIDFGAQTEtEQDIISSSATTELtgYQPNmSVSQQCTKgdpVYTFI-T-KKRrARAI--LA--------------DAHaW----------------MLNVDLWDVTGEGASATYvAEVQEVaiqldsygg
+>83434 len:247
+--------------------IEFIQDF--------LNTYHFLQSDFVfe----PGQYSIRGGIIDIYSYANEFPFRLEl-----FGDEVESIktFDPSsQLSNTRHDFVTIIPNINSA--QLTESR--------------SYLfdYFNNECVLFVEDKL---------------------------
+>7670556 len:120
+--------------------------------------------------------LLARLRAiLRRAHSAPADTLRfGRLEIDKDAREVRidGTARPLTSYQYAlILAM-AE-RAGrVLSRDALF--------------DLVkg----EAIEAFDRSIDVHISRIRAAIEDNPK-----------
+>76628 len:166
+---------------------------------K-HLGYASHLMEIFcdSE--ENTEGTSLTQQEsLSRTIPPDKTVIEYEYDVRTTDICAGpeEQELSLQEEVSTQGTLL-E-SQA--ALAVLG--------P-----QTLq-----------------------------------------
+>6818571 len:255
+-----------------------------------------------fa----QSPSGTGEVETTMEDVLPGPSSSDPVNQAISSEELRSLvaCLKGSLSEMESSVLAFYLE----DRSYDEVA--------------LLL----GC---DTKTVDNALQRVKRKIARHLA-----------
+>569709 len:107
+---------------------------------------------------VPPSPTPFPHTTLFRSETNQGLYFSPIFLAQLGELWSLspESPFmeivhPLAEADRSeVNKI-SfHSARGAR-YEDIE--------------AALgaDFHLVMASWGEASTFSEIGR---------------------
+>504997 len:161
+---------------------------------------------------ESAKRVA-----lFHSKNINNLLSFTEGLSKAAESFQPFrvQSFSVLNRTVQKleIKEF-PALLFGs--SFSGFPeCYFTTRQ-------DYL-----IIANSQKAMEDYLADVSMGRTWRNSARHKElrmqlNqnAQITAvispqriw
+>47676883 len:739
+-----------------------------------------------fwsQS--QGSTEIYMWFEFYKEDIPDATSEINASYFT------PMvkNDGTsykvSFKDYRGTageqaINGIKItstDYQPKFK----FT------------A-EAI-----------ASIKEYAQKHNVNFMRVHAYATLYdNAFV--vggknvgn
+>4235777 len:670
+--------------------------------------IVCYFISLMiafpwEA--TAQQQTSRTLVDsIRARFQQLLLPHP-----RSQALGAAteKPLTMMREKLDErLRRYEPGFSNSDRGVVELQ--------------QRA-------PLNPARLDAYLRNL--------------------
+>4226528 len:231
+----------------------------------DDYLTKPFSIRELi----ARVRAIFRRSEEa--ARYAERPAP-----LVQIGGLEIDidKRRVVLNGERLDlsprefeLLALLAS-NPGkSYTRKQLL--------------SQVW---GYDFEGEHTVNTHINRLRGKI----------------
+>3299606 len:161
+------------------------------------------------------------------------------YLLCDETFDGLdpVVRQtvkgLFAEEIDKrkLVPVI-A-SHNLRELEDIC--------------EVV----GLLHHGGVVFDADLEKLKLDIHKVQVVFPEDwdSVNFE-
+>3237113 len:142
+-----------------------------------------------igDTF-RMTNMIREMMEYVEKEFPQFRENSMhRDWLV--SNLKYMahRLLKlpPIDGPEEDeFHSAVKEYCEEeCRLVDDIN--------------VFLKDKNNCFMTGEEKV---------------------------
+>224733 len:126
+-----------------------------------------------kID--GLSRQTQDLLEEYRKLQDGTEYQAA-----YTRELEELdaAQQQQIKELREQIAQA----RVTrQRIVPLMRSMA-----------DALeKFVVLDLPFHHEERISAVL----------------------
+>20407783 len:314
+-----------------------------------------------------AEGGAEYLAQlLYSNQEGVRPSYLkETMKFKLKSLKDLleGESIkdipygkrgGIAYDLGAwFIAFIIN-KTSEEAYR-VKFF------------RDL----NAKGFEGSFVKNF------------------------
+>2022142 len:432
+----------------------------------ll-ALHIQDVQGDFL-----------HISKSw--DEVSRSMSYGT-----KSGRARYV----IIPKKVQHeIARLFEiN-PFGrPDSFVFFSTLPD----------KPI---------ESKIVTRELYRAMRKIGIPERERVRRnltfhSwrHLFNSilvnari
+>1717642 len:243
+----------------------------------DDYITKPFSVTEVla----RIRAQIRRNTQYAAGAAAEQDIITIGDLVLNTGDYSVSkgGRKIELTAKEFEILHLLMK-NPKkVYTKEQMY--------------SMVWN--DAYLGDENAVNVHISRLRNKIEDNPR-----------
+>15552263 len:271
+HVLDVEA-----------GALQHLES--VGEA---ARSVENVDRDHL----GEVDHPARLLEQVFGLLPLAHDQPQdAELRGVGERQRHQvdARGRedlqWCTEASRAvleeerqLLKF--H----GRGLRSLD--------------QVL----------RRSMTRLALPWLRSIERGSTRRRST------
+>15450392 len:118
+-----------------------------------------------fs----QPPNDSSDGDCSLADVLPGPSTHDPVNQVISSEEIDSLtsCLTSMLSPLEGKVLRLYIQ----GLSYERIA--------------SGL----GC---DCKTVDNALQRIKRKVDLH-------------
+>14403437 len:177
+-----------------------------------------------ilal----STVSAMIQLFNNLTKGVGEICKRYGlkNKWTTKEEQRNALiqEHECRFNNIDVSLKKL-QE----QRVLD-VR--------------ESKe---------HDKRIENQVTAIADILLEERIDNKRS-AILNFsnalqng
+>12635125 len:240
+-----------------------------------------------------------------AEALTGEYPMARHYVH-----TGMigLNGEKMSKSKGNlvfVSRLRAD-QVDpMA----LRL-------------ALLsGHYRTDRSWATEMLDDAVIRLDRWRAAAAL--PAGAPAQDAvqrlrahl
+>12587189 len:226
+-----------------------------------FFFLCDALLRVVm----CRLVPFHQIAQH--GIIASADARFPQDFRRMNTPLFRFlaLCLGafllplpaAIGQGAAEipVESLF-K----KTEYRSLTFSPD------------------------------------------------------
+>10751231 len:218
+---------YLILD----EAFDGLDP--------la-RLYFKREIVDMVsdNN--TTVIIASHSLRELEDICDTFAIIDKNKIAASGELFESLdkIHKYqiAFGEKIEEkdFPKIYKtfHQEERiIRIVSDLSI---------------------------------------------------------
+>UniRef100_A0A1P7ZU00 External core antigen (Fragment) n=2 Tax=Hepatitis B virus TaxID=10407 RepID=A0A1P7ZU00_HBV
+-----------------------------------------------------------------------------------------------------------NVNMG------LN--------S-----DNYcGFTFPVYFWERTVLD--ICVFWSVIRTPPAYRPPYALSY--
+>tr|A0A1P7ZUD6|A0A1P7ZUD6_HBV Core protein (Fragment) OS=Hepatitis B virus OX=10407 GN=C PE=4 SV=1
+----------------------------------------------------------------------------------------------------------------LK----IR--------------QLLWFHISCLTFGEKLFLNIWC----------------------
+>71571 len:149
+---------------------------------------------------DLNARMDGLFRELTEALERSTETDR-----RNKHFGELagSIDLdeVLTRVLEAAGAT-PGADAAlVTITGGLS--------------KPIv----ATLGLSAEEAERQ------AVAGPPDGRQVRSvAISYDyp
+>6815070 len:263
+-----------------------------------------------yp----EASDEMKKIMDAIRAIRNRRAEMNVpp-----SRKAKVYVatKFADTFRDGTQFIQKL-AS-ASEVEVAESFE---------IE---GAVn-----------------IVTADAKIYIPMD------ELVDRkke
+>6619416 len:162
+-----------------------------------------------a----IVGGGVVGAATAFFAARAGLRSVVLe-----KRPRLATLttPVSTgAFRLQFDNQEELEL-VREGVELFDAFA--------------ERT---------GLDGWDLGLRRHGYLFASLSEGSAERAqRLV--
+>6131745 len:259
+-----------------------------------MIRLPEECKEYLaiytt-----------EYEDSyVIETIEADDINYLKQTVQ--NQSERIfeANFNfDVGDKTAAifenerIVKF--R-KLNKK----IG--------------DNLklFYDYRCQICGQCIVEKY------------------------
+>544494 len:202
+------------------------EPHWEDVGAE-HLGYVSHAVDIVcdFE--KSSKGTSLTQQEpPSRTTPMDKTVIEYEYDVRSSDISVGprGQEFNLQEEVSLQGKIF-E-QQA--PLADLG--------P-----QTL-----------------------------------------
+>5174054 len:2000
+-----------------------------------------------papapvpa----ASSPAVAAASEPrLPELMPEAEEEVRspqEQIRVRADLLDSLvnHAGEvaIYRSRLEQqVAGYRFnlvELEQTvARLRSQLR----------------------------------------------------------
+>49148668 len:259
+-----------------------------------------------qwty----ATAESLLQKFRC--TTIPGTTRRDG-----RGEDVQQVgtVATHvehRITSEQPPlkgtgtLLTLVPqvA-HLAGRGLARIK----------------------------------VMVYGTYLRLLLQ-----E-----
+>4328463 len:191
+----------MFMTDIV------------------REIKTYLELDFMdvssygDG--TESTGDVRILKDLDVSVSGRNVLIVEDIIDTGRTLDKLv----gLLTHRNAAsvkVCTLF-D-KHDRR-EKAIT--------------PDY-----------------------------------------
+>4311662 len:131
+------------------SGIDAEK----------RVLISDRAHMVFdfhQA--VDGLNEHKLGRNkIGTTKKGIGPAYASKISRNGIRVGDLfeFFSERFEATMAAHPGLI-DVEEQLKYYKSIS----------DRV-NAM-----------------------------------------
+>41096 len:238
+----------------------------------DDYLTKPFGIREFi----ARVKVIFRRSEE----FALEAGPGLTTSLISFGELEIDldKRKVTLNSNRIDispkefeLLTLLAS-NPGkSYSRKRLL--------------NLVW---GYDFEGEHTVNSHINRLRAKI----------------
+>3492772 len:269
+---------------------------------------------------MMNKGLEIIEARwLFDVQPENIDVVVh-----RESIIHSLieYVDNsviaQLGLPDMRIPIQY-AITYPKR----YE--------------SPV---------GELSLAQ-IGKMTFFEPDYDTFRCINiCrEAI--dr
+>30293843 len:102
+-----------------------------------------------lalla----VNVRDMQQALANtVSVVREGADTIYTgaGEISAGSNDLTSRteQQAASLEETAASMEQLTAtvKQNADnARQAARLA--------------KEAs----GTATSGGEIV---------------------------
+>3014477 len:366
+--------------------------FWRNPQGFeky-DLTYRNFRLSYIlDD--EKLAVLPTRLPPIQRTPPRYIVHYRllPDL--ARGSISRNfnEMRVeYLPDGSAEIHTVTND------AWEAVR--------------ILLSYGENCIVLGGEEV---RAQIESRIRK--------------
+>2818261 len:398
+--------------------------WRAWQGVG-EVAWSTRRWSSLgSQ--EVPEQWL-----LRDAAEAATALGElPRWQVAEQRFGVLmqHWP-VLEPRLRAQMAWLADVDTG--EWERFC--------------AMLaW----------------------------------------
+>2685630 len:121
+----------------------------------------DLHSHILpglddGA--RHLGDSLEIARSaVADGITAIAATPHvrEDYPTTTDAMENGvkKLRSALEHAEVDLQLL-PgG-EISLEQLERLSI-------------DEL-----------------------------------------
+>25203814 len:440
+----------------------------------DDYVVKPFSAREVa----ARVRTVLRRSSS--ASAPSASASSVEGRVLEHGRLRV-----DLGSRVVSVGSV--SVALTAKEFDLLALLAGSPR-------QVF---------TRRQLLEQVWDSAPEFQDPATVTVHVgrlRQKL--
+>2314295 len:440
+-----------------------------------------------dlva----DMNSRMETMVSELSEALEHAQEEGR-----RNQMLGELagTIDLdeVLTRTLDAAGAM-PGVDAAlARLENGAD--------------TPIv----ATLGLTTEEAQRQ------AIAGPPGGAEARSiSLVYQyp
+>213038 len:150
+---------------------------------------------------QKVFQTRSSMREERDTIPAVPLPADAD---LPPEIQSTlkKYPPlnvfrMMANAPASFQPFI-DLAFSILAFSEFD----------KKK-REI----AVLRIAHLTNSHY------------------------
+>20704302 len:100
+-----------------------------------------------kla----ESILHMQQSLIRtVSDVRLGSDSIYTgaGEIASGSHDLSSRteQQAASLEETAASMEQLTAtvRLNADnARQATSLA--------------KNAs----QTAQKGGAVVDGVVRT---------------------
+>18583745 len:427
+-----------------------------------------------mgqla----AGLHEMQQSLVTtVSAVRGSTDSIYTgaGEIAAGSNDLSARteEQAASLEETAASMEELTAtvKQNSDnARQATLLA--------------KNAs----ETAARGGHVVDNVVRTMTEIADSSQQ-----------
+>160013 len:187
+----------------------------------KNLILSRESMDIAldAL--LAGQSVREATQRVAEVISSRTVTRPppPPLVSSQASRPSSrrSKSSRPSNRSRSSSALRP-CQPN--VHSHIRNNSR----------SLL-----------RSLSR-TSRLGGW-----------------
+>14520298 len:265
+----------------------------------DDYLTKPFNPRELl----ARVNAILRRRGT--EEHPGAPSQEN-----ESIEFGPYvlNLSTrTLTRNDEVvpittgefsVLKVFArhpKVPLSRDKLMELA---RGREY------EAF----------DRSLDVQISRLRKLI----------------
+>1349204 len:475
+------------------------------------------------------------------------------YLLLDEVFDGLdpVMRRllkrVIAGEVADrrMTVLI-A-SHNLRELEDFC--------------DTV----GLLHRGGVRLEKEIDELKLGLHRVQVVFREPmtDEALHGlfn
+>12024436 len:505
+-----------------------------------------------ygrneitaif----ASLKTMQQALRGtVSDVRKGSQEMHIgiAEIVAGNNDLSSRteQQAASLAQTAASMEQLTAtvGQNADnARQASELA--------------KNAa----TTAQAGGVQVSTMTHTMQEIATSSQK-----------
+>10772852 len:330
+-----------------------------------------------vlydAE--NDSYACCPLFDFgL-ALFSDTGWDFP-----LDASLDACykRIAPkpfarTFDEQMEAAEELY-GTHLTCR-----------------------W--------GSKQLEAAVQDLAPYYAKPELER---------
+>10468969 len:157
+-----------------------------------------------------------------GYFGGRENSVPETYC-EKQFLRELleKQTHLPDDFHPHptLERFI-K----GR--EQMA----------AGT-KPLdWSAAESLALGSLSVEGHRIRLSGQDSTRGTFSQRHA-----
+>10399935 len:188
+---------------------------------------------------SEIRDGIAFCTNc--GAKAEQDIPTPqviPDMQPSTRPVPQPaaPPAPqyvPVSQPKAEIPAD-KTVSTG--TFFGLMFLFSL---------PILgWL--ICLIMAFASKNKNIKHFARAMLIWLI-----IALV--vg
+>UniRef100_Q9QRQ9 Core protein (Fragment) n=1 Tax=Hepatitis B virus TaxID=10407 RepID=Q9QRQ9_HBV
+-----------------------------------------------------------------------------------------------------------NTNMGLK----IR--------------QLCGFIFLALLLEEKLSLSIwfLSECGFALLQPIDHQMPLSyqh-----
+>SRR5688572_6625329	52	0.250	8.108E-04	1	75	178	38	115	116
+-----------------------------------------------------------------------------------------vaGVPTiRFENTDNPFIRVWAnpGIPFPVRAFDDFV--------------DLFee---------RKTRCCAFDWTLEAYEPGAEAYPTGPvgpaAPFLPAp
+>9654173 len:145
+-------------------------SFWTALGVGlawQSMLRGGINLQPLplspGA--GDSEGMGVPLNELYKRLQGFCVDQIr----------RQLveERVELMERAIAKlsVPEL-------AR----IA--------------RLVt----VALGSGSAEAEQFISRLESEQDRPEEQR---------
+>924847 len:283
+---------------------------------------------------------------LD-----------kfADFNRRGKTILLVthSLG-LVERFCDDAVWL----DHGaKLAEGDPK--------------RVIg----AYLIDVESAEEGYLAKADAKAQEEAAATAPApvEaPVVEAa
+>6567979 len:165
+-----------------------------------PDTTEPIPPNEVpSD--DERASFE-----INNLQPTQTDKHSfPPLPYSPDTIS------FLKKFKFEYSHI--N-NEEyLK----IC--------------DILVKYKNCYATHRNDVGQISTPFRIKLKPNAKLR---------
+>6499262 len:554
+-----------------------------------------------dgrsemgdla----QSVSHMQRSLTDtVTHVREGSDAIYSgaSEIATGNNDLSSRteQQASALEETAASMEQLAAtvKQHADnARQASQLA--------------QSAs----DTAQHGGKVVDGVVKTMHEIADSSKK-----------
+>4503125 len:234
+----------------------------------DDYITKPFNAREVv----ARVNAVLRRSGQnITTG--KKEVLEFPNLMINLS-ERVVafGKDVTFTAKEMDlLWCL-AS-NPGiVFSRNQLL--------------EKIWGYTYYG--DTRTVDTHIKRVRHKL----------------
+>4244766 len:160
+---------------------------------------------------QGMRSEGRRAKCFSQKQPQEASEFIrmEE---RGKLLSSNlfVVPDerrvSFQPLCQGtpmstksfIINL-PiiTGDQDrRR----LR--------------KSFSFGCNL-----------------------------------
+>3794293 len:191
+-----------------------------------------------------TAHMVRACRALLPLYPEVDADLAiaGIILHDMGKLEEYegEFAAkvsRIGILQGHvVIGFRIarKAAIQSKLNADLT--------------ERLe--HIILSHQGEKEWGAA------------------------
+>357370 len:385
+-----------------------------------------------------------------YVLQNPSVKEIEFIIRKALQVKHLvdENSSlkeSFTSVTHELEFV--D-EVSKTLTSAIELS------------DIL----TTIMKKSRKLVK-AETWSMLLMDEEAGELVLAKIIGKked
+>3491418 len:593
+-----------------------------------------------egsnemgvla----DSLRHMQGELVRtVGDVRNGANAIYSgaSEISMGNNDLSSRteQQAASLEETAASMEQLTVtvKQNAEnARQASNLA--------------LSAs----ETAQKGGKVVDNVVQTMRDIAGSSQK-----------
+>2833455 len:164
+----------------------------------------------------------------------------dEIFVCLEPVIRELvkKLLFeYVDETKASvVISTH-N----LRELEGFC--------------DHIgLLHKGGILLEKDIDSDALGVFRVQFVMEEERFEALkArlSIVKEsr
+>282400 len:173
+---------------------------------------------------------------kVSPLPPGWLPKAPkAESIAKEALLPSEeaRLLAGVDADGKTVVPL-AyRVAYAFMHREGMR---------KGEA-RRLaW--------GDVNLDKGIVSLDENKTDRPRSWVLT-PSVARv
+>22688934 len:123
+-----------------------------------------------isaif----AGLKTMQQSLRDtVGQVREGSYAMHTgiSEIAAGNNDLSSRteQQAASLAQTAASMEQLTAtvSQNADnARQASDLS--------------KQAa----LTAKRGGEQASHVARTM--------------------
+>222682 len:216
+----------------------------------------------------KINALVDDVKRLSDEFVQADTEQKkwLKITEFEDLLNEIvkGEAQltNFSKVLSD----I-KVPSElLRGMSELT----------ANS-KYL-----SESYGR------LMSTGGNLDAAFKADPTNVDAIEAamrsya
+>1964413 len:231
+----LPSDF--------------------------TATIDNMYEDGI----SIQKNYPEFDSTgYREALISTLAAFRDDIIHDRRKAYQEihEISDALAQMERAkvppnfIVKL-KQ-EQGAL----IR--------------VLLr-----------------LYYIQRTRFIPSAYYLVV------
+>18313956 len:952
+-----------------------------------------------m----EEVMDLIRATRNIRAEMSVAPSRKLsMTLVTHGAKAEALeaSIPYIMKLAGAEHVAIQQD-KTG------IP----------E---NAVs---------AVAQAAEAFIPLSDLIDVDKER----------
+>1697286 len:207
+----------------------------------------------------------KKTAPITTSAANQTEDFSdwRTLIR--QELEQIydLLARVLTPKENPaPLGL-PS-ELSAQAEVAIR--------------DMLVAEDTAIPWKDDITA--IAALKLALLQYASGRHSSaAghRRM--
+>167206 len:184
+--------FFPKIYEPKPDSLNILKNYPAESALT-IIMLSTLVMLVFwf----------------FKGRMPKTDFEIGsVSLLTQPSTLSPLevSY--LLNRGLNYeapLSELF---ELARRGFLDIEYDEEIA--------TRI-----------------------------------------
+>11097288 len:943
+-------------------------------------PVPTYSLNIAfqtAP--DKVDELLKVVREeLERMAKSGPARAD-----LDKTLEYWrkAQPEGLKNNQVWlsyLQNYYTwgeDWNTDyEKLLNTVS------------S-ESVk-----------------------------------------
+>10616851 len:229
+----------------------------------DDYVTKPFSPLEVv----ARVKAVLRRRPE--AGFVQAERLHFQDLDIDVTGHRVTvkGQTEKLTARETElLWCL-AA-HPGfTFSRDSLL--------------DKIWGYKYCG--ETRTVDNHIKSLRHKL----------------
+>UniRef100_Q8JXJ6 External core antigen n=1 Tax=Hepatitis B virus TaxID=10407 RepID=Q8JXJ6_HBV
+---------------------------------------------------------------------------------------NInmGLKIpvlLLEEKQATiVVSYILpyf-WKRDCT----------------------------------------------------------------
+>SRR6185369_15729320	58	0.219	8.379E-06	136	172	178	0	40	125
+-----------------------------------------------------------------------------------------------------wwwnYTAI-P--SSGcSA----VR--------------GLL----------RPSVKAC-----VWLGAPDCFRDQSA-----
+>SRR5688500_19396403	50	0.256	3.691E-03	136	170	178	21	59	105
+---------------------------------------------------------------------------------------------lWWNTNALPLAGA--D----RR-HQLLR--------------PSVkW----CVWLGPADCRRNq------------------------
+>MGYP001245988790	45	0.304	1.857E-01	150	172	178	0	22	174
+---------------------------------------------------------------------------------------------LMRPSVKACVWL--G-EPGcYRNQDA------------------------------------------------------------
+>965861 len:173
+----------------------------------------DLHSHILrgiddGA--RTLEDSLEIARAaHADGITAIAGTPHvrDDWPTDADVMEHRvaELRAELQQQGIALDVL-QgG-EIAVDWLGKLPI-------------EML-----------------------------------------
+>9012654 len:659
+-----------------------------------------------kln----DLVRQVVDLTRPrWRDIQQEHGVAIQIKLEL-AKSLPDVigNASElrealtnlVFNATDAMprggVLTLRTsvRTPWGDGLAEGTR--------------EAV-----------------------------------------
+>8856841 len:152
+-----------------------------------------------------IRRSTTMIESyIRKQREKKEILLMTHIVIGYPSLEDSfkIVQKMVEAGVDLmELQI-PfsE-PLAdGPVI--LK----ANQ-------DALa---------GGTTVRDC-IDFAARVTDAFD-----------
+>8559 len:495
+-------------------------------------------------------ALLDVIQPIGNASPPAFLFSAshgMGFPLGNPNQKNTqgALLCqewpGFGTIHPDhyFAAA--DVPANSR----MH--------------GMVVFHFACYGAGTPQVDQYIHQ---------------------
+>8183174 len:243
+----------------------------------DDYVTKPFSPRELv----ARVRAMLRRPRTgGLDEPEDPPPRLLGDLMVDRARHEVRrrGEVVPLTAREFAlLATL-AD-HPGrVFTRSQLL--------------ERVW---GSEFYDDHVVEVHVGNLRRKL----------------
+>8100052 len:233
+---------------------------------------------------------------VPDQWQRKQCKGGLAMGLVKQDLSTVqaMETAfSMQLEFINvIYNLIAydkD-HAEtPEKTKYLQAFCDTQE-------RAL-----------DEALRLLDKHREALLADEA-----------
+>7307189 len:250
+---------------------------------------------------PPPPPPPPPRPP--PRPPPHTSSAASDVYK--RQIENLasELPKvLANEQIVErVQQL-GqEKDISNLSNSELE-----------RA-MLLySYVGHAYMWGKKHVENIIPKelATTWFAISEK-----------
+>6512989 len:187
+-----------------------------------------------qgty----TTAESLLQKFRR--TTIPRTAWRHG-----RGEDVQQVgtLATHvehRIASEQPPlkgtgtFLTLMSqvA-HLAGRSLARIK----------------------------------VMVYGTYLCLLLQ-----E-----
+>6287327 len:116
+----------------------------------srgKTVFVTTHYMDEA----EQCGRIALMREGrIIALAAPAELKRTcfSGSMFEFDPKTGM----sfsDLAAIGKDkLFAFF-E-PYGMRFHAVLK--------DKGDI---------------------------------------------
+>6094970 len:732
+---------------------------------------------------------------s--QKFHQTLVMIT-----HNNEIAQLadQTSPmasiaVIGPAGENlvpMSVLISaRQHSGGG----IG--------------SIF---------GSKKLKGVVIQGDQPIHIHADKKEWQ-KITERnid
+>3870088 len:167
+-----------------------------------KELMWEYYSGLY----EESRRTN-----fFVTTDIDEAIFLADRLLI----MSNIpgQVRAAIEVDLPRprrLAFVF-DNERAvAIKMEALSILHK----------EAM----KSFSGGSKAAADFVEAYSK------------------
+>287981 len:2695
+-----------------------------------------------------------IYQSLEGAVQAGQLKVPPGY--HPLDVEKEwgKLHVAILEREKQLRSEF-E-RLEr------LQ--------------RIV----SKLQMEAGLCEEQLNQADALLQSDVRMLDAGkAq-----
+>2834698 len:106
+----------------------------------kkgKTVFVTTHYMDEA----EQCGRIALMRSGeLVALDSPSNLKSQtfPRGLIELEPLKPL----dqmTLNKLKGEnIFSLF-E-PYGIRYHVEYQ--------ENG-----------------------------------------------
+>2632042 len:373
+----------------------------------------------------------EIWRKALPKLQASKLVSFSQTLHKSPKLLKLlkDLMKIMKNMKVNVERL--KLTSGCK----WR--------------RKY-----------PPLTD-LWPFYRWLARPPSAAEREAATMQ-
+>2495537 len:417
+-----------------------------------------------igrls----RHLQQMQHSLGMtVGTVRQGAEEIYRgtSEISAGNADLSSRteEQAAAIEQTAASMEQLTAtvKQNADnAHHASKLA--------------QEAs----IKASDGGQTVSGVVKTMGAISTSSKK-----------
+>2468170 len:708
+----------------------------------------------------------------------------DEFQPLLDSLARIanAVDAatpLLKNNKPDdAIEF--Q-EQALDAIEEAR--------------SLI----EGLTATRSDRKSTRLNSSHDLGSRPLLAEIEDEQVQLtgit
+>2207712 len:182
+--------------DLI------------------REMKTDLEIDFMsissygNG--VKSSGEVKMIKDLDGKIEGKDVIIVEDIVDSGYTMKYLk----nLLEARNPSsirICALL-D-KPSRR-ETDVQ--------------VDY-----------------------------------------
+>2175764 len:189
+-------------------------------------------------------QFREIAAA--AFVPQTTPKQPg-----MLGKLGPLfrRAPEavIVQPDTPVeadVADLLAaR-YIRpERQPAAWRLLE-----------AYL----NAKAWSTHRIELDVQRF--------------------
+>1285828 len:184
+--------------DLV------------------KNITVPLEMDFMavssygAS--TKSSGVVKIIKDLDQTVEGRDVLIVEDIIESGLTLSHLi----eLLQNRGAKsttVVTLF-D-KPSGR-SVDLE--------------ADY-----------------------------------------
+>123785 len:496
+----------------------------------ATHSVRRLFTQLL----NVRQQAMGIKSGLRSVLPPTTRNIENRFARVGEEMGQLrcEAEAirrRVEDQSASkrVEAA--Q-EAALSILGETR----------DRV-SRL-----------------------------------------
+>11993824 len:575
+-----------------------------------------------dgsnemgqla----ESLRHMQGELMRtVGDVRNGANAIYSgaSEIATGNNDLSSRteQQAASLEETAASMEQLTAtvKLNAEsARQASQLA--------------DVAs----STASRGGSLVEDVVTTMSGISDSSKK-----------
+>11559945 len:113
+-----------------------------------------------------------------NVWVEPAGHAVr-----IAEDVRDLygLAAArWVEEGRTSHYAVAPaG-DAAl------ID-----------------aWFRLGFGQQHVHAIREAPEAPLTELPDGLEIRRPTRDEI--p
+>UniRef100_A6YK00 Mutant core protein (Fragment) n=22 Tax=Hepatitis B virus TaxID=10407 RepID=A6YK00_HBV
+-----------------------------------------------------------------------------------------------------------NVNMGLK----SD--------------NYCGSTFPVLLLGEKLFLNIwcLLECGFALLLHIDHQMPLSyqhfrkLLL--
+>U5JQM4	40	0.291	3.998E+00	152	175	178	68	91	129
+--------------------------------------------------------------------------------------------------------------------------------------------------------EALESPGQWIRTPPAYRPPNAPIL--
+>SRR5215217_9777975	68	0.195	2.828E-09	129	171	178	0	45	99
+----------------------------------------------------------------------------------------------------------------wNQ----VQ--------------DAWWWNIAAMPWAGSTKRDLMRgslKACVWLGDEDCYRSQD------
+>SRR5205085_325742	40	0.260	8.986E+00	149	171	178	0	22	157
+---------------------------------------------------------------------------------------------gLMRRSVKPIVWL--G-DPD--CYRDQD----------------------------------------------------------
+>MGYP000331917099	60	0.204	1.334E-06	130	171	178	0	43	230
+---------------------------------------------------------------------------------------------nivqdayWWNHAAIPVAGA----SHGl------MR--------------QSV-------------------KYLIWLGSPNCYRNQD------
+>994505 len:294
+-----------------------------------------------------TQGLSQTAAAMNAKFTVDGIAVSk-----ASNSVTDVieGVTFnLLKENTSAttvkvdrdTAAITSSVNAFVKAYNDIT--------------QTFr----DAMAYNTTTKEAAVLNGEALVRNMQT-----qVrNILNSp
+>829509 len:158
+---------FMFMSDLV------------------REILVPLEVDFMatssygHA--TKTSGVVRLLKDLDTPIEGRHILIVEDIVDSGLTLAYLt----qLLQPRKPAsikTAVLL-D-KPERR-RNEFE--------------PDY-----------------------------------------
+>6074465 len:372
+----LPAEF--------------------------TATIDNMFEDGV----SIGRSYPEFDSAgLREALASALEAFRDDIIHNKRRAYDEihEITDALSQMDRAkvppnfIVKL-KQ-EQGTL----IK--------------LLLr-----------------LYYIQRIRFIPSAYYLVV------
+>5995186 len:96
+----------------------------------------------------------ANSSR--PIMSPQVTVLPSGLSFQVDANETIleAALRhgidfPFRCKQGVcttcVCRLRSgSVSYLpPEPLSDLD--------------KAQNFTYCCLAYAESDLT--------------------------
+>390223 len:121
+-----------------------------------------------fnPR--ELLARVGAVLRRTNTLPPRGPTAERyrFGEWTFNAAQREIvgPDGAlPLSSGEFKlLMAFL-E-RPKVA----LS-----RE-------QLL----DLTKGRDAEVFDR--SIDNQVSRLRR-----------
+>338794 len:260
+---------------------------------------------------------------t--THVPASVLKKR-----KANEERRQkqAAVKeQMKKKNKAkRGEMF-KRAERyVREYRQAE--------------RSL----VNMRRMAKKTGNFYVEPEAKLALVVRIKGILgvSPKV--r
+>33606291 len:388
+----------------------------------------------------------PKKTPVEEPEFIQDVESEyVELLELKKDLTKRlnKNPKskVLKKRITEccedIKKLVQDARKSnTKAYKKLS-----------------v---------GERQKPNEMNYFKTKLSNSEQLR---------
+>3047330 len:154
+------------------------------------------------------QGVNDVVESlLRDAVRYQRLPLV-----GYQSADEVgeQLPIgsVFGSKGEGsdIHLL--DTLVErCRLY--IQWLSGAGEEDVATH-HLLlqWHSLTLLIVDGIAVAVHLIdRIIGWV----------------
+>21107330 len:304
+---------------------------------------------------------------nLY-GLPDDVWKKILDLIKIKEDCLWLpyKLAEdyhkgIIDTITNKIQSMI---NLKNK----LE----------QTQ-ELM----RAMSVSFPKMTDYVT-IAKEISNRLT-----rEIAL--
+>18280257 len:175
+---------------------------------------------------------------LD-----------kfSEFKRRGKTILLVthSLG-LVERFCDEALWL----DAGrMKAMGDPK--------------RVVg----AYITDVEVSEEQQLAAGDAKAQESVAVVSPDeaAtAVLPDh
+>17795452 len:292
+---------------------------------------------------------------LD-----------kfSDFKRRGKTILLVthSLG-LVEKFCDEALWM----DSGrTKLQGDPK--------------RVVg----AYITDVERSEEQQLAAADARALQDAVPLSPDepAsAVLPDn
+>14372720 len:223
+---------------------------------------------------EPSKKIL-----lIKTEDSADALNLFDDLASNAEKISSYfkPKPFtylnyYVRKIEVSqLPAMLFgSVFRGfSDCYYTLK----------D---DYI-----ILASDDIAMREYLNNLNTGQTWAKSSIYRNfikklSPNSQVtaiispqrvw
+>10855201 len:132
+NLQRLSNDMFQY-----------------------SDQLLAEEKQLI----EHINKLKDIFSGILASQENVSMSGNa-----GSQGIESIisSISAPLSTMDSDLGLIYPPI---QKAMENLQLQ------------DII----------RQGLEHV------------------------
+>SRR4051812_47608537	49	0.195	4.996E-03	135	172	178	0	40	134
+-----------------------------------------------------------------------------------------------------aywwnVCAL--T-TAGACSGGLMK--------------DAV-------------------KVCVWVGPPDCFRDQGA-----
+>5688079 len:324
+------------------------------------------------------GYYGGPEPD--NDLPQTSIELA-----TAQKICALpiCYPAtfNVNRKLKRFMELRQEMALGQR---ELD-----------------WASAEALAMGSLLVAGYPLRLSGQDCERGTFSQRHA-----
+>5313503 len:165
+----------------------------------ia-PVTVQQPRGTSL----SPSSRSGDTLADILERVLDKGIVIAGDIQVNVLDIELLtlKLPLLVASVDTA------R-DMG------VH-----------------WWGRGPFLTGESALQRENKELADRLERLERATGRTPDSV--q
+>510285 len:112
+---------------------------------------------------DSLQALLELLTS--PDFKCHILVLShVDLIERHDGTTKGyaSSLGkALGPQIAKvFPTLLTALSKG--SGNNIK--------------RPIs------------TQSTMLVDLKNPVPF--------------
+>5093697 len:339
+-----------------------------------------------gmvf----VHPDPDAEPLADWLGDFEERTGSFQPDTLVEAVRVSYEmeANWKLFAENHIDVLHL--G-YLHARTLAEYD--------------HAAsnW----------------SSVGRHWVFYEPPRHGKRVPPM--
+>506064 len:192
+----------------------------------PADMPSEPDPLDL----DAFAALEDGDDPd--EIEDAIRLATPDPVETGRSEISALveRIAQFRRTREATaPEELI-DSERSPR----LP---------LGEV-EQF---------QQRRAAGF--GFSTDAAGRI------------
+>4803765 len:129
+---------------------NEIAQSVCAHHGK-PFVRTWVHNGYLtvngekms----KSLGNFFTVRDLLDEGWDGETIRYCl-----LSAHYRAPldFTREALKQAKQGLDRLYIarrDADVAv------------------------------------------------------------------
+>4135623 len:122
+-----------------------------------------------------PSTMTPAVKQyVKAMEHACDIDPAll-----VAHSYSRYlgDLSGgqILAKRLKKhVLGLC-E-TDGeWDSDQGLA-----------------FYAFNNIGNQNAFKNEYRERLDTVLVTEKT--RGK------
+>3013944 len:231
+---------------------------------------------------------------IHTAYEATREQYL-----DIGHVKAVifGT--SLRENRERLREVLKGMESESS----LG--------------NSLcIFTTDSLSELSQAVEEQGISLGDFLTGLYENRTDSsaqAPVR--
+>279313 len:263
+-----------------------------------------------lp----AVPESVHKRRKTr--EAVRAARLQISiKQRANRYKKRKAIfkRAEKyvkEYRTKERDEIRLM-R-QAKNRGNYYIP--------------------------GEARLAFVIR-----------IRGVNqvAPKV--r
+>2738574 len:521
+-----------------------------------------------mfslPE--DKVRELEELADAlLAALRDERQVEDIkrAAILYDHLMLLMRynKIDAsRFEQSANElgemLDAIL-NRPVG--TAEDLSI-------------NEL---------ERVQLRNMLD----------------------
+>2730386 len:442
+-----------------------------------------------------------------NVWVELAGHAVe-----SAEDIRDLyaTAAArWFDEGNRRHYVLVPgH-DLNl------ID-----------------aWFRVGFGHQQGHGIREVPAQIEVRVPDGYEIREPREEDI--d
+>1474065 len:440
+-----------------------------------------------iid----YSGSQLPYIETSIESAKTLVDKLNPkDRMAIVTDDVKRLvdFTSDkeILKQQLDGLRGSALNTVVGlSEQYDALMVVLN----------ELF---------GNEDIRPIVI-FQTD-----------------
+>1255921 len:233
+---------------------------------------------------ELVARIQNVLRRaVSTEPDGDELRFR-DLTLDTERRTVEldGQPLELTTLESErLARFARnpgK-ALTrDEILNGLR--------GIDA--QIF----------SRSVDILVSRLRQKLNDTAK-----------
+>969934 len:184
+---------------------------------------------------------------m--STVPETVLLKQ-----RRDEKQRLqrVENAkQTKKNRRQkRTQML-KSAERyVREYRQME--------------NSL----VRMRREAKAHGNYFVEPEGKLVFAVRIRGIMgvSPKV--r
+>8249512 len:177
+------------------------------------------------------------------------------------DLDKIilKKNDnLIKQLKQAlhVYDY-SD-STSFD----ID--------------SFI----ATNFPGKPVVVDF---WNTWCGPCMNAHSEVAPIKDMpvadnvvflyicdsssdmadfskh
+>8235701 len:410
+-----------QIEDLERVRAQFLDP---------DWRLTNLDKDLA----QSSDD--PLFERwLRRNSKSHKIAGMAAIVI---PIKGTgrPPGDITSDEMRKLADL-AdQFSQGfLR----VT--------------HSQ-----------------------------------------
+>7632309 len:367
+-----------------------------------------------m----EGGAEYMAQYWY--SKEPGIDPGYLkQEMEYKAQTIGAYleGRSLrelGYNESFQSydVLTWFVAYLIHNTSEETFR--------------LNFWTQIEDLGFEEAFRSNF------------------------
+>6406563 len:447
+--------------------------------------------------------FVDVLMDm--GVERETAIAWYWKFIGNNKDLFMMvgFLSLfalFFYIALSQMTKYLHQIEAG------IE--------------NIIs---------DSTEPVHLITELRPIEKRLNKIKETLKKQE--
+>5666894 len:288
+----------------------------------------------------------------------------gDNFWFQYPEMAEVlaAVRADIGPGPE-IVAY--GVSMG--GYAAFRFA------------GLL---------GAARVIAF--SPQYSIDKRRIPWDKRwDRLFDRprqvlwehlttp
+>37770396 len:141
+-------------------ALDPIPPYWASYEHEKAGLIPSYKGGKF----KLVSGEKEVLDGi--TIVPTPGHSPGhIAVSINTEKGDYWivGDLMLVRENLQPnLKHGWP-LTPPGR----FS--------------NFVelW----------HSMEKAISRADYILMTH-------------
+>2287308 len:100
+-----------------------------------IDILVNVHKDFI----VKLKKSYDSYPH--HNISSVFLESINGFQIYPQYVSNFslAIHALHSEKSTSkpFFEFISkaEAEKGLN----LE--------------SLL-------SVPLNRIPQF------------------------
+>11916613 len:321
+-----------------------------------------------va----ESLRSVTGQLTGeLE--VQGPLGRLVVNLEATSAQLRDLigNNREQLDATCANfeavsasLARELPALSKNlADLLQEVR--------------GVVAENRGTLHDGLANVETVTEELQVSVRNLNEISGRLA-----
+>9624427 len:127
+--------------------------------------------------------VGAVLRRtAGSREPRAGGPIEvGALRLDPARRSVTlhDRTLELTRREFELLELLMR-EAGsVVSRERLI--------------DEVW---DVNWFGSTKTLDVHVsSLRRKL----------------
+>702901 len:121
+-------------------------------------LVSQFIGSLIdwp----GETQAMEEISTALEADLRRRHKLAADAYAIRGIDRPELisPAKIQGGQRVTHVTQTTKD-NIGRMLHRALK-----AE-------TAAnrWSRRSCR----------------------------------
+>5846449 len:157
+---------------------------------------------------------------LFDVQPENIDVFFq-----AEDGIQDVrvCVDNsgiaLLGLLDMRIPIQY-AITYPKR----YE--------------SPV---------GELSLAQ-IGKMTFFEPDYDTFKCLRaCkKAL--s
+>4035194 len:147
+-----------------------------------EFVTSVEGMPHIGD--GGYYNLRFEVRSVESGYQDYMEEGEEVFVRSLPGLRELpdFASPYYPSEQNEdfLKEY-GNLEEGvDY----LI--------------RVFYYHYN------------------------------------
+>36828621 len:145
+---------------------------------------------------LMNKGFEAIEIMnLFNLPQEKVQIVIh-----PQSLIHSAveYVDGailaEMSEPDMRIPIQY-AITYPKR----MP--------------SPV---------KPLNLFE-AQKLEFFEPDFDRFPCLDlAlAAQ--a
+>334945 len:124
+-----------------------------------------------------IETSIAAAKALVDKLPPSDSMAI-----VTDDVEVIqdFTRDkqKLKNKLDSlLGGI-AS-DFPGRHFGKSKQY------------SAL-----------------LATLNEAFNNEDR-----RPIV--ifqtd
+>2173335 len:121
+-----------------------------------------------------------------KAFSICRDLIWiYALVWKSESIRKVlsDFHHvsSIEDFMMTsgTNGI--NARLPrIL----IK--------------QLIpW-PLPCPTPNLETLVEN---SALWLTRP--FHHSS-EQL--
+>12210619 len:340
+-----------------------------------------------m----EGGAEYMALYWY--AKQPGVNENFLkQAMERNALGIQDYldGRSLrvlGFNEQLDVyaINTWFVAYLIHNSSEETFR--------------VDFWSQLESLGFEDAFKANF------------------------
+>407683 len:203
+-----------------------------------------------iidysssQS--PFIQNSIAAAKALVDKLPPSDSMAI-----VTDDVELIqdFTRDkqKLKCKLDSlLGGV-AP-NYSSRHVGKSKQY------------SAL-----------------LATLNEAFSNDDQ-----RPIV--ifqtd
+>21612885 len:260
+-----------------------------------DVMLL---LKLL----FHRQDTQELLKKLLERKKPETPEFTKGAIIHHPEVGALrsPKAPcrravifrshgLLQIIQGTLRRLRSaSVGAGQTSTGRFAPLRWLPP-----A-TLLW----------------------------------------
+>4184540 len:494
+-------------------------------------------------------LLDEFASSIDDVTARGITTMLRRWARAGHHRQVLlaTHREsLIPWLSPArIIHL-EgQARAQIS----LR--------RTPAP-DPL----GRIVIERAEVADLQAl-LPH------------------
+>3798360 len:126
+-------------------------------------------LSPLwis----LKTAGLA-----tIVTFFTGIATAYWmLGYRGRWKSLFEGifVAPLILPPTVVGflLLLLFGkNGPLGq--LMAQFDF-------------TIV------FTWYAAAIASTVVAFPLMYKTALG-----AfE----
+>2441695 len:356
+-------------------------------------------WSPLwvt----LKTTGVA-----iVFIFVLGLLTAYWcLHLSQKAKNIADSifTIPMVLPPTVCGfiLLYLCGrNTAFGs--FFIDIGF-------------PLI------FSWPATVIAAVVVAFPLMYRSALG-----AfENLDTnmldaartlgwsntrifl

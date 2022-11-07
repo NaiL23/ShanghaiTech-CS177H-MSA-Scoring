@@ -1,0 +1,526 @@
+>T1067-D1: 
+RSELERRMMVEDSYEAPRGRLFNEQAYLRGETYLNQYTNVIVINKAASGSQAQTLRLYTNRQLMLSTYVSTGREDLEYISAVRGVVNKIFKGATSSHWRHTTRGFYTIKRVHGYNYRSGESKFHMPFAMFFNETRGLAVHQVPPDLSGGEAAGEAMLGKRASSGCVRVHKNQIQTIHRAVTAADRGIVPVLDTRTGQPKYDQNGKVRYEKGYKTIVIVEEY
+>UniRef100_A0A1F3TRM6 YkuD domain-containing protein n=1 Tax=Bdellovibrionales bacterium RIFCSPHIGHO2_01_FULL_40_29 TaxID=1797389 RepID=A0A1F3TRM6_9PROT
+---WDDPSNTESAPMDPEIVDFNETDF-QTKPWLREFTNVVVVNKSNAGVTKQTLRLYVHGKLQLITKISSGRERYEKGC-SAGQDPKRDHCSVRAYWSTTPAGYFDTDKLDERYYSNLWQTW-MPYSVFFE--SGIATHQAPAGTEG-------KLGERASGGCVRMHPDKAPLVFKAVETAGKGLVPVLN-RNGTLAKTKAGDVIRKIGYKTLYIVENE
+>UniRef100_A0A3D3GDZ7 YkuD domain-containing protein n=1 Tax=Bdellovibrionales bacterium TaxID=2053517 RepID=A0A3D3GDZ7_9PROT
+EELQEEAGLLDDSSSAPDRELLVRVSGEKGMKALAEKRLQIIVHKSMKEKGYQFMSVQVDGVEVSTFPVSTAYE------------RRVTGKSKRTYMASTPNGSFLIDKMQPKRFSNLWQ-VNLYHVLMFTghyagrtlVDGGVWIHATTPDHFA-------ELGAPASGGCIRMHPNDAETLYKLVSSygMQETAITIIP-APGEPQVpSKPRNLPLR------------
+>UniRef100_A0A1Z3ND68 L,D-transpeptidase n=1 Tax=Bdellovibrio bacteriovorus TaxID=959 RepID=A0A1Z3ND68_BDEBC
+QVYSYEKAVTPRLPEYLRPQqAFSEQDF-YSKPWLRDFRYVIVINKAEHGRTAQTMRVYEYGRVVINSKVSTGREGLEL----KRKNKECTGAPAKSYWSQTPTGYYTPKFLSKDHHSSSWD--sSMPFAIFYDVDNGLALHEVYKKYTD-------YLGGRASGGCTRQDAKTAEELFNRVKETERATIPEIN-PDGTPVLNEDGSVKYinsqywtsqKTGetvkfntFSALIIVQDV
+>UniRef100_W5X078 YkuD domain-containing protein n=2 Tax=Bdellovibrio bacteriovorus TaxID=959 RepID=W5X078_BDEBC
+QTYRSEMQSTQKLPDHFFGK-FSESDF-DSKPWMRDFIYVIVIDRAAKGAGAQSMRVYENGRLIHKAKVSTGRETLEL----KRKNKSCTGAPPKSYWSNTPTGYFTPKYLSKDHVSSSWD--sSMPYAIFYDIDNGLALHEVYSKYAG-------YLGSRASGGCTRQDATSAQNLFNQVRSTEGRQIPMIR-EDGTPVLDEAGRMIYitkqnfrskTNPnyattfntYSALIIVEDS
+>UniRef100_A0A3B9YR31 YkuD domain-containing protein n=1 Tax=Alphaproteobacteria bacterium TaxID=1913988 RepID=A0A3B9YR31_9PROT
+----------------------------ISPELRKYFDLYLYVSKAENGEWAQRMYVMAKqpdErlAVVHKWMVSTGKEEVMV------------NPHGVAMDTDTPEGFFrlDRSRFFADYTSRQWKAP-MPHAMFFDwqtegRVSGLAIHGTGPAEDI-------DLGRRASKGCIRLSPENAKVLYKLITENYGGRVPQLkiDPNTgtqstnGLMRRDTKGRILTKLGYRVLVVIENY
+>UniRef100_A0A2E5JIQ5 YkuD domain-containing protein n=1 Tax=Halobacteriovorax sp. TaxID=2020862 RepID=A0A2E5JIQ5_9PROT
+------------------------------DALIKKSGVVVVVDKSlrtASRPNGQTATVYVDGDYYSVYDVSTGTEEIKE------------TTSGRRYIATTPVGIFRPIRAYTDYMSRTFLSAPMTWAVFFN--GGIATHATTRGQYN-------RLGSRASGGCVRMRLEEAEEVNQLIVSRGEPNFRTVD-----------------------------
+>UniRef100_A0A150WQD8 YkuD domain-containing protein n=1 Tax=Bdellovibrio bacteriovorus TaxID=959 RepID=A0A150WQD8_BDEBC
+-----------------------------------SCPVWLRINRG-----TQSFTLYVYGNIQRTGLVSTGLPGYG-----------------------TPAfdkhpdGRIYDRYTSTKYPGGDYMGlGNMPYAVFIS--GGFAVHGTPQGNWS-------KLGKRASHGCIRMHPDNGFVFNRLTRQYGIRNVWIT------------------------------
+>UniRef100_M4VBC7 YkuD domain-containing protein n=1 Tax=Bdellovibrio exovorus JSS TaxID=1184267 RepID=M4VBC7_9PROT
+-----------------------------------ECPVFAHIKKN-----EQKLYLYVNGQLQDSWLVSTGLPGHE-----------------------TPNfdknpnGRIYDKYSSSKYPGGDYMGlGNMPYAVFIQ--GGFAMHGTPVGNYS-------KLGRKASHGCVRMQSENGRIFNRLVRQYGVTNTWIT------------------------------
+>UniRef100_A0A353YEB4 L,D-transpeptidase n=2 Tax=Rhizobiales bacterium TaxID=1909294 RepID=A0A353YEB4_9RHIZ
+------------------------------------SQILINIDKS-----RQEMTVFVDGVEQYTWPVSTGRPGY-----------------------STPSGTYTPTSMNEVWYSKQWDNSPMPHSIFFmK--DGHAIHGTHE--VK-------NLGKPVSHGCVRISPENAATLYALVETNGMQNTQVAlSgeTPGGEAKvasqpRYGPGQPRYfpGPGW---------
+>UniRef100_UPI001117CFC3 L,D-transpeptidase family protein n=1 Tax=Methylotetracoccus oryzae TaxID=1919059 RepID=UPI001117CFC3
+--------------------PFDEAVGLpdpLDEPAFRSYEVIVVVNKKDNAFWgrPETLRVYQRGvGLLYYWLISTGDTGW-----------------------GTPSGYFVPTGFSSRHWSSAFDAP-MFWSVFFQ--GGKALHSSLdREALG-------DLGQPASHGCVHIEEHRAEALFHLIGRSGYGPVDKLDPRTGRPLTGNDGEIEQFEATRTLIIVG--
+>UniRef100_A0A0J9E852 YkuD domain-containing protein n=1 Tax=Candidatus Rhodobacter lobularis TaxID=1675527 RepID=A0A0J9E852_9RHOB
+------------------------VAYIAPSQIDPAYSHAVYVNTSTRSSGGQKMWVLERrgdgwgvaiwdekywekkgvtGAPDYSWPVSTGRHYKG-----------------DRRSGPTPLGIFNVDERK-TRHRRGWGSPGMYNSIYIDlhygsgRISGVAMHGTTSSKYR-------LLGRADSHGCVRMRQGNADKIWEMFHGQGRpgegsplwSEVPRYftsepgPsrkarwgyVRDGSFLYSAAGERLTKPGYSALFVF---
+>UniRef100_UPI001555A51A L,D-transpeptidase family protein n=1 Tax=Pseudoruegeria sp. HB172150 TaxID=2721164 RepID=UPI001555A51A
+------------------------TAYLPPSRIDPAYTHAIYINAALSGPGAQKMWIVARdgtswklalhdpdywadkpDKPTYSWPVSTGRVYPG-----------------NSRSGPTPLGIFNVDDRA-YRHVRGWGAPGMYNSIFIDlhygggRISGVAMHGTTQGLYR-------LLGTPDSHGCIRMRQPNADQVWNLFHGDGQpgdtsplwtASVPRYftsepdQswnprwnyTRDGTFLRDDSGSRLTKPGYSVLFII---
+>UniRef100_UPI001009A2FC L,D-transpeptidase family protein n=1 Tax=Streptomyces roseicoloratus TaxID=2508722 RepID=UPI001009A2FC
+--------------------------------------TVACVDLT-----RELMWVQKGTKVTFdVVNIRSGRPGYR-----------------------TRTGWHTVYWRNKDHWSSLYDTP-MPFAQFFD--GGQAFHGVYGQIAT-------P---TGSRGCVNLSYAHAEKLWNVLRQD--DHVYVFGSRPEA------------------------
+>UniRef100_A0A2A2XYL9 YkuD domain-containing protein n=1 Tax=Spartobacteria bacterium AMD-G5 TaxID=1982326 RepID=A0A2A2XYL9_9BACT
+-----------------TSTLADKNSY-WDGD-GVAGAPSIVIDLS-----EQQASFYKGGKLVGVSAISSGREGFG-----------------------TPTGNYKITQKNPDHASNLYGDyvnaqgdvvvknvtfkkdpvppgarfagSPMPFFMRLGR-TAVGLHQGF------------LPGVPDSHGCIRMPERMVKIFFTNAPAG--TPVSIVE-----------------------------
+>UniRef100_UPI00094651B8 L,D-transpeptidase family protein n=1 Tax=Verrucomicrobium spinosum TaxID=2736 RepID=UPI00094651B8
+---------------TPDGP-LQPGEYWWHPEISPSGPIMVLVSVP-----NQILHVYRNGILIGRSTVSTGAKGHA-----------------------TPGGVFTILEKKQSHRSKKYNNAPMPNMQRLT-WDGIAMHSGN------------LPGHPASHGCIRLPYDFSLLLFKLTEKG--GTVVIGDGKTPTPHL---------------------
+>UniRef100_A0A3D2UL63 YkuD domain-containing protein n=1 Tax=Anaerolineae bacterium TaxID=2052143 RepID=A0A3D2UL63_9CHLR
+-----------------------PEYLAPISPEVPYEQKRIELNLS-----TQMVYAYEYGNIVFETNIASGIPGDPTGGT--------------GIPTTTPAGEYSILDKVpaKHMGysyfssqtsgnlladVDNYVLPGVPWTLFFT--RqGHAFHGTYWHE---------NFGTPMSKGCINMRNDEANWLFRWAMpvskpdavatrgLG--TVVDIHY-----------------------------
+>UniRef100_A0A1F5EAM3 Uncharacterized protein n=1 Tax=Candidatus Berkelbacteria bacterium RIFCSPLOWO2_01_FULL_50_28 TaxID=1797471 RepID=A0A1F5EAM3_9BACT
+------------------------------------KGLYLDINLT-----QQRIYILDGKNLLASYLISSGKPG-----------------------TPTPIGQFKIVNKASLAESSLFpGIW-MQMWNGLarldS-GLveGYGIHRIPCF-NASCtlKEDASHLGTPVSHGCIRVQDDGADWIFAHASVG--TKVNIH------------------------------
+>UniRef100_A0A6P2B7L5 LysM peptidoglycan-binding domain-containing protein n=1 Tax=Anaerolineaceae bacterium TaxID=2024896 RepID=A0A6P2B7L5_9CHLR
+----------------------------------TQGRQII-ISVS-----ASRIYAFEDGQLVHSVLVSTGRAHT-----------------------PTITGDFAIYRRVRTqtMSGPGYSIPNVEWVLYYH--QAYAIHGAYWHS---------NWGTPMSAGCVNLPNEEARWFWeNFGEIG--TPVRVIA-----------------------------
+>UniRef100_A0A6N6P5K6 L,D-transpeptidase n=1 Tax=Verrucomicrobia bacterium TaxID=2026799 RepID=A0A6N6P5K6_9BACT
+--------------------------------PKDPSKVVVKVSLD-----KQMVYVMEGTRPLLVTACCVGIPSH-----------------------PTPKGNFCVTRKERNKRSGAYGFsvlkdaivpseaaqahghyvgYPMPYWVEFT--PGYGFHLGW------------VWPVPKSHGCIRLHANDAGKFFALVHEG--TPIKIASIQPE-------------------------
+>UniRef100_A0A4V1S8U7 L,D-transpeptidase n=1 Tax=Xanthomonadaceae bacterium TaxID=1926873 RepID=A0A4V1S8U7_9GAMM
+---------------APPRR-MTFGASVWDDPSPGTGPIWIRVDLS-----RQLLSVFRGANEIGTAVIIYGTDGKE-----------------------TPSGTFALLGKERMHHSSLYDAD-MPFTLWLT-DDGVAIHASAV-----------ERG-RATHGCIGVPADFASRLFAVARRG--DAVIVLP-----------------------------
+>UniRef100_UPI00136CFB92 L,D-transpeptidase family protein n=1 Tax=Porphyrobacter algicida TaxID=1836209 RepID=UPI00136CFB92
+---------------DTTGQ-LKYGQYKWDTVGVPPGKLKIRVDLD-----RQLISVFIGPHEVGTAIIVYGANGKE-----------------------SPRGHLPILGKTKDYHSITYDAP-MPYSLWLR-SDGVAIHGSEV-----------TPG-HATNGCIGVPTEFAKRLFELAHKG--DIVDIVG-----------------------------
+>UniRef100_UPI00037F482C L,D-transpeptidase family protein n=1 Tax=Catelliglobosispora koreensis TaxID=129052 RepID=UPI00037F482C
+------------------------------------PELTACIDLT-----NQTTYLMRDGKVIYgPTVTRTGYDHpdglgAP-----------------------TPTGSYKITQRLQKNWTESFKTY-LYYWQRIM--GNNGFHATTSYIHD---------MAAGSHGCVNLLQADAIAYWEKLSIG--TTVKVFGRRPGT------------------------
+>UniRef100_UPI0015D1E835 L,D-transpeptidase family protein n=1 Tax=Phytohabitans suffuscus TaxID=624315 RepID=UPI0015D1E835
+------------------------------------SGTTFCVDLT-----HQTTWAMRGGKVVIkPTVTRTGMPGYA-----------------------TPTGAYSVQNKALKEWSNPYEVW-LPYWQRFN--GASAStrpRRTSTRSRS---------ARTAASTCCPPTPAPSTT-WARWAAG--CTCSAAGRAPEAPDRRP-------------------
+>UniRef100_UPI00068A7555 L,D-transpeptidase n=1 Tax=Microbacterium mangrovi TaxID=1348253 RepID=UPI00068A7555
+--------------------------------------RQLEVNLT-----EQRVYLKQDGKVVDSWLVSSGHDIT-----------------------PTFTGHYRVYVHLPVQTmrgLnvdgTKYTTPDVPWIMYFN--GGEGFHGVYWHN---------NWGHKMSHGCVGMPISRAKQLYDWSPDN--IEVWVH------------------------------
+>UniRef100_UPI0012EA1D4E peptidoglycan binding domain-containing protein n=1 Tax=Microbacterium sp. TRM80801 TaxID=2654283 RepID=UPI0012EA1D4E
+--------------------------------------RSAVVVKS-----EGMAYFYEsvnggDKQLKNSFSMAIGKPGY-----------------------DTQVGEFTVYGQLTIQNmgScdaegnlvpggkFDYCTPNVPYPTYFN--GDQGFHGTYWHD---------NFGPGarMSHGCVNLTVGASEWVYSFLQIG--SPVSVR------------------------------
+>UniRef100_A0A1F6ESR9 YkuD domain-containing protein n=1 Tax=Candidatus Kaiserbacteria bacterium RIFCSPLOWO2_01_FULL_54_24 TaxID=1798515 RepID=A0A1F6ESR9_9BACT
+--------------------FYGDGIRELDPRETASTTKKIIVDRS-----AQKLYAYDSDELFMEATISTGLQL-----------------------TPTPRGNFTVYKKTPTRYmqgplpgvSdQYYDLPGVPWNLYFT-KEGGVIHGAYWHD---------KFGRTWSHGCVNVPLPEAQKLYEWADVG--THVLVRD-----------------------------
+>UniRef100_UPI00094667FF L,D-transpeptidase family protein n=1 Tax=Verrucomicrobium spinosum TaxID=2736 RepID=UPI00094667FF
+--------------------LVQDGPR-YYRDVLDREHTdlRVIVNIG-----AQRAFLVKDGQIAFETPISTGRGPRM-----------------------TPRGTFKITEKIRTGKiSTIY-KCPLPGWMRVG-EMPIGMHEGE------------LPGYPASHAASACPWKAPTSSSTALP----------------------------------------
+>UniRef100_G2KTT6 YkuD domain-containing protein n=2 Tax=Lactobacillus sanfranciscensis TaxID=1625 RepID=G2KTT6_LACSM
+------------------------------VDLTnvPAKDLKIVVNQK-----HETVNIYKNNKLVEQFLCSTGkrTKE-----------------------TATPVGKFAIEPeHGTWFYNAKPDvaEG-ARNFVSFKDHGVYLFHSVVMNhQDNQPiMSRQGRLGHPNSHGCVQMSLPDNVYFYNTFSQP--DKVgtkvVI-------------------------------
+>UniRef100_A0A2N2N3I9 YkuD domain-containing protein n=1 Tax=Chloroflexi bacterium HGW-Chloroflexi-4 TaxID=2013727 RepID=A0A2N2N3I9_9CHLR
+--------------------PITPEDLSPIRPEVI--DKKIVVDVT-----HQSLSAFEGSREIFYAKVSTGALVNN---------------EGQAVTGwATPIGDYHVVnRKFVSLHmaggntaASGYEDFAVSYSSIFA-TGGVAFHSTYWHN---------AWGSPMSHGCVNMKPEDSKFIYRWCQPD--------------------------------------
+>UniRef100_A0A3B9JF95 YkuD domain-containing protein n=1 Tax=Anaerolineae bacterium TaxID=2052143 RepID=A0A3B9JF95_9CHLR
+--------------------LIADEEIAPISPEVPWEEKRVEVNLG-----TQLMTCYEYDQSVFQTNIASGRlDstIPA---------------NGI--PTRTPAGKFNVSVKMPSKHmgdgnlaADieAYELAGVPWTVFFT-PQGHAFHGTYWHD---------NYGVPMSSGCINMRNHEAKWFFRWCLPS--------------------------------------
+>UniRef100_UPI0015B96102 L,D-transpeptidase family protein n=1 Tax=Clostridiaceae bacterium TaxID=1898204 RepID=UPI0015B96102
+---------------------------------YKKTEYTLDINLT-----NQNISVIKKDKVLkevQCSTGILGDQDT-----------------------ETPLGIFNVQCKGEYFYSNKYQEG-ARYYIKFF--SNYLIHSIPVDKKGNIiEDEKKKIGFPASHGCIRISIHDAEWIYNNIPEG--SSVII-------------------------------
+>UniRef100_A0A068NS21 ErfK/YbiS/YcfS/YnhG family protein n=1 Tax=Fimbriimonas ginsengisoli Gsoil 348 TaxID=661478 RepID=A0A068NS21_9BACT
+----------------------------------RRGMKRVFVNKK-----TQMMVAFQGRRTVFRSKVSTGREGK-----------------------NTPSGIFRAdGQKEKVHLSHLYANVPLPWAVHIV--GNIFIHGYGA-----------SAGH-SSHGCIRLPMSGgnpARWFYYWVERG--TPVTILGKWP--------------------------
+>UniRef100_A0A1F6S2X1 YkuD domain-containing protein n=1 Tax=Candidatus Moranbacteria bacterium RIFOXYB1_FULL_43_19 TaxID=1801649 RepID=A0A1F6S2X1_9BACT
+-------------------------------------DKEIYFWLD-----KQMGAAYENGQLVRSFRIISGYDGpatsqdgsriyyK-----------------------PTPKEKHRIISKTKNGYSRRYNAE-MPYAMQF------rpGYFIHAWSR--DESLP--APGHPyASHGCISVDFPVAEWLFYWTPIG--TPVYIWEER---------------------------
+>UniRef100_A0A1Q7VND4 YkuD domain-containing protein n=1 Tax=Catenulispora sp. 13_1_20CM_3_70_7 TaxID=1805055 RepID=A0A1Q7VND4_9ACTN
+--------------------------------CPQSARKVVCVDQN-----HQTLWVQQGGKIIFpRVRIRTGKPGR-----------------------RTPDGLFHIWLRNRHQYSYLFHEP-MPFSLFFH--GNFALHGTYGDVRK-----------GGSNGCVNLTLADAAKLFPMLGRG--DAVYIWGHKPR-------------------------
+>UniRef100_UPI000CD5B2F4 peptidoglycan-binding protein n=1 Tax=Streptomyces sp. SM12 TaxID=1071602 RepID=UPI000CD5B2F4
+--------------------------------------RSLCISKT-----TNTLSWVIDGDVKMTLDVRFGAEGY-----------------------ETREGEFTVYWKSRDHHSTIYDSP-MPFALFFD--GGQAVHYSENFLQN---------GYeGGSYGCVNVRDRAASSWPRRWSGGGRPPDGPRGRRSGGA-----------------------
+>UniRef100_A0A1F6N8S5 YkuD domain-containing protein n=1 Tax=Candidatus Magasanikbacteria bacterium RIFCSPLOWO2_02_FULL_44_11 TaxID=1798689 RepID=A0A1F6N8S5_9BACT
+--------------------------------EDnRDVKRHVVVDLP-----NQQLHYYMKDVKIGSMPVSSGKLAT-----------------------PTPNGEFTVLRKVpiVHYVGPGYNLPNTKWNLEFK--KSYYLHGAYWHN---------QFGKKPmSHGCVNIAYVNAEKLYQFLDAG--DKVIVKG-----------------------------
+>UniRef100_A0A0H3IYW6 Uncharacterized protein n=2 Tax=Clostridium pasteurianum TaxID=1501 RepID=A0A0H3IYW6_CLOPA
+--------------------------------------YKVIVRIG-----SQILNIYNNDQLINIMTYFMNRSIL-----------------------LIPMSIFVTCNKKSEFFSNKYGEY-RYYWTSIS--NNYLLNNSSYDKNKNTtENKTFKVSNNILNKSWSFYFDITKFIYGNRHEN--FKLYVK------------------------------
+>UniRef100_A0A2M7A4D6 YkuD domain-containing protein n=1 Tax=Armatimonadetes bacterium CG07_land_8_20_14_0_80_59_28 TaxID=1973917 RepID=A0A2M7A4D6_9BACT
+---------------------------------------AIYVDLSN--RSRQRLYRQKDGELVQVAICSGSSTNSMR------AST---RCGGRI---HDHPGWFQIIQKDAGHVSTlNPEWR-MHYGMRFH--KAHFIHATSRSMYR-------RLGRPASHGCIRLHRTDAQKLYAKSRVG--DWVKVY------------------------------
+>UniRef100_A0A146G7L5 L,D-transpeptidase catalytic domain cotaining protein n=1 Tax=Terrimicrobium sacchariphilum TaxID=690879 RepID=A0A146G7L5_TERSA
+----------------------------------NPAKVKLFLSTG-----AQRLYVVEGDKVLLATPVTVGAPSS-----------------------PTPLGTYTIYSKVENRRRVSNPDagYPMTFWMEFK--PAYGLHWGFVK------------PYPATHGCVRLPIDSARKVFSVVRVG--TPINIAK-----------------------------
+>UniRef100_A0A2V5UZD4 L,D-transpeptidase n=1 Tax=Verrucomicrobia bacterium TaxID=2026799 RepID=A0A2V5UZD4_9BACT
+----------------------------------DPSAVKVKVSLA-----KENIYVMEGDRCLMAVACSVGIPEK-----------------------PTPKGNFTIYLKEEQKRSGSYGFsvqgnrvvpstgggpgryvgYPMGYWCEFA--PAYGFHQGFVH------------PYPRTHGCIRLHGEAAPKFFALVKIG--TPVNIAN-----------------------------
+>UniRef100_UPI0011C958C4 L,D-transpeptidase family protein n=1 Tax=Corynebacterium provencense TaxID=1737425 RepID=UPI0011C958C4
+----------------------------WNDTSSTPCPVTadACVDLD-----GRRAWLQDGGNTVYgPVYISSGAPGADT---------------------ETPRGTFHVTYKVRDEVSREFNNAPMPYSVYFT-NSGHAFHEGDPD--------------VESAGCIHLSGPDAVAFFDALEPG--DEVFI-------------------------------
+>UniRef100_A0A271J0R8 YkuD domain-containing protein n=1 Tax=Rubrivirga marina TaxID=1196024 RepID=A0A271J0R8_9BACT
+------SIVLPARPADFDLSPLAYAPFPSEWPGAAEIERAVVVDLT-----TQTWAAYGNGRLRRWGPASTGKAST-----------------------PTPTGRYTMNWREMDRESTEAPpgeTWRMRYVMNIYAVRGIHLHQYNVV----------PSGPPEGHGCVRMVEADARWLWDWTGGdttAPGTVVIVQGtTPTETPVR---------------------
+>UniRef100_A0A2E3QV31 L,D-transpeptidase n=1 Tax=Rhodothermaceae bacterium TaxID=2026787 RepID=A0A2E3QV31_9BACT
+------ALVLPARPADFDLSPLAYAPYPRLWPGAAGIDKAVVVDKT-----TQTWAAYASGALVRWGPSSTGAAET-----------------------PTPTGRFTMNWRALERESSEAPpgeRWLMRYVMNIHAARGIHLHQYDVV----------PTGPPQGHGCVRMVTSDAEWLYDWSSGwqttagpgalggrptAPGTLVIVQGtEPDGPPAR---------------------
+>UniRef100_A0A2U2SB73 TPR_REGION domain-containing protein n=1 Tax=Ardenticatenia bacterium TaxID=2099665 RepID=A0A2U2SB73_9CHLR
+--------------------KVQEIAELLRPPTPMPSPtptatplptatptpspedQLILVDIS-----EQRMYVYENGRLLWNWVVSTGEPGR-----------------------DTATGHFRVLDKIEVAYASTWNLD-MPYWLGIYYSGPLenGIHALPINRATGVKLWEGLLGRRVSYGCVILSDENARALFEWAQIG--TPVVIR------------------------------
+>UniRef100_A0A497BVF3 Uncharacterized protein n=1 Tax=Chloroflexi bacterium TaxID=2026724 RepID=A0A497BVF3_9CHLR
+--------------------ELAEVVALLTPPTPTPTPvpsppaqtgKRIEINLT-----EQHLYVWEDDQLVYDWVCSTGGYGS-----------------------PTVPGNYHVLDKIPNAYASTWNLQ-MPYWLGIYYAGTLenGIHALPIL-SNGQRLWEGYLGQRVSYGCVILSTEAARTLYHWAEIG--TPVIIH------------------------------
+>UniRef100_A0A1F2X6J1 Uncharacterized protein n=1 Tax=Actinobacteria bacterium RBG_16_67_15 TaxID=1797202 RepID=A0A1F2X6J1_9ACTN
+---------------------------------RYDESDYLEVDLE-----RQLLFLVEDGELAQVIPVSTGGGYTY-----------V--SprTGRPAVANTPQGDHRLRWHQLGWVCDSRTGWCVYKYWAFT--DYYGIHGYRH-----------VPAYPASHGCIRVEVWDADWLEPRLASG--MPVHVWR-----------------------------
+>UniRef100_A0A1V2M747 YkuD domain-containing protein n=1 Tax=Epulopiscium sp. SCG-D08WGA-EpuloA1 TaxID=1712377 RepID=A0A1V2M747_9FIRM
+------------------------EAFVNAQGLTSNTSNLVWVDLY-----RQRTYVFEKvnGqwKLFRNMLCSSGKNI-----------------------TPTIRGTFKTIGYVDSFGW-GKGYV-CYNAVQFI--GEYLIHSILYDEKGE-YLLEDRgiLGQRSSDGCVRLSPEDAEWFFNNIRWG--TTVWV-------------------------------
+>UniRef100_A0A356C2H4 YkuD domain-containing protein (Fragment) n=1 Tax=Firmicutes bacterium TaxID=1879010 RepID=A0A356C2H4_9FIRM
+------------------------EAFVNMRGFTSKTDHLVWVDID-----RQLTHVFIGkrGhwTLKHTMPCSTGKNV-----------------------SPTLRGFHEIAERGEWFFTERLARG-GQNWVQFA--GPYMFHSLPMDKDRN--IMDYTLLERRSSGCIRLSMEDSVWFYSFIKRR--STVFV-------------------------------
+>UniRef100_A0A1V6K1N7 Putative L,D-transpeptidase YciB n=1 Tax=candidate division Hyd24-12 bacterium ADurb.Bin004 TaxID=1852822 RepID=A0A1V6K1N7_9BACT
+-------------------------------------RREATILLD-----RQVVLFTQDGRESNLAHVSTGRPGHR-----------------------TPEGVFSVQYRRRAPISSRYLVR-MPYWICIVPTGEIGFHQAPGA-------GDlRRLGEPVSHGCIRLGATTARWAYRWLTDG--SRVEIRR-----------------------------
+>UniRef100_A0A411YGA6 Uncharacterized protein n=1 Tax=Egibacter rhizosphaerae TaxID=1670831 RepID=A0A411YGA6_9ACTN
+--------------------------------TLDEYADVLLVRQG-----DRRLYHYVDGEIEAEWPVAVGAGGS-----------------------PTPTGRFVVGAKRASptWHnpaADGWGED-MPevidpgpdnplglRALNwLG-EDGadtlVRFHGTADGG---------SIGQAASRGCVRLSNEHVIELFDRVPQG--ATIISI------------------------------
+>UniRef100_A0A538AQA2 Uncharacterized protein n=1 Tax=Actinobacteria bacterium TaxID=1883427 RepID=A0A538AQA2_9ACTN
+--------------------------------PDSSLGKTIVVNVS-----QNMLYLYDGLHIIRRYPVATAKQGF-----------------------VTPDGAWEVVDKVENptWHnpaPTGWGAG-EPlvippgptnplgtRALYLS-APGIRIHGTPSDS---------SIGTYASHGCIRMHIPDSEALYPLVSIG--TPVFIIGAPP--------------------------
+>UniRef100_A0A086ZQ65 ErfK/YbiS/YcfS/YnhG superfamily protein n=2 Tax=Bifidobacterium boum TaxID=78343 RepID=A0A086ZQ65_9BIFI
+--------------------------------------WKIVVDRF-----KQTATVYNNDQVVQTFNVCTGKTGKH----------------------ETTPGNYFIYLKYkvQDMRGsnddgSQYLTPGVKWISYFN--GGQGFHTANWN-ASGIASGDPT--GHGSHGCVNMNEADAKWIYDNCPEG--TLVQVVGAQPTSPVR---------------------
+>UniRef100_A0A087AST5 YkuD domain-containing protein n=2 Tax=Bifidobacterium TaxID=1678 RepID=A0A087AST5_9BIFI
+--------------------------------------MRIVVDKS-----SQTATVYNNNQLVRTFPVCTGTPGAFG---------------------ETDNGTFYIYLKYavQDMRGynedgSKYLSPGVKWVGYFN--GGEGFHTADWN-YYGIQVGDPA--HYGSHGCVNMYEADAKWIYDNCPEG--TIVQVVGSTPSGPVR---------------------
+>UniRef100_A0A1F5SJ06 YkuD domain-containing protein n=1 Tax=Candidatus Falkowbacteria bacterium RIFOXYA2_FULL_47_19 TaxID=1797994 RepID=A0A1F5SJ06_9BACT
+----------------------YEDEFKASREEFAALPKAALMNLS-----EQLFYCYEYGRLIDIMPVSTGKKGHA-----------------------TPTGEFHVLQKDKDHFSSKYFikgkRASMKWGVRFH-GSLYWIHYQT------------LPGKPDSHGCVRLSEANARFFHNWSEIG--------------------------------------
+>UniRef100_A0A661FTT3 YkuD domain-containing protein n=1 Tax=Gammaproteobacteria bacterium TaxID=1913989 RepID=A0A661FTT3_9GAMM
+--------------------------------SSGGGPKVIYVVTD-----DQKLYAWEGNQLVYEFDVVTGRPGKE-----------------------TEAGVFSINRKYEDYTSKAYGAE-MPFTMFFT-LDGKAIHGTTWATVRSFVhEYiSEEV---GSMGCVGLTRENAETMFRWAPMG--TRIVVVE-----------------------------
+>UniRef100_A0A2H0YPC6 YkuD domain-containing protein n=2 Tax=Candidatus Nealsonbacteria TaxID=1817911 RepID=A0A2H0YPC6_9BACT
+----------------------------------ENKGKVIKVDLS-----QQKMTLCEDGKIIKEFFVSTGKKE-----------------------NSTPKGNFRVISKSTMIYSKMTDCW-LPFWVGFK--GNYGFHEVPICEEGEKRIGEKEIGKPASAGCIRLKIGEAEDFYHRVEIG--TRIKIYG-----------------------------
+>UniRef100_A0A1M3BCY1 Uncharacterized protein n=1 Tax=Solirubrobacterales bacterium 70-9 TaxID=1895833 RepID=A0A1M3BCY1_9ACTN
+-------------------------------ELGSRYPSYLTLDRA-----SFTLRLWKDLKPAETFTVAVGREGLE-----------------------TPEGLYAIEVMEENPVwhvpESAWagAlaGKTIQpgpedpikaRWMGFY--EGAGIHGTEEVE---------SLGSAASHGCVRMSIADVKRLYDQVEVG--TPIYVG------------------------------
+>UniRef100_A0A2W5Y894 Uncharacterized protein n=1 Tax=Solirubrobacterales bacterium TaxID=1909295 RepID=A0A2W5Y894_9ACTN
+-------------------------------QLSAKYPSIIVVNRS-----AFELKLFKHLKLAHTYPIAVGMQGLD-----------------------TPAGLWHIQWEQTDPPwyvpNDAWagSlaGKTIPpgpqdplkaRFMSFN--GGAGIHGIdpSEYG---------TIGHTASHGCIRMTIPDVINLYDQVKVG--DPVYIA------------------------------
+>UniRef100_A0A3C0VCA4 LysM domain-containing protein n=1 Tax=Planctomycetes bacterium TaxID=2026780 RepID=A0A3C0VCA4_9BACT
+-------------------------------VLN--RPIEVFVSKR-----EFRLWVTYGGRFLKEMRCGIGK-GNR-----------------------TPSGAFVIAEKQRNPDwfrp-----gQPVIPagdpanelgcCWLGFA--EtqykGLGIHEARDGR---------GIGQESSQGCIRVARADIDFLYDFLPYK--TVVTILE-----------------------------
+>UniRef100_A0A6N7YYS0 L,D-transpeptidase family protein n=1 Tax=Conexibacter sp. W3-3-2 TaxID=2675227 RepID=A0A6N7YYS0_9ACTN
+-------------------------------ALRRMYPSIVTVDKR-----TFTLRLFVGLRRVSSYRIAHGQPAYP-----------------------TPSGRFRIRSKQVNPDwyvpNAPWagElgGSVVAggspqnplraRWMGLA--GGSGSTGRPRRGR--------SEVGRPTDACACACAMSCGSIDGFA-----------------------------------------
+>UniRef100_A0A2E4PMR9 YkuD domain-containing protein n=1 Tax=Flavobacterium sp. TaxID=239 RepID=A0A2E4PMR9_FLASP
+-----------------------------EVKALDSIKKIIFFSYP-----SESFATYEYGILTHVGPTNMGKETA-----------------------ITPTGLFFTNWKAEETTSTVNDEWLLKWNFNVANNLGVGFHQYE------------LPGFPASHSCMRLREKDAKMLFDFAEQ---------------------------------------
+>UniRef100_A0A1W1CZ21 YkuD domain-containing protein n=1 Tax=hydrothermal vent metagenome TaxID=652676 RepID=A0A1W1CZ21_9ZZZZ
+------------------------------------GKNFIVVSVREVGSD-GRFYAVdVDGTVWWTGAITSGTLEFK-----------------------TPSGIFPIIHKKRYHMSTLFPDesgiNNMDYMMKFT-QQGHALHQGSVSW--------------LSHGCIHIDPKDVPTLYHWANYK--TKVIIT------------------------------
+>UniRef100_A0A2G2MYQ0 L,D-transpeptidase n=1 Tax=Sulfurovum sp. TaxID=1969726 RepID=A0A2G2MYQ0_9PROT
+------------------------------------GQNYIVVSLRERGAD-GVAYAIdSDGTIWWAAVISSGAKGHE-----------------------TPSGIFTIFRKERFYMSKAHPEasgiNNMDFSLWFT-QRGHAIHMGNDDA--------------MSHGCIHVGKKGATSMFNWAKANH-TKVVIT------------------------------
+>UniRef100_A0A2S0LKS4 Peptidase n=1 Tax=Actinomyces sp. oral taxon 897 TaxID=2081702 RepID=A0A2S0LKS4_9ACTO
+--------------------------------RARGHEKWIDVNLT-----DSTLTTYEGREVVHgPVLVNHGDADHP-----------------------TSTGTYRVSQRQAQQDVgcspeESSCQRDVPWVVSWD--QG-ALHGAPDTQ---------DFGVGTdgsAHGYVTMPVADAQAVWDWAEVG--------------------------------------
+>UniRef100_A0A017T0Q3 Uncharacterized protein n=1 Tax=Chondromyces apiculatus DSM 436 TaxID=1192034 RepID=A0A017T0Q3_9DELT
+-----------------------------------GADeKWIEARIL-----PGTMVAYEGLRPVWTTLWSAGKGGVPV----KGNDPKRF--------ATTETGIFAFQWKDKVATmsPDkgapsVFFFSDVPHIQYVH--APLALHVTYWHE---------DFGHLRSAECLNVSPLDGEWLFGWTLP---------------------------------------
+>UniRef100_UPI0011EA6276 L,D-transpeptidase family protein n=1 Tax=Lactobacillus agilis TaxID=1601 RepID=UPI0011EA6276
+---------------------RTPINWRLPsetvayPDLKQLNDFWIKVVIS-----KNRVYLMDGKKAVYTMYASAGEYerqagGKKK--------------------STTPTGTYYIqAERGDSFYNPNLSEG-ANYWTSWLNHGEYLFHTVPTDANGNYkVAEAKKLGKkPASHGCIRLSVADAKWINQNVPRV--LRSLLPIKK---------------------------
+>UniRef100_A0A1F4NRY2 YkuD domain-containing protein n=1 Tax=candidate division Kazan bacterium RBG_13_50_9 TaxID=1798535 RepID=A0A1F4NRY2_9BACT
+----------------------------------SRDDKQIQIILD-----EQRLLAIENHVVILDTPISSGKSGYS-----------------------TAKGLYKIFNHIDTAYSSAYELY-MDNWMALAslkyGLTGYGLHALPFWRVNPSgryagregevingrlytqgklYEDYTHLGEKRSHGCVRVGITASKVLYDWAENG--TLVEI-------------------------------
+>UniRef100_A0A4Q7J6R0 Murein L,D-transpeptidase n=1 Tax=Amycolatopsis suaedae TaxID=2510978 RepID=A0A4Q7J6R0_9PSEU
+-----------------------------------APGFHVEVDLA-----RQLVYLVRDGRVDRVYDASTGRDADG-----------------K----RTPPGEYRISYQI-NGWRHAKLGP-MWKPSYLD--StGLALHGGEP-----------VEATPASNGCIRMTDPSVEEVYP--LLKPGTRVLIY------------------------------
+>UniRef100_A0A662DV16 Murein L,D-transpeptidase n=1 Tax=Actinobacteria bacterium TaxID=1883427 RepID=A0A662DV16_9ACTN
+-----------------------------------DAGTLVEIDKS-----RQLLFLVVDGATNWVFNSSTGTEVPYET----------VNDkdPTKieRGDSVTPVGLYHTEPERPEGWWAGDLGE-IYRPKYFV--GGIAVHGSNS-----------IPNYPASHGCVRVSVPAMDFIWESNAIPLGMNVWVHGEIPAA------------------------
+>UniRef100_A0A6N2DMF9 Murein L,D-transpeptidase n=1 Tax=Ilumatobacter sp. TaxID=1967498 RepID=A0A6N2DMF9_9ACTN
+-----------------------------------DAGTLVEVDKS-----KQLLFFVIDGKTEWILNTSTGTEVPYER----------PNSndPAIieRGSSVTPTGLFGVDRQRPEGWWEGDLGE-IYRPKYFV--GGVAVHGSNS-----------IPNYPASHGCVRVSVPAMDWIWENELMPMRSPVWVHGEIPAS------------------------
+>UniRef100_A0A2N2H055 YkuD domain-containing protein n=1 Tax=Deltaproteobacteria bacterium HGW-Deltaproteobacteria-22 TaxID=2013750 RepID=A0A2N2H055_9DELT
+----------------------------YLEAWDPETPKRLVVSQK-----EQKLYLFHQNTLLAVFAVSTGRNGY------------------------TPDGVYRIYYKKAMVRYREGD--GMPFWMEFK--PKFGFHGLPFD-KDGVPYGAEELGKPASAGCVRLETVNAGLLYQVTPSH--------------------------------------
+>UniRef100_A0A1M5H1G8 Lipoprotein-anchoring transpeptidase ErfK/SrfK n=1 Tax=Jatrophihabitans endophyticus TaxID=1206085 RepID=A0A1M5H1G8_9ACTN
+------------------------------------ARNVAKVDDG-----KHTLTLTSDGKRVGRFPVSLGGPGSR-----------------------TIRGTKVVMEQDQDTRmrGAhsGIEynLAHVYWTQRLT-YSGEYLHAAPWNeasaG-G-------NIGRSnSSNGCTNLSTADAKKLFGLMQVG--DVVRYPDA-GGaKM-----------------------
+>UniRef100_A0A2A2D0B1 Uncharacterized protein n=1 Tax=Streptomyces albireticuli TaxID=1940 RepID=A0A2A2D0B1_9ACTN
+------------------------------------DSMVNTVDLK-----TRKMTVVRNGKTLRTIEISGGDEskGFG-----------------------TREGVKTILAKEGRVVmdSLSIGiprnHPdgffgSYDYSMRET-ISGEYVHAAPDNA-E-------SFGKEnVSHGCIGMSTDNAKWLYGMSLKG--DVVRVVGSTkpKPMD-----------------------
+>UniRef100_UPI0007659CFE L,D-transpeptidase n=1 Tax=Streptomyces scabiei TaxID=1930 RepID=UPI0007659CFE
+------------------------------------RSLVATVDVR-----RHVMTVEKDG-STERIPVTAGAPGMD-----------------------TWNGTMVVSDKQSRVFmdSRTVGYGdsyagWYENAVHLT-TSGTYLHENPKAN-T-------YAGRQnVTHGCVGLADDgTAKRFYDQVIPG--DVVKVTGS-EETV-----------------------
+>UniRef100_A0A0H3MCX1 Possible conserved exported protein n=3 Tax=Mycobacterium tuberculosis TaxID=1773 RepID=A0A0H3MCX1_MYCBP
+------------------------------------PAVVGVASIS-----QHTFTVSIDGVeEgPppplpaphhrvhfgedGVMPASMGRPEYP-----------------------TPVGSYTVLSKERSVImdSSSVGIpvddpdgyrLSVDYAVRIT-SRGLYVHSAPWA-LP-------ALGLEnVSHGCISLSREDAEWYYNAVDMA--TRSLCRNS----------------------------
+>UniRef100_A0A1R0UFI9 Uncharacterized protein n=1 Tax=Mycobacterium sp. SP-6446 TaxID=1834162 RepID=A0A1R0UFI9_9MYCO
+------------------------------------PAVVGVASIS-----EHTFTVTIDGVeAgPppslpaphhrphfgeqGVMPASMGRPDYP-----------------------TPAGMYTVLSKERSIVmdSSSVGIpvdapdgyrLPVDYAVRIT-DRGLFVHSAPWA-IN-------ALGLEnVSHGCISLSPEDAEWYYNTVNVG--DPVIVQEN----------------------------
+>UniRef100_A0A2G1XP11 Uncharacterized protein n=2 Tax=Streptomyces cinnamoneus TaxID=53446 RepID=A0A2G1XP11_STRCJ
+------------------------------------ADHKAVIDVP-----GHMLTMYENGRPVGRIMGSAGSPEDP-----------------------TRGGVHTVRSKSATETmdSATIGHgkewmLDSQWVTHLT-ASGTFLHSAPWN--K-------SLGVRnNSHGCFGMTTDDAKKVYDFLPVG--ATVEVRGT----------------------------
+>UniRef100_A0A3L8P6V4 Uncharacterized protein n=1 Tax=Marmoricola sp. 4Q3S-7 TaxID=2478913 RepID=A0A3L8P6V4_9ACTN
+------------------------------------ADVRTHVYVK-----KHKTVVTKNGKVVRTMPSDAGSPEFP-----------------------SWDGTMAVVSTSRTVRmtSCSVQIacnkndpnfydLTLPWDVRIT-NSGTFLH-YSTG-DP-------YPGHSyGSHGCVHLSYKDAQWYYQLSKEG--DPVTITGS----------------------------
+>UniRef100_A0A2D8UEU6 YkuD domain-containing protein n=1 Tax=Gemmatimonadetes bacterium TaxID=2026742 RepID=A0A2D8UEU6_9BACT
+-----------------------------------SSEEXIVINTQ-----DNNXSLRTVEKDLYLASCATGSGRKL-----------QG-EKKwYKWQFYTPSGKFKIEKKTKDPlwIRPTWDfienNEEIPvfaedkrrfergflgeYALYFA--PGYMIHGTIFE--I-------NLGKSITHGCVRVGSKDLAFLYKEVDVG--CVVYIY------------------------------
+>UniRef100_A0A6B1FSZ6 L,D-transpeptidase n=1 Tax=Gammaproteobacteria bacterium TaxID=1913989 RepID=A0A6B1FSZ6_9GAMM
+-----------------------------------PsHERYVVVHLV-----ENRLFVMEGERAIWSAPVGTGTGFNL-----------NGD--GQKWHFSTPRGIMRVRYKEKNPvwIAPDWHfverGVPVPprqhpsrsipgalgtTAIYLG--DGIAIHGTHRP--E-------LVldpdpeRRRISHGCIRLTNEAARELYYLIDVG--TPVLIY------------------------------
+>UniRef100_A0A2N3G5F0 Fibronectin type-III domain-containing protein n=1 Tax=Actinobacteria bacterium HGW-Actinobacteria-3 TaxID=2013648 RepID=A0A2N3G5F0_9ACTN
+---------------------------------GGYPGKHIILSIA-----DQRAWFLEDDVLVKTHLISTGTTSH-----------------------PTPMGVFSVEYHEYCAVSVLYGGVYCYWWMGFA--PDTGMHALPYDPKSGTWTSASCLGHRASHGCVRQAVADAEWAYRWAPNG--TRIDVIG-----------------------------
+>UniRef100_A0A0H4BHF1 YkuD domain-containing protein n=1 Tax=Synechococcus sp. (strain WH8020) TaxID=32052 RepID=A0A0H4BHF1_SYNPY
+------------------------------------E-GRVVLDLG-----RRQISVVRQGQTLGPWPVAIGDPKTP-----------------------TPSGMFKVENMMINPqYQSTKSGkvhpKRgpqsplgHRWIGFLRSgPNQFGIHGTPWPHW-------VKTRAAVSNGCVRMLNAHVQQLYDHVEVG--MAVEITR-----------------------------
+>UniRef100_UPI00146F8E85 L,D-transpeptidase family protein n=1 Tax=Sediminispirochaeta bajacaliforniensis TaxID=148 RepID=UPI00146F8E85
+---------------------IREGGFPPNAPELQESAYVVMVNLD-----EQRVFVYHNGKEIRRMICSSGLPEND---------------------NATPTGRFIIdesgHKRGQWFYSDTYGEG-AKYWVGFI-GGTYLFHSVPMDKDQHIiEEEAKRIGQPASHGCIRLSVADAQWFYETIPSG--SVLYITG-----------------------------
+>UniRef100_UPI0012FF8314 L,D-transpeptidase family protein n=1 Tax=Salegentibacter sediminis TaxID=1930251 RepID=UPI0012FF8314
+--------------------FFDYSPFPEHLDLLDSLPKTLLVNQR-----VQAFGVYEYGQLCRWGPVSSGKQS-----------------------TPTPNGLHYANFKAKRKVSTVNSSWIMPYYFNFMNFEGIGIHQYT------------LPGFPASHSCVRLFMEDAKYIYYWADM---------------------------------------
+>UniRef100_A0A2T4UJ74 Uncharacterized protein n=1 Tax=Conexibacter sp. Seoho-28 TaxID=2133960 RepID=A0A2T4UJ74_9ACTN
+--------------------------------RFKNHGRHVEADIS-----KQVMALIGaGGKVERIYHVSSGAPS-----------------------TPTILGTFRVYRRD-----IGRLPNGMLHSAFFR--GGYAIHGYPS-----------VPTYNASHGCLRVPNADALSIRNWTRLG--TIVDTYR-----------------------------
+>UniRef100_UPI000697064B murein L,D-transpeptidase n=1 Tax=Nitriliruptor alkaliphilus TaxID=427918 RepID=UPI000697064B
+------------------------------------PSTRIEVDMD-----LQVLHLVEGDRRVTTMKASTGRGGtFE-------------SQDGQVLRAETPIGTFTIGRRIAGEKPSSYGIGSMWDPMYFY--GPWAIHGSPN-----------VPAGPASSGCVRIAMADGRWLFQRVPNG--TQVVLYG-----------------------------
+>UniRef100_A0A0G0KAX2 Serine-type D-Ala-D-Ala carboxypeptidase (Fragment) n=1 Tax=Parcubacteria group bacterium GW2011_GWC1_38_6 TaxID=1618898 RepID=A0A0G0KAX2_9BACT
+------------------------------DDYILEGKSFIEVNLG-----LMQLRVYKDGDLIKQVPIlARGDPQG---------------------WGGSALGVYNVLSGYRSSYSGIAEVY-IPFALHYY--GKYWLHGEPYYPNG------QKMISAVSGGCIRMHDNDAKDIYDLAEIN--MPVIVLDNE---------------------------
+>UniRef100_A0A0G0YHT1 D-alanyl-D-alanine carboxypeptidase n=2 Tax=Patescibacteria group TaxID=1783273 RepID=A0A0G0YHT1_9BACT
+------------------------------STELAMTGKYIVLDTV-----DMQVSLYEDDVLVGSYEIlHAPDTNS---------------------PEYVSQGTYSIDKKTRTKLSTITMVR-FPYFIQFG--DTHALHATPQNAEG------IELTDARMDGLIELSAWDAERVFAFAKEG--MSVSVRTEK---------------------------
+>UniRef100_A0A0G1X945 D-alanyl-D-alanine carboxypeptidase n=1 Tax=Candidatus Amesbacteria bacterium GW2011_GWA1_48_9 TaxID=1618355 RepID=A0A0G1X945_9BACT
+------------------------------ASLVAERKNFVEVNFS-----DMATRLWEEGVVKKELPIvAVGDPQG---------------------WGGTPAGLYSVLSKNKERYSSAAEVY-MPWAVGFY--GKYFMHGEPYYRRG------EKRFTDATGGCVQYSDENAKAIYDFAHVG--MSVLVIDKE---------------------------
+>UniRef100_A0A3A4VDU7 Uncharacterized protein n=1 Tax=Parcubacteria bacterium TaxID=2053309 RepID=A0A3A4VDU7_9BACT
+------------------------------SGPPKNSGKYIEADLS-----KMTISLYQDGKLKESLEIrSKGRPGS---------------------PWETPTGEYAVLLKEKEHFSSIGGVW-MPNSIQFF--GNFFIHGWPYFKDG------TPVYEGYSGGCIRLSTEDSEKVFAFAEIE--TPIYITNSS---------------------------
+>UniRef100_A0A1F9BQJ9 YkuD domain-containing protein n=1 Tax=Deltaproteobacteria bacterium RBG_13_58_19 TaxID=1797832 RepID=A0A1F9BQJ9_9DELT
+--------------------LKIPLDLSLEPVIFpefddrlAAYGQYLLIDIG-----KSYLALYTRGALTRVYPISPGGrltgSRT-----------------------RTPLIHFTVQGKDENHWSNIYDTW-MPWSLLIR--RPYFIHGGC------------LPGVPDSKGCIRLFNDHAQELFNLVEVGTPGR----------------------------------
+>UniRef100_A0A1V5LKY1 L,D-transpeptidase catalytic domain n=1 Tax=bacterium ADurb.Bin429 TaxID=1866930 RepID=A0A1V5LKY1_9BACT
+----------------------------------METVRYIEVCKH-----TFTLAGYADETKVRvtfgPVCCAIGGNpdgadkqqvgD-----------------------CRTPEGRHLLVSVEDSRTWRH--EGEFAYGPWFLrlrglepHnadWTGIAIHGTHQPD---------SLGTKASHGCVRLHNDAIDALHSLVVPG--ETVVVIL-----------------------------
+>UniRef100_A0A535EBV2 L,D-transpeptidase n=1 Tax=Chloroflexi bacterium TaxID=2026724 RepID=A0A535EBV2_9CHLR
+------------------------------------PAKAAIVSFQ-----EQHVWAYQGSQIVMDNAVTTGIRGigdFG-----------------------TDFGPMKILHKDHPWKfqspwpkgSPHwYPDTVVQWTAFFT-STGEAFHDANWQPdsTLGP--GSQ-YTQGlQSHGCIHLPADKAEWIYNWAAVG--MPVIVYP-GDGSSVanqlaqitTNDQGVPFSG------------
+>UniRef100_A0A257M091 YkuD domain-containing protein n=1 Tax=Verrucomicrobiales bacterium VVV1 TaxID=2015575 RepID=A0A257M091_9BACT
+------------PPPQPKYQ-VHPTRF-A---ELKPAQSHIEIDLT-----TQKARLLNrDDEVVIETDVSTGKPGHE-----------------------TPEGRYRIMEKIEEKRSNRYGRyrdlqtgadlgasadhleppkgsiyegYQMPFWMRLT-ATGIGIHVGYV-----------VPQAALSYGCIRVPKDVQPLIFEKCRPG--TEVEIVR-----------------------------
+>UniRef100_A0A354TKC4 YkuD domain-containing protein n=1 Tax=Verrucomicrobiales bacterium TaxID=2026801 RepID=A0A354TKC4_9BACT
+------------AFEHPRWH-IDEERC-A---AAKPGKVRLDISLA-----SQTAQLLDeDSCVLVEMDVSPGLPGHE-----------------------TPTGEFQVKEKLPLKRSNLYGQyvrpgtgevvvsrtwehegpkpegteylgIAMPFWLRLT-DDGVGVHVGGF-----------ERGRCTSHGCIRCPEKPQQQCWELCRPG--VRVSVHR-----------------------------
+>UniRef100_A0A554LFN5 YkuD domain-containing protein n=1 Tax=Candidatus Berkelbacteria bacterium Licking1014_96 TaxID=2017149 RepID=A0A554LFN5_9BACT
+---------------------LTDHYFLYRPEAIVDY-IKVVI--D-----EQRLYAFEQGKLVMTELISTASTGVNL---------PLENASDY---PHNHLGTFSVLSKNKDAYSQEYDCP-MPFALGYH--GGHFIHQTESKYYH-------LLGQPASHGCVREGPEIAKWLFEHTPIG--TTVEVA------------------------------
+>UniRef100_A0A212T615 Peptidoglycan-binding (PGRP) domain of peptidoglycan hydrolases-containing protein n=1 Tax=Kytococcus aerolatus TaxID=592308 RepID=A0A212T615_9MICO
+--------------------------------------RWVEIDLD-----KQLLVYVRHGRVVEIHNTSTGNGKG-------------YWFNGKYYpHAVTPRGTWYSMWT---TGEDGWRHgqlGKMWRPWFFA--PgGYAIHGSTF-----------IPPYPDSHGCARLTVAAMNRFISygWIRG--DRNLRIYGT----------------------------
+>UniRef100_A0A2E2SUC0 Peptidase_S11 domain-containing protein n=1 Tax=bacterium TaxID=1869227 RepID=A0A2E2SUC0_9BACT
+--------------------------------LVHTQPQLLTVDVG-----ASKAELYQSGQLVWAAPVtELASTE---------------------SWRHVPAGYYAVSAVRSERYSSLAQAY-YTDVVEFN--ERLALHGPAQKN-DGTPA---MA--ASLG--LALGASDAAALAALVASG--TPVLVHT-----------------------------
+>UniRef100_A0A5A5TEK2 YkuD domain-containing protein n=1 Tax=Dictyobacter sp. Uno17 TaxID=2014874 RepID=A0A5A5TEK2_9CHLR
+-----------------------------------AQKKLIDVNLT-----QQKLTAFTDDQVAYTAYVMTGRPGLG-----------------------TPTGTYHVFARESPTtfYSpwapgtANWYPPtHINYALEWK-VGGYYLHDSWWHSQYGPgTTGwhyDPMFgWQEGSHGCIAMALADARWLYQWAPIG--TTVEI-------------------------------
+>UniRef100_UPI000CDE5FD4 L,D-transpeptidase/peptidoglycan binding protein n=1 Tax=Helcococcus massiliensis TaxID=2040290 RepID=UPI000CDE5FD4
+------------------------------------GDTYIEIDIS-----RQTLWLYKNGELVIKAPVVTGMaSDRR---------------------LATPVGVNKVWSREEDRYLRGtnpngssYETH-VHYFMPIGW-TGSGIHDRVNRTeFGG----NVYT-YNGTYSCIAMNLEDTKTVFENTPYL--TPVVTYE-----------------------------
+>UniRef100_A0A136L1W3 ErfK/YbiS/YcfS/YnhG family protein n=1 Tax=Chloroflexi bacterium OLB14 TaxID=1617415 RepID=A0A136L1W3_9CHLR
+------------------------------------AEKTISIDLD-----YQTLSCYEGTREVFFCQISSGKSYDP-----VtGE---------IVDTFATPAGTLLTYWKIVSKNmtagneGAsGYSTPAVPWCTFIA-SGGVAIHGAFWHN---------AFGEKTFTWLCECFTRTRQMDFSLDNS---------------------------------------
+>UniRef100_UPI0015C10E95 peptidoglycan-binding protein n=1 Tax=Clostridia bacterium TaxID=2044939 RepID=UPI0015C10E95
+---------------TTQRLLFSPDAV-ESEEY--VFPYKLVVDIS-----DRRVYVYRwTgdgyRERLGSFKCCVGAPK-----------------------TPTPQGTFQGSGkaGGRWYYFKDFNCY-AQYAWRIQ--GGILFHSVTYSRPNENsGGSTRSLGRAESHGCVRLTVSDAKWIYDNCPAG--------------------------------------
+>UniRef100_A0A0K9MIQ4 Uncharacterized protein n=1 Tax=Bacillus sp. FJAT-27238 TaxID=1679167 RepID=A0A0K9MIQ4_9BACI
+--------------------------------ISDQGIFTIEVYPR-----KHKLIVKKHGKTVKTYPVAVGNPS-----------------------TPTPVGEYKVIYKGKDWGP-SFG----PRWLGLNvPWGIYGIHGTNKPY---------SIGQHLSHGCIRMRNNDVIELFKMIPLG--TKVTIYGHVLGDPSH---------------------
+>UniRef100_UPI0012B3A624 L,D-transpeptidase family protein n=1 Tax=Clostridiaceae bacterium WCA-383-APC-5B TaxID=2606627 RepID=UPI0012B3A624
+--------------------------------KNHKSyNVFIDLNDL-----TLNLVDPVTKKFEKKYPISIGKKE-----------------------TPSPIGNWHVKSKANLKGP--FG----GYWLGLDvPWDTFGIHGTNRPD---------SIGSMASHGCFRMNNYNIIEVFNSVDVG--ASVIIYPGPNf-RFSI---------------------
+>UniRef100_A0A0A1VR06 YkuD domain-containing protein n=1 Tax=Microcystis aeruginosa NIES-44 TaxID=449439 RepID=A0A0A1VR06_MICAE
+----------------------------------TRTETRLLLNLK-----KRRVFVYQVQKIIASYPGAIGRPGWE-----------------------TPTGQFRVIQMVREPVwEHPFTGqlvPSRKnnplgvlWLGFWTNgENFIGFHGTTPEN---------LIGSAVCHGCVRMRDRDIKALFEKVQIG--TSVIVIA-----------------------------
+>UniRef100_A0A2T1DIW6 L,D-transpeptidase n=1 Tax=Phormidesmis priestleyi ULC007 TaxID=1920490 RepID=A0A2T1DIW6_9CYAN
+----------------------------------PKVAakrLKLVVDLS-----DRRVYVYEKDLKKVSYPVAIGQPGWE-----------------------TPIGTSSVSQKYQDPVwQHPITGekvLPGKrnplgkwWIGFGSVgSLLIGFHGTNDER---------LVGQPVSHGCLRMRNSDIGKLYKQISTG--TPVTVKP-----------------------------
+>UniRef100_A0A326TU82 L,D-transpeptidase-like protein (Fragment) n=3 Tax=Thermosporothrix hazakensis TaxID=644383 RepID=A0A326TU82_9CHLR
+---------------------------------KLQNDLVIVVSFV-----EQALRIYQNGKVIYAILIVSGRTEL-----------------------PAVPGIWKPLLRDTNMVfkspfpkgSPYwYEDTPINYGILYH-DGGYFLHDSPWRLdygpgkqFPHTDSGGAASASSGTHGCINMPTEQMRWIYEHTDYN--------------------------------------
+>UniRef100_A0A326U8V7 L,D-transpeptidase-like protein n=2 Tax=Thermosporothrix hazakensis TaxID=644383 RepID=A0A326U8V7_9CHLR
+---------------------------------GKMNERVIVVSLA-----EQVMRAYENGVLKKAMYTTTGRPEF-----------------------PAVPGKWHVLTKKSPDLftssappgSPMaYPPTHLNYTVRYC-YPEYYLHDSDWRLdygpgtqFPHVDSSGNESASTGSHGCINFPVAEMSWIYEFTDIN--------------------------------------
+>UniRef100_A0A326UMK7 L,D-transpeptidase-like protein n=2 Tax=Thermosporothrix hazakensis TaxID=644383 RepID=A0A326UMK7_9CHLR
+---------------------------------KLEKEHVLVLSLT-----EQAVRIYRHGALERSFLVTTGRHHR-----------------------PTPPGLFRLGQHQKNIVlhsydapsSPDyYSPTTVQHAIQFW-ENGYLLHSSPWRQdygpftqFPHRDSGGNPEGNNGSHGCINVPPATLAQLEPSLTEQ--------------------------------------
+>UniRef100_A0A1G0DZ18 YkuD domain-containing protein n=1 Tax=Gammaproteobacteria bacterium GWF2_41_13 TaxID=1798263 RepID=A0A1G0DZ18_9GAMM
+----------------------------FPQTRPATGNKIFIFDPT------YHAWAAydKEGVLVNTGKASGGSYFCPD------VDRA----------CKTIVGNHKIISKgGAGCISHRFPlkthgGAPMPYCMHFSP-KGYAIHGSTE-----------IPDYNASHGCIRVTPAAAKWLNENFVGIG-TTVIVL------------------------------
+>UniRef100_A0A2E9Z8U7 L,D-transpeptidase n=1 Tax=Coxiellaceae bacterium TaxID=2026727 RepID=A0A2E9Z8U7_9COXI
+----------------------------FPPYWETDGNRLIVFNPK------TLSFGIynSNGRKIGAGKAVGGASYSNK------LGRS----------AKTVRGTYTFYRKnGEHYKSGKYPrprgGAPMHYAMHFH--GGYALHGSPS-----------LPDVNASHGCIRVEKQTAGWLSKYFVENNQTQVHIM------------------------------
+>UniRef100_A0A2M6ZLI7 YkuD domain-containing protein n=1 Tax=Deltaproteobacteria bacterium CG07_land_8_20_14_0_80_60_11 TaxID=1973972 RepID=A0A2M6ZLI7_9DELT
+-------------------------------DVFKEYRKVIWINQP-----KQVGIAYQEGKKVFEFPVITGDDET-----------------------TTDPGIYVVKLKDDNYYSRTYDTP-MPYSIFFDLKERKAIHEGEVPSPA-------LKKELATHGCIHVEPPYIKMLYDWADEE--------------------------------------
+>UniRef100_A0A0M4LB26 Uncharacterized protein n=1 Tax=Arthrobacter sp. ERGS1:01 TaxID=1704044 RepID=A0A0M4LB26_9MICC
+-------------------------------------KVVMEADAT-----AHIVHIYVNDKLTKTFLASMGDERFP-----------------------SAAGYLVLTaDKQRFATfdAStiglkpgdpAyYgKLD-VEYATRLA-NSGIFIHLAAPVAIP-------YLGKVnLSHGCIGLDREGASWVFNNMKPG--DLVHTVGT----------------------------
+>UniRef100_A0A387HF35 L,D-transpeptidase LppS n=2 Tax=Streptomyces hundungensis TaxID=1077946 RepID=A0A387HF35_9ACTN
+-------------------------------------NQVAKADLD-----NHRLKLYRDGQLVKDIPMSGGTPGgdKA-----------------------SWRGKTVLMAKEGTINmnSEtvglgKtYD-KMVDYSMRLT-WSGMYAHAAPWND-R-------WFGSAnMSSGCIGMSTSDARFVYDTVQVG--DPFEIVGD----------------------------
+>UniRef100_A0A4D4L9T7 Uncharacterized protein n=1 Tax=Streptomyces violaceusniger TaxID=68280 RepID=A0A4D4L9T7_STRVO
+-------------------------------------PRISKVDIK-----NHTMTVYEDGQKQKTIPISAGQPSYP-----------------------TWNGTMVVLDKAPMVNmtSEsvgiaDpYN-KDVPWAVHLT-TSGTYAHAAPGTR-AS-----ATSARPtRATAASACPSPTASGSTTAPPEA--TSSKSPA-----------------------------
+>UniRef100_A0A522QDU5 Uncharacterized protein n=1 Tax=Jatrophihabitans sp. TaxID=1932789 RepID=A0A522QDU5_9ACTN
+-------------------------------------KQVTVAddtvAGP-----GRIKVYDQAGNVVRTMNTAMGRHGgttvngayINF---------------------YTLNGSYTVLGHENPASmcSDsyglpanapgGyACEN-IPWATKIS-VDGIYLHELDTTL-Y-------AQSHGldVSHGCLNLNRADAQWFFQNSLVG--DPVVVKGA----------------------------
+>UniRef100_A0A561EUC8 L,D-transpeptidase-like protein n=2 Tax=Kitasatospora atroaurantiaca TaxID=285545 RepID=A0A561EUC8_9ACTN
+-------------------------------------SQTSVADLK-----AGTLTVTTDGQVTATYPIIGGAPEHR-----------------------TWAGKLVVSEQFPQTKmdSTtvglgDeYNIPDVPHAQRLT-ASGTFIHGNYWAPAS-------AFGKAnLSHGCIALQDVkgaaDpntnGAKFYRSSMAG--DVVEVINS----------------------------
+>UniRef100_A0A5Q5CG18 Big_10 domain-containing protein n=1 Tax=Mycobacterium sp. (strain JLS) TaxID=164757 RepID=A0A5Q5CG18_MYCSJ
+-------------------------------------AHVSIADDT-----TKQVSVYDNGVLVRTMPTSMGMGGtetiggttLSF---------------------WTPPGVYTVLDKDNPVImdSStfglptnsrlGYRET-ISYATPHQ-HRRHLPAPVGLHG-V-------GAGQHqPLARLPEPQRRERQVVLRLLGPR--RRGRGPQH----------------------------
+>UniRef100_UPI000348765B L,D-transpeptidase family protein n=1 Tax=Nocardiopsis salina TaxID=245836 RepID=UPI000348765B
+-------------------------------------ELIATMHVP-----DHEMEIEIDGEHDRTFEVSNGAANrefDT-----------------------TTSGTHVLMERHEDLTmdAAtlgideddpDyYRLD-VKYAVRTS-NSGEFVHEMSSN--G-------NIGSAnTSNGCTNLRMDDAQWFFENTLMG--DILDTTGT----------------------------
+>UniRef100_UPI0009BF1E9C L,D-transpeptidase family protein n=1 Tax=Propionibacterium freudenreichii TaxID=1744 RepID=UPI0009BF1E9C
+-------------------------------------AHVLRCNNS-----SQYMGVYQNDNLVKNLPVSTGTAAHP-----------------------TLSGTKVIMEKLTSMImdSStygvpatsaeGYKLK-VDSCQRVT-WSGEFIHAAPWSV-A-------QQGNTpSSHGCVNVSPTEAAWLMSFTQVG--DPVEFTGG----------------------------
+>UniRef100_UPI000F7880F2 L,D-transpeptidase family protein n=1 Tax=Micrococcaceae bacterium C1-50 TaxID=1629051 RepID=UPI000F7880F2
+-------------------------------------KVELVADAA-----NHVADVYINGALARHFLVTMGDERFP-----------------------SASGYLVLLnDKQRKAHfvAStiglkpgdpAdYgEVD-VNYATRLT-PSGEFIHQATDSAVP-------FIGQVnLSHGCIGMDAAGASWVFQNMGPG--DLVHVVNS----------------------------
+>UniRef100_UPI001012621D L,D-transpeptidase family protein n=1 Tax=Kocuria koreensis TaxID=592378 RepID=UPI001012621D
+-------------------------------------KHYAFVDNN-----TKSMKMYVNDNMVREAPVTLGSKDWP-----------------------SVTGKLVILEQAKKYKfdAKtlglkkgdeHwYePFE-ATNTSRLT-DSGAFVHQAEPSAYN-------VVGVAnISHGCIGLLPDDAEFFYDTFEVG--DIVETQNT----------------------------
+>UniRef100_A0A0R2Q659 Uncharacterized protein n=1 Tax=Acidimicrobium sp. BACL27 MAG-120823-bin4 TaxID=1655564 RepID=A0A0R2Q659_9ACTN
+-------------------------------------PSHVEIYLP-----EQVMIVFKKDEPVLITHISSGTGES--WCEEvkidPGEDGNKtdeQIKIGICGDAITPPGIFYFYNRRTGMRETKLG--SLYNPVYFN--YNIAVHGAIL-----------VPLKPASHGCVRIPMSVARYFPALVAYG--DRVYVFD-----------------------------
+>UniRef100_A0A6C7E6R4 Uncharacterized protein n=1 Tax=Ilumatobacter coccineus (strain NBRC 103263 / KCTC 29153 / YM16-304) TaxID=1313172 RepID=A0A6C7E6R4_ILUCY
+------------------------------------STNHTEVYLP-----EQVLAVFHDDTPVMITHMSSGTGEQ--WCEEvtisPGEYGNRdgeeAIVRGECGISNTPGGVFEFYRQVEGIRDSALG--SMWNPMYFN--YGIAIHGAQN-----------VPLQPASHGCIRIPLGISETLQSLASIG--DMVYVWD-----------------------------
+>UniRef100_A0A1G2KX43 Peptidase_S11 domain-containing protein n=1 Tax=Candidatus Sungbacteria bacterium RIFCSPHIGHO2_02_FULL_52_23 TaxID=1802274 RepID=A0A1G2KX43_9BACT
+------------------------------EALIWDRRDFVFADMR-----AGIMTWYEAGVPRAIFPIvAAPKPG---------------------GFFDIPQGFYTAQDKAVQHVSKSGRMR-LSSVVYLF--GNYMIHAAPAAR-TSA-----ALAgAALDETGIQLAPPDAKEFFARVASG--TPILVSY-----------------------------
+>UniRef100_A0A1H0SXB3 Lipoprotein-anchoring transpeptidase ErfK/SrfK n=1 Tax=Nakamurella panacisegetis TaxID=1090615 RepID=A0A1H0SXB3_9ACTN
+--------------------------------------KIARVDDR-----TKKMEVFVNGKLTKTYPVSLGMDKrvTVGGT---------------DISFVTPSGTYVAQEKYVVKqmSSATYGLPvnsslgydsKIPLAVRFS-NEGIFVHSAPWSVD--------DQGVRnVSHGCINLPPAGGQWFYDNFGYG--DILTVKGTSTQ-------------------------
+>UniRef100_A0A1I6REQ7 Lipoprotein-anchoring transpeptidase ErfK/SrfK n=1 Tax=Saccharopolyspora flava TaxID=95161 RepID=A0A1I6REQ7_9PSEU
+--------------------------------------QRSVGDID-----NHTFTVYQDGQEIRKMDASYGQSAY-----------------------PTQYGIHVATERHDSVrmNSWSWGGPargapgsydeVLPNAVRIS-NNGEYVHTNTASTG--------AQGNSnVTHGCVNLSSTDGRWFLEFTQIG--DPVEIIGTEKP-------------------------
+>UniRef100_UPI0012B993A7 L,D-transpeptidase family protein n=1 Tax=Nakamurella sp. YIM 132087 TaxID=2665158 RepID=UPI0012B993A7
+--------------------------------------RIAEIDDA-----TKQMVITVDGKVTDTVPVSLGMNQttTGSDGE--------------EISFVTPSGIYVVQEKYEVKqmSSATYGLPvdadlgydsSIPLAVRLS-NSGIFVHSAPWSVD--------DQGVRnVSHGCININPEAAQWFYDNFSYG--DVVVVKGTSTE-------------------------
+>UniRef100_A0A1G0WKN1 YkuD domain-containing protein n=1 Tax=Ignavibacteria bacterium RIFOXYC2_FULL_35_21 TaxID=1798452 RepID=A0A1G0WKN1_9BACT
+--------------------------------IFLLCDYYIKLSLK-----NQNVEIIFRNDSSISFKVSSGTNRLEK-----G--------------KDTPTGIYTVQSKSPIAISKQFENAELINWIGFN--GNIGFHGLKGNSyYW-------RLGKaPSSHGCIRISREDGEKLYSMVKRG--TPVMVVD-----------------------------
+>UniRef100_A0A2V7JK87 YkuD domain-containing protein n=1 Tax=Gemmatimonadetes bacterium TaxID=2026742 RepID=A0A2V7JK87_9BACT
+------------------------------EPGalVRNAPLELRADLR-----ARILTASQGGSTLRTYSIAIGQPKY-----------------------PTPPGIYMIRKIV---WNPSWKPPpgsdwakgktekgpgdpgnPMKvVKIFFK-EPDYYIHGTDD--VE-------SLGGAESHGCLRMDPGEVADLAKMVMEHGG------------------------------------
+>UniRef100_A0A2V8AR23 YkuD domain-containing protein n=1 Tax=Acidobacteria bacterium TaxID=1978231 RepID=A0A2V8AR23_9BACT
+-------------------------------------GRWILVSLP-----SHEITVLEDGATVRTiTAFSTGREGHL-----------------------TPLetdAKIDPSRRFLHHTSSLYQSkagkpADMPFALFFD--GACAFHQGDPK--------------VESHGCVHLGPADAAWLFNWVGNQ-EVHVRISGPR---------------------------
+>UniRef100_A0A2Z5BRJ1 L,D-transpeptidase n=1 Tax=Microbacterium sp. PM5 TaxID=2014534 RepID=A0A2Z5BRJ1_9MICO
+---------------------------------ARDGVLHVYVSIA-----AQHLWECSGENLLMDSAVTTGASGFD-------------------PDYATPTGTFAISRMTRDTELVghdrhgSWDDH-VAYWMPFD-DGDVGFHDASWQTfpFG-----TDGYLQNGSHGCVHMPTDAIAHLYKDVEVG--TRVTVR------------------------------
+>UniRef100_D1YLQ2 YkuD domain-containing protein n=1 Tax=Lactobacillus gasseri 224-1 TaxID=679196 RepID=D1YLQ2_LACGS
+---------------------------------NGIGNNYIVVSLT-----DQKLWIYKNGKCVVTlDTIVTGTVETkiaH-------------------KNLETPTGVWYIQYKESPSVLKginddgsKYSVD-VKYWMPFT-LTGCGFHDNSWRKnWS-----KTAYLNDGSYGCVNLKPSDAPKVWNNIEKN--EAVIIYK-----------------------------
+>UniRef100_UPI00129C4BD3 peptidoglycan binding domain-containing protein n=1 Tax=Aerococcaceae bacterium DSM 109653 TaxID=2664441 RepID=UPI00129C4BD3
+------------------------------------GGSYIEVDMT-----YQMMYVYIDGVAVISTPIVTGQI--G---------------------TNTVPGAYAIWNMESPSELTGFNprtgvdyVQPVSYWLAFD-YTGQGIHDANWQPtFG----GDAYI-TNGTMSCINIPTNIMAQVCENIYIE--IPMIVFQ-----------------------------
+>UniRef100_A0A351K3V0 YkuD domain-containing protein n=1 Tax=Acidimicrobiaceae bacterium TaxID=2024894 RepID=A0A351K3V0_9ACTN
+--------------------------------------GAIVHGVD-----MREL---DDdEQVVRSYLVS-GSrYRNE------------------------VPGWHKVYSRSESALGWDLQ-ADLPYMIRYTQteRGHIGFHAIPSWRDsDEKLQTIDELGQRLSGGCTRQAPQDAEFLWSFADVG--TRVLVL------------------------------
+>UniRef100_A0A4R1WST1 L,D-transpeptidase-like protein n=1 Tax=Kribbella sp. VKM Ac-2568 TaxID=2512219 RepID=A0A4R1WST1_9ACTN
+--------------------------------------RRIVISQG-----QNWVWLIDArGKVVRQAGII-DNPRYL------------------------KPGTYRSGAKCGRAakIRKNTD-GASLYLNNFVRfaPCGIGFHQIPTYKRgGAQIHADWLLGTnaKASHGCIRVSKAMSSYIWSFTTTG--TRVVVI------------------------------
+>UniRef100_A0A174BF83 Uncharacterized vancomycin resistance protein n=1 Tax=Blautia obeum TaxID=40520 RepID=A0A174BF83_9FIRM
+------------------------------------GYTYIEIDLT-----AQRMVFYKDGTPTADAQIVSGNPFVpN---------------------CATPVGCYTTGEMKSGCTvnGEDYPSA-VNYWIPFD--GNLGISDAPWRMdFGG-----QLYEFEGTHGSICAPSDQVQIIFSNVEKN--TPIVIYE-----------------------------
+>UniRef100_A0A3A0FTD6 YkuD domain-containing protein n=1 Tax=Proteobacteria bacterium TaxID=1977087 RepID=A0A3A0FTD6_9PROT
+--------------------------------------RGLVINVP-----EMQLYDFTAKdQPPEVFAIAIGDSIDP-----------------------SLVGEFKIGNKRANpaWNvpkSilAERPElpPVVPpgpdnplgpYWMTIG-HTSYGIHGSNNEW---------SIGREATHGCIRLYNDQIEKLFHRTKPG--TPLRLEY-----------------------------
+>UniRef100_A0A3A0BAJ1 YkuD domain-containing protein n=2 Tax=Bacteroidetes/Chlorobi group TaxID=68336 RepID=A0A3A0BAJ1_9BACT
+----------------------------------TDQDTWIELVLP-----EQHAYLhYRDGR-KVKYPVSTGAGNFGV-------------------SVESRPGLFAIFYRNAHHISSQFNSADMYHFMAFN--QGIGFHSINGTGYYV------HLGVrPSSKGCIRLTHDGARELFNATEMG--------------------------------------
+>UniRef100_A0A3A0A923 YkuD domain-containing protein n=1 Tax=Chloroflexi bacterium TaxID=2026724 RepID=A0A3A0A923_9CHLR
+-----------------------------------SGERWIEVDLS-----DYTVTAWVGNVAVLREQVVVGSPYS-----------------------PTVQGTFHISTKVRMQDMSgigwngePYFEANIPWVMYFY--EDYAFHGTTWRT---------TFGIADGQGCVVMPNHVAQFLWEFAETG--TRVWVH------------------------------
+>UniRef100_A0A1V5YJN1 Putative L,D-transpeptidase YciB n=1 Tax=Chloroflexi bacterium ADurb.Bin180 TaxID=1852857 RepID=A0A1V5YJN1_9CHLR
+--------------------------------PEAYYKRLVLVDQD-----LQTMYVYQDGVLIRTIPVSTGRPDQpET---------------------ITPAwegevgryvGTFFSFGT--------YQ--DEGWYLFYH-YGGMLIHGNPYIKEGDQkvYQELDALGTrPASHGCIRLPPDEAVWFTSWQPQG--AHMIIRA-----------------------------
+>UniRef100_A0A0G0Z5Z6 Capsule synthesis protein, CapA n=1 Tax=Parcubacteria group bacterium GW2011_GWA2_42_18 TaxID=1618821 RepID=A0A0G0Z5Z6_9BACT
+--------------------------------QPNIAEKIIRLDFK-----QNKLEVYEKSELLKSFTiINSihslpaGRRAD--------------------IF-EkVPAGEYRVLQKKEEHFSHEAGVY-LPLAIQFL--GDFSIHGVPFYHGG------SEINNNFNKDGVRLNQEDAKWLFDWSELG--TLVSVSS-----------------------------
+>UniRef100_A0A1G2DMS1 PGA_cap domain-containing protein n=2 Tax=Candidatus Lloydbacteria TaxID=1817910 RepID=A0A1G2DMS1_9BACT
+--------------------------------LVPTKGKAVRVDFE-----TGVVTLFSEGKEVGRFTaRTHPDEFS--------------------PW-RVLQGTYTVSARTNTHYSPLAGAS-FKDAVLFA--ENGMLRAAEEGEKN------LPAHAGFA-----LAEADAHAVFTFADEA--TKVLVLN-----------------------------
+>UniRef100_A0A2H0RED4 PGA_cap domain-containing protein n=1 Tax=Candidatus Vogelbacteria bacterium CG10_big_fil_rev_8_21_14_0_10_51_16 TaxID=1975045 RepID=A0A2H0RED4_9BACT
+--------------------------------SPPARGKLVGVDLD-----QSTVHLFEDEALVASFPlVGAAPEGS--------------------LW-ELAPGNYKVKTKRALHTSPITRVQ-VPWAVHFF--GNSFFHGEPLAPSS------TASGPLLTRLASyaslKLAEDDAEKLYRFAEIG--TPVSVLS-----------------------------
+>UniRef100_A0A2H0RKJ3 PGA_cap domain-containing protein n=1 Tax=Candidatus Vogelbacteria bacterium CG10_big_fil_rev_8_21_14_0_10_45_14 TaxID=1975042 RepID=A0A2H0RKJ3_9BACT
+---------------------------------DGESAHELFLDMD-----KRLLSLMEGGMEVAKLPlITIPKAGS--------------------LW-EIAPGEYKVGRIDRDHLSPITKAI-YPFAVQLY--GNAFLHGEPRMDIQ------SILQSAATALAIpsisnpptsfRLLDRDAERVFAFVREG--DKVLVSG-----------------------------
+>UniRef100_A0A1Y4BC69 Uncharacterized protein n=2 Tax=Olsenella sp. An293 TaxID=1965626 RepID=A0A1Y4BC69_9ACTN
+-------------------------------------NRYIDVDLT-----AQHAVFY-dNGTVIWEADITTGQPNLG---------------------QETPTGVWTVTNRKSratdgDINLKgpidpatgepEWDSH-VDFWLGFV-GNLVGFHNAPWQSvFGG----DIYT-YYGSHGCIRMSYADGQALYNVGRVG--DVVVVHK-----------------------------
+>UniRef100_A0A1G5S6D0 Lipoprotein-anchoring transpeptidase ErfK/SrfK n=1 Tax=Pseudobutyrivibrio xylanivorans TaxID=185007 RepID=A0A1G5S6D0_PSEXY
+-----------------------EGRFKNLNEEVSGiivepevavvepepvqpvslvgtvfdnlpYPTYVDVDID-----NQTVSYFENNVLVMQSPCVTGKTSAG---------------------RGTPRGTYSVKAhiPGKTLRGPTWKVW-VDYWMRFT-DSNIGLHDATWRtaEeFGG-----DTYINHGSHGCVNLPHEFAAQLFNKVNIG--------------------------------------
+>UniRef100_A0A3A9SRB9 Murein L,D-transpeptidase n=1 Tax=Butyrivibrio sp. CB08 TaxID=2364879 RepID=A0A3A9SRB9_9FIRM
+-----------------------EGRFQNAQEEALGkpLNTYIDIDLE-----NQHVTYILDGNIAFETDCVSGDVSKN---------------------RETPTGVYAIYAhvSGQYLEGPTWKNW-VDYWMPFS-PGGCGLHDATWRKkFGG-----QIYKTNGSHGCVNLSHDAAKELFNMVGIG--------------------------------------
+>UniRef100_A0A3N6PGA1 Murein L,D-transpeptidase n=1 Tax=Paraburkholderia sp. DHOA04 TaxID=2305225 RepID=A0A3N6PGA1_9BURK
+-----------------------------------KARRIICVDKT-----TYTATIYEGGKPQWSFYIRPGDARGT--------------------RYQTGEGYGRIARKSRNHVSSVYGTP-MPYAMFISWDkfpaTGEAFHLSYQFQSE----G--YYG--ASHGCMGVGSEVAmKRLWDTIPNG--TRVFVYR-----------------------------
+>UniRef100_A0A3D5C157 YkuD domain-containing protein n=2 Tax=Chloroflexi bacterium TaxID=2026724 RepID=A0A3D5C157_9CHLR
+--------------QAGYAPVVDLAALHFDQK--ASGTRHVQVDLT-----RQVVTFFLDGEPVHVAGTSTGLYPDF-----------------------TPPGRFRIFSQIPRARliSNgstaaGYNWSDVQHIQYFT-EEWIGFHYAYWHN---------DFGRTRSAGCVNLRLHDSQWAWSFCKIG--TPVIV-------------------------------
+>UniRef100_A0A6J4UWJ5 Uncharacterized protein n=1 Tax=uncultured Thermomicrobiales bacterium TaxID=1645740 RepID=A0A6J4UWJ5_9CHLR
+--------------KGADLwaklgegryvyarnvgRTAPVAPLDPPPGA-PTVGKWIDVGLV-----QQLITAYDGRTPIRTVEVTTGMAGWE-----------------------TPPGFYQILNRVANETmtSGaigaehHYKLEDVLFTQYFT-DRGHALHFAWWRT---------EetIGRPGSHGCVNLLLDDARFFWDWAGIG--TPVYV-------------------------------
+>UniRef100_A0A6L7JDM0 L,D-transpeptidase n=1 Tax=Chloroflexi bacterium TaxID=2026724 RepID=A0A6L7JDM0_9CHLR
+--------------PRKGARLYDPTEFLPSLG--PLRGRWVDVNLA-----TQLVTLHSAEGPVFQYTTSSGKDLFE-----------------------TPLGSFHVNRKVKTERmtGLwgtqeFYDISNIYNTVYFT-WEGHAFHYAYWHD---------DFGTRRSHGCLNMRLPDSALTYEFCQVG--TRIDI-------------------------------
+>UniRef100_A0A0J8Z1R6 ErfK/YbiS/YcfS/YnhG superfamily protein n=1 Tax=Coprobacillus sp. 8_1_38FAA TaxID=450746 RepID=A0A0J8Z1R6_9FIRM
+-------------------------------------QTYSEVDIS-----EQMVYVFQNGQVVYSAKCVTGLPsDAT---------------------RSTKTGCWYIKDKKLEYTltGADYKTP-TKYWVRIT-WTGTGYHYMNRSDWDKWTPD--LYKTRGSHGCINLQLEDVKNIYNLVSLR--DMVFIH------------------------------
+>UniRef100_A0A1V6FBK6 Putative L,D-transpeptidase YkuD n=1 Tax=Candidatus Cloacimonetes bacterium ADurb.Bin088 TaxID=1852835 RepID=A0A1V6FBK6_9BACT
+------------------------------QPRNIKRGYYITIFKS-----KFQLNLYRDGKLLHSFPVAVGKNPGD-----K-------KKAGD---YTTPEGWYNVKNIkPSSGWSFDFQDgkgpipgAYGPWFISLNttraqnfskeGWTGIGIHGTHDPA---------SIGTMVTAGCIRLDNANLQILKKELDQA--PDLSQVQ-----------------------------
+>UniRef100_UPI000978E7D9 L,D-transpeptidase n=1 Tax=Acidaminococcus timonensis TaxID=1871002 RepID=UPI000978E7D9
+------------------------------QPLEPGKKYSILVDKS-----EHKLYLKDGDAVVRTWGCAIGKGGlGQ-----K-------ERRGD---NMTPTGTFTIDEIdDASGWSHDFGDgngeiqgAYGPWFLSLDteelsqgNWDGIGIHGTHDPA---------SIGTDASEGCVRLDNTNLQQLKQVAYIG--MPVTIQD-----------------------------
+>UniRef100_A0A1G2VLV4 YkuD domain-containing protein n=1 Tax=Parcubacteria group bacterium RIFCSPLOWO2_01_FULL_48_18 TaxID=1817743 RepID=A0A1G2VLV4_9BACT
+----------------------VPRDFEWAKTYSPLPdslpqvrhlKQFVLIDLG-----GQYLAGYENGKQMFWYPISSGFNPRQTPHAYIRDIVRIDsIQSGRMYKdslpdLSTPTGFFSVLWKDSTHVSGTFFkidsltsdsiGAPMPWGMMFF--PAYWEHGTGDNPWG-------LPGYPASHGCVRTFDKDAEALYRWVKHR--TLILIVE-----------------------------
+>UniRef100_A0A1D2SKI7 Uncharacterized protein n=1 Tax=Lautropia sp. SCN 69-89 TaxID=1660104 RepID=A0A1D2SKI7_9BURK
+--------------------------------------YMKELQHR-----LRQVGLyqgAVDGKVHFTREARFAMPGWE-----------------------SPEGEFRIWYMNSDTVSKIFGeRTPMPYAIFYQ--GNVAIHFSQDFADKG------YES--GSHGCSQLRDyRVAKWLYEQVKVG--DRVVV-------------------------------
+>UniRef100_A0A537WVU1 L,D-transpeptidase n=1 Tax=Actinobacteria bacterium TaxID=1883427 RepID=A0A537WVU1_9ACTN
+----------------------------------SPVLNRVVVHRA-----ARRIEVWRGNRLLLRALAAVGRPGM-----------------------ETPLGNFYVTARFVPdDPF--LG----VFAVETSaysrlteWPGGgkVGIHGTSEPQ---------LLGQAVSHGCVRVSNATARALKRLAPLG--TPIEVADD----------------------------
+>UniRef100_A0A538DW25 L,D-transpeptidase n=1 Tax=Actinobacteria bacterium TaxID=1883427 RepID=A0A538DW25_9ACTN
+----------------------------------ESVRARIVVDLS-----ERRVTLYRSGARILTSKAAIGSAAT-----------------------PTPTGSFYVNQRLIPtDPNGPFG----PGAVGISafsnvltgWTQGgpIAIHGTDEPW---------SIGRRSSFAGERRPGARRGEPRGLrrgrgRVGG--DEAGSRRCDEGRV-----------------------
+>UniRef100_UPI00128E4AE2 L,D-transpeptidase family protein n=1 Tax=Demequina flava TaxID=1095025 RepID=UPI00128E4AE2
+----------------------------------SSTDVAVHIYLE-----ERELELMNGDDIALASEVVIGAPES-----------------------PTPPGTFFLTDPLDFssNPSGVYG----AYALGTNgysetldeFNGGdpqIAIHGTDQPE---------LMGQNISNGCIRVPNDIVLELADAMELG--TLVIVHASR---------------------------
+>UniRef100_A0A2N2E533 YkuD domain-containing protein n=1 Tax=Firmicutes bacterium HGW-Firmicutes-12 TaxID=2013773 RepID=A0A2N2E533_9FIRM
+--------------------------------MNTSSKYKIVIDRH-----NHLLYLTDHtNTVLSRYPVGIGRES-----------------------SPTPTGVFRVVNIVTNPRSFRSEVLDAVFGSVWiglS-EPHYGIHGTDKPE---------SIGTNLTDGCIRMSNDDVNQLSRFIKIG--TPVYIY------------------------------
+>UniRef100_UPI00054E3A0C L,D-transpeptidase n=1 Tax=Lachnospiraceae bacterium AC2029 TaxID=1458462 RepID=UPI00054E3A0C
+-------------------------STSKAQSYSSNTSYLILVNLS-----EQKTYVFSGSkgawNPAKEFTCSTGTSD-----------------------HPTPTGEYKTTMRTTYFNSFGYRCW--WATGFIGG--EYLFHSSPYTMTD-TPqvCADYTMGRPSSHGCIRMRLDDAKWIYDNIPIG--TKVVIY------------------------------
+>UniRef100_UPI001433677A L,D-transpeptidase family protein n=1 Tax=Lachnospiraceae bacterium TaxID=1898203 RepID=UPI001433677A
+------------------------KMHERAQIYSSSTNYLILVDRA-----ACKVGIYTGKagfwNQTKFWSCSPGKPS-----------------------TPTVAGTFKVGIKGYYFDSGSSRCF--WYTQFRG---NYLFHSVLYRKTS-KPsqIIDGRIGMQLSHGCVRLDINNAKWIYDNIPQG--TTVVVY------------------------------
+>UniRef100_A0A2B9DTS3 L,D-transpeptidase n=5 Tax=Bacillus TaxID=1386 RepID=A0A2B9DTS3_BACCE
+---------------------------------IATP-KYLVFKRF-----ENKLYYVKHKLLIKEFLIITDQSKK-----------------------LIPAGRYTVVYTFSKHYSYKN-IKEKTLNYQLIslkstKTNDvnYGICETNREN---------NTKNPINVDCIYMKNIDIQWLHSQVREG--TTVIIQ------------------------------
+>UniRef100_A0A2C1BSN4 L,D-transpeptidase n=1 Tax=Bacillus cereus TaxID=1396 RepID=A0A2C1BSN4_BACCE
+---------------------------------STVKGKYILIKRS-----EQKLYYVKSKLLLKSFPVETSCDES-----------------------PTPAGRYTFVYKEEKRPFYKGNiaggVSNNPLGEQWLdlninGAKGntFGLYGTNRVG---------SIGIKGSTRCIRMKNADVEWLYNHVARG--TPVIIH------------------------------
+>UniRef100_UPI00046F60FE L,D-transpeptidase n=1 Tax=Paenibacillus ehimensis TaxID=79264 RepID=UPI00046F60FE
+---------------------------------LEEEGVYLLIDKS-----SNQLSVMVNGRAAYRFAVATGRTGS-----------------------LTPTGTFHIVTKIVKPWYVRKQipggDPRNPLGTRWMginvpGSGGyrYGIHGTNRPY---------SIGSSASSGCVRMHNKDVEWLYRHIPLG--TVVVIRD-----------------------------
+>UniRef100_A0A076HH51 Protein erfK/srfK n=1 Tax=Synechococcus sp. KORDI-52 TaxID=585425 RepID=A0A076HH51_9SYNE
+------------------------------------PSKQLVLHRS-----SRQLILLDQGQVRLRVPAAVGTQGWE-----------------------TPLGEHRVLFKTVDPvWRHpgtGVLvppgggNPLGSRWIAFY-QDCsnpggwdgekvvqvrgcshVGLHGTPHRW---------TVGRAVSHGCVRLFDEHIRRVFDLVDVG--TPVVVL------------------------------
+>UniRef100_A0A399WXK3 YkuD domain-containing protein n=1 Tax=Armatimonadetes bacterium TaxID=2033014 RepID=A0A399WXK3_9BACT
+--------------------------------LEPKVEKRIEVDLE-----AQMLRAFEGDTLKFEFQCSTGRNN------------------------ATPEGEWPIRQKRRYNRAlPEYGSVPIPWSLCLDIvvngrRKRIAIHAHKS-----------VPRYPASHGCIRLKYSDAPKLFEWAEVG--------------------------------------
+>UniRef100_A0A402BJ57 SH3b domain-containing protein n=2 Tax=Dictyobacter alpinus TaxID=2014873 RepID=A0A402BJ57_9CHLR
+-----------------------------------TEGQMVDVNLS-----AQWATFCNNGKVDNSFAITSGQPDLP-----------------------TPTGIYHVFNKQSptTFYSPwpvgspYYYePTHINYALEFK-EGGFFLHDAWWRSTYGPgtnvphtdPQFGEM---TGTHGCVVMSTDQAGWLYGWAPMG--TTVNIHY-----------------------------
+>UniRef100_A0A1V5IQU5 Putative L,D-transpeptidase YkuD n=1 Tax=Actinobacteria bacterium ADurb.BinA094 TaxID=1852790 RepID=A0A1V5IQU5_9ACTN
+--------------------------------VPLGAKGIIVVDIS-----EYTLRFYSYGRLLKAFPCVTGRPGL-----------------------PTPIGRFKIYARGMWP-GGPYG----SRIMSYH--PPCAIHGTNEPHlLR-------RFPRNFSHGCTRLYNSHAIWLYDHAPLG--TPVWN-------------------------------
+>UniRef100_A0A3A4V4B1 YkuD domain-containing protein n=1 Tax=Actinobacteria bacterium TaxID=1883427 RepID=A0A3A4V4B1_9ACTN
+--------------------------------VSAAYSNFIVIDRR-----TYMLYYVKYGKTVRSFKCIVGQPGY-----------------------PTPGGNWSIVSKQVNPTwynphkdwsagmpesipggpGNPLG----VRGMFLS-ADQIIIHGNNNEGlFN-------DKVRAYSHGCIRMKNAEIVWLYARIPVG--ANVKI-------------------------------
+>UniRef100_A0A6L8W9U8 L,D-transpeptidase family protein n=1 Tax=Sneathiella sp. DP05 TaxID=2606216 RepID=A0A6L8W9U8_9PROT
+---------------------------------------GFTVNIG-----DMRLYYKgKTEGEIRSWPIGIGREGR-----------------------RTPVGAMTVTELREnpTWRP-TRRmreldpdlpaaVPPgpnnplGKYAVRIG-WDGYVLHGTNKEP---------GVGRRVSSGCVRLYDKAIEEVFNLAKVG--MPVTLID-EPLKVGW-DGKAV---------------
+>UniRef100_A0A1V5PG97 YkuD domain-containing protein n=1 Tax=bacterium ADurb.Bin363 TaxID=1866927 RepID=A0A1V5PG97_9BACT
+-----------------------------------KFEKCIIIEIG-----KQRLHFYNLwGSFHKEFLCSTGAGE------------------------TTPVMNTMVYAKVSCPVSAQYNAR-MPYWLEIS-SNGiYGIHALDLWENP---YYLDYLGQPASHGCIRLSPENAKWLYEQVDVG--VPVFVLY-----------------------------
+>UniRef100_A0A5Q4FEQ5 L,D-transpeptidase n=1 Tax=Balneolaceae bacterium TaxID=2053516 RepID=A0A5Q4FEQ5_9BACT
+---------------------------------LAVADMRIEVSIN-----NRELYVFSGREKIATYPVAVGKPAWP-----------------------TRSGSWAVYEVVWNPwwHPPDeewawYRAI-MApgdpdnplgraQLIYDA--PRs--IHGTIEPS---------SIGRAVSHGSIRVTNEVAMKLARQVMES--TGIVYGEEWYEEVERDRSRNVRI-------------
+>UniRef100_A0A6J4RAE4 Uncharacterized protein (Fragment) n=1 Tax=uncultured Solirubrobacteraceae bacterium TaxID=1162706 RepID=A0A6J4RAE4_9ACTN
+-------------------------------------DWSLHVDSS-----RRRLELRRAGRRVRSLPVAVGRPG-----------------------TPTPLGRYATTDELLTRRPDsPYGCC----IIALS-GHQTRLVEGWPGgdrlaihatpqlE---------TIGQAASLGCMRARAADVRMLMRRVPLG--TPVFVSA-----------------------------
+>UniRef100_F7NME4 YkuD domain-containing protein n=1 Tax=Acetonema longum DSM 6540 TaxID=1009370 RepID=F7NME4_9FIRM
+-------------------------------------KKHIVVNLK-----NMRLSYFEEDTFIKEYSIGIGKPP-----------------------TPTPPGNYQVLEKLTFDSPAasewDFGSR----RLVLS-SDKTCLHGSWNG----------PVEGYVSGGCVRMYNPDIEELFDKVEIG--TAVSMVEG----------------------------
+>UniRef100_A0A2V8CGL4 YkuD domain-containing protein n=1 Tax=Acidobacteria bacterium TaxID=1978231 RepID=A0A2V8CGL4_9BACT
+---------------------FDPDAK-PAAPAADAGDVAIQVSRE-----ESALRVTRaDGSPLFFAPVTTGSQHD-----------------------PLPPGNWTVVGVQWHppfHYnpnlfwdakpqDTKATIKPGPnnpvgvVWISLN-LEHYGIHGTPEPG---------HVGHTESHGCVRLTNWDAARVASLVKRG--TPVVFK------------------------------
+>UniRef100_UPI000DD82B88 L,D-transpeptidase n=1 Tax=Rhizobiales bacterium TaxID=1909294 RepID=UPI000DD82B88
+---------------------------------MRQNIARIEADKT-----TGQVTAYDnRDVILAAYPATVGSEDN-----------------------ASPGGTHRVTASHGCpflGTiqrstlskgrtTRSAPFPRAPmdrsevSGSIQP-SQPMAFMERPIP----------TLSTKSGHRCVRLTNWDAEELAGMVKPG--VVVRFVN-----------------------------
+>UniRef100_A0A0J0YJQ8 Ykud domain-containing protein n=1 Tax=Actinobacteria bacterium IMCC26207 TaxID=1641811 RepID=A0A0J0YJQ8_9ACTN
+---------------------------------NSGSGRRVVYSME-----QQRVWWVEEdGSVVHTYLVS-GRYKTP------------------------GEGTYSVFSKSRYTTSVGGG-ASMQWMVRFA--QGsdaaIGFHSIPVNRRGQPLQSEDELGSYRSHGCVRQSNWNASLLYEWAQIG--TQVVVVK-----------------------------
+>UniRef100_A0A6I2XXN4 L,D-transpeptidase family protein n=2 Tax=root TaxID=1 RepID=A0A6I2XXN4_9ACTN
+---------------------------------SRERGKRVVYDKA-----LMTIWLIDDrEQVVARFPVV-GRPDRP------------------------AAGVYRVYSKSEASANPIQK-LTFKNMVRFA--RGestgaaIGFHDIPRTYDGRPIHGENVLGLPLGAGgCVRMATDASEVVYAFARLG--TTVEVLA-----------------------------
+>UniRef100_A0A358AQQ5 YkuD domain-containing protein n=1 Tax=Clostridiales bacterium TaxID=1898207 RepID=A0A358AQQ5_9FIRM
+-----------------------NGDYEEVTDRPPADTYKLVVDYH-----NQCVYAFSKdekGnfiNLERVMICTTGGNGN-----------------------WTPEGTYDMGDTYHRF--GFFVNF-DCYAQYWTqMHGSFYFHSILYNARSAetyTMSSYNQLGSPGSHGCIRLFVPDARWIFENCAPG--TECVVTT-----------------------------
+>UniRef100_A0A1V2PEQ3 YkuD domain-containing protein n=1 Tax=Kribbella sp. ALI-6-A TaxID=1933817 RepID=A0A1V2PEQ3_9ACTN
+---------------------------------APNKPNGLYVNKT-----CQMLYQVVNNTYRRIVWVSTGAAGYDT---------------------PNRTgKVWR-KWAGA-HESSLYDDAYMYDSIYFLKdRPGIALHGSRANS-L-------VKTYPASHRCIRVMRPQIHEIFQETKIG--TRVSVYG-----------------------------
+>UniRef100_A0A4R0HIR5 YkuD domain-containing protein n=1 Tax=Kribbella soli TaxID=1124743 RepID=A0A4R0HIR5_9ACTN
+---------------------------------APTRSPGIYVNKT-----CQILYQIVGKTYKRIVWISTGGPGYET---------------------PNRIgKVWR-KWAGA-HESSLYEDAYMYDSLYFLKdRPGIALHGSRVNS-L-------VKPYPDSHRCVRVVRPEIHQIFTDTPIG--TKVQIYG-----------------------------
+>UniRef100_A0A3D2INL0 YkuD domain-containing protein n=1 Tax=Lachnospiraceae bacterium TaxID=1898203 RepID=A0A3D2INL0_9FIRM
+----------------------------NKKTgVRGNEKYLIWVSLD-----KQRVNIFRASgkewRLHRVYKCSTGGVHT-----------------------PTRACWTTVGFKRPWFDN-------LKWYTEVV---GGGMHKWPGRINP------AIYGKhVASHGCIRLSEKDAHEAYEMIPVG--------------------------------------
+>UniRef100_A0A3D2IQU6 YkuD domain-containing protein n=1 Tax=Lachnospiraceae bacterium TaxID=1898203 RepID=A0A3D2IQU6_9FIRM
+----------------------------NSKKINSQTEYMIWVSTN-----MQSLNVFKGSnrnwELVKSFRCSTGMAGY-----------------------DTPIGYKVIQSKQLIFHSVQWGSN-LQYFMSFG---GSGIHKWPGVGIE------GNIGRhPCSHACVRLGRSAATWCYQNIPVG--------------------------------------
+>UniRef100_A0A2V9V9M5 L,D-transpeptidase n=1 Tax=Acidobacteria bacterium TaxID=1978231 RepID=A0A2V9V9M5_9BACT
+-------------------------------------KRHVVVSIP-----DRKLALLENGAVLMVFPIAVGADA-----------------------SPSPTGQFQIVTRlaNPTYYHPGLVIPpglDNPigtRWLGLN-TKGYGIHGTNAPR---------SIGEATSHGCVRMRNRDIKVVGPATSVA--QAevpQDQPAEAQ--------------------------
+>UniRef100_UPI00130E7685 L,D-transpeptidase family protein n=1 Tax=Lachnospiraceae bacterium TaxID=1898203 RepID=UPI00130E7685
+---------------------------------SLTGPWSIKVQRGTASnGYQCFVVVYRGNTAVKAFVCSTARAGC-----------------------TTPAGTFTIKDKLYWHELMgpTWG----QYCSHIT--SDILFHSVPnTSYNnpyTLETSEYNKLGTAASAGCIRLSVKHAKWLFDNVPVG--TKVTVSN-----------------------------
+>UniRef100_UPI001475BAA5 L,D-transpeptidase family protein n=1 Tax=Longimicrobium terrae TaxID=1639882 RepID=UPI001475BAA5
+---------------------------LATAPAAAQGSMEIVVNVP-----AGRLDVIQDGARVRSYPVSVGTAGHA-----------------------TPTRQASIRRMVwnpswtppdaawardEEPASPGWGNP-MGRVkIHLF--EDYYVHGTPAR--N-------ErlLGQPASHGCIRMRNADVMELAQLVLRADGAAVS--------------------------------
+>UniRef100_A0A1W1C046 Miscellaneous hypothetical/partial homology n=1 Tax=hydrothermal vent metagenome TaxID=652676 RepID=A0A1W1C046_9ZZZZ
+---------------------------------ANGRNTLLKVDVS-----EQRVKLFVNGKIALSAPCTTGAKHkLE-------------PNTKTYRDKHTPIGTFKIMEKIAAKKSTIfgemyrhgkkvyhgdrrkyrgpkakYVGHTMHNWMRLT-SGGVGLHASK--YIK---------RYPGSNGCVRLPFKVAKTIFSKVRPG--TKVIVVN-----------------------------
+>UniRef100_A0A2V7W8I2 YkuD domain-containing protein n=1 Tax=Acidobacteria bacterium TaxID=1978231 RepID=A0A2V7W8I2_9BACT
+-------------------------------AEAPREGTVITVDLS-----TNQAYLFRDGELIRKSAAATGSEKIL-------------KQGRRVWWFRTPRGRYSVLAKIADPVwhKPDWAfveeGKKVppedsplrqekgklgKYALDLG--ERVMIHGTNEPW---------TIGKKVTHGCIRLPHDMLSLLWKETDVG--TTVVIYESQ---------------------------
+>UniRef100_UPI0005F8421F L,D-transpeptidase n=1 Tax=Williamsia herbipolensis TaxID=1603258 RepID=UPI0005F8421F
+---------------------------------DGVGGKSIVVSIS-----EQRMRMCDTSSLVEASYITTGIDNRT---------------------DRTPTGTWKIVAEETDRYlvGSDYRVF-VHYWMPFF--GDFGFHDSPWQNFDY--GSPR-YRTNGSRGCVHVPGATMASLYKWAGVG--TTVTI-------------------------------
+>UniRef100_A0A2R3QD46 Peptidoglycan-binding protein n=1 Tax=Melaminivora sp. SC2-9 TaxID=2109913 RepID=A0A2R3QD46_9BURK
+-------------------------------------GRVICISRQ-----QKKMSLVDNGKIRFTREARFAMPGWE-----------------------SDEGEFRIWYMNHETVSKIFGErTPMPYAIFYD--RNVAVHYSQDFA---------DKGYAgGSHGCSQLRDyQVAKWLYEQVKVGD--RVVV-------------------------------
+>UniRef100_A0A257QF91 YkuD domain-containing protein n=1 Tax=Verrucomicrobia bacterium 21-51-4 TaxID=1970609 RepID=A0A257QF91_9BACT
+----------------------------------PVTEHAVHVSIQ-----EQKLRHFVGGQLHRAYTTASSISTPSS-----------LEGS-----FATPLGLHAIADKIgheaplgmvfkgRKPTGQFY-WDapeEDKQTRLVtsrilrlrgleeglNAgpgvdtyDRYIYIHGTNRE---------QHLGTASTIGCLVLSNQDVIDFFNDIPEG--SLVLIES-----------------------------
+>UniRef100_A0A2D8VGQ4 L,D-transpeptidase n=1 Tax=Opitutae bacterium TaxID=2026771 RepID=A0A2D8VGQ4_9BACT
+----------------------------------ETTDHVLVASVK-----RQAIGHFHNGTSVKAYRMSSSKRPPSC-----------KEGS-----LGTPWGLHEVCQKIgageplgtvfegRASLGLRY-WEcseGKQAKNLIttrilrlmglqeglNLggsvdtfERYVYIHGTNHE---------DRLGKPSSSGCLQMSNDEVSELFDVVPLG--SHLYISI-----------------------------
+>UniRef100_A0A520VVC2 L,D-transpeptidase n=1 Tax=Burkholderiaceae bacterium TaxID=2030806 RepID=A0A520VVC2_9BURK
+----------------------------------NLTTQNLQLFYS-----NKESWIYgDERwsQMniIKdlffETKISSAEKGIGQ-----------VIDS-----LQTPLGRHYIRAKIgkgyrensvfvgRRFTGEFFEPSllsKYPDRDWIltrilwlsglevgfNRlgnvdtmKRYIYIHGTPDS---------VAMGTKGSKGCIRMRNSDIIRLFDLIPEY--TTVNISL-----------------------------
+>UniRef100_A0A6B2LWY5 L,D-transpeptidase n=1 Tax=Puniceicoccales bacterium CK1056 TaxID=2706888 RepID=A0A6B2LWY5_9BACT
+----------------------------------KRTDDVLIAVLG-----EQILQRWQADQLVESLPFSRSKKLLSC-----------EQDS-----LGTPWGLHEVAAKHgdgqpagmvmvgREPIGERWQDRpdAGPDQpCLVttrilrlrglepglNAgpgvdsfERYIYIHGTNKP---------ERFPENISAGCLLMLDEPLTKLYERIAVG--THVFIFK-----------------------------
+>UniRef100_A0A6N8VNC2 L,D-transpeptidase n=1 Tax=Gammaproteobacteria bacterium TaxID=1913989 RepID=A0A6N8VNC2_9GAMM
+----------------------------------EYARHpLALVDTR-----RQRLYLVKRLHLCGQYPVSTSRYGMGA-----------IKDS-----YRTPPGIHKVIAKIgegeplyrhfkaRCPTDKIAEANpyat-ISGTDAIctrilhlgglepriNRggyhdseQRCIYIHGTVDE---------KRIGRLSSIGCIRMKNRDVIEVFNTLQQN--SIVYIMP-----------------------------
+>UniRef100_UPI00035D5F9B L,D-transpeptidase n=1 Tax=Moraxella boevrei TaxID=346665 RepID=UPI00035D5F9B
+----------------------------------MRTYPFIQIFVA-----KQHLILQLSEQHFTSFVISTAKNGVGQ-----------QNGS-----GRTPLGKHQICEKFgenlpinsvfvaRQFTGEIYDDVlakQFPDRDWIltrilwldgceqgfNQgknalgncdtrSRYIYIHGTPEC---------EPMGIPMSHGCIRMRNADILAIFDQVSVG--TIVEIFP-----------------------------
+>UniRef100_UPI00035FF918 L,D-transpeptidase n=1 Tax=Verrucomicrobium sp. 3C TaxID=1134055 RepID=UPI00035FF918
+----------------------------------APAGIWFHVSVW-----EQKVRVLRGKEQTWEAMVSTALLGCGE-----------EPGS-----YRTPRGWHFICEKIgegsplgaefqgRQPTGFLWTLDap-WREQSLIltrilwlagmephnLTtrERFIYFHGTNRE---------DAIGKPMSKGCICLRNEEMVQLFEQSSIG--TRVFIAE-----------------------------
+>UniRef100_UPI00129BF54E L,D-transpeptidase family protein n=1 Tax=Endozoicomonas sp. OPT23 TaxID=2072845 RepID=UPI00129BF54E
+----------------------------------VSPSVHINVFID-----SQTLELTDDNGVLHRYSVSTASKGTGQ-----------QEGS-----WQTPLGRHIIRAKIgdgcplhtvfvsRRPTGEIFSSElqeNYPVRrDWIltrilwlsgtevgfNRlgnvdtmRRYVYIHGSPDH---------ATMGKPGSKGCIRMHGKDLIELFDRIQAG--ISINIVN-----------------------------
+>UniRef100_A0A1F5AHE5 YkuD domain-containing protein n=1 Tax=Candidatus Aminicenantes bacterium RBG_16_63_16 TaxID=1797273 RepID=A0A1F5AHE5_9BACT
+----------------------------------YPRGNFIVVDSA-----RNVLLLKKNSEVIRQAVVSCGSGSVL-----------EEPGGGRKWIFDTPRGAFQVESKLLNptWVKPDWAfieeGKKPpekreermesgvlgDYALGFG--EGFFIHGTLY--TR-------LLGRSVTHGCIRVGDADLKAIYEAASIG--AKIFIF------------------------------
+>UniRef100_A0A077MDA4 YkuD domain-containing protein n=1 Tax=Tetrasphaera jenkinsii Ben 74 TaxID=1193518 RepID=A0A077MDA4_9MICO
+----------------------------------AGKSTYLVAHQT-----CQVLFYVEGKQYRRVFASSMGVYGHG-----------------------TPNGSYSLGNTLKGwYCSTLYPesctnhsegwfasvsrYGNMYNPRQVV--GAIYVHGSTS-----------VPPYPASHGCIRTTVKDADWMYKYVgtN--ARAPIFVTG-----------------------------
+>UniRef100_A0A4P2PXU6 YkuD domain-containing protein n=1 Tax=Sorangium cellulosum TaxID=56 RepID=A0A4P2PXU6_SORCE
+----------VDYLEARDGALVRAGDVVrvdplpRAPAWAARGQKWIDVSIE-----RQSLVAYEGTRPVYVTLVSTGADGLGD------------PKTT----RSTIQGLFRIHTKHVTVTMdgdeedeDPFDFRDVPFVQYFT--EGFAFHAAYWHD---------DFGTPRSHGCVNMSPLDAAWLFEWTTPE--------------------------------------
+>UniRef100_A0A1F7CMH3 YkuD domain-containing protein n=1 Tax=Candidatus Peribacteria bacterium RIFCSPLOWO2_12_FULL_53_10 TaxID=1801930 RepID=A0A1F7CMH3_9BACT
+------------LPEQFDQQVMEESTTIITGvlqgidPAAYTGAKAIRIYLG-----NQAAFLTESGVVVKTYRISSGAPA-----------------------TPTPQGEFQIYKMQELRVSSQAVPYRMPNYMAFTKNRAFGLHGLPYLGNSaeksaYWNEAQDHIGTPVSHGCVRFLPEEAVEIYEWAEIG--------------------------------------
+>UniRef100_A0A1W1CBY6 Mll1184 protein n=1 Tax=hydrothermal vent metagenome TaxID=652676 RepID=A0A1W1CBY6_9ZZZZ
+----------------------------------RSYSLYIKVEIY-----RQVMKVYRENRLVYKWPVSTGRKGFE-----------------------TPLGSYRPIFIRENYNSKVCNRLFLKNVIFLK--NDLAIFGANTDR---------PLKRGDAYRCIKLGNSNSKKLYNLVQQYGKRRVKIR------------------------------
+>UniRef100_UPI00157C22E8 L,D-transpeptidase family protein n=1 Tax=bacterium TaxID=1869227 RepID=UPI00157C22E8
+----------------------------------GIAGKAIIISLS-----QQRLLACQDGSAYLSTLVTTGQPALP-----------------------TPTGHFTILAKYPSYYMVslcrpgtycWYPSTWVYDAMEF--SPNYFIHSWWE---PSYGPGT-EDElTYASHGCVHVPMGSLQMLYDWAPIG--TQVIIV------------------------------
+>UniRef100_A0A174KM15 Putative L,D-transpeptidase YkuD n=1 Tax=Parabacteroides distasonis TaxID=823 RepID=A0A174KM15_9BACT
+-----------------------------------DGTNRVIVSKQ-----DMRITVLCPqGDTLAVFPIACGRNYGD-----KQQE----------WDFRTPEGHFVIESVEdTSLWPRDSTRqetpgeIYGPRFFRLKapGFTGIGIHGTANPQ---------VIPGRITMGCIRLSNEDLKAFSRLVDVD--TRVDILP-----------------------------
+>UniRef100_UPI00106E5C47 L,D-transpeptidase family protein n=1 Tax=Brevibacillus sp. CFH S0501 TaxID=1644114 RepID=UPI00106E5C47
+-----------------------------------LEPLQIVVNLS-----SYRMTLMSGSQPVRSYPIGIGkQS-------------------------STPEGYFQIQQKINQPRghDHIYGTRGMI----FH-AGDYAIHGTNAPK---------SIGAAMSLGCIRLLNPDVEELYSFVTPG--TDVIISG-----------------------------
+>UniRef100_A0A1C5Y8L6 L,D-transpeptidase catalytic domain n=2 Tax=Clostridiales TaxID=186802 RepID=A0A1C5Y8L6_9CLOT
+------------------------TEFVNDNKIKSLTNYLLVTSIK-----ERMTYVYEREddvwELLYKWSCTVGKPS-----------------------TPTIKGVFSIGVKYDAITSEGSRVF-VKYAVNII--GEYYYHSILYDINTGeIY--DDRLGVAISHGCIRLDTNNAKWIYDNIPID--TTVVI-------------------------------
+>UniRef100_A0A2P2BSC8 SH3 domain protein n=1 Tax=Romboutsia hominis TaxID=1507512 RepID=A0A2P2BSC8_9FIRM
+------------------------EEFVNENHIKSDTGYIIITSTK-----DKLTYILKKVdyrfKVLHVWSSTVGKSS-----------------------TPTIKGIFKSGIKYPAIGGEKSSA---KYAMNIV--DDYYYHSILYDPKGLyVI--DDRLGVAISMGCIRLATENARWMYDNIPIN--TTIII-------------------------------
+>UniRef100_A0A6H1X2C0 L,D-transpeptidase n=1 Tax=Romboutsia sp. CE17 TaxID=2724150 RepID=A0A6H1X2C0_9FIRM
+------------------------TGFVNDNKIQSPTNYLMVTSLR-----DKLTYIYRKEnnqwSLIHKWSCTVGKPS-----------------------TPTIKGVFNVGSKYESITSEGSTVF-VKYATNIT--GEYYYHSILYRLSDGeVY--DDRLGVAISHGCIRLATENAAWIYYNVPTG--TTIII-------------------------------
+>UniRef100_A0A3N1DAU3 Lipoprotein-anchoring transpeptidase ErfK/SrfK n=1 Tax=Actinocorallia herbida TaxID=58109 RepID=A0A3N1DAU3_9ACTN
+---------------------------------------------------KFRAKAYRNGKLVRSWPVSMGSGG--EV-----------VNGTDVLI--TTSGIHLVMAHSKLerMISPG--keegdpgyyDEMIPWATRIS-GSGEYIHQNMDDPT--------CLGKRnCSHGCVRSPSGDAKWFMNWSYRG--DRVII-------------------------------
+>UniRef100_UPI000B83A7CF L,D-transpeptidase family protein n=1 Tax=Sinosporangium album TaxID=504805 RepID=UPI000B83A7CF
+---------------------LDRGRVPRPLVRTAAAPKRVEINLT-----RQLMHVYRRNRLALTTHISTGAQRRY-------------CHNGRCGYAITPVGDYRVYRQNNGWQTGPLG--SMYKPMYFR--GGIAMHGSTS-----------VPLYPASHGCVRLPLNVAHNLHHLVHKG--QPVYVR------------------------------
+>UniRef100_A0A4P6YTB0 Murein L,D-transpeptidase n=1 Tax=Weissella cryptocerci TaxID=2506420 RepID=A0A4P6YTB0_9LACT
+-------------------TDLKTPQYFWTKATGGKyinvkktKNLNVEVSLK-----KQRVYLKSGHKVVYTMMASTGKKT-----------------------SKTPKGHYTLHSGGKWFWSAAYGGA-KYWREFAA--GGYYFHTIDTVSPNGKysVVNGNKLGQAVSHGCVRLSIADAKWFYKNMPNG--VKVYV-------------------------------
+>UniRef100_A0A2A4T5E8 YkuD domain-containing protein n=1 Tax=Candidatus Kaiserbacteria bacterium TaxID=2030810 RepID=A0A2A4T5E8_9BACT
+----------------------------------------LILSKS-----FHRFWLFDNGEVIKTGPMGSARTQDG---------------------YDTPPGSFSVTRKEGPeYMSGQYPdtdgEPNMPWAVFFN--RGIAFHGSKNFH---EIDGNLFLHLDNSHGCANATRDDAQLSNEILQIG--------------------------------------
+>UniRef100_A0A073KFI9 ErfK/YbiS/YcfS/YnhG family protein n=2 Tax=Bacillus gaemokensis TaxID=574375 RepID=A0A073KFI9_9BACI
+------------------------------------PQQKLIVNTT-----TNKMDFYQNDAFIRSFSVATGKAH-----------------------TPTPLGSFVIVNKikNRPYYTKRIkggdprnplgDRW-MGLNMAGTWGTTYAVHGTNNN--Q-------AIGKNTTLGCIRMYNEDIHWLFDRMEKQ--ATVIVTK-----------------------------
+>UniRef100_A0LP34 ErfK/YbiS/YcfS/YnhG family protein n=1 Tax=Syntrophobacter fumaroxidans (strain DSM 10017 / MPOB) TaxID=335543 RepID=A0LP34_SYNFM
+----------------------------------AGLPKFILIAKD-----IPFLGWYQQGKLIGDTQICIGKMFG-----------------------WTKAGVYRVLDKDIDHISQSYTNafgepAPMPYALRIY--ERVWVHMGD------------VIGGYCSHGCINLPMGPSEEVYEWADKG--TMVVIVD-----------------------------
+>UniRef100_A0A2R7YZ16 YkuD domain-containing protein n=1 Tax=Nocardioides currus TaxID=2133958 RepID=A0A2R7YZ16_9ACTN
+---------------------------------EAYTRHLVRIYLG-----SRRLELLKDGQPVGSWLVAIGAPA-----------------------TPTPLGRTFILGQFVDEDQK-FSPVILPLGAHSKtldsYGGGpgtVALHGWSDA--T-------VFGKAVSHGCVRVPDDALRALRV-VPLG--TPVLIDKS----------------------------
+>UniRef100_A0A534HW41 L,D-transpeptidase n=1 Tax=Gammaproteobacteria bacterium TaxID=1913989 RepID=A0A534HW41_9GAMM
+---------------------------------LYTDDYRLRVDLR-----LRRLTVWDRGLVIESAGVGVGKAV-----------------------TPTPAGTYYIVSRIQPLDPSSvYGRFAFGLSAHSNvyrtFGfGGdgrIGLHGTNDA--A-------AIGHEVSHGCIRTTNPTILRLARIIPLG--TPVEIVR-----------------------------
+>UniRef100_A0A537Y1F1 L,D-transpeptidase (Fragment) n=1 Tax=Actinobacteria bacterium TaxID=1883427 RepID=A0A537Y1F1_9ACTN
+---------------------------------TRTVTYFIRIHQS-----QFKLDLFNNGALQRSFTVAVGAPS-----------------------TPTPNGNFFVWATQDWNSAP-YAVGIFALSGFSPvldnWP-GggrAGIHGWQDT--S-------ILGTQASHGCVRMGPADFGQLMHTIPLG--TPVEISP-----------------------------
+>UniRef100_A0A6J6EL62 Unannotated protein n=1 Tax=freshwater metagenome TaxID=449393 RepID=A0A6J6EL62_9ZZZZ
+---------------------------------IAATEYRMELDLS-----TFHLKVFKGPDVFVETDVVIGKDS-----------------------TPTPVGHYFVTEKIKNSSDTGvYGAWILPINGYSEvldtFDSGlpqVAFHGTNQP--E-------LVGTKASNGCVRIPNDVVTKIAETIPAG--TPIDIFATTP--------------------------
+>UniRef100_A0A512CK23 YkuD domain-containing protein n=1 Tax=Alicyclobacillus acidoterrestris TaxID=1450 RepID=A0A512CK23_9BACL
+-----------------------TGQYLQDtsieRPFIVASDEQVVVRET----SPETLTLYKNGKQIFKSLCNTGVTGA-----------------------ATAPGQYYVHAKELSAtmsgtdpDGETYHIKGVPYVMDLV--GNTAIHGYPRK----------TYGYPQSNGCVELPIKAAKKLYQLVKIG--TPVVIQ------------------------------
+>UniRef100_A0A554LKY8 YkuD domain-containing protein n=1 Tax=Candidatus Berkelbacteria bacterium Athens1014_28 TaxID=2017145 RepID=A0A554LKY8_9BACT
+---------------------------------------IIVIDLD-----SQTLFAYDDEnqdRELKAffisgagpiektdyimdLPLSHRREISEFPPEVRKQVVEALKKTKNHYLSELPhnhLGTFTIIDKDIDHYSDAFRCP-MHYALNYF--EGHYIHSTEPKYYS-------KIGQPASHGCIREREENAIWLYAHSRVG--------------------------------------
+>UniRef100_A0A348ZKI7 Uncharacterized protein n=1 Tax=Eubacterium sp. TaxID=142586 RepID=A0A348ZKI7_9FIRM
+-------------------------PFLLRESPKNYSKIQIEVSIP-----KQHMWMYKGKKIILQSDVVTGLPNPKK---------K----------RQTPVGVFYITEKKPGKYlkGRGYKTW-VDYWMRLT-PTGVGFHDAPWQPRFG----GNRYVVGGSHGCINLPPAFAKKLYDKTESG--------------------------------------
+>UniRef100_A0A2V7W010 YkuD domain-containing protein n=1 Tax=Acidobacteria bacterium TaxID=1978231 RepID=A0A2V7W010_9BACT
+------------------------------------TDQTILVSTA-----ENKVYVRRDRNIIFEAVCSTGKGTT-------------LVDQGRTMVFDTPIGKFRIVSKEENpvwvppdwHYVEearKSGLrvvrlnrgdsidaatgsapapvretgvwgwlgsektppvservlrvkgdtvveirngveRELPpgtmiragnalvippvgvkqrrfdkvlgaFRLNL--GDGYALHGTQQTT---------QLGRSVSHGCVRLGDRDIATLYSIANIG--DEVVIY------------------------------
+>UniRef100_A0A1Q7WZJ1 YkuD domain-containing protein n=1 Tax=Actinobacteria bacterium 13_1_20CM_3_68_9 TaxID=1803475 RepID=A0A1Q7WZJ1_9ACTN
+----------------------------------DGPSRLITVSAR-----DQRLTAYEAGQVVVDTPVTTGRPAL-----------------------PTDIGAMKVLHKDAPWTmqspwpkgSPEWYpDTVVQMVVWFT-KNGEGMHDASWQPAGTLGPGS-QYGPFASHGCIHVPLAAIRTLFTWAPVG--TPVVVYP-GDGSPLasqalqqsVDAMGNPIS-------------
+>UniRef100_A0A1W2CSI9 L,D-transpeptidase catalytic domain n=1 Tax=Clostridiales bacterium TaxID=1898207 RepID=A0A1W2CSI9_9FIRM
+---------------------------------RPNTRYGILLDKK-----EQMMTVYEYGKPIGTVLVSTGLVDEK------------------HPKADTHSGVYLLGTRMAGFERDGHN---YQYPIRID--GSNLIHQLGYAVHNgerSFEEEMALLGSKASHGCIRVDPriteagngINSWWIWTHLPHD--TKIIITPD----------------------------
+>UniRef100_A0A239QNY6 L,D-transpeptidase catalytic domain n=1 Tax=Clostridiales bacterium TaxID=1898207 RepID=A0A239QNY6_9FIRM
+---------------------------------RPNTRYGAVVDKK-----KQTLTVYENGKKLGTAMVSTGFTTAE------------------DRTADTHSGIYLLGTRMDGFGTDGHT---YAYPIRME--RLNLIHQMGYEMKNgerDFSAEMETLGTMASHGCVRVDAriteenngINAWWIWTHMGHD--SKIIVTPE----------------------------
+>UniRef100_A0A359ITH7 Uncharacterized protein (Fragment) n=1 Tax=Propionibacteriaceae bacterium TaxID=2021380 RepID=A0A359ITH7_9ACTN
+-----------------------------------TAGIVICVDQA-----HRKLKWMQDGKVVKTIAIRVGGWAQN----VKTKEWR---------LYPTANGTWKVYDKQVDPPSDTYGSGAMPYSTMFY--PEMYVHYSAGFA---------SDGYtRSSHGCVNVGsLTDTKWVFNNTPIG--TKVYTFG-----------------------------
+>UniRef100_UPI00058E38E2 murein L,D-transpeptidase n=1 Tax=Nigerium massiliense TaxID=1522317 RepID=UPI00058E38E2
+-----------------------------------VKGTVLCASKA-----RRTIYLLKNGVVQRAIPVRFGGFASN----DKGKPPR---------LFPTVNGTYRVYAKDAKAFSTRWDAH-MPYSVKFD--PNMYVHYSGDFA---------RNGYnKSSHGCINVGtMSEAAWIYRNTPVG--SRVVVY------------------------------
+>UniRef100_A0A066TX69 L,D-transpeptidase n=1 Tax=Amycolatopsis rifamycinica TaxID=287986 RepID=A0A066TX69_9PSEU
+--------------------------------------QVVKINTP-----DHQMHVYRGGSQVKSYPCANGLDGEVD--------------------RNTPNGTYIIMSKEPSAIfdNARygYTNVNKKWACRFS-NHGEFIHENQDN-AA-------NIGKTnNSHGCVNLLEADAKDYFDSAIIG--DPVEITGSKLS-------------------------
+>UniRef100_A0A1Q8CN19 L,D-transpeptidase n=1 Tax=Actinophytocola xanthii TaxID=1912961 RepID=A0A1Q8CN19_9PSEU
+--------------------------------------QVVKVHTP-----DHTMKVYRDGQLQATYPSSNGKDADPN--------------------LNTPNGTVIVMSKEPVGDfsNPRygYTNVKKKWAVRIS-NHGEFIHENEEN-RP-------NIGRAnTSHGCINLYESDARKYFDSALIG--DPVEITGSRAN-------------------------
+>UniRef100_A0A2D6Y1A7 TonB-dependent receptor n=1 Tax=Synechococcus sp. ARS1019 TaxID=2024878 RepID=A0A2D6Y1A7_9SYNE
+------------------------------STVPVRAETSVEISLK-----NRYLTLLDDGKVIGKYPVAIGAPE-----------------------SPTVPGQFAVTKMDEApvYHKKGKViapgpknpvgVRYVAYVQIGT--GEYAIHGTAWPNWV-------RLRSAVSLGCIRMLNNDVIQVFNRIKVG--TPVLV-------------------------------
+>UniRef100_UPI0006D0AC80 peptidoglycan binding domain-containing protein n=1 Tax=Lactobacillus collinoides TaxID=33960 RepID=UPI0006D0AC80
+------------------------------------GGTRVEVNLK-----TLEEYAYVDNKLVFSTPVMSGTVTGS---------------------DKTPQGVFYVLYKQRNATlrgendnGTSYASK-VKYWMPFT-EDGVGLHDSSCNQ--AAF-TGTSAT-GVnitLTAVSTTRLRRSRHSGKLFRPT--NQLSFTI-----------------------------
+>UniRef100_UPI000C81FBBF L,D-transpeptidase family protein n=1 Tax=Clostridiales bacterium Marseille-P2846 TaxID=1852363 RepID=UPI000C81FBBF
+--------------------------------VTPSDKYALLVDKL-----TQKLYIFEDGKIIGELICSTGFPTK------------------DQPYNETPAGEFIVVSWVGQFESGSGSGlMYCDLAMRIN--GGTLLHEVPHKLSsdgstRRYANFEAYLGQKASHGCIRIQRAkneqgqNMRWLWDNLKKN--TKVLIWED-KGRTMPdpelPADDTPLY-------------
+>UniRef100_A0A136PEW9 YkuD domain-containing protein n=1 Tax=Chlorobi bacterium OLB7 TaxID=1619898 RepID=A0A136PEW9_9BACT
+--------------------------------------AYLEINLR-----KQRVQLHRRSGGPVSFPVSTGNPYIS-------------------EGMATPAGVFTVQNKTPMAISKQFNDAKLHWWIGIQ--GGVGFHGLDGNGYYW------NLGvRPSSHGCVRMAREDIAQLYKMVRPG--MLILVHGGSPGRIV----------------------
+>UniRef100_A0A401FNV2 ErfK/YbiS/YcfS/YnhG family protein, putative n=1 Tax=Lactobacillus curieae TaxID=1138822 RepID=A0A401FNV2_9LACO
+------------------------------------NSNRVEIDLK-----NLMEYVYVDGKVKVKTPVMSGTVTGG---------------------NKTPQGTFYVLYKQRHATlrgnnndGSKYAS-PVNYWVPIT-SDGVGLHDSPWQPAN-VYGNPSYRS-KyHSHGCLNNPPSIMGKVFANVYVN--EQVIIYY-----------------------------
+>UniRef100_A0A1F6QI30 YkuD domain-containing protein n=1 Tax=Candidatus Melainabacteria bacterium RIFCSPLOWO2_12_FULL_35_11 TaxID=1801609 RepID=A0A1F6QI30_9BACT
+-------------------------------------NFELVLNVA-----AKKLILYTNGEATKEYPVGVGASLT-----------------------PTPLGDFKIVRRIyNPAWVNPFRQSKViapgeknpigQYWLGFAlnkKTQEYGFHATSDLS---------SIGRASTHGCIRLHPDDMKELFNLVKVG--TTVHVIY-----------------------------
+>UniRef100_UPI0015A8EB33 L,D-transpeptidase family protein n=1 Tax=Clostridia bacterium TaxID=2044939 RepID=UPI0015A8EB33
+-----------------------AEKYINGRGIGSKTNYLIWVSKS-----NYTVTAFSGSagnwREVASFPCAIGASS-----------------------SPTVEGSFEYyQQQSRWTYDKFYCGP----IMRFY--KGYALHSTLIRYNGTPYD--NRVGVKISHGCVRIRPEGINWLVQNIPLY--SRVLV-------------------------------
+>UniRef100_R7GSR5 ErfK/YbiS/YcfS/YnhG n=1 Tax=Catenibacterium sp. CAG:290 TaxID=1262767 RepID=R7GSR5_9FIRM
+----------------------------MSISHQTTQAITVIGDGG-----SYaTLTVHTKHngvwTETLSCSARVGRNG-----------------------ItgnkregdgKTPRGIYSFGQAFGVAG-NPGTS--RRWLQVNN---NHYWvddvnssyynklvdasqtgiqwssaeHLISYptayryaialnyNTACTpgagSAIFLHCSTGGATAGCISVSQSDMIRILKMIQGD--TLIGIYQNK---------------------------
+>UniRef100_UPI0009B72FDF L,D-transpeptidase family protein n=1 Tax=Candidatus Riesia pediculicola TaxID=401619 RepID=UPI0009B72FDF
+--------------------------------------EDILINLA-----ELRLYHFLkKKNIVSVYPVGIGQKEASTPT----FEAKIIQMIKKPVWIPTKNI-------RKRYELEGiklpevvpsgINN-PMgMYAMRLSYgKGEYLIHGTNENF---------GIGSRVTSGCIRLRKEDIKKLFSSVKIG--DKVRVIN-----------------------------
+>UniRef100_A0A1F4VD07 YkuD domain-containing protein n=1 Tax=candidate division WWE3 bacterium RIFCSPLOWO2_01_FULL_41_18 TaxID=1802625 RepID=A0A1F4VD07_9BACT
+------------------------------------HDKYLELNKS-----QQRIFTFENGELKETYVVGTGLTA------------------------ETPSGNFRILKKLRMSFS-YWGNWYLPYMMPVGQFpNGnyFGIHEIPYHQdaYGNIySRDENTMGSPATGGCIQMYREDVKELWDWVDIG--TPVIIT------------------------------
+>UniRef100_A0A1V6F126 Putative L,D-transpeptidase YnhG n=1 Tax=Candidatus Hydrogenedentes bacterium ADurb.Bin101 TaxID=1852847 RepID=A0A1V6F126_9BACT
+----------------------------------TPKEFRIVIERS-----TCSLYLLDSRGLFKRYHVGLGKTGHE-----------------------TALGSYVLGNKqkDPTWFKPGAGpiPAGSPenelgsRWMPMVPVkeglpTDLGIHGTIAPD---------TVGQYSSMGCARMTNTDVEELFDLVVRS--TPVDVVD-----------------------------
+>UniRef100_A0A2N2PFB4 LysM domain-containing protein n=1 Tax=candidate division BRC1 bacterium HGW-BRC1-1 TaxID=2013722 RepID=A0A2N2PFB4_9BACT
+----------------------------------PRLNLSVVVDKA-----HRTLTLRNNNQFLKKYRVSINRTDTK-----------------------VPAGDYAIRTKsgkGIDYTDTDTGvitKAGDPanpmgsRALELRRG--VMIHGGATPE---------TMGQYAANGTIGMANQDIEEMYPLVNTG--TQVTIKG-----------------------------
+>UniRef100_A0A2Z4Y6K5 Protein erfK/srfK n=1 Tax=Candidatus Sumerlaea chitinovorans TaxID=2250252 RepID=A0A2Z4Y6K5_9BACT
+----------------------------------PKINPSIVIDKG-----QRTLTLKNNGVFLKKYRVGIHRVETR-----------------------VPAGEYTIQEKyekGTDYTDPASGaviKAGDPanplgsRFLQLRRD--MGIHGTNVPE---------RVGTYTDVGWITMSNADIEEIYSLVRKG--TPVSIKG-----------------------------
+>UniRef100_A0A2H6GSQ3 Putative L,D-transpeptidase YkuD n=1 Tax=bacterium BMS3Abin15 TaxID=2005723 RepID=A0A2H6GSQ3_9BACT
+-----------------------------------SAEKMIVIKLK-----DKTLEFYDAGTLIKKYDVRVGKKP-----------------------TPTPTGDGYIYEKRKRpvfryidppnkgkvikYVTLGSGktikvPRNKMRSLGFRingyDTDKYSIHSTNHTD---------TIGKAISNGCVGMRIEDMLEFYPLIEVN--TKVTIEP-----------------------------
+>UniRef100_A0A060A205 ErfK/YbiS/YcfS/YnhG family protein n=3 Tax=Acidithiobacillus caldus TaxID=33059 RepID=A0A060A205_ACICK
+-------------------RVLIPSEYILPP----KPWVGIVIDIP-----ARRLYYFPPEQkVVYTYPVGIFRPKW-----------------------PDPLGSTRIIAKVKNpsWTvpkNiqEEHakagepipayfppgpDNPMGELALETG-WSQIYIHGTNKPW---------GVGMRVSHGCFHVYPENEVQLFKMVRVG--TPVRSIDA----------------------------
+>UniRef100_A0A135YXW0 ErfK/YbiS/YcfS/YnhG n=1 Tax=Peptostreptococcus anaerobius TaxID=1261 RepID=A0A135YXW0_9FIRM
+-----------------------------------MGDEFIEIDLS-----KQHMWYVKGGEVQVSTPIVSGNPYNG---------------------DATPTGIYPLNYKTRNAVlrGPGYASP-VAYWMPFN--GNIGIHDSSWQAaYGG-----SRYLYAGSHGCINTPYSKVAQIYNLAKEG--MPVVVHD-----------------------------
+>UniRef100_A0A537WRK7 L,D-transpeptidase n=1 Tax=Actinobacteria bacterium TaxID=1883427 RepID=A0A537WRK7_9ACTN
+----------------------------------SIVRDRIVVRLR-----KHTLTRYHEGHPIGRYRVAIARPST-----------------------PTTPGRFFVWARVGy-ADsQGPYG----NFAIGLSgfsevitdWpgGGRMAIHGTSDPS---------AAGEDVSNGCIRVFNPLMAKLIDV-PMG--ATVITVRSR---------------------------
+>UniRef100_UPI0011EFBA5E hypothetical protein n=1 Tax=Actinotalea sp. HO-Ch2 TaxID=2607497 RepID=UPI0011EFBA5E
+----------------------------------SSTDLRLEVRLT-----EHRLLLHRRDEVVLDVAVGVNPQAA-----------------------PAPGTGYFVTELLQPPTpDGVYG----AYAYGLSgappvlsaFaagAGLVALHGTSQPE---------TVGTDTPTGSIRMLDTDVTRLVQEfgLPLG--TPVDVVA-----------------------------
+>UniRef100_A0A3M0Z8T5 L,D-transpeptidase (Fragment) n=1 Tax=Lentisphaerae bacterium TaxID=1932692 RepID=A0A3M0Z8T5_9BACT
+------------------------------------GYWNIRVSKS-----KYVLLLYDGDRLVMAWRVGLGKQN------------------------RTPEGKFVIVDKVINpdWYR-GgrrikFGDPenpLGVRWMALKGteaktatCVGYGIHGTWDRD---------SLGKNRSNGCIRMLNEDVTDLFDILPQR--GTPVV-------------------------------
+>UniRef100_A0A538D392 L,D-transpeptidase n=1 Tax=Actinobacteria bacterium TaxID=1883427 RepID=A0A538D392_9ACTN
+------------------------------------VHTHLYVDRG-----SLTATLKRDGKTIFKTMVGIGKSVW-----------------------PTPRGEFYIRDKLTSFNNPFYGPVAfgtSARSptlTDWPGGGYVGVHGTNQPR---------ILPGHVSHGCIRMRNPAILALARLMPVG--TPLTIR------------------------------
+>UniRef100_A0A0A8WVP2 Putative L,D-transpeptidase YcfS n=1 Tax=Geobacter sp. OR-1 TaxID=1266765 RepID=A0A0A8WVP2_9DELT
+-------------------------------------EQGIVINIP-----DRTMYLFRDGKLASMYPVAVGKPSFK-----------------EKRGWHTPTGNFTIVGKIRDPvwKvplSIknEmksqgkdlpeevppgVGNPLGKYALRTS-IPGILIHGTNAPA---------SIYGFSSHGCIRVYPDHMEQLFRDVRLK--TLGEIVY-RPVKVAQSEDGRVFME------------
+>UniRef100_A0A3D1TCX0 Uncharacterized protein n=1 Tax=Verrucomicrobia bacterium TaxID=2026799 RepID=A0A3D1TCX0_9BACT
+------------------------------------DAAEIWIGME-----QFALWVLNqERHIIAYFPVSIGRKDN-----------------------ARLISDWKIINHADLPsytFDPINYpespeaqslgrrllippgpnSPVGVYWMGLG-QGGIGIHGTPSPE---------TIGSAESHGCFRLQNWNISKLARLAAND--VPVYVRSR----------------------------
+>UniRef100_Q1QG11 ErfK/YbiS/YcfS/YnhG n=1 Tax=Nitrobacter hamburgensis (strain DSM 10229 / NCIMB 13809 / X14) TaxID=323097 RepID=Q1QG11_NITHX
+------------------------------------KAAKVEVDKK-----RQTVKLFDkSNGLIGFYPATVGSEEK-----------------------PSLSGTLKVTTVKRNPtyhYNPAYYfggvhsrkpftiapgpnNPVGTVWISLS-GEGYGVHGTSSPG---------KVSKSESHGCIRLTNWDAERVAEDAGSL--GTTSLSCL----------------------------
+>UniRef100_A0A1H3F4Q7 L,D-transpeptidase catalytic domain n=1 Tax=Acetomicrobium thermoterrenum DSM 13490 TaxID=1120987 RepID=A0A1H3F4Q7_9BACT
+-----------------------------------AKITWICSKKE-----HVLLALSEtDKVIYGGWMVATGRNPGQ-----KL----------KVGDMRTPEGVFYVKSIEDsSGWGSYVDkatkerIGYGPYFIRLEaGWKGIGIHGTDDEHL-------HEIGTDASHGCIRMANDDLLKVVSMSKKG--QKVIILKSLN--------------------------
+>UniRef100_UPI000BF4D8AC L,D-transpeptidase n=1 Tax=Bacillus megaterium TaxID=1404 RepID=UPI000BF4D8AC
+---------------AFTLALTLICGYSGAqASAATPNKDLIIINKY-----YNKLAFFHDGKLEMVEPVATGKSW-----------------------EKTPVGFFKVVNKIKNrpYYTGHiaggdPRNPLGKRWLGINAngtyGDTYGIHGNNNES---------SIGKYVSQGCVRMHNADIEKLYDKVQVN--TPVAITYSYKS-------------------------
+>UniRef100_A0A146G7S4 L,D-transpeptidase catalytic domain cotaining protein n=2 Tax=Terrimicrobium sacchariphilum TaxID=690879 RepID=A0A146G7S4_TERSA
+-----------------------------------DTHHRILISAA-----DQRMVVFRDDEKIAEYPVSTSKYGLGSR-----------P-----NSNATPVGLFRIKKKIGEGApaGAVFKsrratgeiiaiDapgrdPIVTRILWLDglepgnrnsFDRLIYIHGTPEER---------NIGFPASYGCIRMKSVDVISLYETVGTG--AKVLIIPGS---------------------------
+>UniRef100_UPI00038268A7 L,D-transpeptidase n=1 Tax=Rubritalea marina TaxID=361055 RepID=UPI00038268A7
+-----------------------------------RNRSEMLVSVA-----DQKMLLSQRGQPVKVYPVSTSKFGLGDV-----------P-----KSKCTPLGTMKVARKFGDGAvpGTVYKsrkptgeilkpDapgrdPIVTRILWLRgteeqnrnaFDRYIYIHGTPEER---------TIGSATSYGCIRMKSHDVIDLYNRVGIN--ASVTVVTQP---------------------------
+>UniRef100_A0A2N2A353 Uncharacterized protein n=1 Tax=Firmicutes bacterium HGW-Firmicutes-9 TaxID=2013790 RepID=A0A2N2A353_9FIRM
+-----------------------------------PDKYYILLDLR-----NQIVTVFERdesGeytKVVRRFLCASGRTDVD------EADP---E----DEATPTPRGIWKIGGRERFGKFANFSSSYARYWVQIV--GSIYFHSILFTKRDinAmNRQAFNDMGNKVSHGCVRLYVEDARWLYYYACPG--TTIEISASEP--------------------------
+>UniRef100_UPI0015B6EB7D peptidoglycan binding domain-containing protein n=1 Tax=Ruminococcaceae bacterium TaxID=1898205 RepID=UPI0015B6EB7D
+------------------------------------GNTYVEIDLT-----KQTLWYFENGKKILTAKIVSGLANA----------------------SETPVGVYSVIDKKQNQLlqgTlsngKPWQEY-VTYECVLN-LNGVNISDSSKHKtFGGT-----VYKKsgN-RGGYVSLAKKDANTIYDKVEKG--TPCVIYK-----------------------------
+>UniRef100_UPI00136F36F4 L,D-transpeptidase family protein n=1 Tax=Nitrosomonas sp. JL21 TaxID=153949 RepID=UPI00136F36F4
+-------------------KIIIPTQFVLPN----APREGIVINLA-----AMRLFYYPkvkPGeqQRVITHPVGIGRVEW-----------------------KTPEGTTRVASKKENPAwiptpSirKEHaengnplpavvppgpDNPMGTHVLKLA-WPTYAIHGTDKPP---------SIGLRGSHGCLRMYPEDIIGLYNAVPVG--TPVSIVNQ----------------------------

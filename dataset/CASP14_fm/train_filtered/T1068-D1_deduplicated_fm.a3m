@@ -1,0 +1,742 @@
+>T1068-D1: 
+QRHVQLNPELRFERPDKEYIPLPPLRDMQDMVKVLFLLSTDKKRYPDGRHRTLDYFRVAVEMFVTEVRQEYKRQYQQAQRNGRAMQRFTWKNSGELAICFACCCDNVKLLYDSLQPGPLKPLWDAFVGQLPPMLIVQSRVPETMLSSQTYHTKYMDWVKGVRFPSVADRRVKVETYLRS
+>A0A0M9G0T6	288	0.706	2.132E-85	0	178	179	90	280	677
+QHYVHLNPDLRFERPDNEYIPLPPLRDMQQVPTVLRRISVDKQRYPEGRHRMLDYFRVAVEMFVTEVRREYRQQYLSAQKNGKAMQRFTWKNSGELAICFACCCDMLKLLYDSIQPGPLKPLWDGFVGQLAPLLIIESRVPVGILSEQTYRVKYMDWQKGgtryvgeqhstnVRFPSAKDRRLKIETYLTS
+>UniRef100_A0A1X0P8L9 Uncharacterized protein n=1 Tax=Trypanosoma theileri TaxID=67003 RepID=A0A1X0P8L9_9TRYP
+IRRVQLNPKLLFEKTDVGWIDVPA-----GAGSVLRRIVANYDDFPEGRYRVVDYFRTAVEMFITQLRHEYTHQRQQAQKAGRAMARFTWRNKGELAICFAASCDMLKLLYDRLRPGPDRPSWEGFVNQFILFLINESRVPPTILTEQTYNTKFLDWRKGgtryqgdqlasnVRFPSAEERRLKIETYLRS
+>tr|W6KY18|W6KY18_9TRYP Uncharacterized protein OS=Phytomonas sp. isolate Hart1 GN=GSHART1_T00003110001 PE=4 SV=1
+NRTIQLNPDLRFERPDNEYIPPPRQQNTSQQSSLLRCILNDRTHYPEGCYRMVDYFRVAVELFLQQVRLEYKQHVEMARQNGSSMTRFVWRNKSDLAVYFACCCDTMKLLYDTLQPGPMKPLWGTFAQQLSSLLIAESHLPSTVLTEQTYHTKYMDWQKGgtryageqstanIRFPSVQERRLRIEAYLRS
+>tr|S9TUB0|S9TUB0_9TRYP Uncharacterized protein OS=Angomonas deanei GN=AGDE_14860 PE=4 SV=1
+VAPLAKNPSLQFEKPDHEYIPLPNVRDERTRNRLLRVFLLDRTRYPERRHRMLDYFRASVEMFVHQVVVENVEQSASAAKHGRQHTRFIWKNKGELAICFACCCDMLKLFYDTIQPSPIKPVWDAFVKQFAQFAIEESKIPTSILDEKTYNIKYLDWQKGgtryvgesasnVRFPSVQERRVKVETYLRS
+>UniRef100_UPI0004F43DDB hypothetical protein n=1 Tax=Trypanosoma grayi TaxID=71804 RepID=UPI0004F43DDB
+IRRVQMNPGLQFEKPDSSWIETPP-----SASYSLRGVVANYDVYPEGRYRLIDYFRTAMEMFLTQVRQEYKQQYNQAQKNGRTMTRFTWRNKGELAICFAVCCDMLKLMYDRFRPGPERPTWEDVVDQFIRLLMNESRIPSTILTQQTYNTKFLDWRKGgtryqgeqlasnVRFPSAEERRVKIETYLRS
+>UniRef100_Q4CUX1 Uncharacterized protein n=2 Tax=Trypanosoma cruzi TaxID=5693 RepID=Q4CUX1_TRYCC
+LRSLQLNPELVFEQPDASWIDIPH-----GSGSVFRRVVTNYDDFPERRYRVIDYFRTAVEMFVTQVRQEYTHQYQQAKKNDRANIRFIWRNKGELAICFAACCDMLKLLYDRFRPGLERPNWDGIVGQFVLFLMAESRIPAAVLTEQTYKTKFLDWRKGgtryqgeqltsnVRFPSAEERRTKIETYLRS
+>UniRef100_A0A422P299 Uncharacterized protein n=1 Tax=Trypanosoma rangeli TaxID=5698 RepID=A0A422P299_TRYRA
+LCSLQLNPNLLFEQPDSGWIDIPH-----GSGSVLRRVVANYDEFPERRHRVIDYFRTAVEMFIAQARHKYMHQYKQGQKNKRTKIRFIWQNKGELAICFAACCDMLKLLYDRLRPGPDRPSWEGFVSQFVLFLMAESRIPSTVLTEQTYNTKFLDWRNGgtryqgdqlasnVRFPSAEERRIKIETYLRS
+>tr|G0U6D0|G0U6D0_TRYVY Uncharacterized protein OS=Trypanosoma vivax (strain Y486) OX=1055687 GN=TVY486_1004850 PE=4 SV=1
+FRAVKLNRDLTFALPDNCRINIPK-----GTSSVVQTVATDYELFPEGRYRTIDYFRAAVEMFLNEVRSEYEQQMRRSKKKDSSNVRFTWGNKGELAICFAGCCDMLKLLYDSFSSGHCKAYWNSIVGSFIDFLISESRIPQSVLNKRTYHTKYMDWRDGgtryqgaqptanVRFPSVSERRVKIETYLRT
+>UniRef100_D0A2K5 Uncharacterized protein n=1 Tax=Trypanosoma brucei gambiense (strain MHOM/CI/86/DAL972) TaxID=679716 RepID=D0A2K5_TRYB9
+FRNVKRNPNLQFLKPDDSVIHVSP-----SARNVVRYIASNYDSFPDGHYRVVDYFRVAVEMFLQQVRLEYEKQAVQAVKNGVKKPRYTWGNKSGLAISYATSCDMLKLLYDVISEEN-RPKWDEVVKQFIYFLISESGIPGGVFSEQTYHTKFLDWRKGgtryqnlsiasnVRFPSASHRRQGVENYLRS
+>tr|G0UW70|G0UW70_TRYCI Uncharacterized protein OS=Trypanosoma congolense (strain IL3000) OX=1068625 GN=TCIL3000_10_3990 PE=4 SV=1
+CSYIKHNRELHFEKPDDSLLNIPL-----GTNNIVHFVATDYKRFPHGCYRTVDYFRAAAEAFLKQLRSEYARQCSRPQEGGSTNKRFTWSNKGPMAVCFAASCDMLKLLYEFILVGNERPEWDTIVDHFILFLISESQLPQNGVTETTYYTKYMDWCKGgtryqnsnfksnIRFPSAAQRRLAVEGYLRS
+>226601 len:334
+-----RNPNLLYKYDDKKSVPIVS---GTHIGQVVQLLLVDKTTYPPLHYRQVDYWVAALDLFLMALDEDYQKQLSAAKKANRDYKKFTWGNKGELAICFALVMDMLKLLHDKLAGSASRPAWDGMVDQFIALVIRTSKIPTDVLTDSTYQTKYRDWKNGgtrydpgqttnnIRFPSAEDRLKKLEAYVRS
+>tr|A0A0S4JPG4|A0A0S4JPG4_BODSA Uncharacterized protein OS=Bodo saltans OX=75058 GN=BSAL_30935 PE=4 SV=1
+AAHKTSNPQLSYTHPDAAPIPHPS-PPYGTYGSLIGTIDGDRRSFPLRRYRYVDYLITAIDMFLAVLRSENVKQMETSAKAGREHKKFTWGNKGELAITFTLTCDMLKNLHDKLAAP--KPKWEDSVKELTFFLMRSSQIPTDILTEKTYHQKYLDWKKGgtrydqedhsnVRFPSAEERLKKLETRIQT
+>1822452 len:112
+---------------------------------------------PWGAHRMVDYFRTAVAMFTAELLREYRTQRQSALQSGKPSLRFTWRNSGELAVCFACCCDTLKLLYDCLRPGPTKPMWDNMVHQFTLAIIRTSRVPPAVLPEQTYHTKFMDW----------------------
+>5350866 len:233
+--------SLRAER-DNEYIPLLH--RMCKTCQHPAPHHYRSSRYPEGRIAMLDYFRSAVEMFhHTSTQPSFLLRALMAQRPGSLVHRLR-KNTGELAICFPLFDS--EVAGDLIQPGPLKPTWDSFAHNSFHLIAR-------------------------------------------
+>tr|K2MQ68|K2MQ68_TRYCR Uncharacterized protein OS=Trypanosoma cruzi marinkellei GN=MOQ_008484 PE=4 SV=1
+---------------------------------------------------------MNTRISISRRKKTIEQTFASSGET-----------RGNWRFCFAACCDMLKLLYDRFRPGLERPNWDGIVGQFVLFLMAESRIPAAVLTEQTYKTKFLDWRKGgtryqgeqltsnVRFPSAEERRTKIETYLRS
+>A0A7S1LWA3	199	0.305	1.398E-54	41	176	179	14	170	522
+------------------------------------------kRESPQWRFRCVDFFLGAVDLFTTALTKDYRDQKKGAEARKAELARFTWKNGGSLAENFATALDQTSSLHEALSRVPSVrqrlPPFNVFAEAAMQFMRMESPVPETILGDKTFRVKFKDWQNGgtrynagdkgdaqtkanVKFADEAARRLKVRNFL--
+>1376391 len:149
+------------------TIPLPPLRMCQNSSSILAPHLTDRFAYPERRYRMLDTFERGREVHHTSARVSQKHSWHNVTVACSIDLR---GKSGELGFCLPAGCDMLKLLYDLIQPGPLKPSGIVCPHQIFPLLMARARCADNSDITGRIQNKYR------------------------
+>6001360 len:409
+------------------------------------------KTIPWWRYQAVDYFRAAVELFVTAAQNDFADQKKSASADGKEITNFTWKNGGGLAENFAAALDQTQNLFEAVSRNPDLkkrlgsTTFADFAKAAMAFMRSETRIPLLILNEKRYATKFRDWEIGgtryslgdaenqkaiktnVKFADAAQRRNKIRGFLA-
+>55057 len:328
+-----------------------------------------------RAYRMLELLSSRVEMFTHKYHLVFSAASWHNAR--RLFNRFTWKNTGELAIA-CLLFSYAELLYDLI-PCPLTPTWDSFAHQLFPLSLAEVACRADNSDSQTYKPIICDWQKGgtry-------------------
+>6055938 len:183
+---------------------------------------------------MLDYFRAAVEIFHHTDAPSFLKHTSGTTStslcsiDSCTVEEYRW-----LAICLCLLLRYLKLLSDLIQPRSTQPTGTRLQHpSFSTSHCREPRCpPPTFMTSQTYQTKYMDLAKGghattgehpmCALSSSQERPLKIETYL--
+>3943034 len:384
+--------------------------------------------LPAVEHKGVHYLQESIGLFLGSVNHDLTKQRQEAAKKKVEMKGFRWSNSGPVAEHFAIVCDQVKKIHGVLwntnvvnaqpqpqvggkPAAPIRvASMKDFMESFVRYIAAASQVPA-----KTFVVKVKDWEKGgtrydpstavaennsgpktnVRFQGVSKRQEKLDLWM--
+>2361551 len:152
+--------EILFEKQDTEFPTAAA--ANLGSERFFRSL----KSIPPWRFKCVDYFLAAVEMFVAAISADYKEQVSKNKK--PEGFRFTWKNSGGLAENFAVAIDQAKALHDALQLHP-------------------------------------------------------------
+>2053986 len:106
+---------------------------------------------------MLDYFRARVDVHNTRRTVSFSASPHAQDVTFACSNRFTWKNNRELGYLLCLLLRYVRVLVNYLiQPGPLKTNVARCHINFFPLPIGESAVPPTILTSQTYQTKL-------------------------
+>W6LAV5	143	0.188	6.279E-35	11	176	179	369	550	806
+FERVQSSDSFfkvp-------------ETGGFKESNFTMQAAALNQKYLERTQLsellnpELLDIWLKSRNHWLELVKEIWLKLKARNPE----RTDFFWNNRSEMNAAFFDLCDVAKQVMLSLldkdsaTPMEEQVFWASYAAHLSSACRDELQMPEDAMSLKKLNVKLKDFQFGgaryfknMPIEEQMRRLKRREEL---
+>5961178 len:95
+-----------------------------------------KhlKTLPRWRYRCVDYCLGAVEMFVTAIRSDYREQLQRARDDKKELTRFTWRNGGGLAENYATALDQVKALYDTLA----------------------------------------------------------------
+>1153778 len:355
+-----------------------------------YLYSANRVKYPMVRARLLKHWREARltlepvEAWAAVVQDEAKRRDYQSVRGLGGMVRSTWDEVNELIAA--------SNIYTIKQHGADRiIGFS----------------PIPAMSMVSYA--------Agsrymsliggv-------------------
+>G0V2L8	48	0.210	1.017E-02	46	173	179	176	328	610
+--------------------------------------QKRRQCFDKKNLkkkftkELVEMWDQCLKLWLILVKEDWNRQNGRLPG----RKRFTWNNTSLMSSAFFDLCDVASQMVDDMlvdegDMNDEQNFWGIFAAFLDDACVKKIGMPPHAMGMQKLNVKLKDYTFGgtrylkdLPPEDQMRRLLRRQKIE--
+>1152636 len:147
+-----------------------------------------LAQWDPLEHKTVHYFNEAMMLFKATLESDYHAQQAGKRE----LKQFTWKNQGELAENFAVLCDQMKKLHAAL-PDNKKPNFKDFGREFVLYLLEDGVVP--------------------------------------
+>W6KU29	139	0.183	1.458E-33	18	173	179	378	547	806
+---------Ffkvp-------------EMGGFKECDFTMQAALSSQKYLERTQLsellnaELFDMWVRSRDHWLKLVKEAWLKLKARNPE----RIDFHWNNRSEMNTAFFDLCDVAKQVMLSLlekdsaTATEEHFFWALYAAHLSASCRNELQMPEDAMSVKKLNVKLKDFHFGgaryfknMPIEEQMRRLKRR------
+>P86938	141	0.171	1.613E-34	13	173	179	389	571	839
+----------rapeEIIPVHKHTNVQMhYLGGFSEKGDILNEAMNKRHYLDKENLqkmfgeEFVNIWTQSRTHWLQLVKKEWEHQKETNPT----RTRFSWNNTSAMNFAFFDLCDVAKQLMCGAfgdrevNKKEEQSFWGMFAAHLDNACINEIGMLQGSMGMHKLNVKLKDYNFGgtrylkdMPPEEQERRRRRR------
+>966110 len:178
+---------------------------------------------------LITY-----kQIFIIGFISFYSYFRRHGHYDIMTLRTTHFREERTMKKKLYLLLHLFwgKSITNCFaeiednasgaKAKldkaPDKqAINLSFASEIPTMDVAKATDGESMNVMRNVLKGYMQWEDNkpvpgvavsrvdi-------------------
+>5523757 len:120
+---------------------------------------------------------------YKRQGSWMQMTAASSPS----MQRYRWEYAAGSASNFGCSPSGMR------QPSPSKTKWALPMMTFLPSTILEMPWATTYCTCEWYSSWVSPCRFAs-------------------
+>3517916 len:107
+--------------------------------------------------pevTPLPFNFRSI---MQHMAELFETLPDARRGe----NRRYRIKDAAMSAFgVFFTQCPSFLEFQRRMqdAQGcsNAQTLFGAFAI----PSDNQIRNLLDPISPATVAPLFDEW----------------------
+>2983326 len:449
+-------------------------------------------RVRRRPYavILLDEIEKAHpEVFNILLQVMDDGRLTDGQG-----RTVNFRNA-----VIIMTSNIGQEIIHEYsGPRNNDAAQAEFKKKMDEELRQYF--RPEFLNRVDEVIIFNPLDKGqiakildIELEPLYAAL---------
+>UniRef100_A0A0S4JFS0	209	0.183	6.559E-58	22	172	179	404	570	857
+----------p-------------PLGGFSEASGAVDVASKNHTLLEEKTLkealggetELWKMWREAREKWLQLVKRDWDVMCERNPD----REDFSWKNKSDMNTAFFDLCDVAKNVMLQLlgkenaSKQEENAFWLCFAGHLYYSCENDLLMAKDAMSMKKLNVKLKDYNFGgtryfvdMPKEEQERRMER-------
+>Q9U6M2	148	0.184	1.052E-36	25	174	179	386	549	811
+-------------------------GGFSESDAVLTTAVEKSKYLERDHLsqcisaELLAMWVEARKHWLRLVATEWARMIATAPE----RTDFLWKNKSPMNTAFFDLCEVAKQVMLGLldketaTPTEERHFWSVYAAHLHRACAERLMMPEEAMSLRKLNVKLKDFSFGgtryfkdMPVEEQERRVARKA-----
+>E9AN00	158	0.183	2.939E-40	20	172	179	381	547	814
+----------pls-------------RLGGFSETNLMVTTAVEKKKYLNSEFLshgisaQLLNMWKQARAKWLELVSREWTHMIALNPE----RKDFLWKNQSEMNSAFFDLCEVGKQVMLGLlgkeaaLPKEEQAFWTMYAVHLNAACAEELHMPHAAMSLHKLNVKLKDFNFGgtryfkdMPPEEQKRRVER-------
+>AraplaDrversion2_2_1032049.scaffolds.fasta_scaffold615641_1	59	0.172	2.524E-06	15	173	179	347	514	560
+---------------DNQHVPTKTGWGTGGFDSFAQAQAESGRMLE----GWLSLPGSAVdKQMFELYCSKFIQVLRNVHYrc----PKRLVWQNGpyGPLQAPFHDLCTFSQGMMQRCgggwftEEDKQKRFWAEVAQGLLRRISAN-GLPYDYLRIETINVKLKDWMNGgtrylrdMPDDEQNRKVMERE-----
+>3542468 len:228
+---------------------------------------------------------------------------------------------AEENSRAVQRVRGM-ILVGTVIIGNNRvAILQDSASPVPGQPIAGQRPPGQPIPGQRPSGQAMS----tlrlkvgdnvegFRLTEIADQRV--------
+>1029636 len:153
+----------------------------------------------------LDTFFRRK---PQHHKRHYHPSAKNKRSnagLHIPSDKKRWKNPYELHysclPAIQCCCGKSYPLLDSLsriilsRHHTDRMIYCLSSILFRQFRISEADTHSQTKHQR-------------------------------
+>K2MUB4	145	0.172	1.303E-35	23	172	179	401	564	831
+-----------------------PTGGFSEIGGALKAAEEKQYFFEEKYLadelgpDLISMWTQSRAHWLRLVKEDWERLCRRDPE----RTKFTWNNSSAMNAAFFDLCEVAKQMMLGLlnketpSSAENHSFWILFAAHLNHACTTENGMPRDAVGMHKLNVKLKDFHFGgtrylkdMPPEEQERRLER-------
+>A0A0M9FWV3	154	0.172	6.842E-39	23	172	179	384	547	815
+-----------------------RFGGFSETGTVLTTAAEKKKYLERAYLsefiaaELLEMWEKARAKWLDLVAKEWKRLIAIMPE----RTDFLWKNTSDMNAAFFDLCEVAKQVMLGLleketaQRAEEQAFWSMYAVHLNAACTEELGMPPEAMSLRKLNVKLKDFNFGgtryfkdMPDDEQQRRVER-------
+>465481 len:113
+------------------------------------TIITDRQQYKPKTYRFVDYIIVACQRFVDVVVAEFKKQKDRATQEGRVMKKMTWSNTGDLAIYFAGACD--------------------------------------------------------------------------
+>S9VYW6	137	0.161	5.127E-33	22	174	179	388	558	810
+----------p-------------AMGGFKECDTTIAAAAEKEQHLSDDNLsaaissELFEMWRSARVLWLELVDKEWKSLVSRNPT----RTQFVWNNRSEMNSAFYDLCDVAKQIMLDLlhqetaSPKEELAFWALFATHMNRCCTHELHMPEEAVSLRKLNVKLKDYNFGgtryfkdMPEEEKKRRLERKQKIED-
+>A0A0N0P8A0	159	0.163	1.143E-40	20	172	179	381	547	824
+----------pvs-------------RLGGFSEAGAVLTTAAERRKYLEREYLsefiavELLEMWEQARAKWLDLVAKEWKHLVAISPK----RTDFLWKNTSDMNAAFFDLCEVGKQIMLGLleketaLPAEEETFWSMYAMHLYTACAEELGMPQDAMSLRKLNVKLKDFNFGgtryfkdMPIKEQQRRMER-------
+>99359 len:206
+---------------------------------------------------------------EEHLESPESNIIPARPL-------------HDLESFFWVLCWMC-ITREGPATTrQDNTDAGKAAIEFARELFENQSLEAAALLKQsylNIVARFKKKIIGhiapcfr------piSSTLQKLQDCL--
+>3880409 len:526
+-------------------------------------------------------------kVRVEIKGERMTVDLSGVSA----QVQGFYN--SGKT-AGYSCCQVAfKCLTSSLdlpINE---GQFRALDI-----VLPPGRVVSAVKPAAmrmwmTYPMTIVDTIFKalapalpdq-------------------
+>3744033 len:124
+-----------------------------------------------------------------------------------KNLQLDRNKLTELPeQIFQGLVNLSwLELKENLltiLST---RTFQGLPKLKYRMLDDNVK-IQEMVPQEvepftkeDIQQATTDIKMAenktadnnnILLYARASCRERV------
+>13495935 len:148
+----------------------------------------DKHHGADAGIQGLNRVGEIVelE--LADVDQQFKQQDEDRQAqqRGPGPQQQVWT--LDPAg-ALDCLFGDTEQLGNDLaQPGAGEPLLDTAVQGL-------------------------------------------------
+>7825196 len:378
+------------------------------------------kKESGDGESKEIVYWNIGTEspdkDVIAKAVDKVNSETESGYTvTVVPTQNDTYKEK----LVVAMSSGECPDMYSNWSGG---PMYEYIDSGFGQP-------IDDLFNASEIKDKLMDAAVAqatyndhvyaVPYQNVs-------------
+>4634514 len:716
+------------------------------------------------------------------------DYYREASESDVKFIRFEADYKPQVE-AAQAEGRPvlrV-AVNDSIlgkKLAIDADYVSLAAAVIPPEGNKEIS-KLFTVPLGp-------------------------------
+>2046236 len:178
+--------------------------------------------------------------------------------rflQTYSPLRWSQR--PGLFQPFPSLKrslG-pse--LLFSNQlgtklpRKGHHTigasclDYNGTSIT-RTSEKEKKQS-KrKSSKEHGkslSLITK--ALCGVgedlislvcleLNARALvsSWEVENLDAMNGWvvg
+>1589816 len:763
+------------------------------------------------------------pqKELKGFAKVALEPGQTKTITVDLDWRAFAYYHPGYHQ-WITEDGEFeiqVgASAADIRaRHTvTLEstQELPCILH-LASTVRDWMAYKPAKPVMDQFLGQ---LTAQl-------------------
+>tr|G0U8N7|G0U8N7_TRYVY Putative DNA J-binding protein OS=Trypanosoma vivax (strain Y486) GN=TVY486_1114480 PE=4 SV=1
+--------------------------------------------------ELAHIWSQSRAQWLKLVGDEWSRQVAKNPE----RTRFCWNNTSEMNTAFFDLCDVAKQIMIEIldnenpSKGEEQSFWVVFAAHLNYACIEELGMPHESMGMRKLNVKLKDYSFGgtrylkdMPLEERQRRIGRRKRLEEA
+>8721388 len:215
+---------------------------------------------------------------------LLLTAIKNRSLNHLQHLEVRMRAEQHIG-DMRQKElALrisTLEACDPDKLFCDEiqALVQEAIS-ELPPILSLAD-RvPETVSSTht-------------------------------
+>8294897 len:116
+--------------------------------------------------NIIEI-----NKCVKKCEDNLDLLIIIIPGNIAEISDKLCGDGGTYL-HMIAQS-IvidS-MIVNVP---YSDYYINERKN-IKSEIEKMMGVEpyLK------------------------------------
+>6861255 len:140
+------------------------------------------------------------DgryrdegmtlISVAAIRDDVRSEARAAIAdvtRAGIQVVMITGDRVETAAAIAEEAGLL-TSGKKVISS---TELAQMTDSEVMKILPRLCVVARAMPSDksrlVRLAQRLNMVVGmtgdgvnd-------------------
+>617813 len:91
+--------------------------------------------------------------------------------RVMRQFGAVCLGAATLLLAACLVA--V-VRLN--RANAPLpPLVAALVG-QTPTPELQVA-ElqPDPVRSPSAGSTSVSTWYNglatp-------------------
+>6145450 len:168
+---------------------------------------------DKKRVMPISYHCIPTwEKLIELSKQALTHHFNRQNQkeQRVAYAMFALSDS----C-------CasnV-LLSNLSnCVGIFRKLWLRMFT-ILILVMLFRSI-iPSGLL---------------------------------
+>5686947 len:516
+------------------------------------------------------------------------QRTSGGRPPWMRWRSYAIPPDGTAIAAALPRGE-V-QVLATA-DGSERftikatEELSICVM-FSPDNATLLT-GagfSDPLIRLwDAQSG--------------------------
+>473255 len:101
+-------------------------------------------------------------V-RVFFALSADNYYLNDRScELMQLYRLVKERNSDFLHYLTQIDH-nwq--LVSNVVtdHAGEIRAIYDAYC------------CDtsNVQLLRDsv-------------------------------
+>4294940 len:688
+--------------------------------------------------AMGA---EVRR--IEAKYSRYRDDSVLSDINQRAGQKVGLDNETLWLINYACACfE-qsd--GLFDLSsgvlrqawdfRAGqlPSEATLARLLPRIGLSRIEISEAHm--------------------------------------
+>39667100 len:334
+------------------------------------------PDGQIQKIELDDYLTSVIlgEIQAEFEPEAQKAQAVVARTyalRSYESGTKHPG--GAVCtQAACCQGy-Cske--DFLS--KGGTEDgyqKIHAAVTA-TTGEVLVY----EGKLIEATYFSSsggkTEDALAVwgsdvp-------------------
+>2386761 len:122
+--------------------------------------------------RSTTVDYAAVdSSGFEAHHASryfiWRTDAKKKGKEPKKRRTYKRY--GKLMLIIRCASH-A-ILAAVPSVGpTPDvDQLDGVVA-ELPPSVVIRHM-VGDAGFD------------sahnh-------------------
+>1863970 len:133
+----------------------------------------------------------------------gRCTPRLTIKEPDSSGICFACR------IDVSAKGfmkgGFvsdLiTLVIAFPNGPPVSKLPSNLIISSRPKLILLYSFT--------------------------------------
+>1361063 len:178
+--------------------------------------------------------------------------------rlvRLVSRILWKQS--GTHRLTVCCCC----FFFKPVTTNtwALHqQPLTSYRPELNQEKPVLILSErgPTVGLSDHFQQN-NSFRKAwlktvhf-------------------
+>1184752 len:141
+--------------------------------------------------plgALKPYL-----GLVKIVAVVAVGVLLYFRGhhTGVTSERVKWE--AKVS-EARQQRlD-eye-QKLKDAREDKlkSDQESAALAAK-VATSADDYAKL-LEKIPTKpl-------------------------------
+>11119200 len:199
+----------------------------------------------------------------------glAAPCFVTACSktNEHSGTPMTSASDAKKVFGLIDRLwtG-klk-PLLVKKPRTYADMVIVDSTTN----QKIVVNG--TYSVNNHDYSSG--SVYASttdlkVTFQHY-------------
+>A0A0L1KBV2	56	0.192	3.952E-05	44	165	179	359	482	743
+--------------------------------------------------YLKSLSRIGIspE--IIKEWEERKRSWLSHIHQSRRSGRILWSNTGALNQAFFALCDVanrIfNAIVDGAKAGkPEKSNFNMLLA-VHLRAEYHRTFKVKDIQLSlkKIIVKIHDYEFGgtrykkdM------------------
+>7512958 len:117
+-------------------------------------------------------------LWLLYDNNLqYPTGIHLDLEDFLCALDFACTQH----LVLVKRG--ISQVTRPGgrgrqstRVGNNShNYV------LTSGCLSRVKSTPEFLQPN-------------------------------
+>6376108 len:316
+-------------------------------------------------------LRHTVkQp--VHLPQPSqrSREEIVDVAFmPHKDKARFAVDQVKKTLVQLRRLL--raiV-ILVREYdaqlAAAADRglvlRQIDGLRR---GDQLVHVIC---------------------------------------
+>3588790 len:141
+------------------------------------------EIARRRPDlGLVHLRVGVSm---LDLVDVEgvLGKKGGQHPDARQQNVDHFCLRIEPFNeGELLAYLR-sqg--ISVDPPesRFGAEG-----------DGPSLYFT-DPDGNRVEl-------------------------------
+>3218445 len:100
+--------------------------------------------------RIEADIERARamPPLRAWQPPArvDEDQPQRYVDGVARVLDYLAA--GDVFqVNLSRGWTArfd--AHLEPA------ALFQRLRG-----------NNPAPFAGIf------------agdgwsv-------------------
+>2671117 len:122
+--------------------------------------------------PLADAGSDVHAlalaAV-------sAKKSSASEGEHMARQLEYFPKLVTMFLTRAREKGD-A-PFLWAKNGG---TWEPISWD-EAARQSAAFA----------------------------------------
+>20783202 len:169
+----------------------------------------DDRLLPQRLAELFRYVRHPVEilAAVHPSEDLLRAVFRLSEGrEEFRDLVRRHAEKVCFF-CCCRSGH-F-VLLNPAmkKPS---vPFVSGLRV-ILPPVLCISP-TPNSILSN-------------------------------
+>20226648 len:104
+---------------------------------------------------------------------------------------------SKTLRPLRSLRefE-rirV-LFLHADYAKSAEffSFSWFTLA-LERSRTSLRQ-EyAERMQMAiGWKLAkpprRFSWFFEgalll-------------------
+>19319581 len:472
+---------------------------------------------------------------VELNGDAIRDAVANARRNQIGTIDFYEKDAGEFMVQLAEQKE-rvdT-VFMDPPRTGSDEVFLNSLVE-LATKKIVYISCNPETLARDlEYMGKrgyavkgvCVDMFPFcghves-------------------
+>1930380 len:310
+--------------------------------------------------AVEADIAALAalPPLPEWTPPArnGEDDPARFTDGVHRVLDYLAA--GDVFqANISRGWNAefa--RAPRPA------ELFQRLRT-----------HNPAPFAGVf------------agegfav-------------------
+>17493 len:202
+----------------------------------------------------------------------KSGRLTNRSTrLDVNSLSHSFG-------SFTDENaglE-ydeIiPDYLKETVGGkiSEEqwqqlknSFLQEPML-FEPTGHMKYMVNPQGTRI--------------------------------
+>16051223 len:272
+-------------------------------------------------------------MLVEKLEAEGRASMQQASRgKAMQAVAAKQGRDLAVLsASLTSSAE-elk-RSLFDTVlqKYGADMQAKANLM--IQPDRLPELM----------------------------------------
+>10200026 len:397
+----------------------------------------------------------------------rYDINEQRAEHyIATTVEEFVQSIGSKYIQSYTEEAfkliKRkgqKYLIIGTPcQIDSFRRMIRKFRC-EENFILMDFYCHcvPSMLAWKAYIKM-LEPKIGevtyasw-------------------
+>tr|A0A1X0NHV5|A0A1X0NHV5_9TRYP DnaJ chaperone protein OS=Trypanosoma theileri GN=TM35_000461610 PE=4 SV=1
+--------------------------------------------------ELMKIWMRSRNLWLNLVKIDWDRLLQNNPD----RTNFTWNNTSAMNTAFFDLCEVAKQVMLGLlnkeapSKEEELSFWVLFAAHLNYACVHENGMPCEAISMRKLNVKLKDFHFGgtrylkdMPPEEQQRRLERRRQIEEA
+>516336 len:100
+---------------------------------------------------------------FLLNRSSdLDPFEKGSSRpl-----------DFGHWAaHKLEQLTN-yse--RIGEAVAIGrSEERFSRNAETVVRISYAVF--C-LKKLQASarlGPAGP--------------------------
+>4011442 len:129
+---------------------------------------------------------EARsEIITRWQQQGiIGRARSRREVlKAGASGALLSG-CGQYIKGLDTGA--I-PGFDNPYSD---wf---------PVPRNEAYQV-EERPVTDGvsaTTYNNfy--------------------------
+>380057 len:151
+--------------------------------------------------QEQQRQGGAAPSLPSRNSRKLKCCFSYCVTCPLAWGSFQVGSVSAITtVAFGDFC--rrr--SFSTSSSAFvlSRQRQWRNFSR-SVPGET----C-PAATDGR-------------------------------
+>3754510 len:165
+-------------------------------------------------------------------------------------------NPGSIDSPLMQSMekkikE-hlnAeLVSVKDAyGDGrHVSidvisSAFEGQSA-VNRQRMVYKAI-WEELQNTvHAVDE-------mttktpteaa-------------------
+>36311479 len:383
+------------------------------------------------------------iE--LRPLKRAqsILKVLFGLPGkSNHHIGGYHRA--GHLLCYIIENSD---IFFKRIsAVHNSQYFVASRLH-RKMKMLCYMPSRRHSI----------------------------------
+>35713357 len:737
+----------------------------------------------------IKFKDTGK---IGIACGCVSDGFEALDFdaHGGEPIK------GIFDSFMSDKGvheivN-gnkL-PVVQTPSGG---fhIYYKNPVK-TNPGRALAKW-ADETVMIE-------------------------------
+>3137505 len:224
+-------------------------------------------------------------------------------------------EKETHLlkARIDMPS--ntrV-LIIHGEdakFTGSTKsVFLGALID-LFAVRTHMATIALRETAEEAWYQEvSNDYIVTrrewkneaeLVI----------------
+>22626008 len:270
+------------------------------------------------------QWTPATDNNAAMYLALIYNSGGGTALNAQIFCDFHDAGQGTVQARLLDALR-stsVPFVVQAQ------RVRSNLVL-SQGTTTAYMNI-VSTFEVPt-------------------------------
+>21876722 len:245
+--------------------------------------------------------------------------------FSRTTKAYVSPVAQNYR-KLMEKTSTnys-KFFFKHMrELG---gSYAETIDI-VKSVKAELEGC-LGTLANDlSIEIS--KMFTVstvmplselfsERYQDSw-------------
+>2183164 len:100
+----------------------------------------------------------------------qhIQTQSDAAQTNMQQAIQSTQN-------TLNNSLA-tcs--STVSSARKTIEDNLVPGVT--MPPDAPVGAL-PPEAVV---------------------------------
+>2042226 len:251
+----------------------------------------------------------------------YNRKLQQFGSDRRLGQEIASS--SHIRtgSGLGSTSS-kig--ILLSASRSIcTSKrwyTFVSVL---ISPTFIMQDRMSfPMDSQTTksRFLMM-------stpsrfpsv-------------------
+>1987978 len:92
+--------------------------------------------------------------------------------kqdPRHRNVTLDWSSIGAYMQDYASSL--raaI-ESIAPE---AVQKVCDKVLEATRNGREIFVIGNggSAAVAEHlcCDWTK--------------------------
+>14410070 len:265
+------------------------------------------------------------------------------------GRPFYLDYQNVFFTLFIGLV-MM-IFLQKIdsKAQKDAgAWQRANWK-VSVGKLLVIVA-ACAVATLl------------qtddsamgil-------------------
+>1183381 len:124
+--------------------------------------------------------------------------------wasgSGVCACVLSCCSCVRLCYSVYCGGaDPlwtV-ACLAPLSMGilQARilEWVAMTSS-SASSQTRDQT-RSPALEADSLPSE----QPGslsinqy-------------------
+>11671373 len:158
+---------------------------------------------------------------PEVEFEDLEESASPKIQalLALKEIEFDHA-TGKLSdADYEELKakyS-kraL-EAIDSEeRDELAPAAADADVS-DAAEELVRLAAEgKLAMCPTc-------------------------------
+>10911912 len:642
+----------------------------------------------------------------------RLDWLNSGLVCGLLIAGCVLM--GAFLlHELLTPHP-widLKAFINGP---LPFlLLLIALLR-LTILSTAYLI--PQYLGAVrGFRsLEvghtliwi--------------------------
+>1041320 len:248
+------------------------------------------------------------iEe--FNLKNTEeIIDIIDCYTDLGKTGSNF---EREGFLRLLQDIRlG-einC-VIVKDLsRFGRNYleagNYIEKIFP-FLGVRFIAVA-DgFDTRKEG-------------------------------
+>62296419 len:195
+----------------------------------------------------------------------rfIREILPDAPNpKRLSHQqMYPIA--ITFVNELNTLPdE-ylkT-TFLTDYldyfRSA---lhAFIDTYHQ-KYDAHYEHSNTDGVSLTREv---IK--------------------------
+>50705597 len:217
+------------------------------------------EDGVIE-MDIEKYLVGVLlcEMPADFEAEALKAQAVAARTfvlYRMENNNKHLD--ADICvSATCCQGy-Idpe--SYIS--NGGDTAavlKMYDAVAE-TKDEVLLY----DGEFIEATYFSSsggrTEDAQAVwgvevp-------------------
+>3803014 len:85
+-----------------------------------------------------------------------------------llRGLkkRYYTG-------RFNTCGy-WFPSFMYASEERDKEAQKRAAQR-NPSKKTLYHNLGELKVCYS-------------------------------
+>37843067 len:160
+--------------------------------------------------------------------------------REARAReEYLWKQENEPRlNACYEAGD-yegLLELYEELEEG---PIYS-----WEHFEMLWMLVRISRIPEEm-------------------------------
+>3421069 len:248
+----------------------------------------------------------------------dPRRCPDKCTFpvEYLllLALMMFCGQRGSRRrLGRALHGG-rlaS-RIWRLAgRAGETLachtDTMNGLMEEIGRAHLEQLT--AAVFGEL-------------------------------
+>312612 len:93
+--------------------------------------------------------------------------------NSGeKAVSYLDGSQnGKYY-SLTPGRA-sldVsRMFGHGAvYTSiRLKRTWSSDMV-IDTKYIEWAG--HYTFSGVpETSSK--------------------------
+>30158261 len:283
+--------------------------------------------------------------------------------AGGDDMqmDFLHPDAEAFAMNIVHEYA---RHFNTGmvHIGGDETHLTPETK-MDYARFLAKICDnllAEGIKPAiwddmIWMDPpLSEVFSR-------------------
+>26886750 len:641
+--------------------------------------------------------------------------------mKGFTQIasGLMSDRIGRKLpISFGLIGG-sva--LLIATFGAGfHGKfmpgDVTESELK---AMQLAYLTLSsvALGFCTGvTYP---------vlaaaav-------------------
+>2479649 len:95
+-----------------------------------------------------------------------RNCRSAAWP---gRSISILKSEPAPEP-AYDSAT--ccdVVALLKPSs---vPVKNFEDARAG-TGGPCLLYTS-QsP-------------------------------------
+>2440212 len:271
+----------------------------------------------------------------------DKRTGANGRYtmADValAAFSVFFMQSRSFLahQRHLAQGQGrsnCESLFAMTAIPCDNHIRAMLDP-VSPAQFEPVF-D--------------------------------------
+>1557953 len:114
+-------------------------------------------------------------------EEQIKQAVAGARVgRRLKPKAWPNG--ARVAvsLSFDIDNE-yltRPVLLPGPlSQGeyGAVQGLPRVLA-LRQRAGEEHR-S--------------------------------------
+>155183 len:126
+------------------------------------------------------------pE--LRTTQDGtaVCNFTVAVNRrvrAGAhPEADYFRV--TAWR-ALGENChrylaK-grkV-AVSGPVsARAftGNDGSVRASLE-LTADDVEFL-----------------------------------------
+>151896 len:116
+-----------------------------------------------------------------------RKIFEDACKRGNDSLrrGF-----ACFLFALRQSYQ-mrqM-IY----KLG---rVWLRSTLQ-EASIELAYVT-KlcvDDRKSHDrALLVG--------------------------
+>1257256 len:130
+---------------------------------------------------------------GRLVRDPeVRFTQSNKQVVSFtIAVnKKFKNDEADFI-PVVAWE--kta--EFIAKYfRKGQQIaiegRLQTRSYE-DNEGKKRFVM---EVLAEQv-------------------------------
+>1130805 len:548
+--------------------------------------------------SSLEREMKGNTRQLQNIGRMMKKLTISQITigfQTVYKLlDMIYNDLSKIAL------SRfid--IFLGDIdkvvQGGahSIKEKVLAAEK-LCNEYLSIIGGKsaVAQIIRRNEV----------------------------
+>10533277 len:372
+------------------------------------------------------------Dfh--QVAFEQGIQGQASELKAaYAYllENRnRLDVK--QVYWFSWKDNRQ-ipnC-NFCDSVglfreGAGfKPKPAWNALVG---------------------------------------------------
+>tr|S9US09|S9US09_9TRYP DNA J-binding protein OS=Angomonas deanei GN=AGDE_08986 PE=4 SV=1
+--------------------------------------------------ALFEMWSTGRKKWLDKVKGEWKKLEKRNPD----RKNFVWNNQSEMNSDFYDLCEIGKQVMLALlrkesaTPQEESSFWTLFAANMKVGCEEELKLPTDAISLKKLNVKLKDFNFGgtrylkdMPEEEKARRLERKKRIEEA
+>932280 len:99
+--------------------------------------------------------------------------------SGL---IFIIAACCCSRvKHVVSIGK-ivnL-FVSNIPfvfgvALGltLVQiGLWTGAVY-SLPYILSVAGAKipsSTSLFTEiESY----------------------------
+>9184401 len:274
+----------------------------------------------------------------------yLSPEERDEAP------RLYQA--LSYIRQQVENG--atrLRELEKEARQNlQDNGWKVDYVT-ICNRDTLAAA-QagDRSLVALvaARL----------------------------
+>678259 len:199
+------------------------------------------------------------------------ESQRYVKEiQKVGKViqAFQIRTQADMNLAIQSCAD-Y-ILLDQGkGSGqSFDwSLLENLSR------PFFLAGGidEKNIIQTqKYHPYALDVSSAvetnrckdkKKVEEIir-------------
+>670866 len:381
+---------------------------------LLYVGSVNSRKNLLGIVKALRLLPSHLQ--LVIIGNGrgYKKQVEEYASaHRLsQRLIWLNNLTSSVLQAFYQSAR---IFIYPSfYEG---fglPVTEALLS-----KVPVITSSVSSLPEA-------------------------------
+>6661886 len:154
+---------------------------------------------------ELRFWNVGSEgadlEIVEKAIEIFNSTTESGYTiVNEPTQNDSYKEK----LIIAMSSGECPDIYTNWSGG---PMIEYIESGYGQD-------ITELFNAAGLNERYVEGAIAqstyndkiyaVPFWNVs-------------
+>66161 len:181
+-------------------------------------------------------------VIILLLTSATSCTTVDGKQ---TTLIYARV--TKLQ-KILSGSrsQWsrgL-SLRSAPfsllglRVRvPSRawmSVCYECCV-LSGRGL----C-DGLIPRP-------------------------------
+>6552912 len:122
+-----------------------------------------------------------------------------------PKVRY-----NPLN-TMKPTQhQ-LyQLWLSTPPQGdpTGKqfalDYANRILHLYTQQIQDYLRQRadqLQSLDPNprsAWRDR-ADL---crhla-------------------
+>627801 len:125
+-----------------------------------------------------------------------------------yfSAVGFVFG------TEMRISHE-nvs--EMLKQTdrkstRLNSSHlRISYAVFC-LKKKNLLHSP-SPSPLPPL-------------------------------
+>613556 len:84
+----------------------------------------------------------------------QRGETMNRKK---LNVl-------IGFAICFCTCVS-V-FLLTRIlPYGAQNNFADSPDG--NLTAVEWVQYKqPGTSLTPtVFS----------------------------
+>5927300 len:107
+--------------------------------------------------------------------------------hEQMiPDISFLPQNRGLEV-KADEDGmQRildVEMTLSLNlkfYEDMEMEILDDAYS---TACEVSLT--PSSLSFEKLLMKSQNVLRVsqhikLENPQE-------------
+>5906921 len:79
+---------------------------------------------------------------------------------------------EAFFTEVREDFE-rtn-HSLLGLIralqrRCPgdSGEwlCYGATVQD-ITDSHTARVLVKvREIFADElTRIATv--------------------------
+>519418 len:182
+--------------------------------------------FPSTGSSLRSFYRVSIlLwlililvLFILEIIKAIKQGRAYLRSffNWISILQILSSCCAGLT-VFLKENN-LKAFLQQIRRNpYGDwsPFELIIWS-SFEEIILSIAV-VTTTIKSlKLI---------qlnrhvhvm------kw-------------
+>425045 len:117
+--------------------------------------------------------------------------------GTLcICFtCFYDV--KKCYASLPKPMKKL-LFFLFVRLGflYDTGSDRKSTR-LNssHNQSSY------------------------------------------
+>3823824 len:186
+------------------------------------------------------------Egfgipp--LEAMACGTRVVSSDAASmPEVlGNAaVYFKS--KNLPaLKIVLKN--elnL-VAGNSTfaERGiqQAKkfNWNNEAVK-LI---CFFCEC---------------------------------------
+>3634640 len:197
+--------------------------------------------------------------------------------GGKGQLlTMSNEGGDGLCCGCCCCGD-slq--AQIGPLtsFWGPPTSFWGPFLG---MFNNGYRPTRPMPTPQT-------------------------------
+>2964487 len:92
+----------------------------------------------------------------------iLFDLCKATSV---DRL-------GRFFlLNNAKNAvvEMlieVLSIAESSRTG---rALSSSIWC-ISGELLSAIGA-CGSLLAAi-----WRGLFYG-------------------
+>291131 len:186
+----------------------------------------------------------------------ilFVSATWPSRWPPVRHVe-----ETGDINVSQIYRG--radF-----APSAGrALRwRRFRWSSG---GEVSIALCC---------------------------------------
+>26204128 len:376
+------------------------------------------------------------qeK---------HQELIDKINRqRQIIKFtGWVSD--EELT-AYFSNAN---AFIFPSlSEG---fgiPILEAFYY---kvPALLSNQG-SlPEVAGNSaIY-----------------------------
+>245815 len:154
+------------------------------------------------------------------------QEREYGRADRKsTRL-----NSSHLVI--------syaV-FCLKKKkyTSTltNSKpSPLFLFLA---piRPTLPFLT--ilsPLHLSPHhHTTAY--------------------------
+>2406564 len:117
+----------------------------------------------------------------------MRDMKLLAMLKQAnDGTppKPIAAPLKEVIvaAETVETSRLrkeAMASIDELrRKGpASRrtALTWGNVG-IG---ALSLGC---------------------------------------
+>2389984 len:135
+--------------------------------------------------RIESDIGRLDalPSLPGWQAPArmDGDEPRRYLDGVARVLDYLAA--GDVFqVNLSRGWRArfd--APLDPA------SLFQRLRG-----------NNPAPFAGVf------------rtaagsv-------------------
+>2042271 len:481
+------------------------------------------------------KIKIPVpP--LEIQQEIvvILDKFSKLEAELEARRRQYRHYRDALL-SFAASSkQQaasSKQQAASSkqQAASSKqQAASSKRK---AASVRWMA--LGAIGKFv-------------------------------
+>19634019 len:118
+----------------------------------------------------------------------CNSCNCDIIILVYSEVknGYLKTVLTYFVIDCHRIS-FI-ILLRRLnpqvlerSSGAADTYCDLIKD-VS--------MEARALKAQELLR---------------------------
+>1646312 len:103
+------------------------------------------------------------P--QGNEPDQLKVLVLEANGrkrHPLAAALRTAAQRAKLAVEIIVKDmvQGkkhL-NFLAKSkRAGyLKRtaggEYAAVV---IAPP------CGTYSRARD------------s-------------------
+>141830 len:103
+-----------------------------------------------------------------------------------mSSVKWELI--IELFPVVMCVC-Vshp--IVYDSLrPHGlsPPDSSVHGIFQ---ARILEWDAISfsrGSSQPRDqtqvSHI---------agrrfnlcatr-------------------
+>1407586 len:751
+-------------------------------------------------------------FFWADSTETLCNPCFRGDN------KILTKEYGQIKiEDIIDKDiH-vfd-gFTWVKTKfkETGLDKQIIKIKIR---dFEKVTDIG-SvfDTTISTEIYV----------------------------
+>13628116 len:289
+------------------------------------------------------------------------QRRRNGRH---VRLDFFVVAAPLVLaPDLDAVVraR-qyd--RLAQRDvRIG---AQIRRHEE---TPLLIALECArPREEEANnrarlRLRER-------qrpqfcreLLPCLL-------------
+>1323716 len:247
+-----------------------------------------------------------------EHWEERRRHLRPEKEAGRHHLRGLMKEKPELLFLMADVVkE---IKLNPESAQAVQikELMDQFQT---qLSDILRTQ----------------------------------------
+>1302976 len:246
+------------------------------------------------------------DiVRFLVERAKLPQHENEELESGVgaaRQMiRMTNNEKNTALheAACCENVD-vvkI-LTKEDP------DYPYSANN---yGKTPLYMA--AESSSSDMVL----------------------------
+>10866051 len:105
+-------------------------------------------------------------VC-------vLSVLLTGADTyQALtkRDQdSYDRRTAAQYLaTRVRQADG-gvtVA------dFQGCDAlELTDTIDG---ELYVTRIYCYdg--------------------------------------
+>1052110 len:88
+--------------------------------------------------------------------------------------QQAKAESDRLQ-RVVSSW--rgk--GYLPTEEAG---LCYEALQK-LAESSAASAPLDplYDAIVRQl-------------------------------
+>MGYP000299793382	48	0.140	2.306E-02	35	162	179	61	202	265
+-------------------------RCGTAWHSSFLPAATELGALLDATAAAAALLRAPLAEWVRLLKRDFDATMQRKQGAAPREVTMGWDNIGDMNAAWFAACH-sydMlQRTAKPAAVGrTDDAAWQRWCA-VTARCLIAAGV-PAAACSImKLWVKVKDYRHNgtry-------------------
+>9793140 len:629
+------------------------------------------HIVGTPGVgfgpsgeGYFRLTAFGRyeDtiesiFY-------ISDDSYFPANYTAMDLvRFYRNFYPQFRtRFFHELMeQFhleENRRIATFSKGmKKQvLVIIGVCA---ATKYLF--C-DETFDG--------------------------------
+>8433989 len:147
+-----------------------------------------------------------------------------------glGMLvSFWSN--SNRTSLFISLSl-YL-LFLLPAlLPGrAQKglvgKFFQRSNP-LAaaDQLLERLIVNNQTLHTYgDWL---------kg-------------------
+>7437257 len:118
+--------------------------------------------------------------------------------qaQRVdADVlKVQWQ--QPLKNALALTAS-spdVKLIPDRIhpnALGHALmavEFLRQTGA---NLTAAAIQSNvTENVVDSQFY----------------------------
+>7255887 len:501
+-----------------------------------------------------------------------------------eDNVQLQAA--ANYL-NARQYQQAL-NVLSRIQNRSAQwYYLSAVAN-MGmGNNVNALNLArqASSMEPGnpeesNLVNR---LQWNsqryqgggSPYANNGGSSCGTGNFCCD
+>720417 len:133
+----------------------------------------------------------------------rhAEEFRRHGRPDRKsTRL-----NSSHLVI--------syaV-FCLKKKkkKIKlrSFElEVAWTVI----vSSTQLFLT-DqayqREALAPSmRSHS---------------------------
+>7190615 len:284
+------------------------------------------------------------lALLVSICAAGLSYLGDNLQP---cKWLDIATGRSGCLKaIDYPEGS--vneI-ALSSDArlvaAAG---w---------FAPVRFYNLT--DGSLVRE-------------------------------
+>662951 len:163
+------------------------------------------DIAKRRPDlGLVHLRAGTAm---IDLVDVNgqLGKKGGDAPDPHRQNVDHLCLRIDPFNeDELLAYLR-sqg--IPVDPAesRYGAEG-----------DGPSVYFS-DPDGNRIEl-----mkdav--------------------------
+>6317981 len:245
+-------------------------------------------------------------fLV-------YTNRTSKPKHqSGKSDYlGYATK--MKVI-SLHQEEkELIQLAVENNRHAQQKvysKFAPRMLS-VCRQYIKDTH-QAEDIMITAFMK---------------------------
+>6038895 len:374
+----------------------------------------------------------------------kRQNKSWRTNKDGMq---RLIEK--NRVH-KVGDNPNYV-LFFDDFPVKPLHNLWNEFQG---AKDPIYVV-Qt--------------------------------------
+>482386 len:143
+------------------------------------------------------------Q--YARNDQAFQRGTFRVRG---EVIDIFPAESDDIAlrVELFDEEvERL-SLFDPL-TG---QIVSTIPR-FYhlPENAL----RPHRASASyRRW----------------------------
+>4019970 len:347
+--------------------------------------------------RIEADGVRAMaqPALPAWQPPRtvGEDAPERFLDGVARVLDYLAA--GDVFqANLSRGWRArfd--APLDPA------ALFQRLRG-----------NNPAPFAGIf------------rtthgsv-------------------
+>387233 len:457
+---------------------------------------------------------------------------------------------SGAGSRCAGCCcR-sptCCYWTSRPTIStPNRwPGWSGFSR---TTPAPWSR-SPTTATSStTWP---AGFWSWtaagafrgra-------------------
+>3775243 len:73
+--------------------------------------------------------------------------------------FFALKDD----rARFKHAVsD-fld--DYMEMVsDPGqGYKfDYEAQEQR-FRqTFRAIWLA-RgEYAFAFA-------------------------------
+>3570782 len:131
+--------------------------------------------------------------------------------------kiKYPTG--GTHPkPRFQQTHK-V-TFLGQLARQQHKRNYQQRRQ---GGKHLYIQF-RGMWKNGsklSLL--fgllc--------------------------
+>3050643 len:172
+----------------------------------------------------------------------DRKKIFLQLRPETKKI-----QPGRWDTAVGGHVD-age--SLETALRRETKEEIGIALAN---PQMLIRYKW-KSEVESElVFS----------------------------
+>2915347 len:234
+-----------------------------------------------------------------------------------mKKLtLFFFALLAVCL-AFQACDnsK-tya--EMLEEEKDA---ikAFIKDSSI-VViSQSEFYAQ-DsTTDVSRNEYV----QLVSGv-------------------
+>2716526 len:96
+----------------------------------------------------------------------VQIDVV-------qHDLRQTYG--RELM-GMDEYPR-aed-H------wCGGVHGiKCVKDLVE---fACCCVHVDLQfdSRTFRPAlDLGDA--------------------------
+>23465610 len:96
+-------------------------------------------------------------------------GAESKRFDGHwtgKESGYFAGSEADIKV-------LfddL-IYYELSaFNGTASGALCSFGI-IEnnVAKTVFKDTTYDEKKENvVFKLR--------------------------
+>2302561 len:80
+----------------------------------------------------------------------------TVKNlIGLADC-FQCS--ADFLLGLAYES--trn--NFHPPVp---lAERiVYLAQIYG-YTPKRI----FAESQIEKSRYY----QWIKGerqpsl-------------------
+>21351264 len:189
+---------------------------------------------------------------VESNKDAVKDAIVNKKLNNASNIEFYTQDASPFMTKLSAQDV-kvdV-LFMDPPRSGSTEEFMDAVKV-LKPAKVVYISCNPETLARDlEYLTKggykvkrmqGVDLFPWtshcem-------------------
+>16441512 len:228
+--------------------------------------------------------------------------------------kvDFLLRTTSAWFrHPLRSAE--tieTFRFAPDPiERALSNVFERQIRN-CRRSGRAWKRV-ANRIDGEitl-------------------------------
+>1431283 len:350
+--------------------------------------------------------------------------------------QTRRV--GEAM-KIFLILE-eyk--VVITPPccvkliyfllKEGNLDRAIDVFLY---TIEKGYLL--RRRVANRILT----------------------------
+>14130796 len:95
+--------------------------------------------------------------------------------QIYpRRI-----EQSQFVMEISRRHf-Lrns--GVVALAFAG---lrNFVEDSVQ---AKSVKELAAEtEAQLVP--------------------------------
+>1362824 len:98
+--------------------------------------------------------------------------------------LLICY-------AICSSNvKLpqdM-FCLKYSlNIEwNSPVWTVETMP---VQPVIAVQ-EwlAETICNsSt-------------------------------
+>1286574 len:166
+------------------------------------------------------------------------------------NIIFLLGKRPMTL-GIMQVKT-L-KFIRDAqsvEMGCQKvkQSFEEYVE-RAiRENDQYYRFEggePEICLE-KICQD--------------------------
+>1249559 len:85
+----------------------------------------------------------------------------QAFRyGRAaYGVQFHVEVTGEMAREWATVPAYV-TALEQTlGTGAAPGLFEEFDR---aASGMQLVA-R------RMFE----------------------------
+>1003191 len:301
+-----------------------------------------------------------------------------------RNHrEVAVGIAGCCSNPVSHRA-Wlin--TFLQDLt---VNRLFIEHQLV-FVlRGILLAFRV-PNTVLAEhAFHTE-------gtafvrnDRYEAFad-------------
+>943588 len:102
+----------------------------------------------------------------------YRIVLTEATRhSGIg---rEFFERGPGRLGICLAGYLefagQ-hfd-ELQINNPRCIADNflSLLGDRLE---lSDAMTATR--TSSVKDHse-------------------------------
+>766395 len:73
+--------------------------------------------------------------------------------------MLYTS--LHAL-PLSRFID-mynV-NLLSLIISGdhPENDLKETSKS-LITEYLEIVA--GKSIRSElDKK----------------------------
+>7601748 len:106
+-----------------------------------------------------------------------KKSVQKKHRNTVDMTNFAKK--LSWL-ALCAAIalT-avn--VQAENVSPAAARQIAANFVK-QAAPSRTAQS----------------------------------------
+>750 len:170
+----------------------------------------------------------------------------qHYRKNVArEDSeMFVDPVMKNMEQKLHGDAA-fvkAAITFNAKVAGEVDVCFATYCD---PVLPVLMQI-vPRLMRK-l-------------------------------
+>6385303 len:171
+----------------------------------------------------------SLrE--MPMTSHTIYQKTRSKKPiVSIqvRNLNMRGD--AVIMewEKIIEEVlQ-nys--LWKENEknhnrfcldNRG---FFWKCVCC---g--------C---------------------------------------
+>5919438 len:282
+------------------------------------------------------QWTPATDNNAAMYIALIYNSGGGTALNAQIFCDFHDIGTGTVQARLLAALA-sstVPSLMHAQ------RVRANLVV-SGSTPVAYMNI-ISTFEVPt-------------------------------
+>582609 len:142
+-----------------------------------------------------------------------------------ykRQV-----DHERFTsRALVGFT----PRTSQPTASSTRidcDDLTTLDK-AMQKEPMFLPL-WAQFRKTl-------------------------------
+>4610899 len:240
+----------------------------------------------------------------------------pipGISDcNGLADKpPFIISVVSARNtEGNCDTNavT-sakITLVINTSsQRRAERmarMTLNSIAS---LACCICCCC---------------------------------------
+>4329335 len:179
+-----------------------------------------------------------------------------------avNPITVDSTEE-----QIRQAVG-tarVGRKLTPKtwPNG---ARVAICLS-FDvDNELLQRA-NPLPVPL--------------------------------
+>42565891 len:172
+------------------------------------------------------------------------------KRHPRGRLgHFPYL--RVVIkVDMQTVTvD-ely-RALAKARKDGfGNKkILLSTDDEWNGYHECFFQVC-TNPKSL--------------------------------
+>4201779 len:267
+--------------------------------------------------------------------------------SGSTAYNFSCG--GSIVfPTLDVLQ--L-TPISPVFSAAYRSLLSSIIV---PGDFDISLV-PERRYANsslVVVDGMEYYYPGlkrvnfk-------------------
+>4184872 len:168
+----------------------------------------------------------------------FITEEREIVRRRLSQIKRNCKSASRFQ-------H-kenW-LMCSTLRCS---SSVTELCS-LQalAIWMLFSAM-LSALCS-m-------------------------------
+>35870763 len:98
+----------------------------------------------------------------------------QREVNLLDRLTFSNIKANGASHVITSDDnE-lld-ESVSNNPaevwkyRAGTPPpTVMTPSPV---SPTIPSLRS-lyVQAIQDvDgi-------------------------------
+>32232077 len:152
+--------------------------------------------------------------------------------------LFSLEGGKKTNIDLILRAlnSVkveLEEFVSNPn---VYNDFKKQLSE-VQSYRKAVQN-QHEKQNQ-KIA----------------------------
+>2951767 len:102
+---------------------------------------------KKNEKyAMIHLGAGGSm---IDLVDVQgpLGATGGKAPEKEGHNLDHFCLRVDPFDeTAILEHLQ-acg--IAASKAvmRYGAEG-----------DGLSIYCF-DPDGNQIEl-------------------------------
+>2831769 len:81
+------------------------------------------------------------gRllCCFHWGTGGVAGGWScGSDFFGLlw---FFSWGGGGPVV-PWGALGfGLIMMIMDSWtNERmwSARHWSADLMD---------------------------------------------------
+>2830656 len:170
+----------------------------------------------------------------------------------------WHI--SAVSgIGMIHSCcNMkilMPQVFDKInMSGdSITwnfnEYIPDIVT-ICLRQNDGIQ-DSTAFCTAyvDFVKTvr--------------------------
+>2719199 len:355
+-------------------------------------------------------------FILVLDPDHipFPDFLD-------HTLGFFRDEK----IGFVQVSQ---AYYNQYr------SFTAKGAA---EQTYNFYG--PTQMSL-fGYGCC--------------------------
+>2472315 len:109
+-----------------------------------------------------------------------------------gSEMCIRDRAGSGWLiFCFGVVC--lfcL-VFWNSPFEG---PLYSVGTR---PICILSVMSAviGKTWEMApssQFY----------------------------
+>24610247 len:101
+--------------------------------------------------------------------------------vKALPRGQHRCI--DLFL--FASEM-YyvsLAIAVNEQKKKktPQQ---------LRTDGFRFTWRNSGPVA---------------------------------
+>20643672 len:1286
+--------------------------------------------------------------------------------------daEYRPKAYGKYCDYFAEECRML-EMIEQAesYTELQAAFDNGWRT---YKRFSWKNSGvPESHYA--------------------------------
+>2041705 len:100
+-----------------------------------------------------------------------------------eVQEAFANG--EGHGERISESSG-est--MYFALLcDDGTVLRLSRPITS---lMDAFKYIS--PMVWVV--------------------------------
+>1981792 len:257
+-------------------------------------------------------------vLF-------VLSAKERKTVTGIaKEIGHTHPSVSNIVREMAVKGlvkE-tedEeDKRRNHIvlsKKGmEVAAMLADACR---dvATAVESISQStRNDLWHAi-------------------------------
+>1976299 len:96
+-------------------------------------------------------------------------------------------------fATCAAAGaDPV-ILIAQMihETGCLTSWWSQRPR-RNPAGIGVTG-QkrTEQPASGAWQFH-ESIWREgvafpswkddsv-------------------
+>19752427 len:90
+-----------------------------------------------------------------------------------QTLVFPEA--GVYVVHIVVPSE-nve--MLIAKLEYGNVKpldkAFIPPLSY-APyvEWQSAVMSVAaTKPLTAGtilNWIKGikl--------------------------
+>1945492 len:313
+--------------------------------------------------------------------------------QTAADIGMMVRRLTALSsGRVALMGGLavpIYRWLAAD---IQTRLVTPLGD-ALSGALTLARTQASGVPE--------------------------------
+>159793 len:152
+----------------------------------------------------------------------QGRFAAdpELRTTQTgKQVaSFRMAVD----RDMVDANG-hrpT-DWLTFTawgKTA---EFVSKYFR---KGSAAVVH--SRCQTR-QYEDK-------ngnnrtaieFVVDNI-------------
+>14822912 len:380
+-----------------------------------------------------------------------------------GNIlaGYFAKQMGLPVNKFICASN-snk--VLYDFFRTGIYDKNREFILT-VSPSMDILISSNLERLVCMlTSQ---------eenakl-------------------
+>140063 len:303
+------------------------------------------------------------------SYDKIRKLGTPSQNSEFLNAAMECNCAQSPLpyATLVENVS-tae-KQQLPEAdDNGHAAgAATVSVVG---CCCCCWCCC-c--------------------------------------
+>1163548 len:606
+----------------------------------------------------------------------FKENYLSESYnlRTIKNIt-------ENYT-QWLNSGgnrKLaknYKCCISPPifIADENSSILDILVR---PELHLLLGI-INGI---fTYM----------------------------
+>1136512 len:341
+-----------------------------------------------------------------------------EQRAQLDDAQFDGA--ADISVAWWDDGiD-apsIGACCGAPgllmgALGVSNvfdELPGGWAE---ASWEAFIDADPDVIIL--------------------------------
+>1085133 len:113
+----------------------------------------------------------------------------pDGRHGVLPRVlTTFEASLARMLDQLQEQQvaaD-akaVAALAHTLKSSSASvGALALAAA---caQVESRMRE-GrTTNLRDDvdLLLDQ--------------------------
+>1078801 len:116
+--------------------------------------------------------------------------------------KFKFK--NKFNLVVCEFF--V-LCCDNFvelNKS---IYFEELRE-LTDRKSTRLNSSHNVISR-mPSS----------------------------
+>10567395 len:177
+----------------------------------------------------------------------------CASCCAWEAQHMLWKEAGGPVDAMWSLVSWVAVLIGRQSNRKERTMSTGTMY---RANVRRVK-RhPNAIRAdRveqalTYY--r--------------------------
+>1052953 len:140
+-----------------------------------------------------------------------------------FTLrSYAVL--ASVS-RCCPPNQ-kvrSHVLLTSAl------lSLYGASTT-QIPFNLHVLSL-PPAFVLS-------------------------------
+>9399144 len:641
+-----------------------------------------------------------------------------------lePSIQEVIN--AGYQ-QIKMQTEMstgLQKFTKDIsdNTGiAIKNFLENIKT-IYpIFQSAFVA-PlEDAFKSf-l-------------------------------
+>8309491 len:106
+-------------------------------------------------------------IF-------lLCAQKKNRTKKKKRRLPFWRGTK----VVFPEQNELdsq--ASLQTAFCSCRKvHLFSFRAE---nKAGIGFVCC-fvSCVFLY--------------------------------
+>8103739 len:127
+-------------------------------------------------------------iiKIFSFLGAGLNSFLDkNHNIlDPSNSVveTF-----GEWLrLEFENEReEKqtn--CMVTASEEHTSE---------LQsPVAISYAVF-c--------------------------------------
+>5058859 len:122
+---------------------------------------------------------------FPHDALPISRGLLKAALDMTpDHADFPAR--RDYFLEYYRANlS-kls--VLRSEEHTSELQslrriSYAVFCLK-KKnkKRLVIHFVC---------------------------------------
+>50148 len:71
+--------------------------------------------------------------------------------LHTPRRSFPTRRSSDLD-DVREAK--L-PKLEEVKPQIAQQLQQQKLA---kRSEERFSR-NAETEIP-iSYA----------------------------
+>47748 len:323
+----------------------------------------------------------------------VLQVSVAANR---KNYdKVRRT--SDMCEALRELMkE-eie-EELKKNHEQGIEQGRINQLID-LVMQNLLPID-TAAQCAKmTl-------------------------------
+>4693246 len:279
+----------------------------------------------------------------------isLLQQRSd----EDRDQIlCFQRIARNFFLKELFEAFlQ-yiq-KLRSQSPhVHGNQRiYIHSHAVC-FCSSCGLYNILGLHNLSQ-iTLL---------vhlada-------------------
+>4051920 len:99
+-----------------------------------------------------------------------------------AAVRVVDKASTEALsVVMCVRT--aft--LEVSEISGGGGTTLWAAGIG---rwRQMLLAVGREPEAML---------------------------------
+>3556958 len:274
+-----------------------------------------------------------------------------------wkKAFqRIMRN--HRIARRLTWAV--svpI-LMFTGCVIDQREPLLTD----LGPTPLELQT--PSNMPPiTi-------------------------------
+>3480987 len:655
+----------------------------------------------------------------------------KAEN---pPETPWWTTLFSSLLPMLLLIG--VWFFIMQVGGGaNTKmmNFGKSRAT-MTTQDKMPVRFAqVAGLREEKES----------------------------
+>3401377 len:118
+-----------------------------------------------------------------------------------NILGLLSS--ADIRyREVRRYT-Idpd-RVCMDILvRQEDLEvvrELAKAVEA---eGAGMRLLF--NDAISEAi-------------------------------
+>32772473 len:94
+--------------------------------------------------------------------------------------rDLIRQ--AQVAQQNGREAqK-kssA-LYKNASdllHKKLEAECFDAASH---RLTLKYDSMK--------------------------------------
+>3144948 len:82
+----------------------------------------------------------------------LDGYSDIQDQAGFcyRSTtDFISY--STMIHRYFAGG--svn-GTILVPAlRRA---yrRLLKYAVR-AArTNQGAFWS----------------------------------------
+>310700 len:161
+------------------------------------------------------------tE--VARLLDEkLSAMHAAGERl---DVITFSGN--GEPTlhPEFAGIVdD-tivLrDKYFPEVEISvlCNStqlhrpDVVEALRR-VDNNILKLDSAVEQTMRLMdrp-------------------------------
+>30801 len:336
+----------------------------------------------------------------------------AMKKgISLSEFRWLYKISAELRLPICRSSaD---ILYSHLn---SDKliPFFIALYT-ILQASLNFED-KvPIDTINSvNRITKy--------------------------
+>3023054 len:95
+----------------------------------------------------------------------LQEAKQAYRQNEA---SVKTN--ARAMKQITAKCE---ACIESRDNAQERlKELQQGPL---------------------------------------------------
+>2927207 len:102
+-----------------------------------------------------------------------------------MVIfTWKFE--SEFQHDCGKMTELF-KILYQLLSG---eDLKEELSA-MHgKDKFMFIYS-PPVFNL-IILSQ--------------------------
+>2907362 len:151
+------------------------------------------------------------nQ--TAVTFSIaVDRPGSQGRE---RQADFIRI------TVFGKQAE-ncd--RYLSKGrQVAVNGRIQTGSYK-NREGQTVY--T-TDVIANNvEFL----------------------------
+>2904143 len:102
+-----------------------------------------------------------------VLSEMFVNEVMSKDRERLDQLqQLLAA--MGVE-GWKNPSENplgPGVWVDGVRSGMQQ---------FR--------CTPNERSW--------------------------------
+>2180808 len:151
+-----------------------------------------------------------------------------------RDLAYFSEGSEHFV-DYVRAVSWaqdY-ARERNPRKDRKSTRLNSSHR---cISYAVF--C---------------------------------------
+>21737 len:278
+--------------------------------------------------------------------------------------TWLCS--SRFSICFSTCCG---SIGSGSfslTGGPSDtKVLSKFPV-MEirASSLIENRFDPYCYTF-yRID----------------------------
+>209398 len:171
+-----------------------------------------------------------------------------------ESMsDWLSAEEQAQTAGIPRQRpavR-mpeCESICFPCCHGPVQLTISPDPP-LPPRTVTDSA--PGAAP---------------------------------
+>16119786 len:243
+--------------------------------------------------------------------------------------mtPFTIKNSAAAVIVMMAYS--kae--KEIEPENMPTPTlIIWGEFDN-WVPLSQSRLL--EEMIANNtf-------------------------------
+>1260975 len:183
+----------------------------------------------------FPYTTLFDlsDlkkkiYF-------ISDDPYFFANCNPVDMqKYLCSVYPEFAvEDFYSYLmNFgldKKRKVNTYSKGmRKQlALICGVCS---GAKYLL--C-DETFDG--------------------------------
+>12559239 len:80
+-----------------------------------------------------------------------------------rtEDLgVMCVE--PEMF-AIEVTHELmaqF-AITYAATGG---tRWFALQNS---SGTTCCRCC-TGNVVL--------------------------------
+>1214760 len:107
+----------------------------------------------------------------------IRKCLKlQERQ------KY---RPGRICQRLGKNYCLnasV-AVCLPSHCGNLKHIRCAFGS---SPWDAYVS----------------------------------------
+>1138881 len:172
+----------------------------------------------------------------------------peRSTD---DEVgVLVHAFNGMLL-HLATRDrdlQRhrd--ELEQTVaqRTA---ELREAKER---AERANRFKSHfLATMSHEi-------------------------------
+>10347999 len:84
+-----------------------------------------------------------------------------------srPRLRWPAGRWRTML-PFQRAE--tag--VSIRQQyKTE---ekTMAKGILM---vAFDFSNAH-E--------------------------------------
+>8744452 len:143
+----------------------------------------------------------------------iVSTADKsypNCEQ---GKTSFTSPRSKASM-EIGRKG--VkKQLYEQQNKG---egAFSWGFSS---PSLACFRcrCC-PFEIFLERFL--P-------------------------
+>814781 len:133
+----------------------------------------------------------------------------dylKISLDGWDEESYFRA--RGVH-AYQKVQeNIL-TYAEWKwKNSPQTsLGIQCLAT---STCLLYTS--PSP-----------------------------------
+>7400012 len:112
+--------------------------------------------------------------------------------YKIyKTSAFYRCAVEPFImrADVSKPYqyiK-hpeK-VVRREScvSSGnLANCFACGILD-I-------------------------------------------------
+>6559281 len:171
+---------------------------------------------------------------FFAQWVAAQRVTRAARQEQVKGW-------QKLVTELSRHCK-dlq--TLYRSKKPGDAGEAADRLAG-QL------------------------------------------------
+>555206 len:733
+-------------------------------------------------------------------------------------------NLEMVElESLVDESDLwlvF-QMVEDHvrWTGSTLgrRLLDNWEL-MVPRFVKVMPVDyKRVLQQRraq-------------------------------
+>513630 len:104
+-----------------------------------------------------------------------------------RDRSLHSLASGPFMlVSVLRYEykN-qleE-LQMNGKCSG---IFCGCCCC-S-------------------------------------------------
+>4820623 len:313
+--------------------------------------------------AMES---EVRR--IEQKYSRYRDASVLSQINASAGHPVEIDHETQWLLDYARVGfE-qsd--GLFDITsgvlrrvwdfKAGllPTAAQLEPVRRKIGFDRITVSNRCi--------------------------------------
+>479905 len:127
+--------------------------------------------------------------------------------rtfNKRQDYgPYYYRSRGE--KGILKPGE-L-QLLKYFqvILGFSIAMVKILYK---rlQKCILCIG-DktkPEKIAY-lQSF---------gsyciclpcqc-------------------
+>4328954 len:196
+----------------------------------------------------------------------------DERE---SQLdHFKRD------LEAARQElT-rle--QELAEQRQQASDALREADAR-LAaTTEEAAATIAaATERAQAl-------------------------------
+>3315281 len:92
+----------------------------------------------------------------------------ASITGNVfQALDFILG------lENFLCDApN-cpeINEFKASPWAGPTKadiDAFDSFLA---PLGGRQTP-TAESIIGD-------------------------------
+>326347 len:109
+--------------------------------------------------lKDLEVAQKDEV--ARIKREKereIRQAEREAKKDRKsTRL-----NSSHTVI--------syaV-FCLKKKksYAS--------------------------------------------------------------
+>2916860 len:81
+----------------------------------------------------------------------ITTLCITDSDGDWyvtANHPMTKHHRLSFL-AYVTSD--rveLlKLYPEGTAHGrfQRRgtwGFCTVIAI-SM-------GC---------------------------------------
+>27560692 len:118
+-----------------------------------------------------------------------------KTFgDQGdRDLKFFDA-------VLATLKkDYkvdQkRIYATGHSNG---gGFTYFLWA---ARGDQFAAFAPSAAAPSRTLGQ-------lkptp-------------------
+>2618067 len:305
+--------------------------------------------------lkPIVDVIIHCYA--T-YTSPHGRNSYRKERYYGISDVKSAIDEINQQR-EYRQSKQYqrs--LMTNSLRYDilKRDGFRCQICG-ATAADGVKL--HVDHIVP--------------------------------
+>25838787 len:128
+----------------------------------------------------------------------------KSEQnDGFDRLyDYVAV--AVNY-SIEELYD-rin--ARVDEMfENGlVDEvrKLVASGVN---s-------DCQcMQAIGYkEvlECLNNg--------------------------
+>2278714 len:190
+----------------------------------------------------------------------qRREGRTLTVD------GYRQA--GGISGSVAQSAE--EVYHQVPaeRRPLLRDLLLRLVT-PTPDGEPVRT-RiPRRTVVSdAEHERLIELLVRarlvtsdDQTVEL-------------
+>22536107 len:202
+----------------------------------------------------------------------MQSQRRilvPGPR---GNI-YDRD--GRLLvGNLPRFS-VV-LYLDELRPEFRREYYRIRNN-YRATGDKDV---PNDAQMSi-------------------------------
+>21556527 len:92
+------------------------------------------------------------------------------------AMeEFWQEHGKEYANEYWAGR--qas--KIAMKAEEG---TSICPKCT---SDNVEEV---TESETQG-------------------------------
+>18719678 len:120
+----------------------------------------------------------------------------aiELEAKDYrQDYrqDYRQA--SSEA-RTANPTQ-renS-AIIATTSAS---EIEVSIMN-LSPTQAQMMEI-iSQRFAGQl-------------------------------
+>17969717 len:76
+--------------------------------------------------------------------------------------ELRQEHH----QPQQKDQQ-tveAQKMIGLVGSGGTAATYGCCLH---AATSLYTLLGPGANST-l-------------------------------
+>1758174 len:365
+--------------------------------------------------------------------------------------YFKAQSIAQVT-QFEVVET-I-DVVSCQRNS---RAVQRYTL-VGKGCSLFACCCs--------------------------------------
+>1679449 len:137
+----------------------------------------------------------------------------iifDLKCDNEQKS-------GEFLVKFNWKGvDEpysSEILVNFEwkqaneqNPGeiLVKfHWKHAIQK---nSNEIVVI-FDLKRDNV--------------------------------
+>13336567 len:113
+--------------------------------------------------------------------------------------GITYTDDYGFL-SMEIEVS-nvsL-EFISQMqqeRQNQQNlqKYMQGATN-IYAVNVAEN-C-DDATPL--------------------------------
+>12423255 len:233
+----------------------------------------------------------------------liLCQKFTd----KDWNQIlGFLRITRYFFLEELFEALfQ-hiq-KIRSQSPhIHRYQRiHIDSHTVC-FCSGCCLYNVLCFHNLCQ-vISL---------ihladt-------------------
+>1095848 len:197
+------------------------------------------------------------------------TTIRNASRSPVkKNRRLRPTPQ-----DYTGVRR-nvaL-TCFAAC---CTNvtKVFRVLAK---PAPTAPASSGsSGGVTPv-i-------------------------------
+>10750369 len:93
+--------------------------------------------------------------------------------RLTVDM-----KIAEIRIEYDEQCeQAqrkA-TLWTQRFTGCQRRYLPTAFG---------------------------------------------------
+>9823647 len:211
+--------------------------------------------------------------------------------YYLSSVaNMYAG--NKIA-ALDSARR-A-VEIEPDNAE---yrQLLNRLEN-NGQYYQQYSG-NyNNSCCVcDDCC----------------------------
+>9648671 len:302
+--------------------------------------------------------------------------------------lRVFIEEAAGIS-KYKERRR-ete--NRMRRTQENLERltDLRDELER---qLQHLQRQAAAAEKYTEyKkeeRLL----------------------------
+>8986733 len:257
+-----------------------------------------------------------------------------------fRQTaRYYIN--HGYARPITREE--sve--ILRKAEeaglvlQPGNSKrlGFICTCCG-CCCEGLKLVN-KfPRPSEL--------------------------------
+>88697 len:197
+--------------------------------------------------------------------------------rdEYANQLmKFQKN--GGHEeDRLLDQLlT-M-ALIEARscerfkrlSEGlDDAymrKFYRRFME-SEaGHYTLFIKL-AELYLPkAKVRAR-------wkewl-------------------
+>81314 len:138
+-------------------------------------------------------------------------------------------YLRDLHNEYRRQRQ-M-CIRDRDINGnNFKKFSLSSLC---fTMCISCC-CNSCTVSYtHlRAHETka--------------------------
+>7529061 len:82
+-----------------------------------------------------------------------------------KEYghTFRGALREEVLMLIASDKH-speLQVAFADCAADIKSTYENQEAR---PTALDWPA----------------------------------------
+>7080609 len:154
+-------------------------------------------------------------------------------------------NKRRMNkIPMPTLGG-LAIFIAYT---CDTMFMLRNQM---PSQQLWGIFGgel--------------------------------------
+>5909222 len:149
+--------------------------------------------------------------------------------------faRIGRG-------ILKNEGRTakeIKRVMRQFfpSHSQIKKFSVGCSK---KTVKTYYKSRQAILLR-GFWAA--------------------------
+>5824068 len:97
+----------------------------------------------------------------------------AVHL---ATTEFTESQVQQFL-SFSTNGR-rmeIPAWLPTKplFVSylASHDLIDGIFD---DSQVLDPAAGwDYLIDQ-v-------------------------------
+>523011 len:131
+------------------------------------------------------------------------------------EVrAKLKDALAEAAeIDVVKQR-VrldASLVLAVCaaKCARDDrALLQGLYR---s-------PC-NPAFGR-y-------------------------------
+>4992261 len:138
+--------------------------------------------------------------------------------------EFYWAAAELYI-ATGEAEyrDYllaSDHFAAADafDWGHTWplgtlSLLTVASD-LPADRRMEVEAAVTGFAEKllTVQAR--------------------------
+>392121 len:154
+--------------------------------------------------------------------------------EGNPDCGWMVLDYGSVVVHLLSPQ--mrdY-YQLEELwRRGKSRpPLTVKNSS---LTGAIFS-----------------------------------------
+>35323448 len:166
+------------------------------------------------------------vGlvGFIDPIRKESKQALEECKKAGIKVVMITGD--HPLTaEAIGKELgmitK-kke--IASGNDieKLGKRAfdNFVKETII-FSrVTPEQKLKI-VESFKRQgEFIAV-------tgdgvnd-------------------
+>2716548 len:196
+-----------------------------------------------------------------------------------wDKI-----DGGNCSHAWALLT--gvk-SQYLIQKKEGTDKFVCSARYN---TKKMDWVKHGNAPSDGNq-------------------------------
+>24998188 len:212
+-----------------------------------------------------------------------------------AVVLFQRRITKRYRTGIEQPL--rrgARQAVDTTSKESVESFAALLCC---DDNIILV-----------------------------------------
+>229811 len:99
+---------------------------------------------------------------MIWTPPAgwVERTNVwrfMQRLgfNRLEEFlQFSRDENERFWNEIVREAriEWerpYTKLLDT-SEG---vEWSRWFVD---GRLNIAANC---------------------------------------
+>2232022 len:54
+----------------------------------------------------------------------------lCIVKACLCHFGFILH--CNVI-PYNLNS--rwdA-LNFKIPSADfKQNRVQNSSVS-LQ------------------------------------------------
+>1861935 len:124
+-----------------------------------------------------------------------------------GQLPWCHG------CACDRLRw-WklpVQNISTTPlwMPG---YILHGQLP---PSQSVAS-----------------------------------------
+>168395 len:180
+-----------------------------------------------------------------------------------mQGLKL---KNTDFYPGIAACS--C-PCMSLPWGSLKRPLWSHFNH---RKAPMRR-CQt--------------------------------------
+>14955882 len:76
+--------------------------------------------------------------------------------dvQDVLDIIFLCQ--TSYLEPASGYQD-mydY-TRLACKnLFGeNSQQYQSMTEA-WKAVGLPYEGIPVENYDDiAl-------------------------------
+>1043982 len:129
+----------------------------------------------------------------------PKKDIVwvPPKEySEDANItRFMKT--HNIKdyDELIKRStQ-die--WFWDATvkDLG---iDWFKQYDK-ILdsSQGVEWTRW-fcGGQLNI-TYNC---------------------------
+>9860816 len:78
+----------------------------------------------------------------------------pRAHH---REAAFLRQ--AILYDDTAERH--kle--QRVTQIeRDArcVQRaVWLMMVLT---AVGIAGL-C---------------------------------------
+>944262 len:113
+-----------------------------------------------------------------------------------EYInEDQREDLASIALTMATFS-Mssd--CYQDAQdRAKsiFESaleVYIDDHHE---QERAEYMQ-EMREEAAEm---RH--------------------------
+>9377716 len:105
+-----------------------------------------------------------------------------------wRRI-YQGQGCGRLSmRRISSDNA-A-VIARGAACNDSRvKLWSLPLD-GSPMKVL---LE--------------------------------------
+>92505 len:152
+-----------------------------------------------------------------------------------mQENKWENV--AATCRELvKKKAPLiln--VLQANPLCDiDDDflvQMYSTLIK-TK------------------------------------------------
+>905252 len:87
+----------------------------------------------------------------------------------------------------TQQQQ-qpq--QQQQQQQQQQRLAVQFHLKK---YDPVICAAC-lclLNLSILyDsqgpa-------------------------------
+>7831032 len:302
+--------------------------------------------------------------------------------KIRIPIpPIEVQ--REIV-KVLDNFA-ele--AELEARRLQ---yqHYRDALLA-FGDQDVRWTT--MAEVGEf-f-------------------------------
+>613674 len:151
+----------------------------------------------------------------------YTRAYIRHLYKSEELLAFRLVTIHNLYFCFSSCV-Icvk--RLCKDNflSSG---NILWNIIS---d---------DgPRILHRK---GR--------------------------
+>32642859 len:55
+-----------------------------------------------------------------------------------YKRQLLQAVRSKII-KQSRKNA-rnpY-LIFGCScqCVS---PILDSVIP---------------------------------------------------
+>27728105 len:163
+----------------------------------------------------------------------VSDKYKKSYENGNr---NFRVN--STLT---LSDGTVL-PITNSClwSGG---FVIDDSVS---EDSVF--QIGSAIINQ-fTIIL---------------------------
+>2562492 len:181
+--------------------------------------------------------------------------------iLLARSPRFPSLMFSVLA-GFVEPGE-sle-ETLIREVreEVG------------IEVKDIRYFGSQPWAFPNSlmiGFTAV-------yaggeitiepAEIAEAawfhKHDLPNIPPKLSIarrlidr
+>2318683 len:103
+----------------------------------------------------------------------FSTRVM----QRLERYRSQQDRQGRVVSVLsWADGT-wca--LSLHCEKTG---tVVVDEGQQ-VDa-----YE--DARSMLRGgflPLL----------------------------
+>2263851 len:121
+--------------------------------------------------------------------------------------------DSDCInIDMIRDGQ---AYADRRfRHSYRPQYEQAESE---ARRKQ--R-GlWKNLTE--------------------------------
+>21749919 len:193
+--------------------------------------------------------------------------------iDMIvHAInDLVQGLKGTYD-KI----R-emn-EALGHDVkTDGwENSnTFWSSFAA-ASNDATKgWDSLKNGNVGGv-iEGV---------vgswtswi-------------------
+>20600967 len:329
+-----------------------------------------------------------------------------------DERALTDHQAATIY-AL----RWgle--LFYRHFKQTyERRKLRSQTAG---NAELE--A--TWSLLG-lWAMGL--------------------------
+>16445704 len:141
+----------------------------------------------------------------------------ERTD---SDDRFWAA--CELFAATGENAfrE-aae-ELYQDGQnltQFGwADVGGMGALCCLFDlreKAGTILYSCMkCEFLRQsENAL----------------------------
+>1395625 len:88
+--------------------------------------------------------------------------------RGKGGYRYPHY--SEKWVSLFQREwsN-qlg--KSVMPQDRPMSRfDFRSGTRT---LKTVCFVCCCp--------------------------------------
+>11569781 len:80
+-----------------------------------------------------------------------------------NDCdGYTDGHYSTYHfISVCAERfcG-kfe-PKWYQDVsVTKTVSKVMMEFWQ---RSSVLVISCLcc--------------------------------------
+>1133358 len:132
+-------------------------------------------------------------RMIQL----LSDEKNKIPADRLLAVTFTKEAASSMK---EKLSR-afd-EQLRRDPeKDRKSTRLNSSHSG---e-------SC-mPDSACNkNQNL----------------------------
+>972089 len:123
+----------------------------------------------------------------------------ERKNPPAAKQ-----AAGGFVTDLNENQR-L-VLLHASeaVRAVDRTVLTGLEG---NLASLAASC-ADSIEH-l-------------------------------
+>7543249 len:111
+------------------------------------------------------------------------QEYISHNRgNKTaNNTSCCNTKQTEYPA--ARTPpTIptn--KLIKSPKPP---PLINLPAT---KPAII-----PIIMYQiKyiRFI----------------------------
+>3985083 len:77
+---------------------------------------------------------------------------------------------QEFDQEMQQLKE-rvr--RLRNEGwdNDGVRCYLIGCVTA---GAGKDWGSA-ytPEQLKE-LFD----------------------------
+>2483311 len:55
+--------------------------------------------------------------------------------------------------------irD-rasL-VYRVSSRTArATQrnPVLENNNN---nNKNICFVCC-FENYRRf-y-------------------------------
+>19929965 len:189
+--------------------------------------------------------------------------------------vLFVLA--KDPA-RLAMTIE-rla--KVMPSTLAAlLAKvaeKFDRGLGA-IRqPGRLLSALA-wsfPLWLSICl-------------------------------
+>192437 len:144
+-----------------------------------------------------------------------------------tNDYvRFVTI--SSLC-RIwMSKKE-drk--QKKEQRRAEKREPFMNKWFG-VMplSAALFYQNVK--------------------------------------
+>14681641 len:76
+-----------------------------------------------------------------------------------KVEKFIEADLNRLDVTFlNDVTDFela--CIYQMAKVMVYPSFFEGFGL---PVAEAqACGCPvITSFTSSlPET----------------------------
+>12498172 len:373
+-----------------------------------------------------------------------------------mkKNItIYLLL--ALACLGLQSCL-Fqee--NYFDDSsaNRATADvnrcsELLKAAPN---GWVMEyYIG-KDYSLGG-iTLLCR-------fdgqrvtmas-------------------
+>1198163 len:196
+------------------------------------------------------------ViiENIETYIKEkYYDPIVPVRADAINLIDIGRTMKQKFDVLFACDLG-dld-QVIIENQispLASRMKtlqGMITQYFI-MRTNCKIeYMS-SENKLKMfEd-------------------------------
+>11650487 len:90
+--------------------------------------------------------------------------------------ggEFRRSNCYRVLGEMRDRRA-apsLRKKYDKYreeLQGSKKmTWFSNTGW---CIDYLYC-CAaLRALDDS-------------------------------
+>11563346 len:251
+--------------------------------------------------eGEIQIDGMPVyeNeeakiFY-------ISDDSYCPANYTAMDLvRFYRNFYPQFRtFRSHELMeQFhleENRRIATFSKGmKKQvLVIIGVCA---ATKYIF--C-DETFDG--------------------------------
+>10521715 len:512
+----------------------------------------------------------------------YRQLFEKIQEc---aRALKAMGVKKGDIVtICMPTTPEMVYMFYALSKIGAISNMIDPRKS---QKEIEeYAN-EvnSKIFLG-vDVA---------gekyr-GLKQN-------------
+>10517236 len:443
+-------------------------------------------------------------iVA-------LFSFVV----LGMgSGRHVYRE--AALASHKAEIKE-rte--RYYSALaEFNKAHAAIPTAEL---SPEQLFMNC-AACHAPNvKLV----------------------------
+>10110866 len:534
+------------------------------------------------------------------------QVLTEMRVTDIrNEFkQYIET-------ELADAFT-aae--MVVDTEeEMA---DVFAPVSD---SKRVLINSI---------------------------------------
+>8608289 len:173
+----------------------------------------------------------------------------QSQQ---KSL-----KCSTWV-QF------knd--RMISVCFQG---cCCCCQVAS-VMSDSVQ-----PHRWQP--------------------------------
+>7980322 len:110
+----------------------------------------------------------------------------illGKRKNAPEGCWSYPG--GHLEfgESWEECSrrEIreeVGIEIKNIRFGsvTNDiKHYITICM-LS-------DFDSGEIQPDKCE----------------------------
+>6746429 len:109
+----------------------------------------------------------------------------QQNIRNMKDLIWVNI--HWLGpVPM----E---GVYNLLlDSGAHPDLQDSFGN-MILHMVV---V---------------------------------------
+>271974 len:301
+--------------------------------------------------lsPVTEPDF-LYQ--IEYTSPKGRNYYSDEERYSFQQLELHYNSVQKQI-ERRESKAYqrt--LMTESLRYDilKRDGFKCALCG-RSADDGVKL--HVDHIIP--------------------------------
+>24808077 len:53
+---------------------------------------------------------------------------------------------GSAPSCMIAAC----SLMKKTKQSlQNSpNWPTAWAS-LWkQSSALWP---PQSKIP--------------------------------
+>2149087 len:177
+----------------------------------------------------------------------------RETNEAQRAIhAFFDSLKAQMQQQINDAQqDMryaDRFFFDGNTES---vNLLKTMCS---TIKSAALSIQ--------------------------------------
+>14817107 len:318
+--------------------------------------------------eGSITIDGMDVyeNakrkfFY-------ISDDQYFFGNATPEDMmNYYRIVYPEFDeKRFDSLLkSFglqKNRKINTFSKGmKKQvSILCGICA---GTEYLF--C-DETFDG--------------------------------
+>122200 len:106
+-----------------------------------------------------------------------------------QRLkRVFNIDI-----TVCEACE-ktnV-KIITCItDPAvIHKilAHLDKQTL-LEakNDSLMpPLRAPPATASS-DYI----------------------------
+>10929801 len:450
+--------------------------------------------------------------------------------------vIFAVSGYTEIYIDLgAEHAsdTFrikTGMMFVGTDSN---lTFCYELHH-LVNRHVFFLG-NSFDLWCyDAFSCG--------------------------
+>6648555 len:130
+----------------------------------------------------------------------SGWQTKep----AADnRDLRFFDV-------MYEDLLkQGivdPeLVYSTGHSNG---gGFTYTLLL---ERGDRLAAIAPSSSAAQNRGRT-------fpkip-------------------
+>4267913 len:227
+-------------------------------------------------------------------------------------------RSKQVF-SWLHKGvR-syd--EMTNLPk---ALRDVLQQHYP-IHPPKVVrHQESKKDGTQK-flwELHDG--------------------------
+>202614 len:110
+-----------------------------------------------------------------------------------EHVigLIHADSSGPLQ-TFwalVDGG--aapL-ICIDVRiSEGDSGNLTTNDPY-WG-----FA--NDTELHPiGd-------------------------------
+>1710393 len:95
+-----------------------------------------------------------------------------------QRYKFQND--CHLCGCIDCRCP-nifF-IYMSTTaaNTN---fAWADRLRN-LATVMVIAIHVS--------------------------------------
+>1605169 len:131
+--------------------------------------------------------------------------------YTAAPVlNFISA--LAVT-PFdRRTTyS-vsdWRPVISADTSAPETSRSDHVCH-SVSEACLYSNT-GTPLPSP-------------------------------
+>1207543 len:90
+---------------------------------------------------LITY-----kQIFIIGFISFYSYFQRHGHYDV---TNNTFREERTMREKLYLLFACFgAeSVTNCLqgnkdn-----------------------------------------------------------------
+>1139387 len:101
+----------------------------------------------------------------------------NTQH---RLMdGFSQDSTRQYG-TYTAFY--F-MSLSYPNERIQPGLYKAIWH-VYGIGFIfYL-FTHSSYPMDGFS----------------------------
+>548976 len:422
+-----------------------------------------------------------------------------------yQTIvgQVFDQNIKAYN-DF----iHLkaeI-TMQEERfKISNDHRLKIMIQS---kIEEMK--QLEESSLEETvKTLY---------------------------
+>4266379 len:107
+-------------------------------------------------------II-CYK--L-YTSPKGQNSYTQNKRFFSYELEKAFQKAIESK-KIRESKEYqrr--TMSDSLRYDilKRDGFRCVLCG-RSAADGVKL--HVDHIKP--------------------------------
+>32728107 len:133
+---------------------------------------------------------DIMR--LEHKYSRYKDDSFLSAINQVAGGELAVDDETARLLDYAFTCyQ-qsd--GLFDITsgklreiwrfNQArlPTADEIENALQAIGLK----------------------------------------------
+>3075750 len:78
+----------------------------------------------------------------------------ERRE---QGAHYTSE--RNILRVINPLClD-dlrA-ELHSPKRTK---ATLRMLYD-KLPTLTFfDPACG--------------------------------------
+>268806 len:51
+--------------------------------------------------------------------------------------------------------------IQNVekDSSASDRFVWKKDS-LW-----YI-Y-HLCICKNSKL----------------------------
+>2646085 len:397
+----------------------------------------------------------------------LKSKLKgNVSSIILNNKKIYGK--DYITIKV----vDYtya--IYPESFfQVNTNMisKLYDKVST-YAgsGKSLLdLY-CGAGTIGI-y-------------------------------
+>2630405 len:113
+--------------------------------------------------------------------------------MEKNNWRAVSKKCHEIVL--SNAGRFY-QLLGTQPISPLNdQWIGQMIS---iPLRST-------------------------------------------
+>2063615 len:246
+---------------------------------------------------------------------------------------------GTLKATLSQGGsSSkvdTrHVTFEEFvaaieafQAESKDDFENHMVE---RSKEE--NHRKKFVSKS-------------------------------
+>1820108 len:615
+------------------------------------------------------------Evtg--KGLVRHVlIRKGFT----SGQLMVCLVIN--KKMTkMSYPTAGvQKntn--EFLP--NQG---ELLAALAK-IQgMTSVSvSINTEkTNVIMGtEiHNL--w--------------------------
+>1427180 len:87
+--------------------------------------------------lhPVIEPKWECSC--Y-YISPKGRNRYSSKRQYSLEEMKYYYDKNVEQE-EKVCTKEYqrk--LMTDSLRYDilKRDGFRCVICG-RTAND---------------------------------------------
+>9230745 len:146
+---------------------------------------------------------------------------------------------YYYS-AIAHSGlGNnva--ALEHAKRAAAMEpdnmSYRSLVQQ-FESGGSWYEQR-QAAYGYPSFG---------sgnlcmkLGLVN--------------
+>188882 len:66
+---------------------------------------------------LITY-----kQIFIIGFISFYSYFRTLKHYDV---TNNTFREERTMKKKLYLLLHLFwgK-----------------------------------------------------------------------
+>15505337 len:66
+--------------------------------------------------------------------------------------------------RLVGSEM-cirD-RFITSTpNSRCKDiDFEETSSF-FAISEMFITQFN--------------------------------------
+>1545053 len:201
+-----------------------------------------------------------------------------------YAV-----KQMKLIDAFPNTH--hfeVIAVLEPVKRDESSSQSQRVNS-VS-----YTHLRAHETRHDIVC----------------------------
+>11351411 len:205
+-----------------------------------------------------------------------------------RAYnQWIYRNIRKLGIYFYCGC--hvlF-CIFHHYRMGiIRDTLHRVLVR-FPCQQAIYAGV---------------------------------------
+>954522 len:113
+--------------------------------------------------------------------------------------fnNFTTA------CNMDPNNQ-eyr--AALNNMqnQSA---yNYPNMQGT---DVCTAMM-CAd--------------------------------------
+>7424522 len:107
+--------------------------------------------------DLVGTNGAGKS--TSGHGQVrIDGYPVwENPR---AKLCFLAD--TAYFfANAtpRSMGE-yyr--VLYPGFDSGRYEELLERFEL---dPKRKLs--TFS--------------------------------------
+>650395 len:538
+------------------------------------------------------------irD--VTQLEGVvsIWQSVKTETKREVfGDMRFIWGE-EKMHLQL----E-diqL-SLLPRSffHLNTKQsvNLYNVVKD-WMPRSKTTVEA-YSGIGA-iSLF----------------------------
+>56312468 len:502
+-------------------------------------------------------------------------------------------LVKEIAAACQEQAS-gsd--QINTAVqRFNTTTQHFASISE--------EVAANSDKLKQQsDNL----------------------------
+>513783 len:101
+-----------------------------------------------------------------------------------FDWNIFCD--EEIElPNLSIQRK-yvdIyKAMVANQqsyERGLEDlkLTFDALID---KVKHT-------------------------------------------
+>295656 len:83
+---------------------------------------------------LITY-----kQIFIIGFISAYIATSRHGHYDV---TNNTFKgEERSNEKKVTVVASVLgTsPITNCLrgnkdn-----------------------------------------------------------------
+>2788499 len:195
+----------------------------------------------------------------------------SIQHMSYkKQLDFKWERVKDCISKIGGLSE---DIVSYPcllDTNPYRyrlSLILPIGK-VNGEVVVgFYA--PRSHNIiDiDTC----------------------------
+>2594673 len:131
+----------------------------------------------------------------------------rePVTNPEIfCYVSYTSPKGrNSYQdEKLYSIDEVI-AHLNTVnRRNrQKEskEYQRKIMT--------d--SLRYDIMKRDgfHCV--lcg--------------------------
+>22880410 len:75
+-----------------------------------------------------------------------------------saDDIVITSDKLDKMTnEDIIKIFP-kir--VIARAMp---SDKSRLVNIAH---EQGMV---CGmtGDGVND--------------------------------
+>1961469 len:619
+--------------------------------------------------------------------------------AGDAKNNWVKF--ANFYw-RIIRTNyDGsirL-LYSGTShntTEGyiGKSAFNPTDND-PM-----YV-----------------------------------------
+>193787 len:193
+--------------------------------------------------------------------------------miyTDLDRI-----SLQIFIDVFCGNSDAvce-GDYSEDEKQKAASGLVNEYMS-IVgKKGIL---A-EVSKKNEi-------------------------------
+>7613686 len:465
+----------------------------------------------------------------------------ELEHLNYdAQLDFKRDVILQALEKFKGYEkiELrktI-GMADPYhyrNKA---AFQVRMTT---GKLIAgLYK-PeSHHLVD-lPTF----------------------------
+>636499 len:929
+-----------------------------------------------------------------------------------wINL-----IMDTLA-GLAFSGEPplq--EYMREPpKCREEPvlnRYMKSQLI-WTGSYTIVL-C-i--------------------------------------
+>26677268 len:199
+-----------------------------------------------------------------------------------gQTL-----DADRFA-RMtdAEARKAlpeL-RVIYRARPDDKTRLVRLAQE---CGYIV--GMTGDGIND--------------------------------
+>19612083 len:881
+-----------------------------------------------------------------------------------wVNL-----IMDTLA-GLAFSGEPplk--EYMQEApKQREEPvlnSYMKGQIA-FTGLYTILL-C-i--------------------------------------
+>1745970 len:76
+---------------------------------------------------LITY-----kQIFIIGFISFYSYFKRHGHYDIMTLRTTHLGEERTMKKVVPVVCENIlgQALLTALaeie-----------------------------------------------------------------
+>1641885 len:641
+---------------------------------------------------------------------------------------------PAIF-GY----rN-kmeF-TFGDEVKAGPLSlgmHKRGSFYD---IVSVT--DCQivEEDYRKi-lRCVRDyFEEMQEQgldvsf-------------------
+>118437 len:154
+----------------------------------------------------------------------------TARK---KQYEYYR---DSLL-TFgDDVP--mvkIGDIATDIYRG---aGIKRDEVT---DSGIP---C--------vRYG----------------------------
+>11421038 len:413
+----------------------------------------------------------------------------ENTGKGLvRHVliRYGFTTKELMVcVIINGNSlP-kve--KLIDRLtaIEGMKSiSINQNTKK---TNVILg--DVTKGIW----------------------------------
+>612766 len:872
+-------------------------------------------------------------------------------------------WINMVMDTLAGLAfSFeppLLEYMKEKPKKKSEPIINKYMI---NQILV--T-GlYSSLIC-v-------------------------------
+>4178479 len:246
+--------------------------------------------------------------------------------------TFKISPR-----SFYQINhD-qce--ALYSKAlsLITVKHpKIMDTYCG-IGTIGLI--A----------------------------------------
+>976879 len:58
+---------------------------------------------------LITY-----kQIFIIGFISFYSATSRHGHYDV---TNNTHLGGTNNEEKLYLLLHLF------------------------------------------------------------------------

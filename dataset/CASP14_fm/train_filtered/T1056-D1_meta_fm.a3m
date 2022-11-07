@@ -1,0 +1,608 @@
+>T1056-D1:
+MLTAIDYLTKKGWKISSDPRTYDGYPKNYGYRNYHENGINYDEFCGGYHRAFDVYSNETNDVPAVTSGTVIEANDYGNFGGTFVIRDANDNDWIYGHLQRGSMRFVVGDKVNQGDIIGLQGNSNYYDNPMSVHLHLQLRPKDAKKDEKSQVCSGLAMEKYDITNLNAKQ
+>12284621 len:274
+--NIISDLQKQGFIVTSDPTWF----NPWGYRNLWQYGIWADGYSKGYHRAYDLAKWHNAPIKSGVNGTVLAGTGFGGFGYQLVIgfvATNGkRYQIIYGHLNRNPLTyLRIGQNVKKGQVVAYQGASNNLGVSMASHLHIQMQNFGYL-NQYDFITKCINPLNVDISKSS---
+>A0A3D8P394	121	0.276	1.507E-27	14	153	169	493	639	642
+-------VIS-GaEGFKSSPGRW---PVPGYHRVISRYGVRRHPILGDYRPHYgiDIACPEGTPVVAVSNGVVT-YVGWvPGYGYCVQYRDAT-YEYLYAHLKAGSSRVKVGDHVNAGEVLALSGNTGLSE---GPHLHFGVYR----GEVGDYKTNAVDPLKV---------lgg
+>A0A6L9IQB4	103	0.242	1.509E-21	10	161	169	139	336	435
+qswqppplipplsrdpl--GRDHY-----W-LMR-P--VD---S--NATNF---GlfY-Y-PYgSDGpedaWrvHAGIDMPNPIGETVRAAGSGLVV-waRDGLqtesGvfqdtfSYGNVVVI-QHDfGFrgrplYTLYAHLS---rVLVLQGQYVNAGDAIGLVGNSG-R-TT-GSHVHFEVRM-G--E-A--nTVlssdvsip-GyGatYNPILW-MvpyvgTGViagrvTDi--
+>UniRef100_A0A1V6F5C8 Murein DD-endopeptidase MepM n=1 Tax=Candidatus Hydrogenedentes bacterium ADurb.Bin101 TaxID=1852847 RepID=A0A1V6F5C8_9BACT
+------------FLVLTGP--ED--TAEFPASeaSpYLLPwraGI-SR-LCVQgvrgIvsHrgdSRFayDFYMPVGTEICAARGGEVV-rvVQE-hegnGiqwP-NNLVVI-RHEdGTRACYAHIRKN-gSLVKQGQRVQQGDVIAASGNVG-N-SM-MPHLHFHVVD-A--D-------KGvtM-PITFRdVhrHGGipr----
+>tr|K2F8C9|K2F8C9_9ZZZZ Peptidase OS=groundwater metagenome OX=717931 GN=ACD_9C00199G0003 PE=4 SV=1
+------------------P--F----G-VYV-SpESSPvSp-EkFK----GYHTGADLEvRSeElDvdVPVKVLCDGQLL-STRTatG-YgGmavQSCNL-D-GqDVTVIYGHIRl-S-sLNAKVGDRLEAGQYLANLGNaySE-E-TD-DErkHLHLGIYR-G-------nDI-NilGyvqsQDELSsW---------
+>A0A2V9LZ90	91	0.222	1.822E-17	0	161	169	186	384	429
+------------mmdgaevtvrkelplavtaplrggPWM---A--GN---GPsnaGhhrrmLlALNgRvTISqRFAYDfmklGED-GkaVqgDpSKNeNWFG--yGSEVLAVADGIIS-eaQDDipe-ntpltpkrPiaipSAktvgGNFLIL-DLGnGNFAFYAHMQPN-sLRVKVGDRVRRGEVLGRLGNSG-N-SD-APHLHFQISN-D--P-S--ISdGEGL-PFVFEsFdv-------
+>tr|H7FWV2|H7FWV2_9LACO M24/M37 family peptidase OS=Lactobacillus salivarius SMXD51 OX=1108963 GN=SMXD51_00344 PE=4 SV=1
+qtaik--GISNS-SSP-F-----Pn--V----S---VNDLQISsGMGWRSID-GvqYHQGWDLpAV-QGTPVLATNSGVV---S-YtG-FlqdqGNVVIVyFQESnTaVY--FQHLA---sITVSKGQQVTSGQQVGTVGGTGASPdyNSYAPHLHIGaFKN-A--S-N--YI-NNaypM-P-S--LptnSET----
+>tr|A0A1F7B307|A0A1F7B307_9BACT Uncharacterized protein OS=Candidatus Peregrinibacteria bacterium RIFOXYB2_FULL_32_7 OX=1801906 GN=A2335_04475 PE=4 SV=1
+irekfqaltpss--D-MDL-I---WPV--SP--YR---G---ITAlFNDPN--Y-PFksSi-Gn-HTGTDIRVPQSSPLLSPMTGIIT-YAnGYnisedNpKYyAyHKIII-TDEnGNSVVLGHVSE--tF-VKKGDIVAQGDLVGLSGgmpgTkgAGPY-TT-GSHLHLEyhITKLD--K-T-----TNqkqfllVDPLIY-Fp-------
+>UniRef100_UPI000670D635 M23 family metallopeptidase n=1 Tax=Bacillus sp. FJAT-27916 TaxID=1679169 RepID=UPI000670D635
+------------mK-----P--AL---G--S---CIRG-Fel--------gVHEAIDIAAPGNVSVKASADGVIS-RSYy-cqT-YGETIFI-VHHigGeiYESIYTHMRPR-sRKFSVGESIKQGTIIGYMGSTG-H-TE-VQHLHFEIHK-G--rwN-------QEk---------------
+>UniRef100_A0A4P8RE18 Peptidase M23 n=1 Tax=Pontibacter sp. SGAir0037 TaxID=2571030 RepID=A0A4P8RE18_9BACT
+-----------naTI-----G--I----G--G---YLEDrSI-YSrsKHfsT-PaanrnLHLGIDI-wMEAGTPIFTPLDATVH-sfQNN-dhfGDYGPTIIL-QHElhSRtfYTLYGHLSrTS-lSGLEEvGKPFKKGDQIASLGPYPEN-GNWPPHLHFQIIG-D--mG-------GksGdF-PgvalssdKAF-Y-------
+>UPI001866F8E9	85	0.254	3.701E-15	5	158	169	103	263	276
+------------eYIM---P--VN---SGwevFwggdnElINYhYpNESqRYAYDliiRKN-NisYksFgYANeDYYC--fSEDIIAPQDGIIL-niENEhtd-nDsqKGnsllGNYILI-SHEnNEYSLLAHLEYS-sINVVIGEKIRQGDLIGKCGNSG-N-SS-EPHLHFQVMN-T--S-K--IDeCVSL-KIKF---------
+>UniRef100_A0A1I1ZQ04 Peptidase family M23 n=1 Tax=Nannocystis exedens TaxID=54 RepID=A0A1I1ZQ04_9DELT
+---HDGW----DWGV---A---E---NT-DL--YAMTdGkiiVSrdYQtsAvVcaT-Aeaa-kKknGGcInrDFpAgwpATcTSwSDMSASCQNAIT--AGdyieYrnsG-WdGYLqgeVYV-RHKivaSpAtynesfVAGYFHVKR--tVT-pAVGTNVTKNTIIGDVGNGGW--TT-APHLHLTvIRETN-----------vGt--P-T----------
+>tr|R5TSE1|R5TSE1_9CLOT Peptidase M23 OS=Clostridium hathewayi CAG:224 OX=1263067 GN=BN544_04205 PE=4 SV=1
+------------F-----P--IR---D-YKWKgSnYiHTwNG--FvSid--S-StetiYyHRGEDFgAVPDRYQFAAL-DDSVM-erVPG-kmGdN-GsNRIIT-R-DdQYQYRYCHAN-A-pF-LEdlfyKGRRLKKGEGIKLTGNtwNG-G-PVLDPHLHIGIEnfQ-E--T----IL--iNtfV-PmLyAY---------
+>tr|N1JYR1|N1JYR1_9BACT Uncharacterized protein OS=Mesotoga infera OX=1236046 GN=PHOSAC3_90495 PE=4 SV=1
+------------Y-----PEHFH--MG---M-DYSTGsivGLDLRsP-D-DsyvhqiYinHpiYGIGIAltLPEv-TNILTNEEGiNVIFahvNEvG-dtSTLtGRKLNdL-YH-q-LISEFGD-Q---yVEVTFDprELpFRKSDVVAKSGNSG-N-V--PPHLHLEVRD-S-----------TmqtiINPgF-F-FdTGSPT--paieildira
+>tr|A0A1M5MPF1|A0A1M5MPF1_9FIRM Peptidase family M23 OS=Thermosyntropha lipolytica DSM 11003 OX=1123382 GN=SAMN02745221_00975 PE=4 SV=1
+----EVL-PASadTikWQK---P--CD-----FlYVEKpY---GWYWNek--S-KrqeFSPGI-kCKVKNNSPVKPVMKGIVE-ei-GE-ndK--GRYLLL-RHDdAFFSLYGGLK---eILVQKGDKVDKDDILGKSTD----------FLYLEIR--D--E-------EGpINPESiI---------
+>tr|A0A164CNM1|A0A164CNM1_9MICO Uncharacterized protein OS=Agromyces sp. NDB4Y10 OX=1775951 GN=AVP42_02774 PE=4 SV=1
+---MAEW-Q--DfYRA---P-------G--G--AF---GiLpNsqfYGP-Q-G-HRGKDFiHGA-GTPIPAYLPGRV---ASlp-rsSVLGRCVVV-ELDeGRFAGWAHVR---gIAVSVGTRVRPGDTLAHVAGAG-D-SP-gtawaGAHAHTTLgRSVD--S----IF-SGrve-DPMGL-IrPAISSa--apai
+>SRR5271167_3210221 
+------------sknYAY---P--WrD---N-FcE-HRdYYV-G---QcP-S-GLgHQGQDMR-PgsclfrTdgagrcdpyQNDLVAVRDGVLM-RNpG-deALY---LIA-D-SpGeHvRFRYLHMDPQ-mLDGAgmvNNRAVSEGEVLGAVDNyEH-R-QS-GTsyHLHFNVQvfS-R----------DGwvfVNPymtLvAaYErL-------
+>SRR5258708_6498594 
+------------lYD-SEsTP---S---N--R---Y------YKP-----D--TNIQIP-Gdy-PITELLGGTVS-NVGWhG-GAeDTITVkLDNPlnSLslYEIYQHLS-G-n-TVVPGEHVDPGMIIGYNNPSG---SV---PLGFSLAS-G--D----FWtSSsGwsnnqtdLAPggAGL-TnPGK----
+>274582 len:388
+------------Y-----G--Y----T--I---L---C--WvC--L-GvFGlvVGLDsttILMPdySGK---SI-SGTVV-SSRkvd-kstgDlTWewGWYVCVqLDANqtpdAVnFIYFCHNEK--nL-VSVGQKVKTGDAIAIMGNSG-N-AA-lanPPikHCHLEVRA-T--R-------SGkgLDPTKYAgCsnsVGIyNYs--ndns
+>10961138 len:469
+---------------------------------Y----Y-YSadVY--GYHPGVDINRGEGEKLYSLVDGIVI--AR-aG-YSSIsIYV-P-AdNVTLTYMHFDPA-sCSLSLGD-fVHKGDFIATESGimAG-K-IT-KQiHTHLQV-S-E-----------GacyFD-LQgF-Ivs---e----
+>UniRef100_UPI0015AFAF14 peptidoglycan DD-metalloendopeptidase family protein n=1 Tax=Deltaproteobacteria bacterium TaxID=2026735 RepID=UPI0015AFAF14
+glpiaegyaqpypygnlmrqydgnrcrhrgldigavgek--N-GGLGTVVNsAT----PGVITl--IGKagg-DVKEF---GkID-KR-S-Gttk-RTGKTY--PR-Q-ILAPGYGVVYPFSRtYGRWrsGTVIVV-R-VtdGpLkdyTLRYMHLAdvRP-dLKV--GSKIEAGEHIALMGATAIM-DS-WPHVHIDL-T-N--P-------EGqrVDPASY-IglqETIs----
+>UniRef100_A0A524DEQ7 Uncharacterized protein n=1 Tax=Candidatus Lokiarchaeota archaeon TaxID=2053489 RepID=A0A524DEQ7_9ARCH
+--------------------------------SpY------YA-HQh-GV--ALDiYhDLSlRNfAALSPV-EGKII-atKSlkApsprFkG--GisrEYVTlI-KNPkDPNLLYKILHvK--p-EKEVGETVSIGEELGTTIKNG-YFAPWsSPHIHLEIRT-NENP----FRARGgE-QIPLHIlkKPIkl----
+>UniRef100_A0A0S8FPU6 Uncharacterized protein n=1 Tax=candidate division WOR_3 bacterium SM23_42 TaxID=1703779 RepID=A0A0S8FPU6_9BACT
+IL-MLSFYLLSvGW-----P--LapQ---D--SMHAccdYY--A-AYREg-SGGdidLHTSIDvWCDTSGVPVYAVADGYV--KVwvNtWgGsPYgwG--LGIgDEYGtdSMnvwS--YWHLNST-mYHLEAGDTCSAGELIGYIVhwfDTG------QPvRFHH-V---D-----------lGrr-RS------------
+>UniRef100_A0A0L1IJF3 Lipoprotein n=1 Tax=Mycoplasma sp. HU2014 TaxID=1664275 RepID=A0A0L1IJF3_9MOLU
+---------------------MHf---G--E--DY-IAN-DYQ----AvlMpYDG-EIIAAyElTSKIPFSGVGTVL-VARipVknlD-WSpkEIeIQLNDNNdAIYMSFLHLDaAR-tLN-NdefgwasetakLSgdrvikvvrnvtpekpQAVKKDTIIGYLGdNesNG-GWMS---HAHINLYT-R--rV-N--YLsLNyfStpvTSP-A--LsdRDIKRyH-se
+>tr|A0A267MPJ7|A0A267MPJ7_9CLOT Uncharacterized protein OS=Anaeromicrobium sediminis OX=1478221 GN=CCE28_02760 PE=4 SV=1
+tmevfgnm--TSSRL-NKK-Y-V--PP--IE---G--EIVSsY---G-D-SidPiLN-TksFQRGIDM-MSfKDTYVRGIDDGTIA-EVG-esENLGMYVKV-SHGsDVFAIYSNCT---eIKVKKGDEIRKGDRIGVFRKND-N----GKYFHFELWV-N-----------GnvVDPTEY-I-------
+>tr|A0A1W9XCQ6|A0A1W9XCQ6_9DELT Uncharacterized protein OS=Desulfobacteraceae bacterium 4572_88 OX=1972444 GN=B6245_10590 PE=4 SV=1
+------------W--------W----G-----N---GG-T-RP-S-A-HEGLDiclYRTGNG-QVRRLSPDTMIPamYEGtvvrLddD-FlGKSVYV-RHEicddkGRqlFTIYGH-TvPA-d-HIRPGHALRRGEVFATISafEKE-K-VRIFPHLHLSV-------------------------------
+>SRR5919204_564702 
+------------W-V--GP--ApT--CS--R--RpCRATG-GqkVRvviELD-GrpeaYalYR-LDFtArhmVP-GttLEVAEA-LGTTP-raLAAvWr--YllAiDWIAkI-E-Ae-wMpfdHPLFLWLREP-r-RMRwSAiEALW-GR-LVDVGaAlSA-R-S-YrdnGA-LVLDVR--D------------eVCPwnQArWRLaDGVAE--rttveadlrldvrelgrvylggftfdq
+>GraSoiStandDraft_50_1057286.scaffolds.fasta_scaffold1981395_1 # 2 # 100 # -1 # ID=1981395_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.576
+--------------------------N--E-SwSFT-GGphGGWA--D-Gsa-WAALDF-APpGdprgcviSaSPATAVASGVIA-YSG-N--G--MVILDLDgdRNeqtgwTIFYLHMDSA-g-RAPTGKQVEKGEVVAYPScEGG-Y-SN-GTHIHI-ARRYN-----------Gewisad-GSNPFVMDGWvssGDgne--
+>4400867 len:401
+------------W-----PfSSVpK--SGP-KlVAAqkFG-NdG-GFR--T-NsFHDGVDFGdATyNG-DIHAVHGGKI---SKiVkpGEYGvGFYLVWETTedGYg-ISYQELGdMN-dISVKEGDTVKTGDKIGVSRSGGEEYS----HLHLGIsKeK-D--lG-K-----AlGksftddgtwLNPVEV-IkKGLDN--dk
+>UniRef100_UPI00157D0568 peptidoglycan DD-metalloendopeptidase family protein n=1 Tax=Actinobacteria bacterium TaxID=1883427 RepID=UPI00157D0568
+------------gWTRIGVPn--Fw----G-----QYT-HGdLGY-----GrcdepyYtNdkFAVDYLMDLWdPVYSPFDCGHVT-FAGr-nethKDYGIFVSI-RACnDKyVSLTGHFR---aLR-sGldKGDVVDRDTLLGYAGKTG---gGTIpvGPvHFHQAFyRypK-E--N-------PdGspy---------------
+>UniRef100_A0A449B3C6 Uncharacterized protein n=1 Tax=Mycoplasma maculosum TaxID=114885 RepID=A0A449B3C6_9MOLU
+--------------L---P---G---G------YgELRGF-YnDP---NavkqIHLG-eDvL-VKSDTKIFAPFNAEIV-sfLSRkn-epqfsG-IGgQLVLrVKKEDlkeNIektiyeeffeDSNYVYIGiihldfAK-tLQI-inlidsnretyeSEktisknitiknplK-VNKGDLIAVVGnhaNNG---G-WMSHAHISVwKD-N----------Ly-kKDV-NgY-LyksKDIeKRy--knqkynsd
+>UniRef100_A0A1G3Q8C6 Peptidase_M23 domain-containing protein n=2 Tax=Spirochaetes TaxID=203691 RepID=A0A1G3Q8C6_9SPIR
+mk--NISSF-----FT----E---rE---D-F-LKNF--PS-AW-PVSAGhyyvfrnFrcnQnRSLTIkTMP-GMTVTAAADGTI---ESi-trQKY-SYkIVI-AHRyGFFTGYENIS---vLRVNEGDKIKKGTALGRCP--G----I----LHYTVKI-A-----------StaVDPEKF---------
+>tr|E4LJT1|E4LJT1_9FIRM Transglycosylase SLT domain protein OS=Selenomonas sp. oral taxon 137 str. F0430 OX=879310 GN=HMPREF9162_2176 PE=4 SV=1
+mrericsillivmall--MPTSLAAAMPpF-----P---G---G--AVTSpFgPRDtG-GgA-----SkYHKGIDIGTNSRTPIHAPFNGFVE-H-G-agsG-Yi-YWVEI-RTPeGGTLLFGDCAEE-tLHCATGN-VQEGTIIGYTGgDayDG-PLgySS-GPHCHVEhrVHgV-N-----------GsqIDPVPY-LlaLGVdlsGNi--vga
+>tr|A0A2N1V3H1|A0A2N1V3H1_9BACT Uncharacterized protein OS=Ignavibacteriae bacterium HGW-Ignavibacteriae-4 OX=2013811 GN=CVV25_09535 PE=4 SV=1
+----------------------------------------------GFNCGVDiF-CP-fDSEIQVIESGIVL-ni-SQYtqrketSCFENTmqCVI-KCNsAM-YKYTFLD---kIYLKLGQKVHKGDVIGKCGlTvikEKIK-PS-DP-FYLRdIaHS-N-----------QtsyLH-LEiF--ks-------
+>tr|A0A2G6QQS0|A0A2G6QQS0_9SPIO Peptidase M23 OS=Treponema sp. OX=166 GN=CR988_00060 PE=4 SV=1
+------------W-----P--SD---T--KnLKRlF---G-E-R-IT-NeckiFeY-GFtlkntEtVRTADyGRRLITIENKNSM-K-GFpSTLGNAVVlI--HAdDIQTIYGNLENT-dL-FETRHIADNNSIIGKTANTAW--GE--PNdLIFQV-L-D--i--------KNsvyINPgL-T-LPAIED--kfppkikna
+>tr|A0A2D9RLX0|A0A2D9RLX0_9ACTN Uncharacterized protein OS=Acidimicrobiaceae bacterium OX=2024894 GN=CL428_02760 PE=4 SV=1
+-----------------------------------------------FHNGIDyFTSEEKVAIQAVSSGRVM-FVDvYerkpdGAFqinlawqtptGEVLSysL-EPSaGpAdqakvanQKLLAQ-KmMD-sMTIRVGDQIVEGQLLGYLY--G-Q-DEW-AHVHMSLKaS-D----------RGpekwLCPADY-MatlEGSdllPK--
+>tr|A0A1F3APR4|A0A1F3APR4_9PROT Uncharacterized protein (Fragment) OS=Alphaproteobacteria bacterium RIFOXYD12_FULL_60_8 OX=1797233 GN=A2516_10880 PE=4 SV=1
+------------tPA----P--EaE--PV--ETAslStgFgRTKGnLPY-P-aR-GtvierYgesNdvGLNSkgvvIRARSGAQVIAPHEGVVV-FAGpFrR-YGQLLII-DHGeGYHTLLAGMTr---IDASVGQQVLGGEPVAVMA--S---TD-KPDLYIELRR-N-----------GqpINPl-PwLVasKg-------
+>UniRef100_UPI00139EE65B SH3 domain-containing protein n=2 Tax=Staphylococcus aureus TaxID=1280 RepID=UPI00139EE65B
+kltkkefiewlkts--EGKQF-N--iDlW--------Y----G-FQcF-DY-ANaG--WQVlF--GYNlKGVgakDIpSANNfnGlATVYQNTPDFLA-QPGdmvvFgsnyGaGYGHVaWVI-EATld-YIIVYEQ-Nw---L--G-GG-wTD-G--IEQPG-w-GWE-kVTRRKHaYDFPMWfI-R--P-------NfKseTAPRS--VqsPTQTR--ke
+>UniRef100_A0A2P2DV05 Uncharacterized protein (Fragment) n=1 Tax=Leptospira kobayashii TaxID=1917830 RepID=A0A2P2DV05_9LEPT
+tynssfgwdgygrghdiyeyvtgnphkgvdiggrigdpirsitdgtiidstkgqsiyipssqkllnagvvylnaetdtagfydskgnrls--N-EKLLEIDSeFK----P------------TDFRKTGVQYK--D-GnFYR-LEFQNNvKvSVNLSAAEVAMLPRelTTG-dpkdiAkNFssnGNSVKM-K-TiidGQayEVTYKHLD---kLPSeKyttAGNLITRNTTFGELGTTG-S-ST-GAHLHLEVQtK-N--eP--------iGiskdyYEPM-----------
+>tr|A0A2U1V739|A0A2U1V739_9PROT Uncharacterized protein OS=Roseomonas aestuarii OX=568898 GN=CR165_07160 PE=4 SV=1
+qasrtpa--TPAPR-AQGGra-Q----P--VA---G--TLARdF---G-D-SG-A-GgpAR-GLTYAAPPGARVVSPCGGSIA-FAGpFrS-YGQLLIV-DCGgGYhFVL-AGLE---rLDAEIGARVLAGEPVGQLGG-G-E-EN-GRaSLYVELRR-N-----------SqpVDPKAW-Frgr-------
+>tr|A0A0K2Y4L8|A0A0K2Y4L8_9HELI Peptidase, M23/M37 family OS=Helicobacter ailurogastricus OX=1578720 GN=HAL07_02260 PE=4 SV=1
+----KTL-A--lAL-I---P---N---G--EpVQSYSAKvkA-NtlHKK-Sl-GpYN-AYNFSVQKDTPVYATASGVVdL-llQRNLkd--YGKLIRL-EHAfGFSSIYARLS---nIVIKP-HAfVQKGELL------G-Y-SS-AS-LHYEIRfL-------------GriVDmPL-Y-MgWNLa----
+>tr|A0A037UVE6|A0A037UVE6_9RHIZ Peptidase M23 OS=Rhodomicrobium udaipurense JA643 OX=858455 GN=T281_02665 PE=4 SV=1
+------------ggF-----V--C----S--QLTSlY---A-SWiD-VD-Gtrr-seaHSGVD-GGKLGDTIHAPGPGRVV--AAWktnfG-WGqEAsLLI-LHSreDLnmsggapyyYSEFDHLRwN--eVKRlQEGDRIERGQVIGRVTTPGSN-RIYLPEVHWEIYevD-D--P-------DEiewVEKsngLKY-F-------
+>SRR5260370_19340681 
+------------------------------------------------HNAVDSALDSGTPLYTVTSGTAY-qi-PNWtipgfpqG-WAAVVVsdVLKDDqGnSiAFLYGHVR---eFDIQNRQHVDAGALIAKSGgDphhPG-AGfSD-MANVHFEViESPQ--P----LLAPpStVHPRQF-Lq-------
+>SRR5258707_2101472 
+--QTVEL-TGAsNakV-V---A--VeD---G--KIAQlgYSRKlG-RYiilRDvY--GdlFaSTGLgsiapNYRvaKPsrantpSaalqaasthDpAPSKAATAGsQTpVTlqvKApApq-shgaG--GGRATI-ETGetvpaGMdrKRLFAH-PgnadakaaAA-aAGVaRarrekaaqklplrKGSVVSSGTVLGTVTTaKGAH-A--G-HLRFGIR-----P-------AGdaayIDPgpvLAnWAqLq-------
+>1704102 len:203
+------------gYTT---Q--LA--FG--T-Te-Y-V-G-rTRaeRDTDPGTggRTSVNvvVKTPARGMLTAPAAGRVI-LAD-elpDPYGNTLVI-DHGsGLLSIFYGLQ---eLQVERGDEVRQGQELAKTYRI----TV-A-EMRL-----------------MgvpIDPepI-WqN--------
+>11171159 len:443
+-----------------------------------------------ss-pHKGVDIGVTgN-yfT-AMQIEDGIIT-DNR-sdRILGVTLEI-TDKnGVAYRHLRAHiSN-p-KLKLGAEYN-GEVIGQIGNTG-A-SE-LPHLDIQkrV---D-----------GklVD-------------
+>UPI00027AE806 status=active
+isgpqpcedqvditvy--D-FEF-PPP-WGY--vDPn--LNi---GD-RV-EvY---G-RY--YD-GhcsaMHlHGStDyY-I---KKIEETKCGEIL---NWksecrGKYcppkkiGaDMwFQnL--CGgG----YNF-K-G-vI-IlKsqspDGyE-YT-GSRIEWVPSS----PN--PHGEF-LSA-A-----------GdaLE-V---L-------
+>UniRef100_A0A3V7TA51 Uncharacterized protein n=3 Tax=Salmonella enterica TaxID=28901 RepID=A0A3V7TA51_SALER
+----------------------------------------------AtrCHrQNMKINI-iNGSEVSRL---SV---A-i-hl-l-FGHYaVEI-KHGn-LLLRYGEIANG-sYT-G-GASVKKGQIIAKVGrlQSG---SS---MLHLEIYT-N-----------Aa---------------
+>tr|F5Y9I3|F5Y9I3_TREAZ Uncharacterized protein OS=Treponema azotonutricium (strain ATCC BAA-888 / DSM 13862 / ZAS-9) OX=545695 GN=TREAZ_0856 PE=4 SV=1
+------------W-----P--LdA---G--TMRNnF---G--SND-N-GsplL--GT-sFET-ED-TVKAAENGELL-yqHKkGd-hasrlpSPLGSWLAL-DHGdGIISVYSRLDEE-a-PMPV-ta-SAGKTASLGRSGISGWS-GS-kG--FYFFLF--D--R-------KErrwINP-SmiINpLsdtrQPLilsvrlKD--
+>tr|A0A1C6VUQ4|A0A1C6VUQ4_9ACTN LasA protease OS=Micromonospora peucetia GN=GA0070608_4211 PE=4 SV=1
+------------W-----K--LN---Q-gWA--HW---GV-HGD-S-GesypYNs--IDFYGGDGD-VRASRAGYM-----YrfctnA--RwPYVKV-VHDnGYTTGYYHISNQ-t-TKGEGAYVAAGEYLGRIDvQlpcGG-R-AN-GDHVHWTLWR-G-----------N-TAV-----------
+>tr|A0A179EP20|A0A179EP20_ENTTH Uncharacterized protein OS=Enterococcus thailandicus OX=417368 GN=A6E74_10420 PE=4 SV=1
+------------LN----Qr--IgN---GQcYGLSAeY--SG--Y--LG-GcgLGAGTQYGLSHviGNTSAASDIGIAY-dwDAvGWkviqnpT-YdqlvvG--AII-NWArGgRvgtwfaDDTYGH-T-G-V-IR-G--LD-NNRIqTYEQNtElG-M-IC-G-KldREY-F-S-A-----------SaiasivV-PVK----------
+>tr|A0A0A2EXM1|A0A0A2EXM1_9PORP Uncharacterized protein OS=Porphyromonas sp. COT-290 OH860 OX=1515615 GN=HQ41_06940 PE=4 SV=1
+----RKL-S--GsFA----Q---N--RG--RLP-MPVRG-RYEllrRF--GrqqHaslkRvevvsGGIDLRAHADRHAYAVFSGIV---SSvFetpG-YRNSVIV-RH-GnYLTVYANLA---aVSVHVGQRISTGQKLGTIDsSAG---SD-RTgVLHFQLWH-E-----------RtkQDPLPW-L-------
+>SRR3954447_27046800 
+--AVDDS-V---Y-----P--IaD---G-V-VVDL-VGeGkApAYRSL--G-SAGL-VRhRQKvgGRETYGL-YGRL--REppGq-rsaaGdeEMmkkpGpAApAT--RPAgG--AV-ARAPeePG-t-PVRllVGDDVTAGKTYlGSMGDTG---AP-ggGRRAHVEIRH-----------------------------
+>ERR671918_2421001 
+hiealqaakaet--E-AAI-ERSrNkaL-----E--LQ---G--TLNararDvY-MRG----P-A-GvvelLlNaDSLpDLA-DRfNflDALIRKDAG--V--A--eG-LDvqRQeLTsL-R-GslqEYHAEYDR-Ql---a-GVD-GQHVEPGQLIGLVGNTG-NAaST-PPHNHFEYHP-G----------GGsaVSPyV-Y-L-------
+>UniRef100_A0A1N7KUN4 Predicted chitinase n=1 Tax=Chryseobacterium ureilyticum TaxID=373668 RepID=A0A1N7KUN4_9FLAO
+ckpkgevrvsne--K-GTVVLVSGtdkiLKN--DP--AK--VG-LQwMM-YK--TFVYKDINl-DtFkklKrSNnLpeaDYvTyLSRDtHQVKSS-NGKET-fkHSAkrFGKYneippGEYFLV-P-GlaGQkYMVY--V-i-D-s-ESKsASDE--NG--IdGPDGSRG------GVALHH-----------------y-C-P-RF---------
+>tr|M6WNN8|M6WNN8_LEPBO Uncharacterized protein OS=Leptospira borgpetersenii serovar Pomona str. 200901868 OX=1192866 GN=LEP1GSC133_4531 PE=4 SV=1
+pveikivsgefgrnttqwt--DMADF-RNKPhYN-GRDnP---S---K-VDLAGqY--ANddLTW--F--GpnasFRvDGV-F-V--G-E--RI-SGSRI-ql-SvlN-seGnVVGq--LNL-KH------FKEIN---q-AIyQgTGQIFPAGTYLGRTNDkVGL--SE-GPHLHAEITN-E--wlK-------KDkna-SrN------------
+>tr|A0A2N3IF72|A0A2N3IF72_9BACT Peptidase family M23 OS=Raineya orbicola OX=2016530 GN=Rain11_1493 PE=4 SV=1
+tnpedi--KlANSFAQNQGnlpW-----P--VD--NG-F-ISlRF---G-K-QkhPvIA-NFYidnAGVKIQAKQGTKIRAVFEGKV--EAvRe-rmgpG-YS--IMI-NHGd-FFTIYEPVD---nVMVKENERINTKQILGTIMpNfEG----T--PELLFCIYK-N-----------DkkLDPEKW-Ly-------
+>tr|A0A1I3K6M5|A0A1I3K6M5_9SPIO Peptidase family M23 OS=Treponema bryantii OX=163 GN=SAMN04487775_10491 PE=4 SV=1
+----------------------------------------WPqtEISKNsfnsYfgqNrGGI-LSTSVifSepEEVKAADEGFIT-aiLTENsddsAf-FpstlGTAVIL-AHNdDLVSVYGNLDAD-tLTIKnenEHT-IDAGAIIASSGNSGYQ--E-N-NgnLEFKI-I-D--A-------KNksaINPtV-L-MpraeEEIplslSGi--
+>tr|A0A1G3K5T3|A0A1G3K5T3_9SPHN Uncharacterized protein OS=Sphingopyxis sp. RIFCSPHIGHO2_01_FULL_65_24 OX=1802171 GN=A2885_13420 PE=4 SV=1
+------------------S--LE-------VM-YEVTA-Q-SE-SRNreRDaKG-NlITSPAG------AQGKMqV-mpTTN-tdpG-FG--VKAAKDSsdAeRtrvg-RDY--LA---aM-LKryg-GdpakawaayN-WGPGN-LdAAMDKy-GDDWlKN-APaEtRDY-VDK-N--mA----AIgGAGaqQSPRTWD-kNAVyAQ--
+>SRR5215212_6786334 
+------------------P-----------V-SW-----TFA-IE-G-HpqAG-EWPdGTAGAPFYACAPGTVLAvvQDrG-sGlSVeNnpNRLEI-AQApGeV-CGYRSLRDG-tAKVQAGNQVPALQQLARIGDSG---AS-G-YgLRV-wLSnTRE--rwP-------SGgglV-P-GF---------
+>SRR3954468_9803695 
+----------------------T---G--RRTSVRANsG-T-RS-S-S-SR-AHRSw-PP-WPGACACSGRG---GG-ggGgslTLttsdGnKFVYQ--HlGrdGnRKTAY--LP-G-LR-D-GARVKQAQRLGWSG-fSG-AASAKTPQLGFQYLP-G----------GGapVDP--Y---------
+>3570048 len:212
+----------------------------------------------GlpkMvl-IG-DIAGDNADDVARV-TSEVV-rl-ANt-rsGE-Gf--VAI-T-AdARKKFW--ADrKK-tAAIsRhTNaf-KINE-DVViPLPR-MA-EYTD-GIeRINIElsLR--N------------klklCDALtEF-FeRGNlplGK--hdadde
+>VirMetMinimDraft_7_1064189.scaffolds.fasta_scaffold196991_3 # 286 # 735 # 1 # ID=196991_3;partial=01;start_type=ATG;rbs_motif=AATAA;rbs_spacer=5bp;gc_cont=0.418
+-------------N----P--TaEql---A--SIREvaFhatKaMlArG-StvF--Y--GnikqYASGSdDnirrlIAAEqRahgGRSSAAVDMQEI--NSKvkqtFpsqvGsatkfPFavGa--VYY-R-GG----YGR-E-A-eI-IGTGGVtVSHGAA-GSTAsSvSG---V---PSMDV---------------------------------
+>UniRef100_A0A3D4FJ65 Peptidase_M23 domain-containing protein n=1 Tax=Clostridium sp. TaxID=1506 RepID=A0A3D4FJ65_CLOSP
+------------------S--IKv--IE--KIKiGF-IGGrtideeIqSdYSlPVSskkvYGnnkWDKSInEtLKLQvyENMYIKSCNDGRV--KK-i-dnDKLGNYILI-DHGkGIESKYYNLS---dIYVNVGQSVEKDETIGEIR--G-D-TV-EPKtFYFEIlYM-------------GktQD-VySY-M-------
+>UniRef100_A0A0R0E8P3 Gluconolaconase n=1 Tax=Stenotrophomonas acidaminiphila TaxID=128780 RepID=A0A0R0E8P3_9GAMM
+-----------------------------------------------LHGGFDVRGDVGQTVLAIAAAKV---SSpaatWslggqaeGlSLDtvDYIHmkVGRDPsNRpldpvR--FQQVRdadgrLV-rVRVRRGTRFDPGDALGSINSQ----A----HVHLVVGP-S-----------GyeRNAVRlgFAnY-------
+>tr|K2GC66|K2GC66_9ZZZZ Uncharacterized protein OS=groundwater metagenome OX=717931 GN=ACD_3C00144G0003 PE=4 SV=1
+------------------H--F----W-INV-SpWDSPiNp-EkFS----WYHTWADFEiTSrEaNaeVSVYAICSWPLL-LKKTaiW-YwGiavQKCKI-N-NsEVSVIYWHLKf-S-sITWRPKQDIDSGQKLWILGKwnSD-E-TW-WErkHLHLSIYK-----------------------------
+>tr|H0UHI3|H0UHI3_BRELA Peptidase M23 family protein OS=Brevibacillus laterosporus GI-9 OX=1118154 GN=BLGI_4908 PE=4 SV=1
+----------------------------------------YDT-K-SakI-V-VDLG-DKG-EVVNMDTGWVT-FVGe-kpG-YGTTVVM-QYTnDREIWYGNLE---kVNVSVND-wVNKKDTVGVAKPfVD-Q-VV-NTrYLFMAMKQ-N-----------GrfTNPl-D----------
+>tr|A0A2N5FV11|A0A2N5FV11_9BACI Uncharacterized protein OS=Bacillus sp. UMB0728 OX=2066052 GN=CYJ37_12285 PE=4 SV=1
+lt--TKSTV-T--Sp--V---P--VS---T--TATNsY-ASGsSSaatiWN-FfkSKGFsDsivAGImgNLKLESGlnpNAINKS-SG--A--TGiaqWlgGrktnlsNFakqsGTSMYdL-NTQln-FL--WKELNgseRR-tMSYlQ-GaQNASASQ-VaAMFDklfErSeG---THI-PQrqAYANqyLsQfA-G--K-------SGsV-PVS--Vsts-------
+>tr|A0A2G2M8S4|A0A2G2M8S4_9PROT Peptidase M24 OS=Sulfurovum sp. OX=1969726 GN=COA92_08080 PE=4 SV=1
+------------tIS----P--LP---G-ARlIKKF---G-TYvDPiYK--ikiFNESITLKAAKvNTKVQNILNGKVV-FAG-ksSm-LGKVVVV-AHSgKMHTVYAGLSki-A-p-TIRVGRKIKKGYVVGKVSSK----------LIFQATK-N-----------SkhINPLRL-I-------
+>tr|A0A1I7VS55|A0A1I7VS55_LOALO Uncharacterized protein OS=Loa loa OX=7209 GN=LOAG_09852 PE=4 SV=1
+----------------------------------------------GlLlE-AVDVECSPQSEVYAPFDGDL--Y--fWkpfgNhiNYecadeG--VRI-E-GtGqWQGYHVLIA---sVSLDvFGGRVKKGQRIGIARdhRciyaDD-D-GD--PFVRLQLfK--Q-----------GrpIDP-TfH-LwncmcTGQicESnPKne
+>tr|A0A1G3MGB1|A0A1G3MGB1_9SPIR Uncharacterized protein OS=Spirochaetes bacterium GWC1_61_12 OX=1802180 GN=A2004_14515 PE=4 SV=1
+------------W-----P--VpE---A--AVRS----G--FAthP-R-QsFlR-GLEYD-NQGGRVQAVADGELLFY-Gna-talpgG-FpvpdGSLLVV-AHRqELLSVYTGLQl---t-PLE-GlDAvIFEGDELGTGEPSS---ATVl-PgFFFYD-RQ-A-----------AqyVNPLAL-LplpaDNRppqlRSi--qlr
+>SRR5438477_4651147 
+----------------------------------------WTE---D-Q-GVDIAtAHgAcGnaAVEVALTAGTVV-REGi-sG-FGpYApVVrI-DDGpyeGWFVYYGH-AaP--aL-VAVGRTCSPASPWPRSAaAaSA-S-PR-GPISRSASRP----P--------Aap---------------
+>SRR5215217_1898551 
+----------------------------------------WT--E--qY--GMDLGASTdtAveTAAYAAFDGHVT-vfTPhNpd-ndSktRYGAQFAM-RYPnDkMg-GFYTHIKdvPA-gFGV--GSLVARGDFLGNVIKviriKNPD-NTFetitltAPHVHLAL-------------------------------
+>SRR4051794_13277746 
+-------------------------------------------------RGINiFS-HRGAPIVAVNDGTIT--AiG-nnEKMGKYVVV-RDSyGNRYIYTELGsvetlhpvPK-pVKLTaddfklvsppddnaptapatdttpaeqaqleqqaarqardSGseseggsgtstasDR--SGSQ-GSAGDSG------GRdHhlVNTEdARR-R--vS------AEaGrhsAKTKS-SLgAQVDD--
+>GraSoiStandDraft_55_1057291.scaffolds.fasta_scaffold1458003_1 # 2 # 394 # -1 # ID=1458003_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.705
+------------------------------------------------HGGIDFEfLA-GTFAYAVESGQIV-aiFPNdNdpsyTRWD--VYqeI-R-PGVIVQYGAV-lDP-lL-VNLGDVLGAGDPVGMPSPySG-S-TN-G-KIHFGLEF-Q-----------DlavVCSVPW-FDAVaa----
+>GraSoiStandDraft_39_1057311.scaffolds.fasta_scaffold692461_1 # 3 # 698 # -1 # ID=692461_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.553
+----VCV-NASNFE----P---H---S---L--YdRDStiNdIAiLTltePL--NFNkVGsLpiyDFSnAPSdGTPLYVTGWGTIC-ESG-pvsDQLkGVTVAL-DTScGSYPS-SDIDNA-kM-LcAsdSG--VDSCQ--GDSGGplVG-NF-N-GI-LHL-V-giV-S--w--------GyGca-NPI-YPgVyTRV----
+>APEBP8051072210_1049370.scaffolds.fasta_scaffold124129_1 # 1 # 303 # -1 # ID=124129_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.677
+------------------A---A---G-HsDvlLAQFTANGtLSWaKTLG-G--AG-D-D-G-GNSLALRPDGSIV-LTGYtdS-FGaGFsdVLLAQF-dA----YGTLSw-A-k-TLG-GASYDGGNSLALRPdgSivlTGYT-ASFgaGSnNVLLAqF---D--A--------yGtLS---W-Ak-------
+>5657664 len:250
+aregspivatndgvikkigrsrklgryvvlqdvygnrymysglgrvakyypvpkqdakdpkkaakalkanadrpakpasagrqlddsdrtprgsdr-----QR-QTAS-I----P--VK---E--RL--F---A--H-P---N-LPG-A-RESGGlEQLLDSKLR-----GGFetyRNYfSRPFGA-DSKd-VR-----LR---rL--KVGSKVIGGTILARVGK-P-S-GTKASNMDFEIRpS-G----------KGaprIDPkpiLdGSKLleataiyraAGK----
+>UniRef100_A0A6L7VRA2 Peptidoglycan DD-metalloendopeptidase family protein n=1 Tax=Gammaproteobacteria bacterium TaxID=1913989 RepID=A0A6L7VRA2_9GAMM
+----------------------------------------FEP-QKGss-KSGLDYVLADGVEVVAAIAGKVI-YAG-aGlnKFRHLIIV-DTNsAHLVAYEF-NTN-h-AISEGQQLKRGELITRIEpTTN-A-AS-aeaGRHqqFHFEIWA-N-----------GkpLNPn-SV-Ias-------
+>UniRef100_A0A511J1S9 Uncharacterized protein n=2 Tax=Enterococcus villorum TaxID=112904 RepID=A0A511J1S9_9ENTE
+ALEMDRF-ESK-iF-MNN-P--L----G-qdrYsSvIAQF---G--YR----Gkd-daNKNTEiiIaAEP-GTPVYATTVEKVI-ai-ESYtardSS-GkeQKTRsI-KTQtAnYQPYYINVT---sT-RRVGEVLKEGDLI------G-Y-T-----------------------------------------
+>UniRef100_A0A507SV45 Uncharacterized protein n=1 Tax=Mycoplasma mucosicanis TaxID=458208 RepID=A0A507SV45_9MOLU
+----LHV----GedY-L--AP---E---NT-AIVApF--DGeLvGaYfvK--G-GetLHEGIgtNV-VTRy-K-LENL---KISPrlKEKWfsntDhf-YiGymhqNAnLVF-NNPe-LviesKEVVAD-KekrKK-tIDVAKGitpktPIaFKKGQKISFVGttNnNG---G-Wm-PHTHVTI---------------y--NPINkYRFaTGFdhEN--gqnydkriekyspd
+>UniRef100_A0A2M8B9N9 N-acetylmuramoyl-L-alanine amidase domain-containing protein n=2 Tax=Proteobacteria TaxID=1224 RepID=A0A2M8B9N9_9DELT
+----------------------------------------------NqtWHSGVHLHIDEGTPVYAMSKGTIV-aiRNvN-rvdlGdaSFvlirhemAeEAVVVeGEEAePkYwFSLYMHLH---kL--R-GaDELTTVPWVnTLLG--G-DF-N-APttDdYSFDtdANafpreKRN--P----IVADGISPTKFakEtkLkpfydGDIilVEi--pvasgekigvsgvfgqsewsqepqvhvevisgknv
+>UniRef100_A0A2G9NFS5 Uncharacterized protein n=1 Tax=Candidatus Pacearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_34_76 TaxID=1974444 RepID=A0A2G9NFS5_9ARCH
+-----------------------------------------------FH--VPL----NTKVKAPTGGVV--KIDyFehteD-WG--VNIlPNDSd-LIVSFEHLV---nLMVKDGEYVTAGEFIGEAA-P--R-NTFDDKIAMTeLAvwK-G-----------GntiIKycPFDY-LdESLkpvyQEKLnk
+>tr|A0A2X0QXE5|A0A2X0QXE5_9PROT Uncharacterized protein OS=Candidatus Nitrotoga sp. KNB OX=2182327 GN=NITFAB_1827 PE=4 SV=1 
+------------------------------------------------HLGIDLHAPEGTSVFSPVTGRVL-vnRTNLkdA-FDKYLVIKDESnGNeHVL-GHIN---s-DLREGQNIAIGMTIGQIVKAG----T-GAHVHWGInKnSVN--Q----AMtENwGwgr-APVS--StkQDAEN--k
+>tr|A0A200HRN5|A0A200HRN5_9ENTE Uncharacterized protein OS=Enterococcus sp. 12F9_DIV0723 OX=1834169 GN=A5868_000267 PE=4 SV=1
+--------------------------------DY----FTYE-lIH-GeaYi--G-SVANPDrnGRT--DC-SGFVwLVlaKAGYrvpaNmqw-YtGs----M-A-GdArStHNWFQEIS-E-n-EARAGD-VV----IyNVGGGAG---AN-G-HtaILLEnYRgN-D--T-Q--II-QmGgdsrfsgVNTstIGYSFGSLlGG--drclaravk
+>tr|A0A1B8ZXI4|A0A1B8ZXI4_9FLAO Uncharacterized protein OS=Chryseobacterium artocarpi OX=1414727 GN=BBI01_06260 PE=4 SV=1
+-----------------------------------------R--R-GkmevYdHSGkIvftikDcL-L-EG--IA--GEDRMI-TDS-dapfGv-YqiASSpFIM-GSSsGkKRTTYGP-NP--rLAFEpikgTGDEaDKSGRSAiRIHG--GRQEtETFeprkNPDlLRTKgcIRiwdS-E--A-K-----QfyDwwveyhknnpnVKPg-KLTLkk-------
+>tr|A0A1A7T2D2|A0A1A7T2D2_ENTFC Phage minor structural protein OS=Enterococcus faecium OX=1352 GN=DTPHA_1401900 PE=4 SV=1
+------------MN----Tr--VgN---GQcYALSAeY--SG--F--LG-GcgMGSGTKYSFSHviGDTTAASNIGSGY-dwGAvGWkvifnpS-LdqlvaG--AII-NWTqGaSvggpnawttDPTYGH-T-G-V-IR-G--IE-GSAIlTYEQNtEyG-Q-VV-A-KcvRGF-I-S-A-----------GsiasicI-PPK----------
+>SRR6266545_5959216 
+----------------------------------------------GIpHRAQDVrSTNdiQwGQPVQAVEGGTIR-liVTG-qppAPWpacqttspApqpNSVKI-Q-GgcGSFAFEAKASsVN-rIAWR-G-SVHASRMRGDID-T--------PMGYLVgv-RR-T----------XX---------------
+>SRR3990170_2899166 
+---------------------IgKr--RG---ASAk-RITGsTSIRaaatP-T-Stp-HtTArLrHpMPVPpaqktTrRPAMPRERRArAIVEyaYADlt-qadlDALaedG--IDL-QQGqSAYLMFAHLDP--s-SVpNDGSAFDAGGDMGNIGNSG-N-S-YGAHSHVEaaI-N-D----------SGLRP-E----------
+>SRR3954463_9280181 
+gttlccragtanskrtpspgpwrgtnpgpkkdpkppprarrntspprppkpdaqaakiisarrhskdpspklpasagshslssaapsptakvpkgqrasaksa----TKF-ESAA-P----P--VtyK---A--RL--F---A--H-P---Q-RPG-S-RESGGlDQVFATQQS-----GGskYttyDNYfAGKVGL-NAKn-SK-----LQ---pL--KKGSKIIAGTVIGRIGK-T-D-PVKAPHVYFEIRpA-G----------KGapqIDPkpiLdGWKLlestaiyraNGKnalyGGss--
+>GraSoiStandDraft_28_1057319.scaffolds.fasta_scaffold467315_2 # 152 # 520 # 1 # ID=467315_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+--------QDQG------P---A------EVARsL---G---E----GeW--GVlrRVTLP-GvLPAMAS-GGLLV--A-lYtlsD-FGAVsILrV-D--t-FtRAVFTAFSvgfdrTG-aVALaSvlavfaLAiivvERLARGAEKryARVG-SG------GPrRpRPLGL---G-----------wGrL-PaAAF-LglvaavaLGVpla----
+>GraSoiStandDraft_23_1057293.scaffolds.fasta_scaffold4177806_1 # 1 # 237 # -1 # ID=4177806_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.722
+------------W-----P--AA---N-CVvLSGF---GtVPHRayP---ElqdVNRGIVLAIPKGNAIKPVFSGLV---SNviLlpnA-L-KAIII-QH-GiYSSVYSQLD---eTYVQIGDFVTKNDLIGSLYiQEN-H-KT-G-l-MEFQIW--K-----------EiepVNPKIW-L-------
+>A0A4P7WTV2	66	0.196	1.128E-08	4	152	169	548	723	733
+------------idyqdvWK----Sp--TintQ---S--YENKnrF---EkVLrYNS-Shpn-GYyHKGTDiLTGS-TyKELHSLLCGVVV-ytKDSFitNKYasgslGNIITVKSFDkdGNkiFIMYCHLD---kIYVKENDTIIHGQKIGLSGSTG-N-AS-dqdEPN---GTKN-K-----------GIDK-EFwHvhIeaattyGNAatmsGQ--arkdpelfmks
+>9639705 len:207
+--------------------------------DrYlK-AvG--YAtkSKRGGlpkMvl-LG-DIVGDDADAVARA-ASEVV-ri-ANs-rsGE-Gf--VAV-S-AdARKRFW--LDrKR-tAAIsRhTNaf-KINE-DVViPLER-MA-AYTD-GVeHLNIElsLR--N------------klelLDRLeAV-FaAGSlplGR--sddase
+>UniRef100_A0A4R6BCV0 CHAP domain-containing protein n=1 Tax=Macrococcus brunensis TaxID=198483 RepID=A0A4R6BCV0_9STAP
+---------------------MK---T--K-QQlY-Q-RLDW--Y-i-GkF---ID---PdKkyGyqcADV-PT---DLV--Q-WAT-G--ITM-T-GdARNLIYNDFKeQA-eVLVNTPDLlPQRGDILIYSG--G-RFdNKYG-HvaIVYSnITlQ-SCVviE-Q--NW-DGda-DtPvakrLdNYEgLth-------
+>UniRef100_A0A380DM00 Peptidase M23 n=1 Tax=Staphylococcus aureus TaxID=1280 RepID=A0A380DM00_STAAU
+--KKSAI-K---W-L--eDA--FaE--SGDggvLDMSKlrY-L-yGHtAaYtRE-T-GrpFHEGLDFDyI--y-EPVPSTINGRA--qvMP-FhngG-YGKWVKIVK--GaLEVIMHIYL---nIKLKLVNKLGSARLLVYRGIRGL--VQ---DLIYIMRcV-------------Gmed-IETRY-R-------
+>UniRef100_A0A345MNK1 Peptidase family M23 n=1 Tax=Myoviridae sp. TaxID=2202564 RepID=A0A345MNK1_9CAUD
+------------F-----P--VT---G--TISK----N-N-TT-T-N-NNGI-vVNCSEGSTVISPRSGKII-ISD-siG--Gt--ITI-DH-ldGYFSTISNIK---sIKLKKNDSVVQGQSIAYSTAIN-N-IS---YINYKITK-N-----------SnnIDPSQF-Yks-------
+>UniRef100_A0A136K5T9 Gluconolactonase n=1 Tax=Acidobacteria bacterium OLB17 TaxID=1617423 RepID=A0A136K5T9_9BACT
+-----------------------------------------------FHNGLDI--AgGyGETARFVRSEKVL-epIAaE-nfaTlrelvRLptlAYIhIRLGRNAaG--TPFGD-P---rF-LfEsdaq-Gkmngv-RIPRGT-KFEAGEAlG-TLNPMN-HVHL-V-A-G--R-------SGfemnaLDALVLPnV-------
+>tr|R5HY82|R5HY82_9BACT Peptidase S41 family OS=Alistipes sp. CAG:831 OX=1262698 GN=BN796_01409 PE=4 SV=1
+------------IGA---P---E---G--TpVVApV--DGvI-HRP---GvavkWGTGMQtYHTDEdrtwNEQI----SSVVA--EG-G-YGvpdRCvsMTlgI-RTAdGdKlW--FSGLN-G-dM-VlKDGQQIHRGDTLGYVAwyEPS---VD-EPHICFSMSgK-N--N-------AGk-DPMtPF---------
+>tr|K9PH45|K9PH45_9CYAN Ricin B lectin OS=Calothrix sp. PCC 7507 OX=99598 GN=Cal7507_1365 PE=4 SV=1
+----------------------------------------------------DVNKSAGNKILAPVSGNV---E--kvS-WADDLVcL-T-NdSrTksFLI-GHMVpST-kF-I--G-RVNQDAVIGTVKRyTS---SN-G-yaHIHITAYN-Q---------------------------
+>tr|K2GXG8|K2GXG8_9ZZZZ Peptidase M23 (Fragment) OS=groundwater metagenome OX=717931 GN=ACD_3C00104G0005 PE=4 SV=1
+------------ag-KV---vP--TK---K--NiIPnTprpYR--A-KYT----DWvHH-WwDiFA-NRw-TPVQALSDGIVVRivKDfNwskfdnilWrdisdedkakNldi-YRwNQVWL-KAAd-WnVIIYSHLE---nIPANLKqwQYVKEWEYFwQIWRSwvPD-K--EYKDfHLHFEIQ---------------LN-------------
+>tr|A0A2T4TJT1|A0A2T4TJT1_9BACT Uncharacterized protein OS=Prevotella sp. oral taxon 313 OX=652722 GN=AXF23_10165 PE=4 SV=1
+------------vkYKV---Py--VqD---GN-RIQesgAktMDCSelvGrYaAkieWcKkPM--GWttcYM-VDYAikNPKwlikhNDP-nYIPKRGDIF-lwY-Gk-rvdkkGvsHYrGHTgVVI-NYNseSdIVTT---IE----AIQ-SS-IKKEKALNERGeKykENEN-KKLaGTiKMHF-FRK-----------------------------
+>tr|A0A1R0X6L3|A0A1R0X6L3_9BACL Uncharacterized protein OS=Paenibacillus odorifer OX=189426 GN=BJP51_20640 PE=4 SV=1
+-------------------------------------------------KGVEI-MPqiDsTlnVTVKSIDMGRIL--SiSk-eleG--GIRIAV-QHSGgVTAEYGHLS-G-t-KLEVDD-wVQSGDSLGWMMEkDV---SS-ASTLFFAV-M-K-----------DktyIDPTE----------
+>tr|A0A1I1EEH9|A0A1I1EEH9_9GAMM LysM domain-containing protein OS=Marinospirillum celere OX=1122252 GN=SAMN05660443_0533 PE=4 SV=1
+------------W-----P--VD---NP-QVRiNF---SHQrW-----GVHQGLTLeTEPR-EEIFPIAPGQVV-FAG-emrG-FGRVVIV-EHSGrRQSIYGYCH---aLFVEERNRLS-GRH-PVCS-AGHQ-RQInQPGIYFELRE-E-----------GraVSPENY-Lpa-------
+>tr|A0A1G6W6D7|A0A1G6W6D7_9BACT Peptidase family M23 OS=Algoriphagus faecimaris OX=686796 GN=SAMN04488104_104132 PE=4 SV=1
+--------------------------------------------------GVAFYLPEEVTIVAPRKGYIS-dmKMDYtagKndlDFarsENYIEIY-HAdGT---LTQIKvlkaGS-eL-VKIGQQVFPGDPLaTSAGENyQ---N--GRHVRV-IPL-R---------------------------
+>tr|A0A1F2XQ75|A0A1F2XQ75_9ACTN Uncharacterized protein OS=Actinobacteria bacterium RBG_16_68_12 OX=1797203 GN=A2Y55_07770 PE=4 SV=1
+------------------------------------------------RT-LDVgAVA-GTDVYSPVDGTVV-aiR-D-hvvsGrAVGAEIEL-RPSsApSlVVALQNVRpDP-aLSV--GANVAAGS--SKLGTVA-DIAS-AEHQALA-RyA-G--D-------NGnnVS-IQvFP--------
+>tr|A0A0M9VN81|A0A0M9VN81_9BASI Uncharacterized protein OS=Malassezia pachydermatis OX=77020 GN=Malapachy_1602 PE=4 SV=1
+--------------V---P--IR---T--SV--H---GtI-vWS----GsVHRA-RppF-V--G-P----DQG--M--ND-ee-i-Wc---VMV-RDAwGFVHQYLGLDAD-hVQVHVGDKVHVGDVVAYAPNePiS-RMpAS-qtv-PaDplKRY-I-E-E-----------GFEP--YPFraRQL----
+>SRR5581483_404144 
+------------WSASSStstP---N---D-MTcVQgQgF---GqnLNpsYKQ-T-GIagHPGIDescgFGTP-GHAIY---DGPAY-kvVTpA-nagpeG-FtG--VFqLVD--dGL-ECFEWLTghCD-pL-VQPGTPVHKGDLFfTEANH-G-KVyS--GNiEITLAMQK-A-----------GnkAGAHRhYQk-rp-------
+>OM-RGC.v1.016735102 GOS_JCVI_SCAF_1097207291251_1_gene7061070	""	""
+-----------------------------AI--Y---AVA-D----GFiTS-VTpwFQL---RPIYDSRLKKMT--TNyrYglGlTFahtdGQPVVF-HYSiePMidpgdENFYRPF----LKVKLGQHVKKGDVLGWMYtpPR-PETDL-RTHIHFNLmA--K-----------SqfIAPTIF---------
+>ETNmetMinimDraft_2_1059921.scaffolds.fasta_scaffold137714_2 # 659 # 727 # 1 # ID=137714_2;partial=01;start_type=ATG;rbs_motif=AAA;rbs_spacer=9bp;gc_cont=0.478
+------------------------------rt---YVYAgreV-Dh----Q--THLGFDLASTAKTEVPAANRGVVV-LARYfGIYGNAVVV-DHGlGLMSLSATVS---qIDPVHTPSAP-------------S-Ai--AAAICLPLPI-P--P---------aaSTGTGA-I-------
+>9042032 len:393
+------------------K---D---A--AV--Y---Q-EF--Y--Ghd-HPA-pDlLGQSVyGlPEIyrDQIRDAKLV--A-CpGCYpTSILIpL-R-PlirrkAIdrkTILVASMS---g--VTgAGRKLE-SDYLfSECNeSvrPyG---V---PkHRHLSeIEQ-E--lS----IL-AGekI--V---Iq-------
+>17349670 len:106
+-----------------------------------------NS-T-NFRK-ViDIVLPpKkG--VK-----AVM-TSGWgGrN-aGAKAS--KYHeGIDFVYPH-----aV-VApkTDivySPVN-G-TVRISPEwNGVYITDAkG-yeHcfIHHHrVLV-K--A--------GdsVS-VG----------
+>UniRef100_UPI0013BF64F7 peptidoglycan DD-metalloendopeptidase family protein n=1 Tax=Muricauda sp. TY007 TaxID=2683200 RepID=UPI0013BF64F7
+-----------------------------------------------shSHRGLDFAVEPNENIYAPFPCKVV-R--HG-YpyaGdyEYrLIeI-Q-GtGgYsdykaKIMY--VK---dFP-AVGSVFNEKEVLCKADDitkKyS---SSMTNHVHFELYA-K-----------GslINPEIF-F-------
+>UniRef100_UPI00066B032F CHAP domain-containing protein n=1 Tax=unclassified Granulicatella TaxID=2630493 RepID=UPI00066B032F
+-----------------------------------------------LNEETEIKVDVGTNLLAPLSGTL---ED---VGiNRIVI-NQDnRArLTIYGI-DTS-rLN-K-GDTLNK-E--DYIGNA-I--SE----------------------------------------
+>UniRef100_A0A674K7B5 Uncharacterized protein n=1 Tax=Terrapene carolina triunguis TaxID=2587831 RepID=A0A674K7B5_TERCA
+------------------------------------------------Hl-GVDvI-CKDGSTVYAPFSGTIE-RRvNpn-rrnNAInnG--IQL-R-GsdRLH--Y---K---sI-VH-GKQ--K-DVLDIQQKRNVY-VS---HsSHVSI---------------SL-AC-W-cL-------
+>UniRef100_A0A1E7GF07 PKD domain-containing protein n=1 Tax=Methanosarcina sp. Ant1 TaxID=1882735 RepID=A0A1E7GF07_9EURY
+----CDI-----F-I---A--IhcN---S--H-SNt-EASGTEvY-yyPRE-Gt-ATG-DLAKTlAG-NV----HGEVKShlNTvdrGikYatppdstpedhGsHYvlnptinGyHMtLIpaInVELAfisnSEdrqklaSPEYQQ-EaAT-aI-LH-GlqlyyEEVPQEQPSpSILDqSiSSTR-dES-GTEvLTF-VYsiN-N--P-STENIe-NvrlGaqirtn-DPQgQ----------
+>tr|S3BAE4|S3BAE4_9FLAO Uncharacterized protein OS=Capnocytophaga sp. oral taxon 336 str. F0502 OX=1203603 GN=HMPREF1528_02167 PE=4 SV=1
+------------M-----P--FAi---Q--ELQTY---G-GIRqtesPLK-ErifeYfekssNtNGTN-ATPwcasfvNwcfyqaGyTKInPNTNDAAF--dwLPpSes-kkkrsdvdG-WveGELITdI-K-DvfvGAVIVFSH-SHV-aF-V-LGE-TKDGKSFVYLG--G-N-QS-N-R---K-KgD-G----------SGrrtI--CT----------
+>tr|A0A2M7TT63|A0A2M7TT63_9BACT Uncharacterized protein OS=Candidatus Shapirobacteria bacterium CG_4_10_14_0_2_um_filter_40_12 OX=1974871 GN=COY20_02255 PE=4 S
+-------------------------------------A-K-NPF--NYlKSGIrfqDF--SNGDP-FNPSSGNWEWpiKEKidFnqG-YG--VTwsV-KY-TW-VKYIY-NfHN-gIDIaSesdQGvfSVVK-GKLFrGSIIlscNPS-K-S-YcdksGKcTLKY-VKV-Q-----------DsVDSnLStlY-Lhvn-------
+>tr|A0A1Q9N6C9|A0A1Q9N6C9_9ARCH Uncharacterized protein OS=Candidatus Odinarchaeota archaeon LCB_4 OX=1841599 GN=OdinLCB4_08500 PE=4 SV=1
+-----------------------------------------------rFHNGFDFTVN-DTTIiVAPCEAYV--QDiSfFeneAmnTWqtnlrlrlNsRWsVII-AF-eSWalNETYGRYQl-D-aIIVKVGDHVAANQTIGELLHHG---S--GSHIHFGI-I-D----------SGewVCPYQY-FtaEAQstfQHl--
+>tr|A0A1D2R4C9|A0A1D2R4C9_9EURY Uncharacterized protein OS=Candidatus Altiarchaeales archaeon WOR_SM1_86-2 OX=1849364 GN=A7316_08010 PE=4 SV=1
+-----------------------------------------------rYHCGVDiYA-PEGSDVCSVEDCkDIgI---GvCtsSkdvRYwNttHYILV-KNKtGFVCKYAEL--G-dVKVRAGE-fVNASQLIASVGrvlNPD-KINE-eSPeYVQK-LK--A-----------iGnLS-mLHFELykk-------
+>SRR3989338_1560034 
+------------Y--------LK---P-----EWNI--I-WDnaP-D-DkFSfTG-DWNw-PlQNARV-TQGYG--Y--T-WransGf-YNRN----PH-tGI-DI---VDDE-nPIIRA-PK--SG-IL----yK-G-S-ASCrGSSMNW-VAI-E----------HDqV--ISW-ywhV-------
+>SaaInlV_200m_DNA_3_1039701.scaffolds.fasta_scaffold56192_1 # 142 # 435 # 1 # ID=56192_1;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.463
+--------------------------------NY-LTS-E-QP---DpYEPN-DsFT-N-ATSVskNSTTYANI--hnTTDqdyYkfyiantSSF-NLsLTdI---PsGTD--Y---D---IKVyD-GsQSyVA-G---SFRGsNydEAIN-LTLNPgYYYIYIYPYS-----------Gys-NE-NYKLtiSAK----
+>RhiMethySRZTD1v2_1073278.scaffolds.fasta_scaffold626361_2 # 558 # 1253 # 1 # ID=626361_2;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.705
+----------------------------------------------G---G-S-T-TT-IPVTSSTRTTII--TD-pdS-YGecpSAVALGKDNpd-LenLRAFRD-T---tLA-hSaVGRRIT--QLYyNNAGsiNAALE-NS--PALKA-VaRKFfE--T------AAlvvGsMQ--E---QGSAK--k
+>KBSSwiStaDraftv2_1062776.scaffolds.fasta_scaffold12866152_1 # 3 # 227 # 1 # ID=12866152_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.760
+------------Y-----S-------G--KtIRELIIAeG-QYQP-Tw-DYpRkRG-DrkpnpewINitdAESAAKASDMSVGAIK-svAANLtnPTLqKNAVEfV-Q--GrTdFTNYSK-K---n-R-R-GQILRkSGD--NYFGwDwN-YS-QNIiGSTPNFGtTRS-Q-----------Qqa-TP------------
+>GraSoiStandDraft_60_1057301.scaffolds.fasta_scaffold4593130_1 # 12 # 230 # -1 # ID=4593130_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.685
+------------------------------------------------QMAIDLAAGKGAEILSPINGVV---TGrYtd-QYGNPtLVI-E-Nd-FyTVTLLH---G-kYTVSVVARPTLNQPVGTESNRGYTmDsrGRLcrgrkgcGYHTHLNIF--D----------K----------------
+>GraSoiStandDraft_51_1057287.scaffolds.fasta_scaffold5654605_1 # 1 # 231 # 1 # ID=5654605_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.632
+------------------N---K---G-F-ISQgF---G-gNaelYaQln-VS-G-HTGVDY-VKGyGNVHQVDNTAYVY-kvWKPk-erkDRWvGVHMLV--P-nGkeYmEIIMGHFK---sVFVEEGSTIYEGQYVGAEGNSGFVVSH-GQEITPAMQdAGD--T-------RGahvhesWRP------------
+>GraSoiStandDraft_16_1057320.scaffolds.fasta_scaffold2792000_1 # 3 # 647 # -1 # ID=2792000_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.690
+----------------------N---G----SKF---GfiYNtYSP-D-St-H--FDFDSSKyQKP-PTSQSDNIT-PPKeLdppGR-GNLFQ--RFNrN----FQT-R-S-sI-IsQPQtQTVATNNII----iN-G---AP-QPA---Q-RS-T--P------MNqG---------------
+>BarGraIncu01122A_1022018.scaffolds.fasta_scaffold468688_1 # 3 # 248 # 1 # ID=468688_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.622
+------------daFKAAANP---D-----YKYNRYvaeKLDG-EYKvgDiLiK-Grk-dgKsVGTskwsyeDFASKdKG---YPS-HGDII-IDkG-qdSK-GKYVIL-A-GGnLSNTYKN-N---kLYLSdIGkkKYkVKLND--TKKGvfiSeDG-NLID-EPEFNDKVESVN-----------Gatg-TPLD----------
+>191205 len:401
+--------------------------------------------------DLfDLTTSEKNS-YAFS--TI--RNDYskSPFvG--IDVgRDFSqNkIvSTK-TQ-N-A-tM-IQAGlD-VRTRIEIPTIDElyfEG-K----GAvvQaiLYLEpL-T-------------Gtye-EPyqLpSYlELflvdkKNRpyGQ--
+>UniRef100_UPI001438EC7B aminotransferase class III-fold pyridoxal phosphate-dependent enzyme n=1 Tax=Salinimicrobium sp. CDJ15-91 TaxID=2722702 RepID=UPI001438EC7B
+-----------llGtqaW-----Q--FE---A--QaL-ySpF--NGkI-vYK--D-SrqiFveHT-MKIS-ETAST-KPQDNG--I-SSeG-ktGKVepekSEA--L-KKAe-FHLLYSNLEP--aAALEVGKVIKKGDLLGLIK-A--D--DL-PfFLQL-M-------------------------------
+>UniRef100_C9Y3H2 Peptidase C51 domain-containing protein n=2 Tax=Cronobacter turicensis TaxID=413502 RepID=C9Y3H2_CROTZ
+----------------------T---S--RM--FSSSviG--YREVK-D-KNG-DviYvQGANG-P-R--P--KI--elHA-YsnSEINrNDdLVS-NHAvGL-IQFTQAAVD-qIN-QtHGcN-VTKKD-LALMDEI--E--QL-EYVKFYFTS-N----------KDkfdlIKkPedVyTY-IfcpEGVGK--pddaalysqrdnqrsyn
+>UniRef100_A0A5C8TA81 Uncharacterized protein n=1 Tax=Methylobacterium sp. WL64 TaxID=2603894 RepID=A0A5C8TA81_9RHIZ
+------------------------------VAAeF-A-A-NFQ----GF---LdDYE-KAG-GVIGPNSGGI--NTrG-nrS-YhpnGRAIDI-NQvGrGV-RA-GG-K---sLPL---D-VE--DALaAKWGlRSG-NSfSS-NDNGHFEVhRA-E--A--------AraaVE--R--LkaQTQs----
+>UniRef100_A0A2V5VUM6 PKD domain-containing protein n=1 Tax=Verrucomicrobia bacterium TaxID=2026799 RepID=A0A2V5VUM6_9BACT
+------------------------------------------------------SA-QTtLVRQPHTNGQRT-DVrGrgrvvSsgKEIlpgyddspaQpryDVVYLLD-DrGWFYRYSHLQti-D-p-AVQPGAQIRMGQKVGVLGKEG---GS-GGwsHLHFDITS-R---------------------------
+>UniRef100_A0A2N3DT61 Peptidase M23 n=1 Tax=Alphaproteobacteria bacterium HGW-Alphaproteobacteria-13 TaxID=2013659 RepID=A0A2N3DT61_9PROT
+----------------------------------------------------DIK-P-GANLSSM-DSSMAPalTAA-aasAhALGlpQRVVT-SARdSQHTR-GSLHP--d-G-K-GvD-LR-GNDISVAQ--G-KQwAR-dvrerlGPdYdVNFEtFKD-N--P------ANNhlhmeh-DPKP---rggRGRKR--
+>UniRef100_A0A1Q6KGQ3 Phage_lysozyme2 domain-containing protein n=1 Tax=Clostridium sp. 28_12 TaxID=1896980 RepID=A0A1Q6KGQ3_9CLOT
+----------------------E------ELKKI---G--FsDA-S-AcavL--G-NlFQeSGgAGtSDI-NPNDGDS---ScyGiaqWtppnelyS-YanqhGlNPssIStqVefLKYTldsGHwwtgstsenaLKQYGYLDK--sYTVQefy-SctD-LKKATAMflGYYEEciRA-N-TSYtinGKYMNLQe-R--------------A-E---Y---------
+>tr|X8JIK1|X8JIK1_9STRE CHAP domain protein OS=Streptococcus sp. ACS2 OX=936576 GN=HMPREF1517_0664 PE=4 SV=1
+----------------------------------------F-----SYNTTIK-A-SSGQKLYAPMDGKVeVGKSTlktFktnlpkdkkeSE-ekkQKTnIII--YTdDAEFIFYNVS-G-a-RVKSGDKIEEGTELGSVQ--G-N----GQEIAYAk-RkeTLD--K-D----dKDDkryYDEAKY-LekrdEDNED--artftrnvdkkgkkidkwqivnpgfyfp
+>tr|K2G4I4|K2G4I4_9ZZZZ Uncharacterized protein OS=groundwater metagenome OX=717931 GN=ACD_2C00201G0004 PE=4 SV=1
+------------------F--F----W-IKV-SpWHSPiSp-EkFR----WYHTWTDFEiTPaEnDlpVKVYSICSWPLL-MKRLaaW-YwGvavQKCKL-T-GkVVTVTYWHLKl-D-sIIPIRKQEMKAWQELWVLWKwfSA-E-TW-GErkHLHLGIHF-----------------------------
+>tr|A0A2S7M238|A0A2S7M238_ENTFL CHAP domain-containing protein OS=Enterococcus faecalis OX=1351 GN=CUN08_05615 PE=4 SV=1
+-----------------------------------------------lFK-SIEVLLEPNQPFQAPMKGTV---KDv-lsE---NSFVL-EQPnRVrLTI-HGVS-S-q-RLR-KGVaVDEGTFLGNVTNS--N-VT----IRYE-KY-D--R-------EEkswyfVNP-AfY-Fp-------
+>tr|A0A1V6CW74|A0A1V6CW74_9BACT Uncharacterized protein OS=Bacteroidetes bacterium ADurb.Bin123 OX=1852804 GN=BWX87_00940 PE=4 SV=1
+----------------------------------------F-P---GvaldMvHaRGTD---KH--AILAMEAGKIL-wvESrDrvsLqpkA--S--ICM-ESEaspGIYHIYRNLDNR-kVLVNKNQNVVRGDALGYIWGDG-N-QE---NLMLTvVYS-A----------TAp-EPg-E----------
+>tr|A0A0G0IIB5|A0A0G0IIB5_9BACT Peptidase, M23 family domain protein OS=Candidatus Shapirobacteria bacterium GW2011_GWE1_38_10 OX=1618488 GN=US68_C0002G0012 PE
+------------------D--ID---A---T-SYlN-EhR--W-P----MN-GLDsInSvCEAlGsSNCLTQLRG----NTKYS-Y-----L--YSdR----FHH-Gl---dM-VA-TdkrifA-IEDG--VAYTFrNT--K-SSLGNHVKI-FHP-D-----------GkM-TL-Y-Lhlq-------
+>SRR6056300_413428 
+-------------------------------------------------p-GI-vVATSDNALVRTPTAATI--R--YrGpllDYGLVSIL-EPQqDILYILAGLS---tV-YgDIGEVLPAGSPVGLMGmSelfDE-KNlIETlnesGGlrGetIYIEVRV-N-----------KapENPLTW-Feef-------
+>SRR5919202_1557583 
+---------------------------------FAT-TsYQFS--Aip-Gr-RRLATVSSALHAPLcprvrpsrargrsgharvrsgRQPVRGRPP-PRG-rlgrGS-G--------GGRaGAV---LGAG-g---RRGG--GGGKRVGTVApSHD-H-A--G--VHLGVRR-D-----------GtrfgyVDPLRF-L-------
+>SRR5829696_2224854 
+---------------------------------Y--NG-G-S--HQGrsqY--GLDlvLAdGGTsGATVVSPIEGSV---T-WaqgpGaS-nGCIaVTL-R--dSsYSVMLCHL----I-LnRgyrPGEPLARRQQRRPLRPAG-SVrNN-PAsHPQLQLPH-Q-----------R---------------
+>SRR5690348_17514158 
+------------------P--M--------L--I------------G-HpDSLTLS-PyTtlfrSKQI-PVESQELRPrlRAlpD-ragkG-VGKE----QKAeAkAeETL-EKASgDG-sIRV--GSKVIAGTVLSHVDrkSTRLN-SS-HPSSSYAV-fc------------------------------
+>SRR5437764_7323262 
+-----------------------------riaidgv----RiETPeTFAIDwakvk---NDriFdnDgKRVeQYYG--fGEDVLAVADGIVV-siHDGmpd-epplvfmVprSKsdygGNNVIL-EMApNVFAWYAHLRQG-sLTVKVGDAVEGRGAHRQVREHR-P-LR-RPPPAF---------------------------------
+>LakMenE01Jun11ns_1017448.scaffolds.fasta_scaffold8394440_2 # 102 # 440 # -1 # ID=8394440_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.448
+-----------------------------SVAA----G--WA--H-A-H--FD-TVN-GTPQNVIINDTVpLLkkmASsGLkpe-l-FDTTpILAGK-DnNY---Y--ID---L-IKKGitlHTHRPGPRFd----vNmPGF--P-Lv-P-FPLKdVRyTPN--E------GQGvnalV-P------------
+>EndMetStandDraft_8_1072994.scaffolds.fasta_scaffold352917_2 # 478 # 1035 # 1 # ID=352917_2;partial=01;start_type=TTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.694
+---------------------------------F-ANG-T-E--S-A-ESN-DsIAgVP-GTDSNEAATDYFLPevETaG-etAAWkasGd--VEaI-PAPe-LvekDVIY--LPy-D-e-N-E-DyNAVTVGDE-NHEAiEDG---VEYl-PteQITTEVLL----P--------Ae-KP------------
+>202079 len:144
+----------------------------------------YT--D-GqFHdTGLAYS-NTmGLHIkdfnVRLAEGNFTRpsQEDvq-kisnptpNDLGRFdIT--QNPkdRWsFKT-PSLR---nVALT-GPYMHDGS-LkTLVDvvNyySaG---G-FySPNkSDL-VKpM-E--lT-------DEek-QALvAF-Ln-------
+>141273 len:317
+---------------------------------L--SA-A-R----Ae-NP--KFQ-TI-SQLRETCPG-----S-WreTv-YasGREISI-DLDvAVpdVERFPALEAN-pIPLAEG-RSSEASVItGDAEQ--WM-ST-G-FLRIDVpnRlvK-S--A-A----QKShpasvV-PegYNqYPiLRQFg----
+>UniRef100_UPI0015BFDFE2 hypothetical protein n=1 Tax=Bacilli bacterium TaxID=1903720 RepID=UPI0015BFDFE2
+-----------------------------------------------DGNGYKVVLENGASVPVLNSGIIV-FIGt-kdN-LRDTIIV-Q-GndGVDIWYSNVI---vTDNAL-yDYVSRGHIL------G-I-SN-SDKVKLTFVK-D-----------NeyIS-YeNY-F-------
+>UniRef100_UPI0015B6CAC0 hypothetical protein n=1 Tax=Spirochaetia bacterium TaxID=2053615 RepID=UPI0015B6CAC0
+----------------------------------------------------------SesETACSTDEGQIS-iiLTEHedgfNw-FestlGTSVIV-SHEdSLLTVYGNLDTD-eLNENlfsEHN-VKTGTEFSTTGNSAWQ--E-S-DsfLEFQI-I-D--T-------QSrnyINPlI-L-MprieKKEaltlTGi--alk
+>UniRef100_A0A6L7VVS1 LysM peptidoglycan-binding domain-containing protein n=1 Tax=Gammaproteobacteria bacterium TaxID=1913989 RepID=A0A6L7VVS1_9GAMM
+-------------------------------------------------DGLNyF-LNQGNKVEAAASGRVT-YAGv-alsD-F-KYmVLI-KTPdDYVIQYDF-NV--aLSVKENDLVSKGQDLvKIVNDSK-RQqTA-GSdeYrkVFFAIRK-K-----------GvpQDPn-KL-I-------
+>UniRef100_A0A6B0HTH3 N-acetylmuramoyl-L-alanine amidase domain-containing protein n=7 Tax=Helicobacter saguini TaxID=1548018 RepID=A0A6B0HTH3_9HELI
+------------------------------V-E-KT-G-NFKhkPLAivl-Hrtd-sHnaqSTLNtWdTSP-fGTHFLIDKDGSIY-qcASlDkWtqhvGdirsrveiekTWNekeKIVIekIwKETSsfkdRkIkVSNYEK-KksyPN-rYPIS-SDS--IG--IEVVGEy-DYK-IK--RYLNATIKQLE-----------SlerlvlilLE-L-YNInkTDIya----
+>UniRef100_A0A3S9KPP0 Peptidase M23 n=2 Tax=Leptospira mayottensis TaxID=1137606 RepID=A0A3S9KPP0_9LEPT
+----------------------N---N--KISSYDL-G-S-ST-T-AaicFvnsHsnyLGADtktnyFSQAQlG-NIgmtNSDYRG--M-KApSLgvGsHWsGtlNT--L-KNPasGE----VHVTRS-qVDI-L-NRSKANNAIVFTDTTG-D----G-NaNHWQnVaRgE-D-----------GkwydINNnrrTK-DdLkqMDFSK--
+>UniRef100_A0A1D9FDN5 Peptidase M23 n=1 Tax=Arthrobacter sp. ZXY-2 TaxID=1806905 RepID=A0A1D9FDN5_9MICC
+------------------P--------------Y---GI--RvhPiY--GtqrLHAGTDLA-G-G----GC-DGPICFwvRRSae-nsstsaGvQFhGSSLTwLMKRSTIRSRWSMVA---nCRLRDScwfRQ--PSSIFwSTCS-SG-R-RT-GTD---STRR-T------------r--P------------
+>UniRef100_A0A1B9A0X4 Uncharacterized protein n=1 Tax=Chryseobacterium artocarpi TaxID=1414727 RepID=A0A1B9A0X4_9FLAO
+-------------------------------NDnYNIcNqtkGeLKiiYNvk-IT-EltikeIqkkQKD-rDiFAV--GryQMVpDTI-KGAVA--SlGlnvnekLdkemqdkifDEYliKvKRpkVIayL-E-GnGsVeDAIYVLAQew-A-sIGVEKGkpisDKvVKkKGKVISRTKRiaKG------G-ESYYA----D---------------------------
+>tr|A0A1M3D822|A0A1M3D822_9SPHN Uncharacterized protein OS=Sphingomonas sp. 67-36 OX=1895849 GN=BGO24_06020 PE=4 SV=1
+--------------------------------------------E-G---GTakNpYSSAKgyG-Q-F--TEGTFV---DvYrrtpGadqTLGtQQILaLRENEriakGVIDQYAR-ENA-kF-LEsFGAKVSAGNLYlaHFLGPAGAK-AVLqaGDNVPVDqIlRrQ-N--P-R-----TAdqvLNGnRQY-L-------
+>tr|A0A0G0QKY7|A0A0G0QKY7_9BACT Uncharacterized protein OS=Candidatus Daviesbacteria bacterium GW2011_GWC2_40_12 OX=1618431 GN=UT77_C0019G0005 PE=4 SV=1
+------------------------------------------------Hl-GIDFAVP-yGTPVVAPFDGfAMS-syHAhwlmeGdrkrlYqeepirfslGyfvqv-YnprvNRFIQL-AHlSdidPsIpfsKPVYDK-EednwnpvNH-tLTIeQlINhpmvAAIKRGDPLGRVG-fSGL--A-LGKeQIEY-I-E-E-----------AerplvLDkPIrSWDephVhfeETFrNQ--
+>tr|A0A0B8QNT7|A0A0B8QNT7_LACLL Surface antigen OS=Lactococcus lactis subsp. lactis OX=1360 GN=JCM5805K_1372 PE=4 SV=1
+-----------------------------------------------LHQSIEVTTSENQPIVAPLSGKV---T-v-nS--NQQVTI-ENTnQeEkVSL-QKIDTS-rLT-N-GQNITSSALI------G-K-S-LASTLEITLQKYD--D-E----TKSwkrVNP-AfY-Fp-------
+>SRR5579875_933666 
+------------asa-AT---P--ApQ---G--T-GGa-QTTGAT-QA-G-Gtt-QsTGSaQaVGgGNvQG-SVSSA-GGaSV--QAGa-staG--GSVqAAV---GasGpSsqpaTTQ-TEATAT-p-TASSG--ATAGTSASTTGgsaDTS-A-ST-GTTSSTSV---G----------TGasAT-------------
+>SRR3990170_1750336 
+-------------------------------TQsY------W-----S-gHPAIDL--DTYfrQPIFAADSGtVIF--SGWdksG-YGNLVItwI-SASaSpVapsstpWIFY--LDpkRR-cL-MDPAcH-VEP--VL----K---R-PS-DEELEHS--A-D-----------ArL--------------
+>SRR3990167_1589461 
+-----------------------------RIV-IH-----W--VV-GtL-AAADavFKKPSSTSAhYAVENNTI--HQ-YvneiDtAYhaGNWdYNL-R-SiGI----EH-SAD-p-K-RpASeQTyQTSGKLISEICKR-YN-I---PiDrFHI-VQH-K------------qI--V-----------
+>SRR3989344_1550445 
+----------------------------------------WS----GaF---ISYVMKQ-SEVkFPFEKGSL--HKDY--F-SEIR--DNTdNYdCKTY---E---IK-DI-DNLREGDIICKCRDSS---CN--SNFDY-----N-------------NP------------
+>UniRef100_A0A4U2MCN1 Glycoside hydrolase family 25 (Fragment) n=1 Tax=Bacillus wiedmannii TaxID=1890302 RepID=A0A4U2MCN1_9BACI
+-------------------------------------GCkAY-----GvpF--G-HYA---yG--CYTSVQDAIV-EArDFmnrAdK-dAKFLVL-DVEdDtLasCGP-TNLAkaSQ-aF-IDtcraAGwK---VGLYVSHHMyTSyGLN-SV-SADFLW-IpRY-G-----------Gs-KP-AY---------
+>UniRef100_A0A4R1A345 VCBS repeat-containing protein n=2 Tax=Tenacibaculum sp. M341 TaxID=2530339 RepID=A0A4R1A345_9FLAO
+---------------------------------------------------LNLVVRNnSSELlfYPFRNNTF--Y-N-ngG--G--VRV-GHNwn-F-THY--FP-A-dW--N-GD----GNT-DLIVRT----SN-G-DLLF-Y------------------P--F-V-------
+>UniRef100_A0A1N7PSM5 Uncharacterized protein n=1 Tax=Chryseobacterium ureilyticum TaxID=373668 RepID=A0A1N7PSM5_9FLAO
+-----------------------------------------D--S-G-Q-GFNrYGtADKG----GKSSIEVVG-EGdhYlkpetaAal-FG--VIneI-N-DkGWE---IHL--G-dMSSSNGsDPWEEGS-KHHKGhgHLG-K-QS-GQNIDFRyL---N----------KsGksfhgTNTSStFD-kdk-------
+>UniRef100_A0A1L6M188 Type IV fimbrial biogenesis protein PilY1 n=1 Tax=Minicystis rosea TaxID=888845 RepID=A0A1L6M188_9DELT
+---------------------------------M--SA--YR----St-R-AL-L----GAAAFAAA--ALL---GapaHavnA-CGDQ--I-HHDecgkG--NIYPCCDNG-g-NCTww-AwESVCRNWHIGLVN-w-G-N-aNTWATHAHVD--P-N-----------fDV--LGY---------
+>tr|A8ZNG0|A8ZNG0_ACAM1 Uncharacterized protein OS=Acaryochloris marina (strain MBIC 11017) OX=329726 GN=AM1_D0049 PE=4 SV=1
+-------------NA---S--IyQ--AA--RqMYGFDtSSG----P-EGGsqacaWavdHvlakAGIEpMRTDNvlNvlDKM-KSGRGtRI--NSG-qaQP-Gd--IIL---SkG----YDHI----gICMTAG--CT--EVL-----S--N-SS--SKASFSWRS-D-----------Gt-----F---------
+>SRR5919109_1584923 
+------------adWSLVAGtrcgtaPFLFptD---G-F-A-GF-L-wG-DsFGL---Rh-tHQGIDvFAGTDvGiTRVIAAYPGYLT-RS--pD-WkSAVIMrVPEDPlqpGRqigF--ITHIWqmnRG-iH-SsPlssPRvrlKSlLRQAHFLVIRATiQG-IPiTPLASTCIFPsLKM-I---------------------------
+>SRR5665811_127930 
+----------------------------------------WS-L--G-HRGVDLA-AVmGQPVLSAGDGIVT-FSGvIaGR-G--VV----AGLA--WPSISwTA-rRSAPPSSRcVAA-LCLTPCGpTSG---AS-GTcRSSW-C-T-E-----------A---------------
+>SRR5438309_374815 
+------------W-----P--SD---G--DVVAsF---G---RqkhPkF--NtYvQrKGIEIRAAQGSVIRSVADGVVA-FADWmrG-HDpvgDRpdDAA-LRGpDLDPLPLHVRv---eLWVLLAPEGRHHIPVA--GPV----------------------------------------------
+>SRR5438132_11947406 
+---------------------------------Y----C-WD-FilA-Gk-HQS-Q---SNGRAFTASANTQIV-yvEQDn-dsG--GkSSnVIV-QRlGdGRYASYLHIKKG-sYA-KhfAG-----GSEINLRPqDaPwA-R-rTT--PKtgMALAeV-------------------------------
+>SRR5215213_6766088 
+----------------------------------------------------T-Q---T-PVkRCSRRRPVG--SyvGt-ppggGP-Ga--VLI-AHPnAaSpmwFSGYSYMK---nVRVTLNQVVDSTTVLGDIGRTG---TD--N-------------------------------------
+>UniRef100_UPI0009FAB0C1 peptidase inhibitor family I36 protein n=1 Tax=Luteipulveratus mongoliensis TaxID=571913 RepID=UPI0009FAB0C1
+-------------------------------------S---R----SevLSRGMDW-VRINVP-YSM-DG--Y-HND-rnGkSYrtdcsGfVSMAL--H--VSQSYSTVSlP--dI-LqRISwNELKPGDVVGTLGAgTG-G-SD-G-HvVLF-----N-----------Gwa-NSsHTrFKtLe-------
+>UniRef100_A0A4Q5TVW6 Uncharacterized protein n=1 Tax=Chitinophagaceae bacterium TaxID=1869212 RepID=A0A4Q5TVW6_9BACT
+---------------------------------------------------VS-S-PTDTTVLSP-WDLVV--SSvrrMedGTY-ELVA--SHQd-YWFWFSGIGKT-r-SYK-GQVLKKGDKIGVQE-TG-Q--KI--ElLVYDF---E------------tpVDPkL-FQ--------
+>UniRef100_A0A1T3P599 Uncharacterized protein n=1 Tax=Embleya scabrispora TaxID=159449 RepID=A0A1T3P599_9ACTN
+------------------------------I-DC--SG--LT--Q-AaYKaVGVEIGrTTydqvKrGRHIamRDAVPGDLV-FEQFeGpspSHvG--MYL-R-PG--VIWNAPRP--gLGVgESGiaNVVDVRRMAsDVMG--G-SVSAFG-----DV---A-----------G---------------
+>UniRef100_A0A1R1I637 Uncharacterized protein n=1 Tax=Tessaracoccus sp. ZS01 TaxID=1906324 RepID=A0A1R1I637_9ACTN
+------------------------------I-KL-C-G-GV-P-TDGstCSi-AIDsqFlTtSPEeGVTLqVSV-RG--V--PGv-tvS-L-SAIVyeV-RDAdNR-VMFAPLS-D-pVMVTP-RKVKATDTVGVARAS-IK-TR-alpGEYtSQATI---------------AVQPSD----------
+>UniRef100_A0A1B7VHI1 Uncharacterized protein (Fragment) n=1 Tax=Anabaena sp. WA113 TaxID=1710889 RepID=A0A1B7VHI1_9NOST
+----------------------N---N-LNIVNhdF---G-TLTPkvY--DyyYYvNG--F-V--GDS--SI-DD--L-FRfNFaGttnlTFnltG--LT--DNAn-MSLIYDS-NNN-gL-IDPGEVIATSTNLGNISeTitlSGL-LA--GNyYLYV-YR--------------fAstVNT-RYRL-------
+>UniRef100_A0A163RGW0 NLPC_P60 domain-containing protein n=1 Tax=Fictibacillus phosphorivorans TaxID=1221500 RepID=A0A163RGW0_9BACI
+------------sF-----D--VE---EVHHIMKeF-L-GRPyvWggRtPAA-GgFDcSGLlEYAfAQVG--V-DM-YGTA---QS-q--YDKTVPVPEDQikpGdLvfFSTYKP-GA--s-HV--G-MyVGDGQFINANGSNGTSYSSVQEwKniYPF-L---------------GfrrI-Q------------
+>tr|A0A2T0D049|A0A2T0D049_9BACI Uncharacterized protein OS=Bacillus sp. MZGC1 OX=2108543 GN=C6Y06_06005 PE=4 SV=1
+---------------------------------------KkW--V--AqaiSIKGIspSY-A--GalQTIaMKESGGNPN-vvNRwDsnWkaG-HpsqGlmQFIPstFAAHKepG----YGNIK---n-PVH--Q-IIAA--INYLNRRyG-GIYNH-PGLKS-M-A-R-----------GG-P--Y---------
+>tr|A0A2M7X1Y7|A0A2M7X1Y7_9BACT Uncharacterized protein OS=candidate division WWE3 bacterium CG_4_9_14_3_um_filter_39_7 OX=1975080 GN=CO179_03070 PE=4 SV=1
+-------------S---DP---S---G--RLSD----GtF-iW-PVE-NY-V-VtNrFNDPT-TALwyqqnFGI-PG----HNGidmYdaS-FG------R-GveGA-PIFATAD---gVAYQVSDN--KACSFtGTVGK-GIRVdhSD-GTKtIYWHV-------------------------------
+>tr|A0A2G1BTK7|A0A2G1BTK7_9FLAO Uncharacterized protein OS=Tenacibaculum sp. 4G03 OX=2045443 GN=CSC81_09890 PE=4 SV=1
+-------------N----K--LnN--AN--SLKmSF-T-E-K-R----DtFN--VDL--PNGEQL-KVWEDKI---TDYnklNkKYeG----V-RNQkPH---Y--IKSS-e-E-R-QKQLN--DLFSKLGslyfNlskTD-K-TKVkrpvPPHSPY-VRlK-K----------EG-D-V-Y-Y-------
+>tr|A0A1I3IQ17|A0A1I3IQ17_9FLAO Uncharacterized protein OS=Chryseobacterium frigidisoli OX=1125876 GN=SAMN05443292_2731 PE=4 SV=1
+------------------------------------------A-S-GtYY--IAItSTAR-TP-Y--DQARIM-YDNCkanlKeqrtTYkapGQRVIdV--Y-vnN-SSK-SR-D---aV-IKlMEQKIN--E-LGPSTvSK--HLAN--PEivNTFDISygnlK-D--K------TKflSemtKRPeLDvI-L-------
+>tr|A0A0F9ZJM7|A0A0F9ZJM7_9BACT Uncharacterized protein OS=Candidatus Woesebacteria bacterium GW2011_GWB1_33_22 OX=1618566 GN=UR35_C0009G0015 PE=4 SV=1
+--------------------------------DF----VE-KA-C-Se-RAEINLCyTTSDpSPV-GT-GG--L-CNGaiYG-FhshSqECdILF-NQ-cGLsndsDALF--L-lTH-eLS-HhV-QKFD-GDMINRYENf-GAD-DEL-Pl-CSYS--gT-N-----------GsLEEg-S----------
+>SRR6266513_636444 
+------------------------------------TD---TAVV-Ga-H---D-PRPK-QAA-TTGDGAL----Gv-asS--GKAAKkTKKHKk-I-RR-HHLKnEK-qAPVqRqaeqsQApaQPaVKR-RLFAHPQRP--Q-AQ--KHGGFEqM-L-D------------q-DS-S----------
+>SRR5690554_7469770 
+------------------------------------------------HDALPiFL---aSlSgTVv-DVQDSHL--------YGKTVTI-EHTyG-i----KT-E---yHSL--GsvevE-VDR-K------STRLN-SS---HvrISYAVFclK-K--K-------KKrsilvLRT-R----------
+>SRR5262245_9497765 
+-----------------------------------------------tIHVG--FgSSPADkSKVvWGA-NGDTA--TA-pA-W---LVT-AARdG----WNR-PaPP-aTSIpSAG-----G--VGRYAviARG-GLwlRK-GPGLDFE-K--D--R----LLAEGltLG-------------
+>SRR5216110_1609865 
+---------------------------------F-L-A---AP-E-SnWiR-GV--T-PShG--VLAT---HLS-KNDrreFphdADFplS--LVL-----I---F---K---sIDMpNRGiS-ARAAEWL-----lSNF--SE--AKTKFACR--N-----------l-L-PVA-EaatLHGIfNT--s
+>SRR5204863_165733 
+------------------------------------------------RKGIDiFARRRAPALaKAVERERLF--ANps-rpeskqaG--GlEQILIAKAKrGAYSTFQNFSsrpvrfdPK-rMRLaRlrKGSHvIG-GTLLGRVGAP----TT-X--------------------------------------
+>SRR4051812_27328478 
+------------ar-E----P--L-------RV--L------WS--Q--hMH--VD-A-ElR-QELAEL-ERPL--HAA-aARW-RE--V-E-GdDQQ---AHAAE--s-RAR-GG-AE-G---RSTGvAVG-R-AIV-A-ARWAL-A-H--P--------GL--------------
+>SRR3989338_3673780 
+-------------------------------------G---QVI--Gke-NK-VD---P--KPYL--DNGTFY-KVvNfYdGkSWreGGSIT--TY-fnEFYNIFGQ-P---t-A-HTGlD-IA-G-PFGSPIyaaESG-EAyfSS-APcNYYFA--G-G--aP--------lGkgivVDHkngLiTldWHI-------
+>SRR3954466_3489294 
+------------------------------------------------RRGINvFA-KAGSPVIAVQDGKIV-KMG-rtARLGKFIQL-R-DvyGNTYTYGHLK---kLSLAypVPkEKtVSKAQ-VhKELHlAaPAKDPkPT-APaSagTQVTd-KapaaapaA-G--P-P-----TGpppprrppTPPappppArrPrWTAppptsaRSAcspipadraptaraasSNcstpaasspatrrssptspastasSAqtscsrssspaarsspapssgasgapsrrwrrtcssrsarpaaappastpsrsstagsswsprp
+>SoiMethySBSTD1v2_1073268.scaffolds.fasta_scaffold282131_4 # 1503 # 2102 # 1 # ID=282131_4;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.710
+-------------------------------------------------KSYSFSSDEv-QKIFPVRKGVVV---DvVrd--FD----V-DTTk-TFTYYNKMN---sVKIEHND----G-TIALYS--GFN-KN---EIYVNV---------------GdiVYP-KYNtLgkTEV----
+>APGre2960657404_1045060.scaffolds.fasta_scaffold325937_2 # 188 # 523 # -1 # ID=325937_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.580
+-------------------------------------------VN-G-NpK-VaDF-I---KPV-PVADNPF--dm-SEYeasG-FSDDISL--F-dNIRERYYDFE-G-eMS-D-KfESIK--NMFNYKDPK--K-EKVN-NIEIQVPiE-G-----------G---------------
+>1252082 len:161
+----------------------------------------------GnFL--LpNI--PEGTwKL-QV-RG-----PGWek--FSQEVQV-K-AGMpIRLAIQLNkatePA-aIPANlsKSkrAKLTEG-VYqAFVGKS-VE-ED---QLQL-L-----------------NPd-Q----------
+>UniRef100_UPI00111A9D8A hypothetical protein n=1 Tax=Tessaracoccus massiliensis TaxID=1522311 RepID=UPI00111A9D8A
+---------------------------------------------------VE-PDPEeGNAV-SA---TIM---G-tpGvTVSvSAFLL-QHEwdRkVH--FRTISE--pVLVTP-KKVKASDKLGTARvTlKA---PALpSPYtsSSW-I-L--------------VQPTD----------
+>UniRef100_UPI0010F8E288 phage tail tape measure protein n=1 Tax=Bacillus siralis TaxID=77777 RepID=UPI0010F8E288
+-----------------------------SVTtSnL---S---KDVA-NnL-SAID-Q-AK-SDLLSL-KSDIE-svKQEi-eqARH-NIIMaqVAQY-d-YQVDY---Q---k-KV--ADRLE----L----ST-YHLST-SSKAYRDeLEK-Q----------RDalIERQKL-I-------
+>UniRef100_UPI00083A7BE8 peptidoglycan DD-metalloendopeptidase family protein n=1 Tax=Chryseobacterium timonianum TaxID=1805473 RepID=UPI00083A7BE8
+-------------------------------NSFDSSSTqEYND-EHGFseHDArVAllyiYD-KHGREI-AIIVEKMY-rlETThFtsEQYkncGTGgMEV--H-GSAPYYGW-DPT-tFK-NhpeytpIGiwSHME-GK--GLSGQGG-NVqETKKP-KAF-VK---------------L-P------------
+>UniRef100_F2NUA9 Uncharacterized protein n=2 Tax=Bacteria TaxID=2 RepID=F2NUA9_TRES6
+-------------D----P--------------Y----V----VT-Gq-Ni-G-epDV-IPASTKITDAAENHL----GedyYdsnScdEWATKVI--KEAGY---YPE-Dy---qLE-NTDQTVKQ-H-INALQATGADYSQ-tsdNSaYVVF-M---G----------DGt-KP--YTIghehAGL----
+>UniRef100_A0A6G2NL53 Uncharacterized protein n=1 Tax=Streptomyces sp. SID4945 TaxID=2690285 RepID=A0A6G2NL53_9ACTN
+------------------------------------------iP-T-Gr-RKAiIsQaLAAA-H--V-PP-PGTL---GQWlA--GmNTLIT-R-EsG----W---NA--s-AINR-wD-TNA--MMGMPSQ-GLA-QTI-P-GTFN----A-----------y-V-PKS--Lrs-------
+>UniRef100_A0A5D4S1M0 Phage tail tape measure protein n=1 Tax=Bacillus marisflavi TaxID=189381 RepID=A0A5D4S1M0_9BACI
+-----------------------------TV-TV--DN-S-Q--A-SrdYaQQ-LaDVDSAKlD--VLNI-QKEML---Di-nAQL-QELQL-EI-vnSQVARYDSLK---a-KLQ-GKMAKI-D-MQMANES--E-TS--SKwISLQ-KQ-K--E-------Ky-tq-EEIKHQ--------
+>UniRef100_A0A3N6YW90 NLPC_P60 domain-containing protein n=2 Tax=Aeromicrobium TaxID=2040 RepID=A0A3N6YW90_9ACTN
+--------------------------------------------------ALaE-AARIATA--APCTNEV--RGGsWrrrclefvArAYG----Y-TYSGVptaRAMHDELAAQ-gL-VSKSDDIPAGALVf----fDSS-D-PA-G-HVAL-Y-A-G----------NGqaFSN-DY-Vr-------
+>UniRef100_A0A3D9CD17 Uncharacterized protein n=1 Tax=Chryseobacterium sp. 1_F178 TaxID=2258962 RepID=A0A3D9CD17_9FLAO
+---------------------I------C-IVDWHkTkEksvG-QvYKtkP-T---HAKIleD-kNVSEGntsRRVkY--INGDI---AEYGSHpkkG--IIwLL-YSaGKndVEL-VRMP-D-tLNYSNGD-VRI-SYIfNKTQrKfTG---AN--AFAGF-I---------------G-----Y-La-------
+>UniRef100_A0A1E5SKH0 Peptidase_M56 domain-containing protein n=1 Tax=Fabibacter misakiensis TaxID=1563681 RepID=A0A1E5SKH0_9BACT
+---------------------------------LK-EqG-S-E----Gt-TT-IDITDKNSDKVY--FESDVL-ivKElK-edS--NNTIVeqV-R-Se-----YNH-K---nLQ-NlTENQVK--S-L----NA-YH-EK--P-VKVTrV-A-N---------VRAekr-KQ------------
+>UniRef100_A0A0E3PDE1 NLPC_P60 domain-containing protein n=1 Tax=Methanosarcina siciliae HI350 TaxID=1434119 RepID=A0A0E3PDE1_9EURY
+---------------------------------------------------IDVSeQSED-SVQDI---RI--KNAikWaesqiGstAYyhdGySWCLdfV-EDAyesGAnsapKRNWGNAKQ--a-AI--GlNAaSNKG--VPPIGTfVf-YEYKTYG-HVGLSV---G----------NGevIHvP------------
+>UniRef100_A0A0C2VJ94 Peptidase_M23 domain-containing protein n=1 Tax=Jeotgalibacillus soli TaxID=889306 RepID=A0A0C2VJ94_9BACL
+---------------------------------------------------VT-AV-KGENIVAAEAGIVL-FVG-erqN--GETVII-QHPdQRQSYYRNVTL--gS-LRT-fDYVERGENIGYVK--E-N--E-G--FYFSIQD-E----------TGfLDPsyL-F-Lvd-------
+>tr|C0XGT7|C0XGT7_LACHI Phage tail tape measure protein, TP901 family OS=Lactobacillus hilgardii DSM 20176 = ATCC 8290 OX=1423757 GN=HMPREF0519_0448 PE
+------------------------------------KG-KFlQeAIKl-Gkaa-H--LRYSeAANlrlGPNAYDC-SGLV--YTALkk--LG--ITL-P-GsttG--PEFSA-TK--pVS-wKngePGDLaFYNGH-VGIVSSTaG-E----G-R----MW--N-----------Ae-NPTD-GIk-------
+>tr|A0A2V4Y3L7|A0A2V4Y3L7_9FLAO Uncharacterized protein OS=Flavobacterium sp. GV069 OX=2135763 GN=C8K70_103148 PE=4 SV=1
+------------------E--VR---E--ALEEn-QKEG-GYSknTvLMi--ksYNl--I-MSNPkEifNldTSLtfcyFSAA--QI---KGir-kaidklGsneekikAY-RILQyfV-EY-nSqRDATYHSLA-D-tM-CNvVSESIAL-QYLGQVN-PA---PD--PNMKMEdfMMvmiR-D--ilK-------KGd-DS-RFEaaI-------
+>tr|A0A2V2QD54|A0A2V2QD54_9ACTN Peptidase (Fragment) OS=Streptomyces sp. ZEA17I OX=2202516 GN=DKT74_08835 PE=4 SV=1
+-------------------------------------------------E-VwEkVAaCEsSG-S-WAVNTG-----NGyYgGlQFsGaTWAAF---GG--TEYAP-R-A-dLATR-EEQIAVAERVlEGQG-PG---A-W-PTc---SVKA-----------------------------
+>tr|A0A1Y2R9M3|A0A1Y2R9M3_9BACT Uncharacterized protein OS=Chitinophagaceae bacterium IBVUCB2 OX=1985174 GN=CAP36_13760 PE=4 SV=1
+---------------------------------------------------LtSI--P-DSVVKACTNARVT-nvVQNpd-dnNKW-EVVIFCKYKdKeYYFWYTGLE---sVVVRRHESLKQGQSLGTIK-PG------G-RIEF-L-MYD-----------fEtqVDPTKY-L-------
+>tr|A0A197BW58|A0A197BW58_9SPHN Uncharacterized protein OS=Sphingobium sp. 20006FA OX=2056888 GN=A8O16_15330 PE=4 SV=1
+------------------------------------------------NsTG-raD-ArNPSST---ATGNGQFI-ESTWlslfRKYfpqeaanmGrDAILeLRKNAdvsAkLIELYAR-EnAA-aLQ-KSGQAVTEAN-LQLAH-fLG---AD-GA-VKV-LKS-A--A--------GtrIaD-L-FTsAkerQAIaaNP--ti
+>tagenome__1003787_1003787.scaffolds.fasta_scaffold770920_1 # 2 # 169 # -1 # ID=770920_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.702
+-------------------------------------N-TFT----G-NR-LDeyLEpVPRN--YFSLEASTF--SDDdMsdAEI-KRLMeL-E-DkGI---YGD-EAR-dI-IE-GrKKIT--D-FKLPKK-D-N--T----INIDV----------------pIET-N----------
+>SRR6266550_391166 
+-----------------------------------------------YHAGNDIgGC-EGlIEVVSACDGLVA-SAgGkamaeYsdAPFykphgd-yDYVYVID-AhGWFYRYAHQSht-H-s-HSPRAVYRRAHPNIRPSPCHR---PT-P--------------------------------------
+>SRR5699024_878136 
+-------------------------------------------------------------LI--RKSAL---T----CASQVSI-QHSnGLITS---LEPA-eSELEVGDKVAAGQTIGSISDDA---SHCDAQcVHWGVRM-------------A-DA--WK--------
+>SRR5689334_19995341 
+------------------P--V-------R-------D-RWR----A-RE-VSVRAP-AT-FRAM-NTTT--R--i-rsG--G----V-RR-RLpLLV-TAIA-A-tIALgASGACIP-GG-VPTARaSaAG------GP-FGYPVR-----P--------fDre-HPIRgY-Fgdp-------
+>SRR5688572_28557794 
+-------------VV---P---D---K--E-RDaY----LHFAP---GsFTE-V-F-LN-GkTPLfYPQ-PGMPL--T-WrtaSQ-DQPLAkIwPDYPtGAHSHY--CA-G-d--VyTV-QEFQDGVVI-----P----S-I-P-TSFH-R--------------y-qVST------------
+>SRR5438128_983747 
+-----------------------------------------------FHTGIDLVSP-fGTP--RM-SGCA--RSAas-tacpeNlltSYw-HTVM--DR-k-R---FPTVS---nMASK-SS-ISRSD-V----NES-R-TDAiSPttRMTVALRS-T-----------Adq-NTFSkW--sSAS----
+>SRR5262245_47753697 
+-------------------------------------------------------R-HRpILSSRRCHCRSD-NRfCaadnlHtnAPFykphgd-yDYVYVLD-DhGWFYRYAHLQsi-D-d-AVQPGKKIKAGKKIGVLGKEG---SS-GGwa-------------------------------------
+>SRR3569623_2187737 
+------------------------------------------------HGGVKANTHGAANTVddATNDG-----------GDA------GnDTGRAVKHAG---tTTVHTTKKVVHktGDALEDGADAI-G-DT-GETV---VHS-A-----------GtaA--------------
+>ERR1700752_5280970 
+-------------------------------------N-E-TP---AMESE-EqtLTKAQ-APVlrikQMPNGGaQV---QGWdkETYS--VTACKFAvGS-TT-RQL-l---s-QIRM-S-VQSGE-VSVSGPSS-Q-SD--EwTVYL-lVR------------------------------
+>UniRef100_UPI00117C16E7 hypothetical protein n=1 Tax=Catenovulum sediminis TaxID=1740262 RepID=UPI00117C16E7
+---------------------------------------K-RP-----HYGLDIA-AiTGTKVIAPAAGIV------r--L---VTVME--nGeTsrdWQQYWQ-RrwK--dIYIASEEDLD-STLLQQFSEQ-YHIAQ-DNYLAFSYTA-S----------QG-D---FRLv-------
+>UniRef100_UPI00051BEFD6 hypothetical protein n=1 Tax=Clostridium sp. KNHs205 TaxID=1449050 RepID=UPI00051BEFD6
+------------------------------------------------NDGLTVSIQQEHKIYSQFNGRV---TAv-tsD--S--VTV-RTGnSIEIEYTGIQP--mV-ETK-QKVK--Q-YSTLGKT--K-NK--TmTVRFKL---N------------tvyFDP------------
+>UniRef100_UPI0001F0B0A8 LysM peptidoglycan-binding domain-containing protein n=1 Tax=Enterococcus faecalis TaxID=1351 RepID=UPI0001F0B0A8
+------------------A--V--------V--Y-------E-V--S-K-G-DsLAtISqTfG--VSAT---AIL-KQNs-ktqEmf-YiGQKITIPQQTaatSLepkeQAL---LQ---sLIIsKsVTNALKTAEQSnGTANDS--K-TE-ST-EYYEVK--R-----------G-ET------------
+>UniRef100_A0A553EDC2 Aminotransferase class III-fold pyridoxal phosphate-dependent enzyme n=1 Tax=Flavobacterium sp. LB1R34 TaxID=2594428 RepID=A0A553EDC2_9FLAO
+-----------------------------------------------aL--G-SFAfAPVATPIYAPIDCDFV-KK--esDKY---VF--KTNd-F---YLYLSgiDA-dLQME-SP-LEIGDFIGVIApEK-LN-TAF-PSlVYIQI-------------------------------
+>tr|A0A1Y2XIA8|A0A1Y2XIA8_ECOLX Uncharacterized protein OS=Escherichia coli OX=562 GN=AW059_23310 PE=4 SV=1
+------------------S---S---A--RelLSAY------YS--N-A-Q--VErlLtAiGKKGDNARAIVHGLVdI-ti-TK-dkA-L-DMaMVL-KQ-k-----YCQ-K---V-V---D-IYP-QAINLPPDsAG---AM----LSL-IY--N----------RG---------------
+>tr|A0A1M7BG23|A0A1M7BG23_9FLAO Uncharacterized protein OS=Flavobacterium flevense OX=983 GN=SAMN05443543_102452 PE=4 SV=1
+---------------------------------------------------V-YSANQD-SVFGMRKGVVV-diRTlTrFdkdEtT-qetkkAllKEIVV-EHAdGTFASYTGIDEK-sIAVKVGETIDLHSYIGIMD--GFR-A--GRYiLTFDI-f------------------------------
+>SRR6202051_3478822 
+-------------------------------------------------GGTQkglsIATRSGAEITAPCDGWVV-YAGpFrS-YGQLLIL-NAGgGYHVLLGAVDrrdprpsrpgPSNLYSTWSSVRTALRSIPAPGgqqtkAkrfaDD---AQ-DISGFPRCNggrrgyaaR-D-----------AapFTAg-RfCC--------
+>SRR5882672_829229 
+----------------------------------------------------EAWTPLLLPAHRSMQNTMV-RSS-evaP-SAAMewLSLFARRrvTArhFMNFGHLGpgplpkRG-t-QIKGGEIIP-GAVVGTERyvNSmG-G-NI-kGEHLHREI-I-H-----------GdvrLKS-Tg----------
+>SRR5713226_7959754 
+--------------------------G-----DC---GSEWAnhP---Grq-Qrer-A-DSYGER-ADLR--DAG----RENleWhRPHGGCAErtV-D-AdGp-ERLSVQLRGG-s-NEpRAGE-LS-GEYLRQCAQDlG-R--R-APaDRVWE-R--A-----------GDDPaIhgKWAgFrAGGER--k
+>SRR5699024_5478326 
+----------------------------------------------G-N-G-AY-L----SVCAHFEG------G-rA-LGNKIHkL-SKGrSFASP-ADINnhND-tLSIHLPfPSIAP-D-L----HTN-Q-KS-G-yYavIKID-RyNIN----------NG-E---Y--ts-------
+>SRR5665647_3494687 
+-----------------------------------------T--S-GaLQT--DF--PTSvSQVfSNPPKAAMV----FeGDFvqG--VIT-SSTsAkANTDFNQ-S-A-cLPINT-RApLV---LVAATSSSPLR-TT-PPhgHscSTWR-RrK-Q--A-R-----SG--P-SWAaMp-------
+>SRR5579872_5412987 
+------------------------------------------------TAAFcwDFTLA-GAP-T---PGKPI---D-pnGpACGERLHaV---GdGHV--FDY-E---d---T-GP-TSP-E-CGSQPtNDG------GDWFHIEL-A-----------------------------
+>SRR5437763_5518542 
+-------------------------------------G-KLKP-T--FQlrsLGApAcLTRARARETQRQASGSAA-RA-pLrA-MAPLpMRnL-RSPrrGaAdRTM-AN-PPQ-sLR-pDFGS-IEI-ESFEHVP--G------GRELAL-LRL-E-----------G---------------
+>SRR5260370_2826082 
+--------------------------------------------------XM-L------PM-ST-SA-----S-----ATCICF-Q--G--SS-TR-K----ACTAGRILKQGEEFGRVGSffrHE-R-AT--TyHLHFDMQV-----------------------------
+>SRR5256714_1490217 
+------------------P---P---G--Rp-ASp--TRrS---RP---App-TAGLQ-K-P-SSSVSSSSHAAVK-qvTKTk-kvvqAP-AKApASV-TK-eRL---FAHPSR--p-NAKtAGG-LD--QIFnSHATAAGF-F-TF--QNHFSsaL---------------ALDA------------
+>SRR5207245_9059363 
+---------------------------------------------------CERRAAQGGVRRAGSDRGVD-CAAArrG-HGrr--TIG-DHGeASCSLYAHAS---kLLVTRPETARSNQPIGEIGDT----------------------------------------------
+>SRR5205085_2711147 
+----------------------------------------------GFHPGLHISAD-yGQPVLATGDATVV-SAGpdklLqlqDTHpA--MII-D--kALSKVFRTANER-eLK-RlspaVAqiNTFEPA--IAALSDeqlRG-K--T--PEfrLRFE-Q------------------------------
+>SRR4051794_3987331 
+------------------------------------------------QP--E---P-APKVeKKPDAG----H-Gk-rqkrS--GdHHkLKL-AKPk-P-RV-KH-EaPK-sAQ-pKpPAAPLRRPD--GAPTpqNPGFT-DALpGPSTHT-----------------GV-P-NF-IiRKF----
+>SRR2546427_776567 
+-------------------------------KSgY---G--PRrsPWN-GareVHEGIDIGSPPGTPIESPAAGAGV-PAASvvR-AAGASQG-EHRpGRRADPRPRR---gLRARSAPGVAAARSVPIARRAQ-R-----PRL----------------------------rrpprraprrparrrrarrpdrrhra-------
+>GraSoiStandDraft_16_1057320.scaffolds.fasta_scaffold10212871_1 # 134 # 253 # 1 # ID=10212871_1;partial=01;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.600
+------------------P---N---------SpL---D--WK-M---IKESIknD-E-KESEAIK--DVG--I-KK-WtiskdDkvkNYkDEVIVL-DK-d-Lp-TWF--VS---a-KLATGlsyeyyytyDDVQKIE-IwAYSNRSA-D--D-AVyHkrSIF-VRTYN---------------------------
+>GraSoiStandDraft_14_1057315.scaffolds.fasta_scaffold2677616_1 # 130 # 285 # 1 # ID=2677616_1;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.564
+------------------------------------------PVE-KdsL-TGL-IRM----SIKNRQEEQL---AAWseEl-WTcRN--I--YAceE--EIY--IE---LA-D-ScEEyMQKGDYVEKVPE-D-Q------QTVYQI-L-E----------RcG-----Y---------
+>APGre2960657444_1045066.scaffolds.fasta_scaffold616611_1 # 2 # 211 # -1 # ID=616611_1;partial=10;start_type=ATG;rbs_motif=AATAA;rbs_spacer=3bp;gc_cont=0.333
+------------------------------------------A-N-G---G-SIPEPTrtnG--IlYTP---TMV--A-wFqnqGKYldANTITL-NQvQpGY-AVF--FK---V-LP-GhdneNRLNHAAIVyEVIPGQGFRTveSNAG-YktMFYPV-D-D----------NGhfI-PVSIgDktItvEGFgvPX--
+>UniRef100_A0A0F6YJN5 Tryptophan synthase alpha chain n=2 Tax=Sandaracinus amylolyticus TaxID=927083 RepID=A0A0F6YJN5_9DELT
+-------------D----A---E---T--QMSHcWR--ELTWA-CQ-Gp-NSS-DCG-G-G-PVvAGAGDGPC--saRQgglGmfqFdaGTFddtlrreGTRILsI---AGnTqaAVDF--VA---sMVVRsayvSGvDT--RAQAIAWMNGvrVG-N-GRWDAwiRtvTHY-Y---N-----------GCAP-SYScFsQRYAHy--r
+>tr|A0A1L8WNR6|A0A1L8WNR6_9ENTE Uncharacterized protein OS=Enterococcus ratti OX=150033 GN=RV14_GL002243 PE=4 SV=1
+------------------------------------------------N-GIQIQVEKDKEILASMTGEAT-VSD-nS-----III-QSKdRqL-VI-KNIRP--tIA-N-RQKVVTGELIGTVAKEN-QLV-----IEY-IKK-N------------qsLNPgF-Y-FKEVeylQTf--slepensrp
+>SRR5438045_1755654 
+--------------L---P--------------F-AGG-S-RPL--ApVSTA-rrR-AV--SEPL-AARDRVVwT-QAD-gGRMAtNIhIPV-RSArRcIlrsaVTKF--L-f-A-t-AIAIAT-CCA---LALSGaiTAGPGIalAT-GSsSTPA-V-S-G--Q-------SyGY-P------------
+>SRR5260221_10487657 
+-------------------------------------------------T-LeDaVA-AlRDRAVsaLELTDATLA-RIDr-reAELNAFITV-TADdARRRA-RDIDarPE-rPTL-AGvP-IALKDLFDVAGvAT----TA-GSKLFA---------------------------------
+>SRR5215218_2988117 
+-------------------------------------------------RSINiYS-S-lNAPVVAVNDGVIK-ktRTSt-rsrGsiRYrARRSSpA-RTSsSRRRRMPR-RprprqpattppRE-pLR-RppPAprprprARpIPRSCATGYSRcRSA-R-AT--PTPRLSpISS-T--S------CSGrrsratrrsspp-SPtpsssTPrpWSYgrsRRAPRs--pag
+>SRR3954451_13596669 
+---------------------------------------------------VEY-CRRA-RIHLS---SV--------WG----L-PAAe-L---FGPLAP--p-D-SSGA-VAQPQD-rGTQPTTrG-R---L-PRREL-V---------------G---------------
+>SoiMethySBSTD1v2_1073268.scaffolds.fasta_scaffold6950115_2 # 117 # 368 # 1 # ID=6950115_2;partial=01;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.635
+--------------------------------------------------AQEFA---GSPVLAPTQGQSQ-qvQRG-qSf-YaGdpNNKA--NATpeRLEETF---D---kV-LKQGnissnpNSLRT-NTIAMAPPSS-Q-SN--TTVIIE--P-N-----------Spp-PPAPM-Iqq-------
+>RhiMetStandDraft_4_1073278.scaffolds.fasta_scaffold7659846_1 # 2 # 202 # -1 # ID=7659846_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.771
+---------------------VK------KLSTp--QEE-K-KediP-P-Ne-QKG-rD-KnDPRQKSI---SPGrNL---KDW--WKNL--L-NQDpe-LSSL-PQ-NR--eLRMnKRNnnDQtIV----IpNTNG--G---SN-GNN------------------------------------
+>GraSoiStandDraft_28_1057319.scaffolds.fasta_scaffold437936_2 # 515 # 838 # 1 # ID=437936_2;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.636
+------------------------------------------------KDG--F----G-NLFNMITG-----TN-daD--A--MSI-E--e-MKMIINKMEKE-kL-LK-EEETNK-DIIiKRKTNT--N------NVSF-----------------G-E-------------
+>ETN02SMinimDraft_4_1059925.scaffolds.fasta_scaffold295366_1 # 3 # 128 # -1 # ID=295366_1;partial=10;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.635
+--------------------------------------------------G-KVN-P-NpPQIntTSTTPNlTIP-QSEe-nepeGnQFdpsGiPMLEnIFR-NfqGPg-NQ-SRIE---tIN-eRPTERIASSNIIiNNASG-GSQ-ST-QP-MNDE--------------------------------
+>948545 len:186
+----------------------------------------YR--Q-SelYtESG-pD-D-PAl-TEV-DV---TVT--TD-kGSVETTTVMAKPDdkGAdtp-TCFRN-S---rLPC-AGpvASVS--H-ISTLAPiP----SPWPPcRrWRMGlVR--R-----------G---------------
+>5399750 len:158
+------------Y--------INl---G-W---NFDVTdGV-WT-M--G-N-G-KYSLPVl-KNV-SVEQQPIV-TPE-hl--YieGTTnVIT-EKEsSL-LIYPHVTEG-kI-I-ITNKAST-SMVTIYD-lTG---C-----------------------------------------
+>1776684 len:195
+------------------------------M--L---NTK-RSLT-Dk-TpVG-DitFQTAIG-PV-DV-TG--I-SNlqGlnnLnlstgmGPFG--VNF-NTDlaGT----NTLD-----V--G--FSQG-PLSVTGSTNLNDeANIiasflN-HLKM-V---------------ALHRCSW--r-------
+>tr|T4NT02|T4NT02_CLODI Peptidase M23 family protein OS=Clostridioides difficile P28 OX=1151410 GN=QSI_1740 PE=4 SV=1
+----------------------------------------------------------NQA-RSGYAGVVL-HVQ-kqAD-KKSsVTV-KQDnGAVVTYGNLN---eVKVKQDDRILKEAVLGTADS----------YVTINaLK--D-----------NekIK-------------
+>tr|A0A268I592|A0A268I592_9BACI Uncharacterized protein OS=Virgibacillus sp. 7505 OX=2022548 GN=CHH91_04630 PE=4 SV=1
+-----------------------------------------------YRTGVpsSW-L--GplTTIaMKESGGNPN-aiNKwDinWknG-IpsqGlmQTIPptFHANKepG----WDNIL---n-PIH--N-AAAA--INYIKRRyG-SINEV-PGIKA-M-L-N-----------GM-K--Y---------
+>tr|A0A220RFS0|A0A220RFS0_9GAMM Uncharacterized protein OS=Halomonas sp. N3-2A OX=2014541 GN=CEK60_12430 PE=4 SV=1
+-----------------------------------------------IaQR--DLVLRNNVRVtrVDQRDDRLL-I-GLqdHHLGRLsLIL-RSAdPS----APLPRA-eLSIE-G--FS----LSLAA--G-Q--T----ITLTcL---------------wG-E-------------
+>SRR5215203_4499751 
+------------------------------V-EY------CR--R-A-R-G-HLA-AIGSPL---AGGAV---PS-pdAP-G----V-N-APT---FSA-DAK-tF-FR-GQPTPK-S-LaAALTRiPPVP-PS-RPaTVVASVTpRLS-----------AasASP------------
+>SRR4051794_29243378 
+------------------------------------------------Y-G-NtY--T-yG-RL---A--SV---A--rh--YA--TA--K-PrPL-ST-RQLE---t-ELKppPAD---P-HPTGPASDTR-H-pASHAPPKRL-VRKAS--P-------KpQtkL-PLaTkqrlF---------
+>SRR4030081_3914188 
+-----------------------------------------------------------RRL-EA-EHEVV--T--------LLC--H-eRMpp-KEHCH-R---eV-L--GE-LW-GA--GRAEVAA-A-VEiLGEPVVPGgVLN-G----------RcGrehrLaDAgHS----------
+>ERR1700742_18138 
+-----------------------------------------------aL--ALALTvCPVlSETLKAP-NGLVTLHSpD-rlvt--LqG--IA--KPTdSIsp-SQLAHVR---sV-I--AE-YEK-QK-AFQG-T--R-SE-DT-VPF-L---------------y---P--F-FpqSG-----
+>AntAceMinimDraft_17_1070374.scaffolds.fasta_scaffold387208_1 # 1 # 300 # -1 # ID=387208_1;partial=10;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.393
+----------------------------------------------Ns-NNNLSIE-S-fGyTR-SRTNQGYI--DTmGe-nsecinGN-GRMdMQraM-DKlAqGdW-TVYKT-S---k-NI-AA-TLAA---LEMLDvDvyvTG-S-SK-G-HtVNLT----------------G--PasANgW-Fsv-------
+>UniRef100_A0A563CIR8 VanY domain-containing protein n=1 Tax=TM7 phylum sp. oral taxon 352 TaxID=713054 RepID=A0A563CIR8_9BACT
+----------------------------------------------------SFS-PE-SKMNKQAASAM---EEMnkA-YkadnGSNLTI-N--eA----YRDCAT--qIRYsKeLGSRAAPA-P-PCISNHGW-----G--LAADINV-G-----------GFDsPVyKW-L-------
+>UniRef100_A0A3M0GCM1 Uncharacterized protein n=1 Tax=Tessaracoccus antarcticus TaxID=2479848 RepID=A0A3M0GCM1_9ACTN
+------------------------------V-EL---S-QF-P---GlL--G-SVR-A-yGSPVsFTT-NG-----AG-tATV-KVaISLLKAPd-T-AA-TRV----aFQLT-GatlASIQ-NHAIdAENGD-GL------PDFTR-VRS-A----------RGg-DA-TYSqtVtDGLl----
+>UniRef100_A0A345C0Z5 Uncharacterized protein n=1 Tax=Salicibibacter kimchii TaxID=2099786 RepID=A0A345C0Z5_9BACI
+---------------------------------------------------VD---P---AI-QL-QNEIA-TAEdLqe-KLG----A-D-SeD-------LE----RLK-G-TIAEAD--GLRDDlKDVQ-DNL-SELSFT-RT-N--E----FM-EEiqsVkDDItDW-Fe-------
+>SRR6478735_10426514 
+-------------------------------------G--MvTPW--Gt-RMAL-F-LSSlGTP--TV-LGKT---ATLsAEF-QQLL----ApGQ---WQRL----VT-RLGQ-IP-NPTVPTTPSSA-S-TRAG-Hp---Q-RS-S----------HGgx---------------
+>SRR6266487_212527 
+----------------------------------------------------Q---PARRPL----RG--C-R---r--CA----L-RWTdRW---Y--VA---s-K-RP-P-APSGRVIAEST-SA-R-S-----LACPcARP-Q--A-------AGx---------------
+>SRR6059058_556406 
+------------------------------------------------------RAARARPL-PVPQR----HRHr-raG--G-------HAGVSDQLRH-RTA-d-R-RCGrPRpLARTQ-VPVLPH---H-PD-RPQ---R-R--------------Ar-DR------------
+>SRR5688500_20006864 
+-------------------------------------------------RDIQYAIDHGYPV-----------AT-nvllA-SWTLLPA-GFYpGYD--YQH-----r-S-E--EH--TSE-L----QS--P-CNL-VcRLLLE-KT-H------------tnLHT------------
+>SRR5580658_3007795 
+------------------------------------RN--Y--M---YH-G-K-KV--DQQVH---LGSIY-RT--tptRRCAPPTTV---AwsGRRTS-ASMET--aL-CSiTATRCNPS-T-GTCGRS----TX----------------------------------------
+>SRR5262249_52551901 
+-------------------------------------------------PGLSFATRAAAQVIAPADSRVL----FaGPYhksGQVLIL-EITtGYg-LVLAGLA---rVTARLNDELLAA------PcQR----KA-D-RRTPAGFT-S----------NcGMTVMGW-Ildrg-------
+>SRR3954452_19660708 
+------------kt-S----P----------K--QpHQT-S---RPAA-GsLTAG-D-KrTPV-HPVpH--HHHHAH-HSAp-hpaSA-GNPp--p--PPAdA-----ASLQtRK-nLAVD-GvEPLQPPTEVAPASPmT--D-V---P----DL-T-P--P--------Gt---------------
+>SoiMetStandDraft_5_1073268.scaffolds.fasta_scaffold363182_1 # 3 # 632 # 1 # ID=363182_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.698
+---------------------------------Y------Y---C--tY--AFDFA-D-GT-MfeiLASKGGLCL-pl-ARYl--FKQRFRL--HQqHhHRRSYNQ-P---pL-----D-LP--D-LPASGKR--QYSC-QPEs---Q-R--D-----------As-SA-RH---------
+>ETNmetMinimDraft_22_1059887.scaffolds.fasta_scaffold1507328_1 # 1 # 87 # 1 # ID=1507328_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.356
+-------------------------------------------------E--DlFR-EQN--IFPY-ER-----SS-dG-YtD--IFdpT-KTSsDQN---SN-D---nI-LPPGS-ITPPAK-NNPDlDT--D-TE-SNDIIIDI-P----P--------SdsID--NL-IDSM----
+>ERR1700730_13311334 
+-----------------------------------------------------------AE-RSA-DGTV----G-aAT-RPEVLkI-EQAvAF-APC--IAPN-sTS-pRsTGvE-VAAKSPL----SQ--R-ET---EvLQL-I-A-D-----------Gns-NQ-E----------
+>AutmiccBRH37_all_1029493.scaffolds.fasta_scaffold63884_1 # 1 # 570 # 1 # ID=63884_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.640
+----------------------------------------WK-----eFHNTTpkDFlqAlIDEhNKQVesfKQMRLGNVT-VTNs-tdNv-Y-RF--V-DDTkDT---YDNIQ-D-kL-VsRLG-----GE-LRVRNENG----T----LYLD--------------------------------
+>AP92_2_1055481.scaffolds.fasta_scaffold872916_1 # 2 # 277 # -1 # ID=872916_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.264
+-----------------------------------------AP----WQR--DL--PNlDKQL-RLADA--L-YAQvkLdnpdA--S--ISLTGHSlgG--AL-AQL----V-VaRNAeDNLSA-VTFGALG-VG-QLAD---RLNFDANA-N---------------------------
+>UniRef100_A0A4R0A109 Lysozyme family protein n=2 Tax=Bacillus cereus group TaxID=86661 RepID=A0A4R0A109_BACCE
+-----------------------------------------ES-Q-GrpMN-SID-N-PK-ESIH---YGVM--HLiGaFadAkKYGitDLsAIVQTYNfGrFYIRW--LAsnnkQH-sLQV--AEQYSK-TVVaPSLGNsTG---AM----IRYS-H-----------------PIA--Va-------
+>UniRef100_A0A1Q2CYP9 Uncharacterized protein n=1 Tax=Tessaracoccus flavescens TaxID=399497 RepID=A0A1Q2CYP9_9ACTN
+-----------------------------------------ATLcS-Nts-KCGISI----GaQTLL---NG--M-RENtpFnvivdGqpD-kSvQIrVFtV-QYAkdGkAwN--FVPISK--aVSVTprKGS---AGSTYGTATvsmTvptpPeGVD-A--G-QIYIQT-A-D--fT-------KGasmI--------------
+>SRR5918993_1541994 
+---------------------------------------------------VEY-CRRvRTHL-AA-IG-----S-pFAE-G------AHAaNVSASFNR-A---kMAASVAaDAaAEASSPVNRTRSAA---AE--PNLVL------------------p--P-Q----------
+>SRR5688500_19134858 
+------------------------------------------P-----H--ITF-LKT-ADL-TPASGrKFM-TATYrq-lPFApAHIDL--F-GR---Y--FR---aL----GE---RSE--EHTSE--LQ-S---P-CNI-Vc-------------------------------
+>SRR5437588_12284414 
+----------------------------------------------Gsk-HT--S-ATTQG-------QGPK--HRKhHhrAKHSSP--A-PATsGSp-ADFAP-R---pVA-PSGP-LRNHD--GSPAPS--N-PTFfsAPQVNFSA-P-S-----------NqaV-P-NF-LiEHF----
+>SRR5256886_9866995 
+-----------------------------------------------------VP-PNNAP-SST-NGVLM-KA-vVapiS-F---MIsI-SSRrAC-SV-NRIVl-A-rI-VTM-DAASTA-PMPRPRTfKD-R-SA--T-ATFSIQ------------------------------
+>SRR4051794_11680922 
+---------------------------------------------------ISL-L--G-PA-RVARSPIM-R--Yrlid--IG--TIF-REPseES-EVLEDLDPQ-aI-VlAw-GQE--TGQEV----DTpE-E-AD-G--FVF-VKR-R------------eI--------------
+>APHig6443717817_1056837.scaffolds.fasta_scaffold509966_1 # 2 # 559 # 1 # ID=509966_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.389
+-------------------------------ADF---A---R-----ktFL-G-DF-M----PIT--E--EM---K--kd--M-NR--I-ENKvdKLSDQ-KKID---d-QV---DNyVKERKLVSEDNN---K-TT----VYIKn-RK-N--iQ-------NrG---------------
+>5461511 len:471
+-----------------------------KVTD--A-GI-FN----NvFDi-GISLN-KSy--KLeKTSKTTSL--NEAMdtN-F-NDVTkLFTNTdGVaknlekmLTSY--LD---s---K-GviK-LRQ-NAI----DDG---------LKT-VKE-D----------KAnL--------------
+>UniRef100_UPI00058C957F hypothetical protein n=1 Tax=Tessaracoccus massiliensis TaxID=1522311 RepID=UPI00058C957F
+---------------------M----S--KI--L-CSN-T-RDCGv-GtpIRl-GTD-pESSwQeGKPM-SI---NVL---Gq-kdrqvQvrAFA--IRwV---Se---TEY---T---aVPI--SNAVAA-TPTGSSAASyG-Q--T---RVEVTI---------------GkI-PAPYDgsLvvvQTAd----
+>SRR6516164_285558 
+---------------------------------------------------------------------------------TRPP-DRSgGYHILLAGMEr---ISVDLGQFVVTGEPVAWAAepsrpLpk-R---AV-QANPYFTWSsaR-T-----------GfpsiqAHGg-P----------
+>SRR5919205_4357835 
+------------------------------------------------RRSIEiFA-RRG-S--AA-TS--C--SR-tptAT-ATC----T-P-T---WGR-SP--s-TTRcPSRT--P-R-M----R---R-SR--P-ARX---------------------------------
+>SRR5580765_1571416 
+----------------------------------------------------S-ASRTccRSSVCTL-PG----RTG-rsS--A--VRVLSRSRCrcrEACWPA-E---e-R-RSSE----SR--RRIG--G------GAcC------------------------------------
+>SRR3972149_9635300 
+-------------------------------TRrT------W-----S-QPGKGF--RKGsrLPSRVAPAT------------HPVTtwI-SASaSpVapsstpWIFY--LDpkRR-cL-MDPAcH-VEP--VL----K---R-PS-DEELEHS--A-D-----------ArL--------------
+>GraSoiStandDraft_24_1057298.scaffolds.fasta_scaffold2354557_1 # 2 # 328 # 1 # ID=2354557_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.703
+------------------------------------------P---A---AVcrELT-KRf-EEV---ARGSIA-el-ARrFGsSVkGEVaLVLgaAEPAadEAAAE-SAVA---eL-LEAGvPRRKAADVVARLT--GV--AR---N------------------------------------
+>UniRef100_UPI0015B9070D RICIN domain-containing protein n=1 Tax=Clostridia bacterium TaxID=2044939 RepID=UPI0015B9070D
+------------------------------------------------HnSGCNyYG-TCGcNS-Y---NSAI--QC-MG-YA--MYV---AnKF---YQS-NvRN-wISVQpTSnNQaVN---ILSLVK-PG-D------YIRYNTH--S-------ILVTGISS-D--Lgt-------
+>SRR3972149_10231158 
+------------------------------------------------------------PIkLTLT--PVV--A--------VAI-RQ-kGR-PL---VD-D-nCPV---DPIHK--TI-----TA---AE-RRNIEMAlL-------------------------------
+>SRR2546430_2741073 
+--------------------------------------------------------------------------Rir-rrS-C-RA----RPArpGRW--SCATSAS-sMR-R-GrRSpTACATCAcATAAStpSD-R-pAS--PRMAPR-RS-T--V-------AAqrsC-Pg-S----------
+>KBSSwiStaDraftv2_1062776.scaffolds.fasta_scaffold7998960_1 # 3 # 299 # 1 # ID=7998960_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.684
+-----------------------------------------------t-Ql--I-IQQPQ-PRI-TI-PG--L--Q-FsdpEEL-RQLIV-REPdG--SVY--IQi---pF-L--GQYLAA--VYqWAVAAAGI-IAVL-V-LIFSgVQwM----mP--------GnvI-T-NI-Ltk-------
+>SRR5256884_3638625 
+--------------------------------------------------------------------------------------TSAteS--PA-TRLT---s---K-ATSw----E--NTSSAT-WR-RE--P-LRF-LRH-R-----------Sqx---------------
+>SRR3989304_5648036 
+---------------------------------------------------IDpY--P--TPT-ARRSG--L--AS-aS--ASP----RASsSATAA-AAATP--pAPTST-SRCTX--------------------------------------------------------
+>SRR3989304_3633106 
+----------------------------------------------------------SC-IH--K--PI--KK--r----RTLM--EH-dSN----CHVE---L-FH--KPFDEKD-L----SS-I--S----KTRF---------------------------------
+>SRR3954466_15758770 
+---------------------------------------------------V-VQTSvKkG-P--PP---RL---ASLrtTpPH---LA--DQAqaGP-KA-PEVK---aL--P-SNKIET-R-VqATASvATS---AP--PsQpTIWQL----------------L-PLrQVSLak-------
+>SRR6266498_4232723 
+--------------------------------------------------SLrD-R--KSTRLN---SSHV--R--i-S-YA--VFcL-KKKnQLE---SHIC---eIDTR--HQTK--N-Mq----------------------------------------------------
+>SRR5690625_6298202 
+--------------------------------------------------------RKSTRLN---SSHV---A-i-S-YA--VFcL-KK-k-M---FEA-K---t-TIQ--y-TLS----L----------------------------------------------------
