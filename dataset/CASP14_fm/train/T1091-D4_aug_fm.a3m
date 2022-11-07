@@ -1,0 +1,104 @@
+>T1091-D4: 
+PSLSVTKKVTGVFANLLKSFKITINIRDAQNSPLNGTYTATVNNKRTPLQFTNGRASIDLNKDQTIKIDGLPLDSHYTVEEETNSSRGYQVSYENQEGKLDGDKSATVTNNK
+>OrbCnscriptome_FD_contig_121_199050_length_442_multi_3_in_0_out_0_1	74	0.191	1.948E-12	0	111	112	226	371	416
+PNVTISKTVAGSLADMTKAWPFKVTLMESNGvTPVTGEFAytggviaglGATAPDPDPINHTlvfdsSGGTTFSLKHGQTITINGVPSDYKIQIEElydANSEPYPYATSFVDSAdvviAALPSDTVAELspvgevprnfdfTNTR
+>A0A7Y0EUU1	50	0.168	3.569E-04	0	109	112	1012	1189	2180
+PSLTITKKasvaegyvgptktVDGKTVSALddQRFPFKVVLKGADENALKQDgttFYyhgsvtggGKNGTARSVVMKLdgvaaSGTgaqgelklctakvtdesnatdeercastETITLRNNETLNIANITDGVSYAVSEpTDATDAPMPEGFKQIGATGTTGTITRAsgtgkavfTN--
+>UPI0012B36490	63	0.200	2.042E-08	2	111	112	2447	2583	2621
+--IVLKNRVTGSFGDYSKPFTFTVTFNNVSDdEEIQVDtFNASSKNNPKVIKKSthlkpNTVaprrapasnnntlsAEITLKHNESVVFKNVPKTASYSIKE-AETDYEVSHNINDGN-VVNADNMSKAvdndtitfINHK
+>1701802 len:353
+--FSISKSVTGSGANLEKQFTFDVKLTGNADNgsdwpNLDG-YYynvihiGDDGTEEVKETGIlnfkeQSSnyyittvttdgkdeslymqenqesgyYYVKLANNDKLTVTGLPFGITVQATEIDGDGYRTS----------------------
+>25517561 len:490
+-NYTLTKSITGTLADKTHKFPFRIEVSSEIG-kgKSSKEYViTKTGNPTAPDTFTlgadgKATigdltnSILAIADAQAVTLYGLPVDATVKVTEKNDIDDKYKSKYQNTTGDASAETDVA-----
+>22391656 len:223
+--LEITKTVKGLMADTTENFTFSVQVDDAAS-SACTNYS---GSEKYLIKGTgvseDGNdvtkcksgtkDTIHLKHGQTATVgrftyngnnyESISIDDYYEIIE--SASSGYTTTFKVGSGSETSGNDTSAt----
+>UniRef100_A0A3D1WP56 FctA domain-containing protein n=1 Tax=Lachnospiraceae bacterium TaxID=1898203 RepID=A0A3D1WP56_9FIRM
+-KLTFTKKVAGSLGAKDKEFKVNVMLWTPQS-peKTVGS--iitvkgASSDSENSAITPAdwttqTDTekpnvtRTFTVTDGTSITLTNIPAGVKWLVKEDNYSADGYTTTYTLDGqeYSADTATPNAAstmmvqaynvviTNTN
+>10973835 len:690
+-SLTVQNQVISQTEE--EEFTFYIALEEPNL-KYFVD--SETEKPYNPCTNLtwavwNDNakiwtaasfqnaraadnialtstdeagiYKVSLKHGDKIAFTNLLDATKYEITE-------------------------------
+>UniRef100_A0A373BBZ5 Uncharacterized protein n=3 Tax=Clostridiales TaxID=186802 RepID=A0A373BBZ5_9FIRM
+ptvtisnqvegnssnknqkfaykitvknksgvsygqsqvfkytggvisgvagvaapasgtasmnsqgyisynglthgqsisielpdyydivtveqvkvnpywtvyttegnqkysgltrdsfkmeaanktvayvnnsnqvqpvvyqvgmttgkwststgddysrrlniyiqdiygdgidtskvylstqdavangdsfdyryatgdnslndvcsrtkytagsfkdingnrivassskpvyayrgsknltfdsdknyyiyvcdisgkwtkylldtrgpqlknsgtisvsksgstytysitnmkftdeivnattsalnnvngvttpanatkenskvyneirynttgedpfngsststlatgnndgtfsitgvsigasetlyifaqdaykntvaiqyvpvtfdakaadtipqgqftdgseyyytlgvlngylgtsqipsnpklnklgfkywykssdssktavdfkktqitgattfypvwekPTVTISTQVAGNAADKNQTFNYTVDVFNASG-vsyGRGQKYNvtsgvlEGTEATAPSYNGTitadsNGKVVLTLKHGQSVTLEMPDYYGRVNVAQRQVDPYTTTYAFTDGTGQPGNTDLTSImkvtainrsvayTNT-
+>DeeseametaMP1139_FD_contig_21_367445_length_336_multi_4_in_0_out_0_1	53	0.205	3.572E-05	2	110	112	95	245	291
+--LYISKYiEDRDMAPLHTRFNFNLTLTNPALTppNIGTV--tavvvnANTGVPVTNPTREypvaaGTTNPFTLAHGEKLRIPELPAGTRFSITEEGKAQFRprasvtgsiaispslsvpaYSGTYPIRGVGDTLTTSTYIihqvsinrtyfTNT-
+>1640731 len:180
+kntlfnei--ITLKDE---------SENPVSMTLSSDVG-DLVFE--ngklIKVGSTTLMDKSGkdlseEGAgdPVYPMKHGDTITITDFPDGFTLTVSE--PDTLGYILSYTGMDNTTSSSGQKTV----
+>SRR5690606_16769362 
+-TLTVETQVGGNDTAAHaDAFFLFEQWCTFNG--------QRLGPPPDDPTRP---VHFSLNGAAERTFDQLPVGAECTAVETDSSNATLITPATTQSGTIQATGLRLAftnv----
+>1584145 len:1955
+-SESDAQDSTGSGVKLGDELTYTIGYKNTED-kp-------ATVTITDAVPSGTgfvefAGDhaDVASKDSDGNLTWklADVPAGKEGTVQF-------kvrvTEDAFKSGGASDDISNQASVavgnnpaVKTN
+>13677195 len:188
+--ITVPAGATAKISNILAGAKFTVKETAASSAGYTVTY-SGDGVTTDGQSASgtirvNTSVGVTVANHEKGASVTIPVNKTISNPD-------gaqHTFSFKLEQvTNQEGATL-------
+>UniRef100_UPI0004E13EE9 hypothetical protein n=1 Tax=Ruminococcus flavefaciens TaxID=1265 RepID=UPI0004E13EE9
+ffnie-KLSLLDSfIHNSDDE--QKFVFRVDYYGETD--------THNPASS---------FYVTMNANGSYTFegdSPLPSTSKYSYNK---SANTVTVTYTPNGGTETEYTFVPIvrrgir----
+>tr|A0A242FSG4|A0A242FSG4_ENTFC Collagen-binding protein (Fragment) OS=Enterococcus faecium OX=1352 GN=A5814_002206 PE=4 SV=1
+evisvsgqktwednenqdgkrptti-TVNLLADgqpIQHKEVSEKDDWSYRFTNLPKYKDGQEIIYTVTEDNVPEYSTTIdgyniKNSytpgktnlsatkvwddgNNQDGLRPQSIQVqlyaNNQKVGEAIELSE-------enhWTTTWNGLAEKAKGQAITYRveeltkva----
+>KBSSwiStaDraftv2_1062776.scaffolds.fasta_scaffold4413763_2 # 173 # 418 # -1 # ID=4413763_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.711
+tltcsgcaanktedcsggtatytekakceicegeygelikdtekptg-EISIRTN---KWNSFLNTITFGLFFKQTEQ--------vtiTAEDKESGVKSVSyyisdSGMskeevealtvgwtdvendtVTFSINEDKSCVIyvkiTDHQGNVTYLSSD-------------------------------
+>5148801 len:840
+krytalfcav--LMLFSIipISADAVNEQKNKIYTLTQKEYED-mmNYDAEHHNDPLTVTDEVKEInfpiqQTQKASDLVYNGKVTWHGYDTG-KFTVGG-------rTAFCIQHSK---------------
+>27493418 len:173
+-DVTIKEATLGTNPDTSKTFDITASLKDESGNSIANSVVltfdyvdSNGDEGTLTFTGGtpsafTGStslitasdgqFVFQMKNDEYVTIKGIYENYQLTVSE--TAVDGYDTSYS------------------
+>UniRef100_UPI0006724ED0 hypothetical protein n=1 Tax=Anaerococcus jeddahensis TaxID=1673719 RepID=UPI0006724ED0
+--FALRKTITDDTPDANAEFTFNLKVTKPVGSHSDATaFKyvvvDEKGTVVEKQSGTygta---FDVILKHNQRIVFTEVLLGSKVAFDE-------tVAGAYTGSV---------------
+>41780073 len:87
+-GISLTKAATESIGSPDDTYALTLKINSVPA-ge-------SVNPKVYNINGKAvpfnfENNlLKVQVKVGETLWVTGIPAG--------------------------------------
+>30135471 len:947
+-----------------ASYHVTVTITDDGNGQLAVDs--psmvkvLGNDQQTPATTATftntySAEpVEDTLTAHKTLDVkvgkrDLRANEFSFELRE--KLPDG------------------------
+>UniRef100_UPI0015B82169 Cna B-type domain-containing protein n=1 Tax=Clostridia bacterium TaxID=2044939 RepID=UPI0015B82169
+vfd-NTALQNAAGDDFVSVPRSENYITTLSERMLGGGKADYYtdgkvlENSGVLGQPDPSVprfepANPgfpITDIINSTDSYALKAITNDAAKQLAN-------eKASLFITGN---------------
+>UniRef100_A0A4R4FBU5 Uncharacterized protein n=1 Tax=Extibacter muris TaxID=1796622 RepID=A0A4R4FBU5_9FIRM
+-----------------DSSNVVIDNEHQDNEQLVNVYDlviDTSATLKFGADAHilenyRGDkeksGTLEIPAGKGLTAdGAVTDLTRISIYDYDNVVPEKAQVYVISGagSTTDDGDFTWIdtrngvymdwKAIE
+>803358 len:1003
+--------------------TIKVDYTSNNP--------MRAVIEVGLRDGVtkynaVEElTKAGYQPDGKYTFfsnkwtETLPNPSVNSIHDTHNTTSHFKPSLQNE----------------
+>23004149 len:302
+---SLGTSSTLNVASLTAQTTYTVTVRDACNA-------STTATITINVNEVptasiAESGPLSVCSPSTQTLtaSTAASSPTFQWTLNGTDISG------------------------
+>15980619 len:1460
+--------vVARGMGSIVKSMAQFASLGDIDVTlnNIVAKfYTVPSSYISGDTRDFsgliwRKEsnGAFVANQEAGVSYhpTYMYDADQQTLEVyDEETSEGktslgMHMQYSTQAv---------------
+>UniRef100_A0A396BRC4 Uncharacterized protein n=1 Tax=Coprobacillus sp. AM18-4LB-d2 TaxID=2292034 RepID=A0A396BRC4_9FIRM
+------------------SIELNETFDGKDK-TNVTV--ENTGDVPTYLRAAivvnwKDTDGTVISANESE--YSMAMGPEWIQGA-------DSYWYCKKPTDAGQPSLALIvickpkvv----
+>537838 len:140
+--------ITGKDIQIN---IFEIKRPELDA-ALVAA--SIANQIEGRVSYKraikmAMASAMRMS-AEGIKI--------------------------------------------
+>4616381 len:148
+--------MTGK--------KVKVEVNEIEKPDLDSTl--VAENVASQLVRRIghsraMKRaiTQAMRQGAGGIRIe--------------------------------------------
+>tr|G5ICY3|G5ICY3_9CLOT Uncharacterized protein OS=Hungatella hathewayi WAL-18680 GN=HMPREF9473_01360 PE=4 SV=1
+-IYRIRETaapPGYQLWKEDESISFHISNTKAGSA-------plliLADNQPESPSPEPpkepeEPEKPVSPNPPNNPNPPAKPVPPTIPPIE-------eliPPFPFPPAE---------------
+>2061608 len:207
+-SVPVEKKWVGPAAAKA---TVRLLADGEDA-GQSIEl--DESNGWKGSFKGLpkyseSGSevrytvAEVPVEGYSSKVTg--------------------------------------------
+>tr|A0A248X740|A0A248X740_9BIFI von Willebrand factor type A domain protein OS=Bifidobacterium pseudolongum GN=BPSOL_0553 PE=4 SV=1
+-----------------PAVPTPEPSEPTASAQPEAP--AADAAPQTPASESpantgSNValivciaAALLCAGLGTLKLARRDSNDRSTPRKh-------------------------------
+>8765106 len:1282
+-----------------LVQQYRISNNTVSAENSDGT--WNIGLTTESNGDIvcyylPGETSHAYTDKTESDIDGKNSCWSVTVRD---DTHS------------------------
+>57223 len:94
+---------------------------------------DAYKALCQGTATFtaismTTNngacdiyAKTDLCSDPVCEWTGRDTSYSYYFAE-------SACPWKGWT---------------
+>38249750 len:919
+-----------------DLNEFNITRITGKS-ihDSQIS--DERHLAADGHTRMfwnnsYDNTAASHDQHKTAVV--------------------------------------------
+>3795739 len:154
+---------------------------------------MLKQEVAIDIEEIknpawDAQlvaENIAFQQEKRVAFrRAVKRAMEQSINAgVKGIRVS------------------------
+>16357949 len:350
+-------------------------------------------------------FATTVDSTSNLVTKTWTAASNAQLND--TETFIYDLTFDSAKTQQQGTN--------
+>1596837 len:184
+-----------KV----AKGQLSVDVVEIKRPELDAN--LVAQSIAEQLEGRvafrrAMSkavQSASKAGAKGIRI--------------------------------------------
+>11207801 len:146
+--------KMVENASTNEQYEFEIHFTKPNS-DLPDDYSyskfDKDGRKVENGKPVvdyevELVgRDYLIHDGD------------------------------------------------
+>UniRef100_A0A350TVG5 Uncharacterized protein n=1 Tax=Tyzzerella sp. TaxID=2053632 RepID=A0A350TVG5_9FIRM
+---KIATPpSSGGGGGSHGTKYYILHYESNGGT-------KYEDEKYKKIQLSysikfQKELDIPLRVGMQTKS--------------------------------------------
+>tr|A0A1G6EN89|A0A1G6EN89_9FIRM Fibro-slime domain-containing protein OS=Ruminococcaceae bacterium FB2012 OX=1520817 GN=SAMN02910317_03107 PE=4 SV=1
+yfdie-KIIFVDKnIHDSDTE--QKFLFKVERLSEST--------PAADIGTAAAEETfyvslNCDGELQYTSADNITF--KTGGAAYDLGLf-------------------------------
+>326767 len:186
+--------LTGKMVALN---ILEVKQVDANA-TLVAQ--SIAEQLVNRVAFRrairkAIQGLSLIHISRCRRY--------------------------------------------
+>6502712 len:126
+--------------------------------EVGEAr--ailfNQPQKAARVIEKVlnsavANAvNNCNLKEEN------------------------------------------------
+>2148518 len:92
+--LLFTPRaaspvILKLLNSAVSNAEFNHNMDPSN----------------------------------------------------------------------------------
+>773400 len:113
+-------------------------------------------------------ARTEGYSEGNVPLQTLRSDIDYGFIE--ANT--------------------------
+>2272038 len:117
+--------------------------------DLNHAYAilmLTDKKASKLISKViksaaANAvHNYELDANK------------------------------------------------
+>119980 len:107
+--------YTGKDVQLN---IFEVKRPETEA-ALVAEsIAhQLRGRVSFRRAMKksiqsAMR---------------------------------------------------------
+>398666 len:73
+-------------------------------------------------------ARTEWTRRSAVPLHTLRADIDYAYTT-------------------------------
+>1472058 len:108
+---------------------------------------LDEALAIDMYNPRyassiIQKllksaaANAEIKHSMDPRK--------------------------------------------
+>730561 len:160
+--------------------------------RFGGDIQvyivevRRPEAEAQLIAENiafqlEK----------------------------------------------------------

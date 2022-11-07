@@ -1,0 +1,534 @@
+>T1100-D2:
+EEAVRMKAQDLALAVQTYIEAKMKLENKTMLTTFDLIQDPKFRSLGAQRWGAKEYTWVGAGNKVAGRDVAVILTHPAFTGQYEKYLGVDVAMLRWNETMPELYNLLLKITENPEAPKPVCGYYHWEIPKYLCHYPTTIKVYDPISKGQLWVVVGTSA
+>UPI00192906AF	167	0.287	9.015E-44	10	156	157	52	197	261
+--------LILAQENALWLREYLSS--KKITTLQEMLNDSVVQNIGKHRWFGKEYVWIAG---VYGDGDWRLLVHPL---G-DEVRGKHIIKdLHWDEKYPEVVP-ILQNSALGGTATLSCGYYTWGevygkpAKKYLCNVPVNYEVIDEKTGKRIPLSVGTGA
+>GraSoiStandDraft_11_1057310.scaffolds.fasta_scaffold6245664_1 # 1 # 213 # 1 # ID=6245664_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.629
+EERVRQKAVDVALHVALFIST------HREMTTDDLRKDKAFRQIAIQRVGKTGYT-----AVHESREPAVNLVHPSPA---VENRKLR---sLSEKGKLSRFWSI----IEAGMGGKSASGYYDWQdsdgkmRQKYMYLHP-----VETLTADGVPLC-----
+>tr|J1KZH4|J1KZH4_9EURY Histidine kinase HAMP region domain protein OS=Methanofollis liminatans DSM 4140 OX=28892 GN=Metli_0159 PE=4 SV=1
+TELVRTKATDVARQVEIYLAD------HPDLTLADLQADPAFQAIVVQPVGRTGSTMAMDa---DTL----VIAFHEN-----PGDVGVDLH--ERKETNPAYYKL----LQSGWGYIDTAGTFAWAde-------------------------------
+>UniRef100_A0A2N6AAM6 HAMP domain-containing protein n=1 Tax=Parcubacteria bacterium TaxID=2053309 RepID=A0A2N6AAM6_9BACT
+AEMIKNQAILTKTLLDNYIEN------RPEITLDELVTSKEFQTLGVQSVGKKGYTVIVQi---DIQ----RMLAHPN-----KEFLGLAM-lDsLRSNPKMDDWWRVVEVTFNDHSK--DTSGYYKWPeedgsySDKYLYMTVLN-nq-------------------
+>LakMenE01Jun11ns_1017448.scaffolds.fasta_scaffold2688715_1 # 2 # 178 # 1 # ID=2688715_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.559
+EATIKQKAEDVALQLKIYIDA------HNDKTIQELQNDSIFRSITVQSVGQTGYTVVLDi---NDG----TYYFHKS-NVF-ENRKAEDL----FANPASEYYNPpvwnLINQM--VLTKKDFGGYYDWRepdgsiRPKYTWFAGVKAstadgkem-------------------
+>UniRef100_A0A661JVC8 Histidine kinase n=1 Tax=Deltaproteobacteria bacterium TaxID=2026735 RepID=A0A661JVC8_9DELT
+-RFVRQKALEAAEDVDSYLVN------APGRTLEELRRDPLFRRRAVQPVGRDGYTALLDa---DTG----VIYIHRY-----QEFEGKSLE--EYWDEFPGLWTA----FLAQRYSGYAGGYYRWRdpdgrlREKFLYFAPVMMktad-------------------
+>SRR4030042_4989791 
+-YVVRDKAEDVAREFSHLLAG------KKAYDYDRLRRDPKIRKIAIQEIrsagVLAGYTDGYD---RKG----FILFHPD-----PRVEGRNQL--DWQEQYPETTRL----IKRSLTEDQVAGYFGF--------------------------------
+>RhiMetdeSRZDD1v2_1073273.scaffolds.fasta_scaffold1149220_2 # 504 # 968 # -1 # ID=1149220_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.585
+EYLVRNQAENIVKQIEIYLSI------APEKTISDLRNDRAFIDIVTQAVGEKGYGGIVDp---NSG----HIIIYQE-----PGIIDKDLG--YLEEKLPQFWIL----YQESMK-NDVCGYYNWIetdgrvTEKYLCSKLIN--------------------
+>UPI00036FF769 status=active
+ENAIRQKALDVAAQVKLYFEA------NPKLlsDPANMMRDRRLLTIAVQPVGLTGYTAMYD---SKG----IVYFHYN-----SDLVGKDMH--MFEVTLPEFWSI----FNASLGGKAVGSSYLWKeqdgslREKYMECVPVGv--------------------
+>UniRef100_A0A562S122 HAMP domain-containing protein n=1 Tax=Desulfobotulus alkaliphilus TaxID=622671 RepID=A0A562S122_9DELT
+EEIIAEKARSVGLQANIFLRS------HPELGRMDFNYDPEFSRIAVQRVAESGYTVLFErPGIDETDQAFRIWAHPD-----ARLIGIPIIgaLeQALGPQyFPEFRRI----IEVAARGREARGYYTWVerdgqlRQKFAVISPVE-gtr--Y----------------
+>UniRef100_A0A3C0KVN4 HAMP domain-containing protein n=1 Tax=Syntrophus sp. (in: Bacteria) TaxID=48412 RepID=A0A3C0KVN4_9DELT
+EKILGEKAHDLAGQIEIYLEN------HP------LDpKDQNLRKIVVQKIQKTGYSGLHDgVGQGDG----WYLFHPD-----PDIEGKRLS--DFRYKLPALWEA----IQKNLNGQSVGQYYLWKekdgsiREKYFVGVPVR-gt-------------------
+>UniRef100_A0A2V2ND57 HAMP domain-containing protein n=2 Tax=Methanospirillum lacunae TaxID=668570 RepID=A0A2V2ND57_9EURY
+EKLITQKAIDTAAQAAIYIKA------NPTKTLSDLQNDTEFQKIAVQKLGDRGYVCTVEyDNI-SS----IIRFHPN-----PNLINFDTA--PFKVKYPSFWKV----VEPTINGTPHGGYYDWPdpdgvtRSKFMYIQPIGVp-------------------
+>UniRef100_A0A2N1TFM8 Uncharacterized protein n=1 Tax=Spirochaetae bacterium HGW-Spirochaetae-1 TaxID=2013832 RepID=A0A2N1TFM8_9SPIR
+-LAIREKAGDIAKQIDLFIRL------HKGVTVGSLQRSGDFNKIALQRVGDSGYSSVIDm---KTG----VIVVHPD-----RASVGMSLK--NIAIDSPQLLDA-----A-GNK-KEIYGYYKWRdsdgvvRDKFMYLERVK--------------------
+>SRR5512143_1748559 
+---------DVARQVELYLNA------RPAMTVQEMRRDNELRMLAVQTVGTRGYTTILDp---QNH----IIVIHKF-----IE-DERDLT--FLRDIVTSLWAL----FMSSRGQREVAGYYNWLevdgsiTEKYAAIEPVRApg-------------------
+>EndMetStandDraft_7_1072992.scaffolds.fasta_scaffold8939380_1 # 1 # 210 # -1 # ID=8939380_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.695
+QERVNDTARMVANQCKLYLDA------HSDLAKEGFSKDADFRALALQKVGQTGYTCIYEvPD-PSGKS--GVWVHPN-----ETIVGLDLpAaMeKAMGPQYQDWLKI----YQGAYKGQTASGYYKWKekdgslRDKYMTCTPVK--------------------
+>DEB3_MinimDraft_2_1074329.scaffolds.fasta_scaffold78030_2 # 98 # 562 # 1 # ID=78030_2;partial=01;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.626
+-PLIRQKLENLANDLTTYLEN------HSNRNWDEISRDSRFRDLPLQHSGTLGEVFLVTfP--DKR----LLWYRnrayEG-QYL-EQALGQELK---LSRT-P-YLHL----LDQ----TPHKDFKEFTlsdgqvrVVGYLKALP--Rppvggpv-------------------
+>SRR5512145_886272 
+EQIIRQQSEDVAKMLEIYLKS----G-NKKVPPEKlFAtNDPVLMDIVNRKVGKTGYIAVFD---ITN----VIRYHPD-----PKMMNFetK-T--IYDKLGPDFVRIn-----ETALAGQDNGGYYQWPdpkennklKPKYQY---LT--------------------
+>307.fasta_scaffold1777868_1 # 3 # 308 # -1 # ID=1777868_1;partial=10;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.660
+KNSIQSKAREVARHVESFLSH------HAATDLSQLQNNEEFKALVMQPFGVSGYTCLYEa---GTG----IMRIHPN-----PKLIDRDMR--SLAETLPNWWAI----FEPSLTGVEISGYYDWIepnkdlRSKYMTMTPVAAtvrg-------------------
+>UniRef100_UPI00078BC9B0 HAMP domain-containing protein n=1 Tax=Candidatus Desulfofervidus auxilii TaxID=1621989 RepID=UPI00078BC9B0
+EVLVEQKAEDIMKMIQLYFQT-QITrKTRGKVNWDEWQYDPVLLQNGVQTVGKTGYSFLLMk---EAGKI--TYFLHPN-----PKLVGTELT--SMAKKNPDFWRI----VQGPKSGERfSRGYYFWKepdgriERKFMVVMP--I-------------------
+>tr|A0A2V2N0X2|A0A2V2N0X2_9EURY Methyl-accepting chemotaxis protein OS=Methanospirillum lacunae OX=668570 GN=DK846_16760 PE=4 SV=1 
+--------KSIAKELEIYLAD------HPDKTWSDLSKDPAFRAIAVQPVGSQGSSLIGD---PIG---FKNLMHSS-----KAKEGMSYE--DYKVDQPELYEI----VNRIKNGSPATGYYKSKetdgsyRDKFISYYPVNLtskdgv-----------HMVVGI--
+>SRR4030042_447301 
+EKMIKTKGLDVVGQMEVVFRS------NPKMKKEDLLKDQVIQSIAVQKVGEMGHTGVYD---VQG----VIYFHKD-----PALVGMSLN--QIYGRSPELLKI----MEAGTK-GPTSDYYDWKdadgrvHSKYIYLHPIK--------------------
+>SRR3989339_556978 
+--QIRLNSQRVSKNIEEFLIL------HPEMTLEDLLKSEEFNKIAIQQVGETGYTYVGSm---VDG----IFYFHPD-----VNVRLKSYN--TWEDIFPDIWRLIDDIIK-SSPCQDSEGFYDWKdingviRKKYTYHSCINAktkdnyt-------------------
+>HubBroStandDraft_4_1064222.scaffolds.fasta_scaffold2210119_2 # 161 # 382 # -1 # ID=2210119_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+EMIIRQQANDVAKQLEIALRS----S-RKNTPPEKlFTsNDPVLMDIVTQKVGKTGYIAIFD---TSN----TMRYHPV-----AKFLNLetK-N--MYDSLGPDFVRIn-----ETALAGQDNGGYYQWPdennrmKPKYMH---IT--------------------
+>GraSoiStandDraft_45_1057281.scaffolds.fasta_scaffold946316_1 # 2 # 523 # 1 # ID=946316_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.607
+EDMVSDKALSVSMQARLYLTA------HPQLEQEKFKDDSEFRQIAIQKIGRTGYTCIYSrPD-ASGKS--SVWVHPN-----TALIGKNLpElMkKPLGDTYDQWWSI----YKGAYSGTISKGYYTWQeadgsfKHKFMVCIPVE--------------------
+>GraSoiStandDraft_12_1057312.scaffolds.fasta_scaffold1824653_1 # 2 # 355 # -1 # ID=1824653_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.669
+EKLIQSRAREVAKQIELIIGW------RPWISIQQFQQSHVVSNIALQRVGLTGYTCLYEa---GSG----IMRIHPN-----PELIDFDMK--SLAEKLPSWWKT----FEPSLAGAEVSGYYDWReedgriTQKYMTMTPIGAsld-------------------
+>UniRef100_A0A1H0A001 HAMP domain-containing protein n=1 Tax=Desulfonauticus submarinus TaxID=206665 RepID=A0A1H0A001_9DELT
+KQLAEQKTLDIKKALEYFVSN-KMIR-DDNFHIEDLQFDPAFTSLGIQTFGKTGYSCILEk---KKDKF--SYFLHPN-----PKMIGRDITs--LIARNIK-FKRL----FLRAVAKGFASGIAEI-ssVKSFYVLSN--I-------------------
+>UniRef100_A0A1F8P0V3 Uncharacterized protein (Fragment) n=1 Tax=Chloroflexi bacterium RBG_16_48_7 TaxID=1797640 RepID=A0A1F8P0V3_9CHLR
+-KIIQLRSQVVARESQIYIQN------NTFKGMETLIKSPDLGKIAVQTVGQTGNTFLYG---QDG----VVYFNAD-----PALVGKDLY--SLASGADNFRMI----LENGYR-GEAAGYYDQEdqhgniRAKYVYCVPIAn--------------------
+>tr|A0A1V5CFG7|A0A1V5CFG7_9DELT Histidine kinase OS=Syntrophorhabdaceae bacterium PtaU1.Bin034 OX=1811715 GN=A4E57_01106 PE=4 SV=1
+EASIYGRAVEMAQQLDMIIES------VPWMTVADLQKDIKFRELAVQNISQTGYTYLFEs---KTG----MVRFHRD-----RRLENKNLR--RIFGDLPEFQAI----LARSLRGPSpANGYYQLKagdghiMKRFIYIIPLNHmtad-------------------
+>SRR3989339_169307 
+--KIQNVAEKTSSEMKEYIDT------HPDMTVEDLQNSDEFQSIAVQKVGNTGYTVIFDs---KSG----FVRFHYQ-----KDWIGKPIE--SIRESLPNLFKILDESIGPTCI--ETHGFYLWKdpdgkiNEKFLHQSCVNAitadnit-------------------
+>APWor3302393717_1045195.scaffolds.fasta_scaffold693130_1 # 40 # 252 # -1 # ID=693130_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.549
+-QQIRQKALDAAQDLRTYVKN------HPGKSWEEMGRDPAFQEMAVQPVGTVGETFLVAv---PDQ----RILLHNE-----KSYEGQTL-EeV-LCTPAAAAMPP-----ELHYAGTPGLQEFSLKhggglaAFCHGFLVPLQItplkgpe-------------------
+>8773849 len:130
+--MLMQKAEDVARQIEIYIAD------RPGIQAEQLVHDPAFKPIAIQSVGETGYTLFFD---RQA----VMLLHIN-----PEFANYDLR--KWSDRLPSLWNI----IE----------------------------------------------
+>SRR6188768_3684573 
+VQELRQRLVDIRRQIEIYLRY------HPGATIPDLQQDPEFHALAVQRIVTDGYTGLIDi---RQGSPtYGRIIFHPD-----PRVVNLptDLLRrERPSDSARSFWEW----YSRAIEGEEFSAYYRS--------------------------------
+>GraSoiStandDraft_9_1057307.scaffolds.fasta_scaffold254339_2 # 233 # 784 # -1 # ID=254339_2;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.576
+ESNIRQKDLDVAGQLRIYFNN------HPVYDRERLMSYTDLVEVALQTIGDTGYTAVFEk---GTG----IMRIHPN-----AAFINYDMH--QLQDKLPDFWKI----YSRALDGSISSGYYLWEdpdgrmREKFMYMAPVE--------------------
+>GraSoiStandDraft_27_1057306.scaffolds.fasta_scaffold439411_2 # 490 # 804 # -1 # ID=439411_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.654
+-QMIIQKSRDVARQMELVVGD------KTDVDM----SSPELERIAVQKVGESGYMCVYNc---KTA----KMLAHPN-----QMLVGKDMH--FLKDKLPKWWSI----FAPSLECKFSHGFYDWVdsdgvvRRKFMSMVPVGk--------------------
+>APHig6443717497_1056834.scaffolds.fasta_scaffold1726969_1 # 152 # 295 # 1 # ID=1726969_1;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.424
+ENAIMATAQSVAKQTQLYLEA------HPELAKQQFMDNQRFKDIAIQKVGKNGYTALYErgsd---GKW----RTWVHTN-----PNITAHKLDdmaKlEkPLGASFPGFWKV----LTDVNNDRPSKGYYKWQekdgtfKDKYMACVNVPgt--------------------
+>UniRef100_UPI0015521E53 HAMP domain-containing protein n=1 Tax=Methanococcoides sp. SA1 TaxID=2735871 RepID=UPI0015521E53
+--SIKQRALDISKQIELYLDA------NSDMTLEDLRNNEEFQDLAVQSVGNTGYTYLIVk---ETG----ILEFHPD-----PDIRDGSYD--NFKEEFPVIWGIIDETIQ-SEGCVDSSGFYGWRdledhvREKYTYHHCIDVktad-------------------
+>UniRef100_A0A525DBE4 HAMP domain-containing protein n=1 Tax=Desulfobacteraceae bacterium TaxID=2049433 RepID=A0A525DBE4_9DELT
+EVSVDQQVKKISSSVSMYANK----V-KKKGDYKPLQYNPEFINLIIQVIGSSGYTFLVSl---EEGQN--KVFMHPN-----PRFLSKDVS--ALGIK--GLNKI----VSKVVK-T----KKDY-kgtvGKQYLFVHEV---------------------
+>UniRef100_A0A2G6NHE1 HAMP domain-containing protein n=1 Tax=Deltaproteobacteria bacterium TaxID=2026735 RepID=A0A2G6NHE1_9DELT
+IETFAERARTVAAQCRIFLAS------HPDLNREDFNYDIEFKHIAVQKLGDKGFTILLQrPSQEQN-W--IIWAHPD-----ARVVGIaDLSmQkRLMGDNFDEFYKV----INQSKGGkREAMGYFTELnsdgrrDNLFMAITPIE---FTPY-------------
+>SRR5579863_2853471 
+EEFVQRRAHEVASNVVAYLQG-KYGsL-E-KVpSSRELQADQNFQKVAIQWVakNpprdkdpaqaadlRIGYTVVYS----KD---FTMTTHSQ-----KRLIGKn-VK--DLSKRKPELYLFw----WD-IFG-K----------------------------------------
+>GraSoiStandDraft_57_1057295.scaffolds.fasta_scaffold5656049_1 # 3 # 215 # -1 # ID=5656049_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.700
+-ALIRQKALDVAAQLDLYLAI------HPHATLAELIADQEFRRLAVQPVGKTGVTLLLDs---KTG----ANVIRDR-----QDSDGYSLK--DGMALKRG-WDE----LVQRQSeGGYAWGFYDELspdgqwQRKFAFFAPLNRttadkvr-------------------
+>GraSoiStandDraft_41_1057321.scaffolds.fasta_scaffold13115933_1 # 109 # 204 # -1 # ID=13115933_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+-REIWSKASDIAREIEIYLEA------HP------FDpRDEKLRNIAVQKILNTGYSGLHDgIGKSDG----NYVFHLN-----RAMEGKALS--GFKTKLPVLWQA----IKIGLKGRETCSYYLWDdngvfREKFFVGIPVK-g-------------------
+>DEB0MinimDraft_6_1074348.scaffolds.fasta_scaffold123839_1 # 24 # 815 # -1 # ID=123839_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.375
+EVILGLVAERDAARAAIYLKS--RG--EDYWkNYDQLRRDPEFRKIVAHPImvyRkEAGYTDCMD---RSC----MAIVHPL-----KSVEGHNYR--EWATKYPEMWSL----VQDAVGMEVHSGSYRFLndq-------------------------------
+>1144295 len:146
+EELLDKHRREHVLVFSEYNAM-VRTL-SQRLALPAitYRTDPEERRLILERFraG--RYTKLATgRVLNEG----VDVPDAN---V-AIVVSGS-S--ATREYIQRLGRV----LRPKSSRAM---LYELVtrkt-------------------------------
+>UPI000662893B status=active
+-------------QIQSYLRL------HPEIDLSDmaaLEANPELDILGVQPVGQTGYTAVFDangv---THF----HSNPEIV-----GVDLSTMAD------TLPEFWAIiaasldxxxxxxxxxxxxXXXV------------------------------------------------
+>UniRef100_A0A661WX00 Uncharacterized protein n=1 Tax=Chlamydiae bacterium TaxID=2081524 RepID=A0A661WX00_9BACT
+EKVVALKAYEAAYQLAYLLKD--IP--KP--yNYADLRTNKTLRAIATMSVysysGKGGYIDVYD---TNG----MSVWHPT-----LEIEDTNYK--QLSKKYPKMWQL----VKESFTKSFVTGYYTFIsndgvekKEKFMAMVHVTnT-------------------
+>UniRef100_A0A1F9CUP1 HAMP domain-containing protein n=1 Tax=Deltaproteobacteria bacterium RBG_16_54_11 TaxID=1797842 RepID=A0A1F9CUP1_9DELT
+KNQANQFASAIAKQVESYLIT------HPELKMEDFSKDPNLREIVTQRQlmsGeASLYLRLDPe---KPG----TILITKN-----QGLEGQPLE--SLmikgelgKDKYDEFGKITIIG-SEPEEHREASDFFLSKdedgilKERMAAFAPVA-rtpy-------------------
+>SRR3989339_86893 
+---------IIFKEVENFLK-----F-HPKITLKELQENNEFKNLAVQSLGNQGYSAIAG---NNN----LILFHKY-----DSFIGKTI----FSLGNPEALNL----vnF-ARITG-ESQGFFNWTdpdnitRKKYGKLIRIPSeifn-------ESILIIVVTT--
+>ETN01SMinimDraft_1059929.scaffolds.fasta_scaffold70497_2 # 129 # 518 # 1 # ID=70497_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.221
+QRHLREQSRSNARQVRQYLFR------HPDLINRNFNRDIYFKKIAIKKIGTSGYTFLYErPR-PGGIW--RSWAHID-----PNIVGKDLS--ELktdQPDFNAFWNI----LT-AVETKPsAEGFYLWQekgqtSRWYLIVTKVR-gt-------------------
+>APAra7269096714_1048519.scaffolds.fasta_scaffold16909_1 # 56 # 2650 # -1 # ID=16909_1;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=11bp;gc_cont=0.509
+-AMLEEKARDVAFQATLLARG------R---SGAELAKDDHFQNTIIQKFl-KTGYTGVLE----CGPK-MIVVAHPK-----KALRGTsNL---VFAKKFPKFWKV----FKPALNCQESRGRYKWSvtdgqlRDKYAVIKRIPdT-------------------
+>GraSoiStandDraft_12_1057312.scaffolds.fasta_scaffold4664419_2 # 119 # 214 # -1 # ID=4664419_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.490
+EKYLQLIVDDISDEL-LHIKH-TSG--N-KLDNNILRKNKNLNQLMAFHT-KKfDYIQLVVv---DKS----KIVLSLK-----PEYINKNYH--QWLDECPDLIKK-----SETHQ--DYKGYYTF-qidnKPTLIYLSALHVk-------------------
+>500886 len:879
+dlwkGMLVKTQTPTMLETFNILAD-------YQ------LDNALYFFRSRIEDAfSSKNYCSQSP----------YDRTHrgKN-----DSIFERlDVTf--TFeqAEQ--QSVAVkgataTHETVRQMLK-KLEASRFDSIlpdkryQKVYFYHIKIPV--YFRSWSFVILVF-----
+>2171760 len:143
+--------------------A-------ADW----dMRSDTW---VATDALGRKlpGYKAVGPp---RKDRYVGIFYFTwhaPA-----PGPYDItKI----LaeNPKDP-KWGP----V-----G-A---FHHWGepem-GYYLTEDPYVIr-------------------
+>UniRef100_A0A355M3E8 Uncharacterized protein n=2 Tax=Lentisphaerae TaxID=256845 RepID=A0A355M3E8_9BACT
+ERYIQLLAKDLGYIVRRDFLD------N-RKDYDYLTGNKELRKMLFDSTyiNelQVGYAALIE---RDD----KIILCSD-----MSDEGVNVK--EW---LA-KCDVILTEgY-KSLDNTDsLNFYYEYTspdtprDPDNEYASAFK-ipdt-------------------
+>SRR5512136_2923365 
+---------------------------HPEINIDDlpLVKPPDLASIAVRPIGTKSYTAVWN---ADG----IVIFHQD-----PTMVGIDLS--TLEASLPELWAI----IKKSLSSVTAEGPYTWNepdgtsSSMFAVVQPIE--------------------
+>SRR4030043_383395 
+--LIQRRALNVSNEIRLFMRY------HPNATISEVKDNGELADIAVQRVGLTGYTMVYD---KTG----TVYFHND-----PKVAGGDCV--KVGGEPVYFSSI----VGRSFE-GDASGYYDWEddkgevRAKYMHCIPVE--------------------
+>SRR3989339_442767 
+---VSGKIDVVAKEVENYMKA------HPEMSINDIKENKELELIAVQQVGRKGYSALQNf---ENK----ELYLHVN-----PEIIGADIE--ALGRRFSGLGKI----FD-DLDReGSASGFYLWEdsdgviREKYGEFRKLSTktadgie-------------------
+>CryGeyStandDraft_6_1057127.scaffolds.fasta_scaffold671311_1 # 2 # 385 # -1 # ID=671311_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.570
+ESLIAQISETVARQTRQYLFS------HPDLRKEDFNRDIYFKKVVLQKIGLTGSTSLYEvAG-DKGAW--LTWADVD-----PDMVGANMKsMtGKLGAHFQQYWNV----FTAVKSGEVSSGVYKWPdangklREKFAVITPVE-gt-------------------
+>APFre7841882724_1041349.scaffolds.fasta_scaffold758965_1 # 1 # 327 # -1 # ID=758965_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.609
+---MIRQTRKLANCVAYLIKN------N---KLDM--IDKGLVDLLMGVTGkreqggISSFAILNR----DG----YIIFDSN---N-KTVIGKnyDI----FKKKFPVLYSE----VKTALTKKESFSYYKYKnpsqKQLYNKCQ-VSIqip-------------------
+>A0A7G5HBY4	51	0.228	5.424E-04	39	143	157	794	891	1141
+----------------------------PQFhPVAE--NDQWWGK------GFTEWTNVSKarPNF-EG------HYQPR---L-PADIGYyDLRLlEIMeqQAELARKYGL-----H-GFC--F---YYYWFdgkrll------ERPVEQlledk-------------TADVPF
+>539897 len:240
+--QMKAFGQTLAVQTAATAK-------EP------lLTGDSLTLNLQSDDQ-RNEQRQLVG----NG---EIAWLQAA-----PKSQENT-R--CFSAACAH--------F--------CGGYIKILgdenifHSKTEALATLVN-------------------
+>2932075 len:129
+DEALRIRAQ--GGLLTLYYKG-------P------kLDRETKTREEIAAPLSdPAAMRTILQ---RLG---F------------KEFAVVD------KTR--DIYDL----dgVEVVLD--HIVGLGDY--------------------------------
+>16113138 len:232
+---MAIEALAFVNHFDRFSG-------R---QIRRLIANPRARVcVAINDReailGwCVSLIRTHEr--CRSG---RVYSVAVC-----PEYAGLGIGrAmLRWmvnQLELSGVARVy----LEVRTDNAPAIGLYHS-eg---FHIVCRLPN-------------------
+>4525149 len:120
+--------------------S----V--P------LG---RLGAAAATRVGa--GARAVTKaIS-DPN----LTPSQkAK-----AAVDGYgvELN--ELNSE---LYAA-----QERINSQP-------RevevvRNNLEEAIP----------------------
+>3644147 len:260
+VALEVKDIALVGNYLHVVMKN------QSGTSRVIFDiTKPSMPQLGDSGFG--GRTASYSdqDRFASGNS--LQVVDAR---Y-PNYLREegHYN--GYGFTVPGISSAiaslatttinLNRQF--VRDG-ECGGSYSsslgrY-agKDHYETYVSIYDigr-------VDQISLVDATS-
+>1138053 len:294
+---FRTKEDRRWNRRAYWVHS-LMV--AS--AAKRIADDLGIRK------sGEAfTAGLLHD----LGISVIQKYFNDD---F-QKINNL-V---E-QQQMR-FINAEEKIL--GLS-HQEIGKYL---------------------------------
+>SRR4030065_30066 
+-KIVEAKVEDADKELSYLLGG------QKTYNYARLRRNKIVRAIATQEInapeGVAGYMLLYD---RNA----ENIFHID-----KDVEGQNYR--IWKHQYPEMWEL----LNLSFKQEKV--------------------------------------
+>630323 len:200
+iqIQDLSSPVPGLLMSIQAYKDS------Q-MINDSDLVSGDANPSPGAQLWGGDGVYYISAsKT-AAGARTFNVTYHcmTS---A-SVHTGTDI---TL---LP---------V--SYT-H-LRA----HetsahlVCRLL--------------------------
+>4477203 len:155
+---------------------------DPGFc----iLKGDR----FTLQKRGCRGHRNRFPc--NAHA----VCGTHPP---A-------TFC---FdKHALP-VDRI----rr-EGDLPGLEQAGLLLYSsdtdpsKDLWHH-------------------------
+>352476 len:98
+ERVEQVAGQSLAKLVQDMIS--------DRLGLASLE-------LATTRE---QFSRVQW----RG----AQRYHpgwvYH-----GCLMGTA-R----DAALL-LHAL----FT----GR----LLK--paslRQMMTR-------------------------
+>3180574 len:235
+-------ACKVASAVATYAKA------KKVL----IARDTRTSGDMMKEAlisGliSTG-ADVWD----AGVVpTPVLAYA-------SKIRGAD-A--GFmltaSHNPPQYNDI----kvFKADMS------YIN-KdqeaIENIV--------------------------
+>2711131 len:133
+-------------------------------------AGTRFSH------GmVNCFLTSHC----------LSSLHPQ-----SASVDVwRLD--EWiTASSPLLSEI----lkAEKKKKKKPPGGWYHY-sl------QLPLGNspvt--LEEVYD-----------
+>21487622 len:143
+vqkKAQELAHAIATSSEYKRMMNA-REEV-S-KHQAAKvMLRDFQEKQFELQKQQMAGEEITPDq---EEQ---LQRLFEvisVN-----PYIREL------FEAEFA-FSGLm----M--QVN-DALATVLDLKeededaEEEPKLEIP--K-------------------
+>1026855 len:170
+------------------IDS-------GRMQTQYrYINNYHFRHLGLQQYGCKGYKTQSTv---RKA---------IT---L-EVLICIPLL--PFQTN---YFLVvgIRTELE-ALE-IRSNGTYHtlYQ-------------------------------
+>9179716 len:154
+QAIAEAglPHANLASRSIRMIGR------DDDVlRIADrLNATRFVSIVGAGGVGkttvavAVGHQLLDEf----TG---AVIFVDlgmlDD-----PKLVAPAIA--SMlg---LS---------VE-SEDVTP---------------------------------------
+>916398 len:171
+eVAVAQSKSNFVAAVRTTEIDA------KNKLvGFQGdLTFDERVVTFQSQPVqaaG---------l----TG---------TN-----WNVTGN-V----LAGRGP---------IR-TLR---ISAYSNdFTplsgsv-ALFNLNMT----------------------
+>1322135 len:708
+-------AAQQAAALNTYAGD-PGQlG-NPTSwRTAEFQRD-----WGLLSMGAEyAYAAGYS---GAGIK--VGVVDSG---F-------fDLHp--QFSSD--RYHAVt----VD----------------------------------------------
+>SaaInlLV_10m_DNA_4_1040232.scaffolds.fasta_scaffold92205_1 # 3 # 110 # -1 # ID=92205_1;partial=10;start_type=TTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.463
+ELIIRNQADDVAKMLENHLKF----F-NKKTPPDKlFTmNDPILTDIITRKIGKTGYITIFD---TTN----TMRYHPN-----SKMIGVq---------------------------------------------------------------------
+>APLow6443716910_1056828.scaffolds.fasta_scaffold2055354_1 # 132 # 317 # 1 # ID=2055354_1;partial=01;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.613
+--------ATVAFQPNVFEEG-LKFF-AP--yYYKA--SDg-----VKLEYLGSDDYNYFQK---D--------WYHv-------PEVLGRPV----Wc---EP-YFDEsGARIIMTTYA-VP---VFApst-PvtsgrkgSADLLCIVTADI------------------Alewlsqmvcsipvgqtgycfiisdtgtfvth
+>925099 len:102
+------LQLAPNGVVQYIFPL------EDNKgALGHdLLNDPKRKDDAIKAIqSkevfFSGPLNLIQ----GG----VAIIARK-----PIY---DV----MEKK--GFWGFa----I--ALV-R----FNDlLNni-------------------------------
+>8788730 len:574
+-ALIDYMRVVTRPEPKADLKA-------AGRALWEIF--QTFRPLCAQRRGpQSveGINAWAEa---K-----------VR-----TALAGADFK--TFAENYPGRAVI----IRS---NDDILGVFN---------------------------------
+>8017857 len:247
+--------QNTAVAILWYLEI----K-KKGTdKMEKIN--vKELNDNVFETIGkewmlvCAGNKDHFNmmTA-SWG---CLGWLWNK-----PVAVVF-IR-pERYthgiiEEN--EFMTL----sfL-GNTE--EARKIYNF--------------------------------
+>6687937 len:235
+AQRLAITPSTFSKTVAKLEG-------K-GM-VEKYHTSVNRKDVIVKVTdfGRKAYQEYVDc----------VNEYS-----F-KDIFAI-LD--TVpKQEVEKFTQV----LEIAAD-R-------WGtdrtelPAEVLVKIERSE-------------------
+>4588649 len:159
+-----------------------------------LSEEelATLESWKKDHIdlwGalVSEYKGRADEE-ETA----LIKKYED-----QAIGGAD-Sf--RWSDL---IMQI-----EKKLL---SIG----TnpagpQPSYKSI------------------------
+>4282582 len:1286
+------VLMTQNHTLKAFFA-----F-APAQ----LT--VSINPLSATIClGQSvTFTSTVNg---GTGPY--NYQWYLD---G-NPVAGAK----S------ASWTF----TPAAIG--V---YYVyLNvtda-------------------------------
+>425847 len:118
+ERALDRRARALTRAVQEMGEA------REGLRVTA----ERLRRAELDRDeADRAAAALRR---A------LDETRPA-----P-----DAR--ELAERLKAVW------LST----PSTRG------------------------------------
+>4204789 len:145
+pm------ANLDTAIVVTACIQ--------PDFSSNLLD--RQLAMLEANDVSPVLYFSKYDllte---E-----------KK-----AELDPI-LN---Y---YAKFYPVyrggLPARleLKTMLA-K-------H-qv------IVVMGqT-------------------
+>4025684 len:108
+--------------VEDYIK--------E--HKSDLTKDevKTLRKYADQDCGllcatitaAKGFIRQSAgEEVSEE---RVSVIQAG-----YSLVGK-V---AY------FWGG-----KS-----SVLG---W-dd-------------------------------
+>3906107 len:194
+------LEEKVKKGVDVRLL-----F--DGMgCLTTLPADyeRELRKKGIQCKvfNpfVPVLSTVYNnRD-HRK----IAVIDGH-----TAFTGG-IN---LADE---YINA-----KV----R----FGHWKdt-------------------------------
+>AntAceMinimDraft_5_1070358.scaffolds.fasta_scaffold611726_1 # 3 # 125 # -1 # ID=611726_1;partial=10;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.553
+-MAVAFEPYSSGSARLYYAP--YVH--RRDDRLKStILGSPQYHYFSMEWYripretGrphwskpyfdEGGGDIIMS---TYS----VPFYhKdkgGK-----RVFKGV-VTa--DLs---LMGLMEV----VS-RVK-IYQSGYAFVIsqdgtf---------VTF-------------------
+>939309 len:393
+----------------------------E--EFET--KEANLRS-AVAATG--AARANLE---AKSLD--LSFTTVR-----SPISGRvsDKRv--SLgtyvSAGQPVLTRV----V--TIN-PI---RFAF-egAETFYL-------------------------
+>887567 len:132
+---LALETVDGALLEDVTIS---------NITMRDIVNAPIFIRLGGRMRGpdSIPVGQCRRii--I-QN----VIAWNVD-----AKYGAI-IS--G----LPG--------H--DIE-DL---QLS---------------------------------
+>4416310 len:287
+QAEVR-LTGEAVTSLDFDLD-------QG--YYSDFQADGQWQPNGDRGIwlpakGkASlSYRVKVS--------------HPR---Q-------D-D--RFDARMTENWAL----LR----G----------dd------LVP----------------------
+>387330 len:286
+aqniklitQNIISNKQNSTVMKNVYFLS-------DAHLGSRAIEHGRTQERRLVNFLNSIKYKASAVy---LLGDM-FDFWYEfrlvvPK-G-Y-TRFLGKisELT--DMGVEVH-YF------IG-NHD--IWCGDYL-Tkecgvi----MHREPLTTeiyg-------------------
+>30727466 len:172
+qLGLLNSRMKDF---YDIWLLS------RQ------FDFDgATLAG-AIEKTfthrGttvtpePTAFSPAFAt---DAS---KVAQW--------RGFLRK-IR---LDETLPELITV----SE-AIR--E---FLSap---------------------------------
+>2027357 len:659
+------------TSLSPFLLI----Y-GPKEAFSNl---------LTVRARnS--VFT--WD---GEG--------HavaAE-----PSIVEGT----SI------YYSLd----LE-NWQ-TEAPAFTDvlWNedgtvGCYHVYVLALN-pdcd----PAVCGYTVTIVPK--
+>1631870 len:794
+aaMGPDNETCLTFSDPIWKYANQ------TPTRwPLSDwFWTNgaGNARGFRARSVigGhwmkvlMDKYAPAKP---EQGEW--KPVGNgLK-----SKFTND-VD--PLfrSPEYP----------RPQMERAE------WKnpngVWQYAVTAKNANppskwdgq----ILV------------
+>tr|A0A0N1J0T0|A0A0N1J0T0_9DELT Histidine kinase OS=Candidatus Magnetomorum sp. HK-1 OX=1509431 GN=MHK_010673 PE=4 SV=1
+penveyrdraekfckevhrrlpyneniplaiklpegktftrkvndkliqisngtffvdtvqgrtigkcgthisyippafagkDHFISEVYPSILRGNPIFVIS------FPVRKNNEvLGALllsPKMDYFTEKFIektsiGKTGYMFMLD---DRG----LVISHpqKK-YIL-RKEGGEKIK--PLekVKPLKKFEHI----LEHITAGNT---YFQdtF-dn-------------------------------
+>SRR5215213_6694670	51	0.228	6.731E-04	11	61	157	109	177	180
+-----------APEVTTYLD-------H---RYARLSAE-----------G--DTTVIFDl---RDE--------R-------PPVDDVRLI--AFy---LPHFHPIp-----EHDVWW--GKGFTEWMnvgk-------------------------------
+>SRR4030042_5038680 
+--LIQRRALYVANEIELFVRY------HPELSISELKDNKELSEIAVQRVGQTGSTMVYD---KTG----TVYFHSD-----PKVVAVNLF--KVGGEPVSVPAI----V-----------------------------------------------
+>SoimicMinimDraft_17_1059745.scaffolds.fasta_scaffold32418_1 # 3 # 224 # -1 # ID=32418_1;partial=10;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.671
+-----------------------------------gIVVGVMFLALLVAKLllqGgqvrPAGMVFIAGvwlPV--SA----VMVL-AA---------GHHL----IATT---YVAL-----T-VIAG-LIIG----Rraal------NLAVI--------------------
+>GraSoiStandDraft_53_1057289.scaffolds.fasta_scaffold5339097_1 # 1 # 75 # 1 # ID=5339097_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.547
+--------------------G------K-RV----aLQKGNAFQEILLEE-GkKVEFVYFDS----------IYEL-IK-----AIVSGKaDFTi---LDES--AFYVARQLMLERMIEAPFTVGEGNtlhF-llRKDWPELVSIIN-------------------
+>724608 len:190
+--------------------R------DP--AVRELGAQlKKWRFVSIVGPggiGKTtvALALAHRmlGEF-QG---AIHFLDlaglED-----PRLLAS-M----LASQLG-VTAVs-----DQPLP------------------------------------------
+>686092 len:271
+-----------------YLEL------SRALLNNEvLPPDtl-----LSLEKW-RSENVDLWA---A-----------VK-----SEVKGRaD------DEELL-LISQ----YQKEYS-KEVPS-YKWSqllgmvEAELLS---IGVnpag----PKNSFKNY-------
+>6479831 len:109
+NDFTED-------DYELILTS--------GY----IP--ENYQKLSFNDI----YSTLYFm---N------INITQ-------DQLYNV-LK--NIfeDNECGKIFRI-----KGFIH-KDNEE---WLevnaTKKEISMKPIHQgq---------EVIIV-----
+>47078 len:221
+------------TDIVWFSEQ----G-EP--KERAyLIESVAVKNYTIVAYGAGGVAKSFAv--LAAG----IAIA-GD---V-DKWLGLQV----LDHGYVLYLDFe----LDADEQHRRVRDLCAg-MgveiPKKLAY-----F-------------------
+>34560 len:731
+mgdle------SALAIMRQMTEWHKM--EP--RAEFKADQLEQELKQRRLQVREWGVKGLFEPVE---GRG----SLLL--------PLHYGIEL----F---HP---------IREGRS-EKQIG------------------------------------
+>3291320 len:151
+TWDWRETGTEHSPGVQ------------P--------ADvKEVVEKGVQTLviGr--GMSEALKvP--SST----VEYLKKH---------GIDVR--VLqtEQAVKEYNAL----VAQGVR---VGGVFH-SkigrasCR-----------------------------
+>2859850 len:132
+-----AIFAVIKKRVPEAFA-------NPDTTVRQ--SSppPSFQR---------GITKWEK----DG----QLWVAlgPN-----ANHWDT-LI--RL---TPTVFVP-----QKPSAGAFADGAFLhW-dd-------------------------------
+>24703069 len:109
+------lKCLDLPDDGKVVTL-------R---TQTEIERNg-----LEV---GTAPNERVYDv----AG----VAHV--------PGYIGL-LR--QYggiRQNLA-SWRP----VAKALL-LH---LVRWIeigeepPP-----------------------------
+>2386982 len:225
+---LAIETVDGGIIEDINVS---------NITMRDVMGAPFFLRLGARMRGpeGTPVGKLRRvs--I-SN----MIVYSAN-----PDYASL-IL--G----IPG--------F--DIE-DI---RMNniM--------------------------------
+>2362624 len:136
+EEAVRRAADRITTVLDQLLET------EA--KRVRMP--rRRQRQLLVSPAERRAIAARLG---AAG----------------------D----TFDAALDEVARA----TE-ALA-RS------WPgdaa-------------------------------
+>2276085 len:276
+-----MEGNEAAMGLDTLQN--------P--aRKKE----ARLARLSGEYTiaG--PYELVQG---GTG----ALLFD-------PAYITEQ-N----GEE--KFWGF----siL--VMN---------W-dnfiqEVEYILL------------------------
+>2103821 len:107
+---IQ-VAGFNGLEFGRYTT--------PELtTVSA----PAFRP------GEAAANAMFHr--LDTG----TFPFR-------EKVVPVDVL--SLiHNE--RYRRI-----E-RLHTRGGDG----Peenk-------------------------------
+>1677068 len:386
+------EAIEKGEPVGNY--G----------TMDQIQ--sLKWVQENIAEFgGDPSNVTIFGq---SAGGR-SVTWLMVS-----PAAAGL-FHk--AIaqsAQQLP---------MR-NQR-SEKFGMM----------------------------------
+>11682532 len:378
+vaDHALA-LALALRRGIVLYHET-QRH--APPTSWEPIA--tPMIRRASVQGFGILGLGRIGT----------AAALR-------AKAFGYRV---VFhDPEKPNGTELa----L--GIE-RA---------------------------------------
+>11336632 len:218
+--------------------N------KP------LV--GQFGAVAWNARldsqlGafhwdaeKNlAATLMMS---AET----LAYMNSA-----FALVAA-L----LpeREQYRALYDETLDLLH-GLTGASPYDVYLrW-ei-------------------------------
+>1096223 len:353
+---LALEAVDGALLEDVTIS---------NITMRDISNSPIFMRLGSRNRGpkeTTKVGAMRRvi--I-SN----IVVYNAD-----PKYSSI-IS--G----IPG--------Y--MIE-DV---RLS---------------------------------
+>103122 len:124
+-----------------FFGG-------GAL----LAGG-----SLMLALGVNSFTAVIMv----------LLAVYPL---M-TTMMGWD----PL---YQ-LFGAKTCSLEA---GRNACGTFPY-evdsalGHN---PKP--Dhdyd-------------------
+>SRR5262249_15181227 
+---------------------------------------EEYVRSMARKVGNDVLEILVK---K----------YKD-----PNTVSDEV---VMQDE--DLRRA-------SVQ---------WVehnp-------------------------------
+>GraSoiStandDraft_41_1057321.scaffolds.fasta_scaffold8168989_1 # 2 # 82 # -1 # ID=8168989_1;partial=10;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.531
+--------AAAAFEPHAFKAD-LISF-AP--yYYKT--PNg-----LAYEQLGSQSYNYFQK---D--------WYHv-------PKILNKPI----Wa---AP-YFDEgGGNILMTTYS-VP---FYKrne-DqsseersTENFRGIVTADV------------------Slawlnqvvesipvgqtgycfiisdtgtfvah
+>DeetaT_15_FD_contig_21_6578512_length_219_multi_4_in_0_out_0_1 # 1 # 219 # 1 # ID=336728_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.575
+gktvavekgfavvkkirdsypginvmevdghtpdalrlvssgdadayignlpvanyhivtlgivnlkvagptpfgfhkqAFGIRKDWPELVSLLDKALAV-------ISLEDRHvLQKKWGLRELLWEKEkAitltkeEQAWLAEHSv--LRVG--------HsSK-F-E-PLLIKEaD-D--SFSGIVPDFYQA----IGERLG-T-RVEFVDdeWRpihqraLEADIDIVGLMNktaaenlgl--LTTKAPFKMLVTAFTKKgq
+>APDOM4702015248_1054824.scaffolds.fasta_scaffold2780052_1 # 1 # 252 # -1 # ID=2780052_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.373
+-------TAAVTLDADTLLAI-------P--lNKDGIS--sPQYKEIEARLIrirGgsPSlAYIYILK---KTE--------K-------PNILKFiiDVH--P----GP-YYTK----MPPATPGEE---YNA---------------------------------
+>8621016 len:248
+---------------------------TAAMTFDLMTANRGKKDVAARRQAyEAAWARLNNq---VPG--------YaPS-----PE----D-A--AFQNELLEWLRF----HQAMLIGEVIPEVYRY-ll------ANP---gape-------------------
+>776674 len:119
+EKIVNQVLQNWSCALQVLCE---------AL----LS--DSLVILAVLEV-SISFENLLAn---SQS--------PLN-----AAWIAVgnSVH--RLr---FP-VFLL-----DENFSG--QVEYF-F--------------------------------
+>7335049 len:383
+DELLKQAATRLASAVR-----------EP---------------DTVARLGGDEFAILLD---DLQ--------HPD---R-ATLVAERLIaaLsEPMriGGK--ELFTS------ASIG-IA---FSHprYTrpeellRDADVAMYR----------------------
+>5168424 len:219
+--------------LKFLADL------N-NKTNDDIQ--NAIRRVGLNPEdkkavG--KYSLGMRq---RLGIA--QAIM-EN-----PDILVLD-E--PFngldKKGVTEMRSLl----L--QMK--D---------------------------------------
+>4717405 len:143
+lGDAIQGMSNALSKHDDFEVYT--IL---P--NFKNID--sTDFENIGQFKIi-NSKFTYDIDsKKI-CGNF-LYKKFDnIN-----VYLIDNDFYfNrKELygyDDDLL-RWSF----FS-----RS---IYElINqkslNPDIIHTNDYHEgl---------VSYLCKNKGDi
+>3987023 len:433
+ftg------KGMKVAILDTGIVVD------HP--NFGALSEDkLTESSLTKEGV-DAIWNTLNA----GQ----MTRL-RN-----------RSY---YNSKLP---------F--IFN------YYT-HdfdvshATAKHD-------------------------
+>2093383 len:444
+---------------------------EP--VPVETP--vARLDNVTFRVPgaGAFGAKKVVDv----AG---TLPYY-ED---I-ALCVATD-D-eADViKKE--KIFEVd-----TEFFR-PVTSD---nWRkevqDVK---DKP----------------------
+>2009694 len:262
+-------QRSGKKEVTILMGN----N-NP--QHVGLA-------LWFLRLpGrKSEHENHTNPA-QNH---LVVPCH-----Y-KDTYSAN-----L------FLKIq----TSRPCS-YHREGYYSW-sPYHFVANNPIS-vtdp-------------------
+>1493631 len:378
+vrasEAELTD-LLEEAGGQAMFAE--------PDLTMTTw----PDMPSVEAASWGltRIGAQSRATt---GKG----VHLY-vCD-----TGVRATH-R--DFTGR--A---------TSALD--MSSG----Rar-------------------------------
+>1416371 len:339
+allPLLKAQSKEDYQQHYSAFVR---------EV--------SHTRALAAQREGAHSVAAIND------------YFT-------KRILEA-L---SLEGLYENFLGR----llI--VRQNNDRLGVYN---------------------------------
+>13113975 len:651
+viHVEIRLDGKPLPSRLAFRID--------P--KRHRaFESSdP----IAVE-----GDQAVWR---PRG---RSSRLHydfvVD---H-QRAPGR------YDSRMTDDWAL----FR----G----------dk------LVP----------------------
+>11178944 len:121
+----------------------------MRLPNGEVM--SVFRDITARKHAeHAlhLYAKIFE---HSG---EAILVTdRD-----NRIIAIN-P--AFTRH--TGYTL-----E-DLGG-QDPSVLAsCRttRETYRS---L---------------------
+>UPI00086FC3A6 status=active
+------IEIFKAESIDLIITD-IRM---PGMDGVELI--HKIKELDKEQQfiALTGFATLDNaiLALRNG--GAFDYLT-------KPLEDIE----EL------FLSV-----EKALEKRK---------------------------------------
+>tr|A0A1J5I2C1|A0A1J5I2C1_9DELT Histidine kinase OS=Syntrophaceae bacterium CG2_30_58_14 GN=AUK26_06980 PE=4 SV=1
+---------SLSILYRFIVR-------R---wKYGS--RTgQAISGFLFGAVavvGmmnplIISPGLIFD---GRS---IIISI--------AGFIGGw-IT--AL---IAALMGI----I-----------YRTWLggpggiMGVSV--------------------------
+>OM-RGC.v1.012462057 TARA_018_SRF_0.22-1.6_scaffold294943_1_gene268841	""	""
+---------SLSYSLKPLLEA-------AEYqQVNQlIEAN-----LIYQHI---NYIAVYD---SNG--------T---------LIGAD----T-SKN--A---------ED----K----EYA-Teshdit-------------------------------
+>MudIll2142460700_1097286.scaffolds.fasta_scaffold706554_1 # 3 # 341 # -1 # ID=706554_1;partial=10;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.431
+------------------------------------------------------------t---NTG----IIRFHKD-----KRFWNRGAR--TLSRDYPALWTI----IRDGFGGKRSSGYYDANdekgetKRRYMCIVPLSQvtadnvslsV------------------
+>HubBroStandDraft_3_1064219.scaffolds.fasta_scaffold5865532_1 # 1 # 201 # -1 # ID=5865532_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.632
+aiTKNLRLDRANFSKEYLYFMTQ--AI--EDTVNVKGsIDTSkPLSKVINFPSAlsNsETaSFIIIKD---G------KILSSSK-----KSEIGQNFY--SWTEKYPKLYNF----FNEKLE-N-RNDHTSkvFRndkm---ILIVRQIP--------------------
+>GraSoi013_1_40cm_3_1032421.scaffolds.fasta_scaffold22191_1 # 1 # 741 # -1 # ID=22191_1;partial=10;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.692
+EQMVVE--ARITANMVAIAEG------RAGMSAEEIS--AILTDITDSTVlDefwitdEKGRAYLTN----TD---VDFTFDPD-----PT----E-Q----PQAYV-FYQLlGQKNgeVKQEATQREiDNRFFKYVgvsgvdNSRIVQ---VG-yean--FLDELSKDVNIQKLVDEltgqanvaairilddkqkeiaa
+>900878 len:190
+ttlkleqdfsspgc------QLPDPRTTTTLLLPG-SVAP-RPSDQIKT--TPpwvTSFRTLELQQNcsslGw-----QLHDPQ-TPT----TLLL-PE---L-PAARTSNYN--NI---AP-PWVCs-----STTLR--LVQDLSR--grql-------------------------------
+>8463625 len:169
+qerelaqiktqVAEQQQKNADMQRQLDLWND--------PDY----IS--tQARERLGFVRPGETQYTVV-----DPG----------------PQYQDSAL---A-AAA--A---------ST---G-PARP---WVqqlg---ILV-------------------------
+>8415947 len:148
+-----------------------------DV----LKRD-----FMISQIcrpnSDNHHEVVRGkTQLNMGDV-VLIVAHpsdQD-P-I-CALLGTpvEMD-wNQFGNELI-TRRIl----I--TKDS--ING----Ksi-------------------------------
+>8400357 len:148
+---------------------------------------aGNLTS--TDTVsGiVSQFPTTVRwSQ-AFG----LNQV-PQ-TWA-PTALNVanEL---EVPARGP-VLDG----F--PMGGN----FYVcsyW-dtvv------FSPIS--------------------
+>838647 len:119
+-TKVNSFSKVCSKRIEIILT--------P--lYYNSvIQRYlkSSLSICLLRRTNKIpHIDILWRv---TPA--------HiIS---L-PSIFNYHC----I------IFKIv----F-----------HYS--KYIFIF-------------------------
+>798883 len:112
+---------TMNPSIDsIYFTK------HFELgTMTRFA--SPVRYVGGKGIncGraSAllGSSVILTgf--L-GG--------Y-----F-GGMIQ-DM----LQNE--NLFDL-----H----------FYL-Lqknqev------PSPSC--------------------
+>7896672 len:173
+arsqlEAVFNENGIDVLLSVN----N------R-SAGIAALANYPALT-IPMGYEenGRPiGLTLIVP---S----------FED-----QTLFDIGIQFeL-LteARRLP----------E----------LYQ---------------------------------
+>7492970 len:222
+------ARADLEALVLLHQDA--------EITDAELC--sKARRALSDPDVGVVGCVGAIGv----RT----IAWWEgsVT---W-ASFVHR-YR--EYgGGDLPA--------F-A------------W-gd------ALP----------------------
+>724939 len:210
+----------------SYISK------KTSLDRKTVL--KSLRSLSDREIlsrakikGSSnQYFLVIGgsPILGHG----QSHISPE-P-V-PNLGHKPINkPkKNLrweKGDMETVESIFNLLL--ALNPKHRKPSMDtW-anev-------------------------------
+>4556528 len:406
+EYLVALDEYEVTNKIKELIQ---------EYNTTD--NQ-----SVMDSI-DAVYDAVKSe--Y-DA----RLSFNAD-----KMYWENaD-N--EFGKYLV-YVMId-----NCDLSSKQLEGYLNa--egsilQQNPTYINKVIDrlkn-------------AENTSKgcgyvdfe
+>3988059 len:486
+---------------------------DP--KGQA--TEgRSIGSLCSRIRGanhlKTGFPTYALl---T----------H-------PEKDGQyS-K--ELGRVVKGSWPGd----LGSSYA--P---FIRQDevagKDKSV--------------------------
+>3811973 len:171
+DGQVSPAQLALVRDVLQFAA-------R-QLSLEDs--TEmsvTMMTNPAIRKL-NQQYRGVDR---ATD----VLSFAaeesGD-E-T-PIIMDPE-----LAAELP----------E-NLG------------------------------------------
+>336963 len:229
+----------------FPLEG------N-EQAIGHdLLHDpkrSIGARIAVDSKELTfiGPVRLIQ---NNR----LAVIARK-----PVFRYKN-Q----QET---FWGV-------TIA--L---IYV-Eelmgdl------LSGLD--------------------
+>3297806 len:235
+----------VPKAVGHFML-------HP--HMPEFF--QRYPKIDVQMLl-EDRYVDFID----DGVD-LAIRITdhPP-----GGLMGRRL----I-----EINHL----L--CAT-PQ---YLAe--hgTPEQPQ-------------------------
+>3024732 len:226
+---------------QLLVEM------D-GFESNDLF--ECTSSILVRPRtsgrGtitwrskRPGRSRAGSs---TSGRL--VAAIRIT-P---PGFSGADLA--NLvNEA--ALLAAr-----EN---------------------------------------------
+>2493799 len:118
+EENLGNTIQDIGVGKD-FMSK------TPKAmATKA--KSDKWDLIKLKSLyrrAKRRKASpKQNs--VPAG--------RQD-----ASREGAi-LL---F---VP------------ALGGR----------------------------------------
+>247777 len:144
+--------------LSRFISE----V-Q-TLgNLAHLHSFEEIQAVNLASLlcepGnATlqNLVGLLG---RENRF-AINIISSH-----PVASSQEV----F---IP---------V--SYT--HLRA----HetrgnlVCRLL--------------------------
+>21838283 len:99
+---------------------------D---SLPRgLYES-----LRLYRWG--GCRAILGgAS-RTG--------E-------NRVVALAV----L---WPTTWDYy----F--GIK---CRNLFSsFSskcpelGDLLLKLKA---egregavavc-------------------
+>1389274 len:347
+kADKADEAGQTYDRALTLLRNR-EFP--K-AIwLLKTFPDKyPGASQLGDVQYwlGm--AYAADHQc----KQ----AVTVH-------TDFTSK-YA--N-HPKVPD----a----M-----------------------------------------------
+>13686139 len:173
+vdvtaqvlaEQALAVDAGEIARQARELHRL------AGELQRSK--AEaEQARDMLAEATsvlGd--GFA-LFG---RDG----RLVL-CN-----PAFSAD-Y-------------------------------------------------------------------
+>13287497 len:340
+-QSVTLPPEDLSSPVRPYISS--------DWPLPSIPATQTISPLRTEKL-TSSTALrLCT---REG----TLKC-ST-----RRTSSVG-----LASS-----------F-------TTSS---W-tgr-------------------------------
+>12785818 len:181
+------iGGVDKTGPKDITLI-------DT------FNNNiVDFEEYGNKPFG------LFR----FG----AVLL-EG-----------D----EF---LV-FGGT-----N-GISKRPTAGSYKfdFSdsikdiPIRVKVPKP----------------------
+>1264617 len:115
+------QLPDPRTPTTLLLPG-SVAP-RPSDQNKT--SPpwvASFLTLELQQNcsslGl-----QLHDPQ-TRT----RLLF-PG---L-PATGPSNYN--NI---AP-PWVCs-----STTLR--PEQDLSS--vdql-------------------------------
+>12166694 len:231
+---VLMSKKNFVYPVSSVVN--------PNSkTNKKtMNNKiDPLNNHKMKILl-LDNYDSfTYDl--L-----------HAV-----KELGATDIE--VVrNDQIG-LEEV----erVDEIILS-PGPG---IPeaagllLPIIRKYAPTK-nilg-------------------
+>11727616 len:101
+------TKDRIISTIA----A----------HKDEFRRK-----YGVQRIG------LFGs--QATG----------------DSAQDSDI---DIvvELEKPDLFSLvs----IKETLE-KT------FGnrvdvvRMRERMNSSLR--------------------
+>11065244 len:172
+--NIEYPNFGDVNQMKELVPI-SKE--YP--TFTGiIKYE---KTIELEEVtkqGILTFENIYE---A------VEIW-IN-----DEYVGMKV----C---PPYVFEV------A-----N---YLK--kg------TNTIRV-------------------
+>UPI0006FF4401 status=active
+---------SLSYSLKPLLEA-------EDYeQVNQlIEAN-----LIYQHI---DYIAVYN---SSG--------S---------LIGAN----T-SKD--A---------EK----K----EYT-Seshdit-------------------------------
+>tr|A0A1G6A134|A0A1G6A134_9DELT Histidine kinase OS=Desulfonatronum thiosulfatophilum OX=617002 GN=SAMN05660653_00060 PE=4 SV=1
+enes------KAVAIARSIA----N----S-STEL----lLGRDaATLQGVIDQYLEiKNvAYVFVYD---RSG----DVVSH------------------TFTPRVPE----------------ELLGLYEssF-tdgtlH------------------------------
+>GraSoiStandDraft_41_1057321.scaffolds.fasta_scaffold11138485_1 # 2 # 247 # 1 # ID=11138485_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+---------------------------TACVGIDT----AELKSIPLNKDGsLTlQYKSIAD---K------LKTIQAT---V-PSVKYIy-I----LaKTEKQNILQFi----I--DLPPKDQKDVLV-AspGEEYDA-------------------------
+>9576814 len:258
+------------------------------------------MELHCRYMGa--GYENIME---T------LSLLGiAE-T-G-KKAVGKfSL---GMKQRLA-LARAmLTKPdlL--ILD-EPING----LdpqgiiEVQKL-LLRINH-------------------
+>8778669 len:284
+kmielpealarADELKS-ELKGKRAEKVWPPS------SP--HKFCwFNGEaSSYDDMLSGRKvvDAQGFGIFAEii--F-EGDL--RVCFNdgVY-----VRIFGE-------GDNIPGKYQLr----ID----------FSD---------------------------------
+>8274498 len:185
+----------------IWTNL----G-F-SLRYGK--HSpKDWEILQLLTLAl--LYNFLLSv----------FIFL-IS-----PPFPPGSMY--KIRKGIALFFYP----stLT-SYN-IIVEG---glWV-------------------------------
+>718196 len:114
+---------SVMLSTVEYLSL----L-R-KY----MR--ENAAKYGISRMGIFGSVARGEq---HDGSD-VDICVEID---R-PSIFTL-VH---IKEELEKLLKCPVDVvrLRSNMD--E---LLR---------------------------------
+>6296925 len:522
+----------------VIMAS----------HTADLA--VQFGR-RVRNLvGSETYHDVFP----------QIELQSD-----SKSASRwG-T--NFNGE---YFAIg----VGGALAGRGADLFIIddpHSeqdaklGRSDVFLPA--w--------------------
+>56445903 len:175
+----------------QNFGG------DPANvTVSGFSAGgRDVMAMLLSPTfeG------LFDkaIAFSGG----MTVADVN-----ASIVKIaeAID--PLAVE--D----g-----KAASEA-EAAK---WLcedsaeVKDY---------------------------
+>51137602 len:215
+---------------------------HPWI----FS-------GAVKNIiGNAvdGENVaVYDs---RNS---FLGLGH-----Y-QKIGSITVRmF-TFdevePDR--EFWKVk----IESAIRLRQSIGYLDs-Pdtnv------CRLIH-gegdgfpgf--ICDYYNGIVVFQAHSKGmy
+>4468546 len:309
+AQKAALALGDLKEEKMIVLNE------RENININPIILTPSSIDLNKKIVmKRNGWSRwVARy---SWG--------SSS-----SGVANTD------------IWQF-----T-SIG--TVNGQYRkYCdvNFSFTSFSS--t--------------------
+>3983189 len:83
+---------------------------------------aQRYARLAHEAI---ELSMVIEg---DRS----ICRISvPT---S-PRIRRTsaESSv--GLTARFAPFVGAn----L-PSLE--A---WFVHEapayAGEYERILGVS--------------------
+>384656 len:141
+------------DSSFLFWRA----L--P------FSNEq-----LSWQSAGSNVFRLcIFMp---GNG----KKETERE-----QELRSNeNFSrRrEK-DAVFAELFRLlg----IDPNAD-RVVRSWPHW--------------------------------
+>3835046 len:189
+----------------QLFG--------P--GVTGwLR--AELRW------Gn--KLRVLPSam--LRRP----ADFFRgaSD-W-H-PHALSLaDSIg--E-PEKVPCTPRLp----LE-TVE---AEAYRNlkWArstaAPTLQALFNFL--------------------
+>2842615 len:142
+-----------------------------AVQTQA--TAaFTLMNLVMAFVfGv------ISD---RTGRRKPTVVI-GA---L-ASAAGLv-LAi--SFGDI--AFFLVg----I--AIVG-AGQGAYI-Aadvalm-------------------------------
+>19117077 len:99
+----------------TQFDA-ANSL--PDTeTLTTfLLADdGFCRAWSRQPLAphRVFWSVpAMNPV--AGPP--SAWM------L-PHLTTTTM--------LAEWLRL----APSELD---------W--------------------------------
+>1397192 len:254
+DTACRGHPARSTGLTE----A----T-RP--QAGDrVI--pDEIAALTLRPGpG--SHRTTLEi----DG--------RPT-----ETLADL--P--PLRDRLL-FVGLn-----PSPVS--VEAGHYH---------------------------------
+>1149905 len:139
+iaaekyrsQAARENSANELTHKLNLSLPA----I-RTKIAVALLH--PSVSGKELDEYi-RIAYPNLRK----EGSW--ITFLIlllGD---K-DEPAGNcG----SIQDA---ICDL----L-----------------------------------------------
+>1126043 len:132
+----------------------------PSF----FENHAQLWVDAFDELl---GFT-INE----DGANIFFILTHPH-F-E-YLYTGMlDWTVe-QWGPRYPS--------LKTEIH--E---FQE--ea------FTPLERigf-------------------
+>1120431 len:275
+iGCMVTLRSHRMYEFLDRLVTI--AL---PRV--------RDFRGVSGRAFdGRGNYSIgIKE---Q------IIFPEieyDT---V-DALRGMNIC---ItptAKTAPEAKPL----LA-AFR--F---PFRt-DmphcpsSHPSIP-------------------------
+>tr|A0A0W8F2Q4|A0A0W8F2Q4_9ZZZZ Serine phosphatase rsbu, regulator of sigma subunit OS=hydrocarbon metagenome OX=938273 GN=ASZ90_015224 PE=4 SV=1
+HGLMMTCSKPVADPGRGWLWV----V-GADVTVETINKN-----IIGTQVGDRGYAMLID---QQG----NVITR-------PGLSSGDMRWdESFvtenllASSNPDLVAV----ar-E-MVAGREGVGRVSFEdgdr-------------------------------
+>tr|A0A0F0CUZ0|A0A0F0CUZ0_9BACT Stage II sporulation E family protein OS=Candidatus Omnitrophus magneticus GN=OMAG_000787 PE=4 SV=1
+---TATIKIDVEDLIKIPLVP-EAIN-TP--EYKKIEKTl-----IEIRDISSEfSYVYLMT---KTG---KENIF--------KFIVDPE-N--KFKSDIT----------RHALPG-E---EYDa---------------------------------
+>SRR3989339_861408 
+----------------------------P------LS--KYYES-WIDLFpGLKNVVVIYE---DTE---------EA-----RKIIEMvkSVKAeESLg---FI-FSNIs----FISTFE------EFSW-egrx-------------------------------
+>HubBroStandDraft_1064217.scaffolds.fasta_scaffold5668993_1 # 3 # 83 # -1 # ID=5668993_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.617
+---------------------------------------------------MSTFSVpFYR---ESG---GKRLF--------QGVITADV---SL------MWLKk----MVSAVK-IYATGYAFFIsqngvy------FTH----------------------
+>GraSoiStandDraft_32_1057276.scaffolds.fasta_scaffold175672_1 # 3 # 98 # 1 # ID=175672_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.427
+---------------------------------------------------------------K------IAKLK-----F-KDILKND----D-EKRYESLFKI----IEKVKNKKEVHDYYDWIdkdnkiKKIFMTITLVE-gt-------------------
+>981346 len:534
+--------------EETYLNG------SNKINGKLiLLSDNAINNINAERLGvdKQlvPFIKfMLE---KYN----LTIS-ST---L-DKLTGAyN-R--RYFEQ--ALTRL----LDN---EKATNNIFAlI--------------------------------
+>965662 len:398
+------------------LGG------KPLIDTSDIIADskSGVSGAGRKAEvGslfseASdNFKA-YGv----AG--------HRH---H-PEIKAQ-LD--QLAGH---SVGLt----FVPHLV-PMIRGMLS--ti-------------------------------
+>9439639 len:608
+sggaw------RSDDAGA---SWVR-----------AGDELA--gRHVSALAVAPDeEa--VYAGIDP---S------ALWRSSD-R-G-GHWEALpELN--ALps---AP-TWSF-----PP----RPDTSHVRWItldpaaPERLFVCIEAGA-------------------
+>8998865 len:191
+-------------------------------iEAGHkIQKRPETIVISDKNFtGi--DYNNIADf---D------LKKIElPA-E-L-QKLLSV-LNkNkNN-PRRLPKYLEKhs----L--EIS--KQINIYV-Sni-------------------------------
+>8893698 len:296
+-----------------MFST------SS--NVQAVI--GDFRI------dGmmrYSLFVPrLYNl--C-KS----LGFE-PG-----NIMPSRAF-CsDE-NQGYP-IILI-----T-----K-HFGTFPFThgrgga------VVA--T-------------------
+>8809069 len:320
+-----------ASRVQVSIEG-QYGpG-NPETrNAFEFFTNADNPSAGAQRIlntakGIYAYATwLSS----QG--------YdfEK-----EMKTGLKVH--PLfADDFGRYWNAd-----AQALD------FRD-Tap-------------------------------
+>790971 len:802
+---------DVALRSLIDYKS-GATP-DPRINMSHKTSGRNIAVMLLLDLSES----LNEk---AAG---------CD-----QTILELS-Q--E-AVSLL-AWAIEKPG-D-PFA---IAGFH----------------------------------
+>715531 len:107
+slgggawpflvGGAIGLVNSVNERDLSLLLAT--WR--HP------FTAGflEDYGRLGQGSLRlRSrSLTELTRqiaPPTKNG--------HAP-----PPIESR--K----SSQ--S--------VN------P---YYVW--------------------------------
+>6591815 len:162
+fialQGPHHSAKKSTKTGIGNFIKS----S-NFSINLSFLKINcQSLKTANINSVlyiykG--KFLFLFSf----AGRY-TSNRFY-------SSIVNSSM-----MWEAPAYL------------------------------------------------------
+>6571 len:320
+----AKTTLANAARLKNFSAR----S-NAAL----ISGRaSRMPSTLCVFV-SCGFIQSRNccTAF-TS----PALTRES-----NQLLGADL----LvisSRPLPEMY------------------------------------------------------
+>544242 len:298
+---------------------------Q-AVLMKKYNGDAIIQNLWAKVEnGEE----LTDl----DELH--LIFL--------PLTRSS-LN--R-SER--AIETVe----IAKRIKNEE-------KqvrlLATIIAVSD--Kf-------------------
+>4846607 len:205
+----------------DLARM------RLEVAQQGVQTD-----IGIKKQqGlssfLSRNSAIED---PTA----QSSL-AT-----PTGIAPqtSVS--A-PSQLPA----ap----VSAPAPAPAVGG------------------------------------
+>3934245 len:311
+----------------EALV--------P--mERKDyWN--TQYPN------GDKQFVDgVAHp---E------LAKL--------LPILGVpNLA--A-SRD--DLVAI----LMTGIP--LIPGFQNY-tgpvADMLRLNMAIP--------------------
+>3864869 len:490
+DELFRRLGK---ARFRTYLH-------H-------LTATss-----LAARRLlGycllHPAMASLLEqmLE-ADD----MRFADSD---Y-TDLLHC-L---ALQEEVPEELEV----FASYLE-SLLPDLFPpLPdlpgvpEEMTEEGTRVV--------------------
+>3717759 len:442
+--------EDLAAAVADIINS-------P------ITRSnlSFLRPLPVPASp-EP-----------DA---------PA-----PKPMGLELK--PMggggNSEPQTVREV----IAP----PSTLASSQ--sg------FGA---diagi-------------------
+>370656 len:149
+---------------------------VA--RAVRLCGEev-----LATGLVG--GYNGkYLEalLD-KDGVS--HDFVHiqgET-----RSCINIlD-E--AYGST--EY-------LEP---GCLVTG---W-ei-QQFLKQFP---eiik-------------------
+>3557649 len:349
+pftgEASLHS-GLDIAAAQG----S-------P--ISAAFY--GTVTKVGEDEIaG--KYIRLTH---ADG----LETFYCH---C-SEILAP-IN--AViRQG--ETIAL----V-----GS----------------------------------------
+>3389327 len:244
+------MQISIDKNHIRYMKR----F-FPGV----qLAPDDGFLVLG----GTE----LNE---KRDIL-SDKFLPVD-----KRDIDV-I----FTGN---YTPVns----FDRFIA-HLDSDYQElY-rgLVRKLIENP--E-------------------
+>3342092 len:314
+----------------QLFG--------P--GVTGwLR--AELRY------Gn--KLRVLSSdm--LRRP----ADFFAgaSD-W-H-AHALSLaDVCv--T-PEKVTTIPRLp----AL-TVE---AECFKNikWAmntaAPTMAALWNHL--------------------
+>3097470 len:394
+----------------VMFTS------AA--NVEELI--RNFRM------eGamfrYSSFMPrLYNy--C-KS----MGFM-PG-----KMLPSRAF-CsDE-SQGYP-IILI-----T-----K-HFGTFPFNhgrgga------VVA--T-------------------
+>27510803 len:106
+---------------------------------------rTSFRDLALIRN-SV----VYY---PPG----KDASH-----V-PTTIGL-LQ--DFVENQGDGWRWg----IE-KLT-QILAG----SaprermVEDIITLGAVT-gd--LHAAL------------
+>229501 len:233
+------LINKIIEKEDIIIDS------KSGAtGAGReLTLNTHFTE------cNEAfaPYK-IAE---HRH----TPEIEQT---L-SNIYGENIKi--TF---VPHLLPI-------------NRGILS--ti-------------------------------
+>16577401 len:187
+-----------------------------SMDVTAgLWQSPEFQELFKKRWl-------LLT----------TTEFKPE-NLL-PMLDAMvaEMEp--EMSRQIS-RWGA-----PSSMS--K------WKssVEEFRSLLQ--K-------------------
+>15507428 len:118
+------DAAAAMQNLREAIAG----Y-RARLMHESVEDKrNALLQVRSHAMkdAEVGRAGNWEpcSVLTRT----VTVTACN-----PAASGLcE-K---Fl---FPDVCML----------------------------------------------------
+>1516105 len:148
+-----------------------------------tLTGGgtDMAGSLVVAGMdfG--AFISaVINfl--I-VA----FIVFN-----L-VKAVNA-FKn--TLikEEPAPA--------APSPVC-PH---CLE-Dvkegat------RCP----------------------
+>14197835 len:343
+tTHMLLSSPEDRPLGVQ-FLG-------NSEL----qIP-------LAIERLdGhavDLiDFNAACPspKVTRKGKG--AALMKEP-----KKLAGI-LS--ALvrEGRLP---------V--AVK--IRAG---W--------------------------------
+>SRR5215213_5952391	49	0.272	4.244E-03	120	152	157	0	32	166
+-----------------------------------------------------YYYYWFD---PKQ----VLHL--------PLNLKLqD----E-EDNFP---------F--CIN---------W--------------------------------
+>LauGreDrversion2_6_1035139.scaffolds.fasta_scaffold10199_2 # 634 # 1206 # 1 # ID=10199_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.524
+--------IGIAKHVDEWLD-------K-NLRVLRLLASmDDI--ISMNRLkQEP----LLNa--VKKG----CPWLYLS-F-T-TDIKGMNVAr--S-DGELLK--------------------------------------------------------
+>AraplaDrversion2_2_1032049.scaffolds.fasta_scaffold595760_1 # 2 # 208 # -1 # ID=595760_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.662
+----------------AIVV---------AFSLGAlFL----IRRRILRPVGw--TFCLmLWA---ATT---FSLYFY-------GGLLDT-M--------IGGYFVV----viL-AAVT-LGEQGIWVF-gl------LSAVS--------------------
+>APHig6443717497_1056834.scaffolds.fasta_scaffold2310482_1 # 2 # 253 # -1 # ID=2310482_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.409
+------ITSQTIWYIPFYVLA------YGAL----lLV--TFWKRVPYAAQaGtllalvyLVGATDfLQDgRG-GSG----RVFL-LA-----FAAMGA-L----LlgRRG--GVIALt----L-AMLT------------------------------------------
+>9164678 len:313
+-------------------------------------ETaRGLEQLLIHAMGe--CFSIgQRRe---DRS----ALRQH-------ALILRR-FRr--ALgGNS--RSSAV----YTGALQGDRGVG----Pdiag------VLP---gaarrG------------------
+>7239076 len:434
+-----------HIEVEVDLAG--EK--RP--SKVRFKADpQRYRNFRSNDPlqvG--DQEVLWQ---PRGKK-ARLRYEflVN-H-K-RSSDGYD----SYKTQ---SWAL----FR----G----------dk------LVP----------------------
+>655132 len:382
+eeAQNMKDNTAQLNGEVI----T------L-TLSSASMEDK-----TMLQLVGTLSDSTLRSls--LSEG---------DN-----KVTMNL-VQ---ISENAKD--------YNCTLTKSSSTG------------------------------------
+>636964 len:108
+vrKKKQEMSEAQISAMMATLEQT------SP------lIRASlSTLANESNKKLGaqHSGLRAgKLP---GGG----------------VGVGGAAF---SLlGSKHPP---------ATAMAS-K---F-----------------------------------
+>6353939 len:185
+ytg------KGMKVAILDTGIVLG------HP--SFAALSEDqLTESSMTVEDI-EEVWPSLNA----SS----SGIR-PA-----------NVY---YSTKIP---------Y--AFN------YET-RsldvshAT-----------------------------
+>4417236 len:152
+---------EESRKLDKVIVP------SP--FVTP--QDRSFRCLPCFRVlsGDSfWFVA-------------SCALH-------HVIMSScH-K--SFASQLNKPYGSs----IHLNRGNSHGDSLYN-IssqyLGSYFNPFP----------------------
+>322092 len:169
+---------------KMKLC--------PELGFSTFSKLydSMFSSISFYAAGvwcfkDApDSNAIQN----RAMR-CFLEVHkftAK-----PAIEGD-M---GWESCLVK---------QR---G-E---MVKlW-nrli------QLPEE--------------------
+>31639575 len:402
+----QDWTSAVQQQLAAKLAS-------PNItNIYGweLWNEPDFT-WDVQHAGpfNDGWLKTYQl--V-RG---T----DPH-----TPIVGPSAT--HY---YADF-------LQ------P---FLSFCkvnnvlPDV----------------------------
+>218686 len:140
+-----------------------------------LAGKaSTTSKAAATRVdGltdphYTGAGAVVA---GAG---SVHRIRMP-----PRMCARwtALM--AL---VP-AWATq----LNENFGS-P------LAdltggt------SMP--N-------------------
+>210955 len:341
+eeAQNMKENKVVLNGEVI----T------F-TLSSASMEDK-----TMLQLVGTLSDSTLRSls--LSEG---------AN-----DVTMNL-VQ---NSESAKD--------YNCTLTKASSTG------------------------------------
+>20156728 len:246
+--------NKVEGRLFLLLT---------GMNAQQ----VVYLKFDVMPI---RWEEMYLl----------LLLLRtlTD---C-SEFLHGcc-L----L---YSNLRSHi----LD-TINRPEPDDIFNvY-iv-------------------------------
+>1474497 len:327
+----------APKALGYFMV-------HP--LINEFL--ATNSGVNVMLRl-EDRYMDLID----EEID-LAIRITnvPP-----PGFIGKRL----F-----TVSHI----L--CAT-PQ---YLAe--ygTPSHPQ-------------------------
+>1339216 len:163
+krpvvillhvgfwac------YFLLVFIALALYYRS----N-H---DMSRVM--NALYSILLFAF-VPSVACFYA------YY--FFLF--------PRYLQHrKI----V---LSIFFGI----LS-SFL---VAG-----lg-------------------------------
+>1320292 len:204
+--------------------S------DPEYNPETk--QENGWLPIHWASSrGhLQSVEILLNhGA-KAG----IADMGtgKT-----PALLAAE-EGhYEL---VNHLLEM-----QDDTSGINVKNKYGW-QLIHYVCRDINSln--WISILSK----------
+>1185175 len:308
+aisYQQMGFNAQQASRQVASLVKS-------A--NAKGLFEDti-----LTMDKIllRFSTYKEeFVKa--I-VG--------DPK-D---PEGLAYNFK--KYLNSIADWVHHh----I-GTIK------YYG--ai-------------------------------
+>11595907 len:98
+------PHANLPNRLSRMIGR------DADVaALSAqLTASRFVTIVGAGGVGkttvavAVAHNLNTSf----DG---ATLFVDlgmlTN-----AELVPAAMA--AMmg---LR---------VG-SEDARP---------------------------------------
+>1083649 len:122
+------KALRVDAQGVVWLAD----G-Y-VL----IRFDPATR-LMTRMLDlEPNYRFdSFTit--Y-DG----TIWM-TA------------W---SFVTGGP-RWVV----L--SYT--PSSGQLReY-tgv-------------------------------
+>9532431 len:319
+pftgEASLHS-GLDIAAEQG----S-------P--ISAAFC--GTVKKTGEDKIaG--KYILLSH---ADG----LETFYCH---C-SEIIAP-VN--AViRRG--ETIAL----V-----GS----------------------------------------
+>913506 len:152
+-------------RSRARLQA----L--P--ALSRqFE--TAFRS------ppTAARYRATIE---SSKLL--ACFFTtPQ-GLA-PNPFGL-LL---LrpGSVCPSRGALc----VTDPLSS-SQLCVFVW-ssg-------------------------------
+>7536775 len:175
+-----------NIRECGFTRI----G-SGDFESIGLDRSIDFSSFSIVLLi-SNSFSSeLLLlLSVSTA---SSSFF-lRQ-----QQNIQIAIKi---FNKK--S----a----LKPRIKY-M---LYRF-lvIPKFLDNFSTSI-------------------
+>3925631 len:291
+KVIISTHVPVGRSGFRVLFQ--------PAWgETGNIYVDavQILVENPVRSLl---RMTDlFMDv----LG----VSATHvrSN-----------E----DLSAGVPITFTId----AQPDVP-RTLSGHF----------------------------------
+>3356868 len:156
+--------------VEALIKA------SPEV----IH--GVFGIIHNYKVaG--PWRRFQNq--FSDTIQ--YTWCRID-----SKLGGPAVR---VGET---GWSF-----K----G-Q---HYAa--hgTDQAMLAADQHM-------------------
+>2488854 len:553
+-------------DGDVLPQ-------HPSASGSQaLNKHvPLIIGTTLNEFc-ASAYVPaLRNlSE-EAA----MKQV--------RQLYGS-I-----ADE---YVSA----FHA-----A---YPEYKapnd-------------------------------
+>1814742 len:105
+----------------TVFEL--VA--EPRYEVMDFNSEiSLLTGMCAGQLmashGv--GLLRtLPAa--SPES----EASFRSE-----VAALGFDL---T-DQSISEFLLS----VDP---D-P---------------------------------------
+>1767130 len:229
+---------------------------Q---QFGS--KDGLWYAAVDHGFGRQAAVVAFDPTLSDP----LDQF--------GHVIREw-LR---YSAEHPELALL----M--KIEGTRVSERLDY-iy-EHY--IAP----------------------
+>13799249 len:106
+-----------------------------GKAWDD----TGVRVILTNPRyaGERYYRGeRVA----AGEW--KPLV-SE-----ETFLAVrAI----LnDPGRPR---------RKSARRHLGSGLFTC-hcg-ATVKI-------------------------
+>10683245 len:183
+--------------------V------APGPKVAS--ADPAVITVVPTVIGk------FYQ---SSGIHaVSIILF-PD---A-HRFIRQfP-HgLrV-FraADQFPELFLRk----IS-VLD-KI---FCHF-phiIPAFRPFSE--G-------------------
+>UPI0004A12099 status=active
+--------------------V------NAGLl----wMMRRGRVSTASLLFLl---GFWTLMT---A------VCFF---------------L---G-GTYSATYWSF----V--VVV--VVAGLLL--ggRGSLIF---AGLsvva-------------------
+>SRR5512147_601235 
+-----------------------------------------------------sVYSRVLE----AA---------QQ---L-------DL----VIASVP-WMTI-----EDLVN------------------------------------------
+>OrbTmetagenome_4_1107371.scaffolds.fasta_scaffold1270150_1 # 2 # 175 # -1 # ID=1270150_1;partial=10;start_type=ATG;rbs_motif=TAA;rbs_spacer=15bp;gc_cont=0.351
+-------------------------------VVAGLW--GLMRR------GRVRLSAsLLSl----------LLWV--------AVTAGIAVGg--GLrGTGLSSYFGI----V--LIAG-LLLGSYAaFAaavlS-----IVA----------------------
+>MGYP000049602852	76	0.196	4.040E-12	36	89	157	11	55	77
+----------------FYLPQ----Y-HP------IPENDEW--------wGk--GFTDWTN----VG--------NAK-----PLFKGH------YQPKVPA----n----L-----------------------------------------------
+>GraSoiStandDraft_55_1057291.scaffolds.fasta_scaffold5053873_1 # 2 # 199 # -1 # ID=5053873_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.672
+--------------------S-------PNY----y----MTIKKYNKQPEasG--CFAVkSMD--------------RSS-----RNVQDLKF----FaSRYLPE---------N-SLT--L---FFFLKvpaqv-------------------------------
+>APLak6261669570_1056073.scaffolds.fasta_scaffold59155_1 # 1 # 378 # -1 # ID=59155_1;partial=10;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.511
+-----------------------------ERTIESv---------LVYENV---ASVAVYD---TEG---SLIRA-TT-----------EL-----GEEAE---------------------------------------------------------
+>703842 len:213
+----------------TYWLS-ETPD-KPSKGWDAaCVRTATWTLMKDKKNGKKfYYVNtHLD---HVG---------RE-----AQRKGLEL-IvNKIKEMNKEGYPM----I--------LTGDFN-VeptdpvlD------------------------------
+>536392 len:127
+-------SFIVSSNKTIVITT-------P--EPTALADAyALIKKLYIDFK-YKNFELIFNm---VRD----SKEFN-------ESFNKL-M----FvCQK---YLKF-----SP---N--FLGYLPFTlklrecvKKRQLI-------------------------
+>3381362 len:130
+----------------------------VSVKIED----PQFEGQTKQKLGNTvARSAVDSi--VSEQ---LQIFLEQN-----PSVAKA-ICe--GIPSTFPSFIIAi----LSHTLLS-SSIS-----d-EVIIIVVPFS--------------------
+>2219559 len:215
+-----------------FCST------R-SCRLGGt--RSSGFRL------G--GNIS---c----RSVL--VVFSHLS-C-L-PWFSRIKVY--AFAMI--RFSPSt----L--TLN--DAKG----KgcgpeI-----ISPVCLyf-------------------
+>4850104 len:182
+EEAVEEVVEHLKDAEDSYLE---------DM----MEQENRLARSLSSSVqnG--GFGN---n---DKQ--------QQQ---S-REFVVRG-G--PWEQRAPD---------TTSTQ--E---FPSF-gg-------------------------------
+>2182615 len:261
+------DFENRTEGRDWWPNE------QPTReEAAALVAGGPLDILITHDApaGmplKSDFQLSAQl--SENA--------NKT-----RNLIRE-VA--D-SLTVPHLFCGh----WHQ----RR---THELKhpdgK-----TTRVDVi-------------------
+>10187069 len:234
+aLILLYNPIKGIGNNFN-------------NVQVALLAMERVFELLRMELKicNRPNAKELREi---KRG----ISYQHVN---F-EYIAGKPV----LrDINLN---------IKK---G-QTIAFVG--nsg-------------------------------
+>15195058 len:253
+----------------TFWLS----E-TPDTPSKGWGAAnyRDCTWVLLKEKisGKRffHFNTHLD----HQ----VAKAKTE---G-AKLIRSRMK--SInGFKYPV--------I--------LTGDMN-AeqesdvC------------------------------
+>12473834 len:511
+---------------EALIGT-GFKD---RFSMSDPVNDAQFSSFFLNPLAAT----ILA---SIG---------vPV-----PAAPRTDL--------LP-LVLY----M-APIC--PGCG---a-Gdtgpv-ADLLRLNT---gia-------------------
+>3457507 len:143
+------STITGVDKVVVVTE--------PSMsGLVDLKRTIDVAQ---------SFMEeIYVi----------INKYDLN-----PEVTNQ-IK--EYc---LENNIEI----I-A---------FLPF-dkevVDAMINGQTII--------------------
+>MGYP001105848241	54	0.270	1.062E-04	36	81	157	170	206	207
+-----------------------------------FY--lPQFHTFPENDIwwGk--GFTEWVNv---RAG--------D-------ARFAGH-Y-------------------------------------------------------------------
+>31008756 len:278
+----------------TFWLS-ETPD-TPSKGWDAaCKRTCTWTKLKMKKTGTEfAYLNtHLD---HVG---------KE-----AQRNGLAL-MvERCAQIVPKGMTA----F--------VTADFN-Attddai-------------------------------

@@ -1,0 +1,726 @@
+>T1094-D1:
+MISNFRKFHGNKNQEKFNENLILNKENESILNYLDPICKTLEIIPEITYLGSSVEPINKVYKFNKEEKTSDIERSELQLIKMSFLIEKDDKKEEINKFIYFPKLIDSQYFIINGNRYYPIYQLLDSDNMNLANKRIRLYEYLLHPLLIKFSKGTYRVLNNRNSNKFEKIKTIFSNIQEGFLVKKIINNELLRYDNSVNSISLFTLILRYTQSGPQSPFSSNSTNNKLRGLHPSYLGRLGLTSTSAGDPGASGSLTPFLELPENSYMHFTEEPEINLN
+>tr|A0A141HS76|A0A141HS76_9CAUD Uncharacterized protein OS=Bacillus phage vB_BpuM-BpSp OX=1739968 GN=Bp8pS_185 PE=4 SV=1
+MISNFRKYHSDKNKERFNEELIYNKGNEDILKYLDPICRTLEIIPEINYKGATIERINKVYNFSKRVKPEppkkekdgkrkekepkrekveiDIEESEFQLIKLNFEIDKKDDGTvtKIEKRLFFPKLIDSQYFVINNNRYYPIYQMLDSgtyrtnkaltlktllmpivlrekkvsfddsegntynlmevdldlfkhkipfltyylanfgyhetikyfgyddqihliqkedldlmedndntvtfmitknialvvnkelledkthhifvgtlmkcfnsrikfekifesdywvkklggnfttnnsdkqekglsillsfrrilddwtkevlrtepenkedsyavirwmtknyldlikqDNMNLANKRLRLYEYLLHPLLYKFSTGTYRVLNNK-TEKYRKILTIFSNIDEGFLINKIVNNALLRYDNSVNSVSLFPLVLKYTMSGPQSPFNSNNVNDRYRGLHPSYLGRISLTSTSAGDPGVSGVLSPFLKLPEDANMHFTKKPEIELE
+>CryGeyStandDraft_6_1057127.scaffolds.fasta_scaffold1010289_1 # 1 # 213 # 1 # ID=1010289_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.573
+----------------------YMKRTDNVLDYINDVCKALEVIEGVKFIGSEIS---------------hdeseiktrgkknnkwiSLDESRLDLIKLHFEVTgiagRKRVTKteTVEKTILYPKLIDDFYFLIDGVTYFPIYQIIDLatyntpkslrlktllmpmvlrekelkftsvddtefiestylvdlfkyklnvlfyyfaefgydiadkfgyseddiglmninedeltnrdeyflfevnkkglhvyihegmleegtfkrkfsmmyldminfnsrmtidkianndywkkrlgatftsnpnsqieksdkillsfkrildertkkilrikeeykedtftiiqwmmrnydrfmekDNMDLSNKRIRLHEYLIYPLLTRFSSITYRLLNKT-TPTLNQKMQLFSTLGPGFIIKKLKKNELLRYNNCVNGLDLINGGLKFTQSGPQSLGDGNkNIKVRYRGIHSSYVGRIGLTASSSSDPGISGTFVPFI---ETQGLYFTD-PEPED-
+>GraSoiStandDraft_55_1057291.scaffolds.fasta_scaffold4665936_1 # 2 # 211 # 1 # ID=4665936_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MNPKLYAKFQKTNPEQFNENIVYMRNNESVHSYFEDLFKTLNLAGIKFLSSRTIK---------------detehakyipknnlRIESNRLDLIEAKFQLS--HLEEtkEVTIYLFYPKLIDNFFFQLNGNKFFAIYQLTDRnfysvsrgiflktllmplgvkvddfkptnkaeelellpkgkvlrldffktkisrdkslknilfyfyikfgfsatlkylglnkdievydtkqkkdsswvefskcssifvyykktlcdspnknnilctflssiydvkkhanleldtywkrkiltttstnaklekadkamfslervldertkknlkevptedkkdvygvlkymmfnyneiydlDTVDIYNRRIRLTEYLIFPLLTKFSDLSYRMLNSR-NIDMKRLETVFSNIGSMFIIKKLVKNELLRYSNGTNALELFSVGLRFSCRGPQSLGTAGgNTLIKFRGLHPSYKGNISLVTSSASDPGLSSTLNPFST--NLQDMFFeRDSNNVDSX
+>MGYP000669324064	129	0.365	8.055E-29	2	270	277	221	479	482
+------------------------------------------------------------------------------------------------------------------------------fqfnkknslyvskallrqdserrnfvinfvatllnilnnrsntqnvhdleywkkrlggcftkntnnqlektkkillsfkrildsrtkfflkvspedkksifsiirwmmvkyetlmrkDNFDLANKRIRLSEYLVFPLLLKFSNSTYRILNSK-SVTFGVIKSMF-NISPGFLISKLVSNELLRYNGATNAIDLFTSALRFTCRGPQSMSakSGASVSIRYRGIHPSYIGKVSLTASSAGDPGLSGMLTPFV---KAPDLFFSEE------
+>tr|G4KKD3|G4KKD3_9CAUD G194 protein OS=Yersinia phage phiR1-37 OX=331278 GN=g194 PE=4 SV=1
+LQRQFIAAFQEDNPEKFNEDLIFMRNKEskELHHYFYDVFNSLKLKGITFLSSETIT---------------detefhkyipkksiPIENSRLELVRAKFRLE--ADGEskEIVVQIFFPKLIDNYFYEIKGSRYLAVYQVTDRnfytssdasvylksllmplglylnskgnapieivdeneeivtlpnkefvldffklkkksthknafyyyfikyegvqnaidvifgntddhkfvfiteerenyegycrieirkdlyiycwnnftntykhlvstlyhalkgirkssvidsvdywkrkilnnataklekadrtmislerildnrtkknlsreivnpelredsygvvrwmmynfdnsdrpdfpdaslvniDPVNIYNRRIRLTEYMIYPLLTKLSDSSYRILNSR-NINIKRLENVFSTIGPNYILKFLSGNELLRYYNATSSLDLFS-TLKWSARGNQGLGKSSsTVATKFRGLHPSYLGVVSLNAASASDPGLTGTFCPLSN--NFGDMEFvDHSNEIHYI
+>SRR5699024_4741709	108	0.433	9.738E-22	27	233	277	14	228	229
+------------------------------------------------------------------------------------------------------------------------------knlslvvdkvwfedqdnksivntmlncfntrmkidkifetdywvkrlggfyttnnsnkqekeesillsferilddwtrtilrtdeenkvstytivkwmvenysslvkqDNMNLSNKRLRLYEYLLHPLLIRFSRGTYRILNSR-NPSIGRIKTIFSNIQKGFVVKQIVNNELLRYDNSVNSISLFDTALKFTQSGPQSPFRSGNTNIKYRGLHPSY-------------------------------------------
+>UniRef100_A0A2W4I656 Uncharacterized protein n=1 Tax=Candidatus Gracilibacteria bacterium TaxID=2044595 RepID=A0A2W4I656_9BACT
+MILDKLHHEKFENREGFNEFLIYGNRNEELVEYIKMVLKDYERVGCYKMLSAELITDEREIDISKYEMEKfsykknlkgilentrSINDSRYNLLKVVFEISiagNNGEIErkEKEVHLLLPKPYNKYYYLINGKKLYPIYQVVDNstynkdnnttvivktlrsplkivksnveiedtnkniwnltrytyeisygkkdnkinpalyyfakdgfveglhyldagdfirlrkydldynnpelvekyacfklnnvmychvdkerltndpyiqaivvmlkesitnkdnlnifekehwlkklgklfttspmaenqkkkgntslnsfeisldlitqeilklkpenkadsyailrwvlqnfnelaykDNFDLANKRIRIAEYLAAEVVNIISTKLYGLLKCN-KITMKELENAL-SIKPNILIFKMQESILLRYDNAVNDMTVFS-ALKYTTKGISTQGNKTnQIPESSRRIYPSHMGRLDVNTSSNGDPGLTGNLCPISD------------------
+>MGYP000962179739	112	0.321	4.543E-23	5	249	277	5	253	254
+------------------------------------------------------------------------------------------------------------------------------dkiifrervlklnvkdyfiikklnyyiyikksilegndmehflatfldsmyevkkfinidneifwkrkiltttnakiekadkaimslerildertkknlreiekidnvfdvivymsknftmlynlDNVDIFNRRIRLIEYLIYPLLMKFSELSYRILNSK-NIDMNRLSTVFSNIGSMFIIKKLVTNELLRYNNTVNSLELFSAALKFSCRGPQSLGGGQgKTPLKFRAVHSSYKGVLSLNNASANDPGV---------------------------
+>MGYP001217466971	126	0.385	9.527E-28	63	271	277	5	208	250
+------------------------------------------------------------------------------------------------------------------------------nqiekvksilisferildprtkkilriddkdkkniytlvrwmitnyydlsikDNMDLKNKRLRLYEYMINPLLMKFSKATYRMLnnkNEK-KNTFEQLKSVFSNVKINIIIKKLIKLDLLRYNNAVNGIDLFNSALKASFKGPQSMitAGTGsNIGIRYRGLHPSYIGNISLTFSNAGDPGMTVMFTPFID--VSKDFFFDD--TIFTP
+>APIni6443716594_1056825.scaffolds.fasta_scaffold6358961_1 # 2 # 274 # 1 # ID=6358961_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.447
+NGLSFVKAYGLANPERFNEKFIRMKEDDinNVLEYIDDVCFSMENIDGVTYLGSSIE---------------kdeskllterksqEVSISRQSRINIKFKIEsrdeRLKKDNmeVLDIPIYIPKLIDGYYFTFNGNNYFPIYQLVDKstyvigygdnrklalktllmpivliqnkkeylfeneenelaitgrmyqislfgrspnflyyyfakfglegtieyfgladsisivnvkegtpeydkfqkanlvyslsatlhiglnyenfpetemaddfivsiidlfenekfrfsassksywekkfgamftknmnnqaekaqkllisferildsrtkkviefpdeykediygtvfwmlsnfsklvakDNIDLKNKRLRLVEYIIYPLVSRFSTNTYRNFNDKSKTTFKKLKSLF-RIKPGILIKGIITNELLRYDNAVNGSDLFTAGLRVSQKGPQSIISNKsEPPVKYRDIHPSYIGTVSLTHSSASEPGMNMCFTPFT---ETDGMEFFNDRDX---
+>SRR5699024_2859894 
+----------------------------------------------------------------------rkknrqyydvDIEKSRFMSVKVVVELT-DNTGDvkDHELNLLYPELIDGQYYYIGDNKYFPVFQLVDAefyragreaivlktlfmplrlngktkdvlvdidgdlsetlkgriiyldifkgkkipaplfyfammgveetlkfldldpymnitesgmepdpayfyfklnkginlevnkewllediryrnsmvltiqelfkrlrigidkvedqgywkrslgekftkntnpasklekcdsilisfdrimdeytkkilripdedkkdtktivrfmmkhyesicrmDPHHLDNKRMRIGEHLLYPLAQKISNTTYRMVNFK-ESqrTMKALKGMFSAIGEDFLIKNIISNSLMRYSNSVNTIDLLSRNLKASKTGAQSS-TKKsSPSVTTKSINASYIGRADLVATSSNEPGISFSLVPTVEVK----------------
+>A0A7T8ESL8	78	0.273	1.054E-11	0	167	277	0	178	540
+mskylSKVTKNINEDISKKEPFNEDVIYFRQNESLEKIISDIYRSVEFIKGIKFLDCKVVSPSQVYEYNQ-----mtdkqlkskdyrkiNVEESKLLEVQITVEFE-DSEGNkeEYTHKLDFPELIEGQYYYINNNKFFPILQLADAefykpkastvvmknllqplsvngskkdtimdddnkmsn-------------------------------------------------------------------------------------------------------------------------------------------------------
+>uvig_354614_7	127	0.259	5.139E-28	6	272	277	212	497	571
+------------------------------------------------------------------------------------------------------------------------------klikvkkcdkdddknlyfplnkhfavkvnktlfkeeefistfvgmiyvcfanstneddidnqdywleelgslytnikhkkiasglstmlfferlldqttketmkispynkrsiyaiikwmienfsdlkskNNMNLNTKRLRLFEYIASMLSLNLGDGISRVLsYGS-KVDINQiVTNIF-KFPGTIVIQALTNSQLLKFDDRCNDLDFFS-ALRYTVKGPNSIGGgsggkdgkggmkSErNISVKYRGVHPTYLGNLDINVYSSSNPGLNGSLSPFA---HTNGLYFNDEPE----
+>A0A7T7GSJ7	84	0.256	8.715E-14	0	200	277	0	228	540
+mgnylRKITKNIQDEVSTKESFNEDVIYFRENENLEDIISDIYKSVEFIKGVKFIDCKVVPPNEVYEYNQ-----mtdkqfkardfrkiNVEESKLLEVQITVEFE-SAEGEkeIYTHKLDFPELIEGQYYYINDNKFFPILQLADTefykpkastvvmknllqplsvngskkdelidddkkmpkklrgrtlylevfnknkpvpaflffiakmgldetfefleikkycelvdtnd-------------------------------------------------------------------------------------------------------------------------------------------------------
+>561|Ga0247611_10004871_10|-15617|00	115	0.305	5.296E-24	40	276	277	259	497	531
+------------------------------------------------------------------------------------------------------------------------------ltflnafankdkipyeklgdkgywvkklgsfftkntsnwfnkgesvkrsferlfdnttkkmirideadkkdiytlirwflinynhllkmNNNDLANKRLRLNETFIYPLQEHWTTGVLRILNAK-KVTLANLEKLFSTIKIDFLIKKNINNadanKNLRYSNLVNTLDA-GIKLKVTSSGPQSI--SNsNGEIKGKDLDISMLGNLDIIYTSAGNPGETRMLTPTAH--ITDSWHFSDEPNIIAN
+>SRR5574344_2803910 
+l---DLVANFSCRNDGKFNNDLILNIRQkDEMTEYIDAACKAVTQLipEYIEYKGFHYQDSRAKM---------ldrdkdsgdvkpkngeiylNINETYAKEAIFDFDCMFNGERTkaSf---SLWIPMLIDNSHFYIRGNKYSCPLQLIDAitftkknllvlktttraikferskvvitdifgnryntsrlniaftpkpvpvllyyfaafgvfktiqyfgaeqfisiysesktdksipddkyifkfgsvflgvdkkefnensvlrifvatmiscskrsmdmnfirnpvrwtsylgesisipkalekgqallktftntmdfqtqniirqlvpgsernnifsvtrwifinystltsKDEGLQNKRIRLSEYLISPFIKIFTEKVYRFKnTPD-KLkSMKNLMDIF-KIKSSLILNAIIgkishdDTglSIAKFSNECNDDALINTLLYVTKSGPGSPSEHSkRISMHLRQFSVDYLGSLNLIEGTSANAPMLQCYLNP----LCDNF-----------dpkkmifnidp
+>MGYP001378218598	119	0.339	3.327E-25	51	247	277	11	215	216
+------------------------------------------------------------------------------------------------------------------------------tfiesisdvrkfdnltndvfwkkkiltsttakiekadkamfslerildertkknlkevpvdqkqdvygvlkymvnnypsiynlDNVDIYNRRIRLTEYLIFPLLTKFSDLSYRMLNSK-NMDMNRLQTVFSNIGSMFIIKKLVKNDLLRYSNATNSMELFSAALKFSSRGPQSLGSSGgHTLLKFRGLHPSYKGNISLITSSASDP-----------------------------
+>MGYP001221657713	125	0.388	1.766E-27	86	269	277	0	175	186
+------------------------------------------------------------------------------------------------------------------------------dnrtkkilkindsdkediyalirwmikhfnllrkkDNLSLLNKRLRLYEYIVTPLLKRLSNNTYRILNSK-TVSINKLKGIF-NISPMFLIKSMVNNELLRYSGAVNDMDLFTCALKFSNRGAQSIGegNKKTVSIAYRGIYISHLGRLSLNSCSNSDPGMSGVLTPFV---ETDGFYFNK-------
+>SoiMetStandDraft_5_1073268.scaffolds.fasta_scaffold3115608_1 # 2 # 256 # 1 # ID=3115608_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.600
+l---ELVARFCTKXDGKFNDELIYGMRDtHEMTKYIAAACQAIAQLapDYIEYVGYEYLDNRERM---------lerdkessaigdsknvtriNINETYAKEVKFNFKCTVGGEVImqSf---SIWIPMLIDNSHFYIRGNKYSAPLQIIDAiafskknvlvlktiarslkftrekvsytdiygkkfsmskiminitkkpvpvllyyfatfgffktmkyfgvdeyisiytdenteastipsdrylfkfgkhflgvdkeafdeipilrtfvatvlatqkrtmnidfirnptrwtmllgesisiqksherglsliktfnnmldyhtrdvinqlvpgtprenmyavvrwlfvnysiltnKDDGLQNKRLRLAEYLISPFIKVFTEKIYRFLnTRR-VEkSVEHLNDVF-KIRSSILLNAIIgkishaKTglGIAKFSSEFNDDALINTLLLCTKAGPGSPSEKSkRLSTKLRQFSIDYVGALSFIEGQSDGAPGITHFITP----LNDTF-----------dsdkkifnidp
+>MGYP000920822845	125	0.351	1.766E-27	61	264	277	1	188	200
+------------------------------------------------------------------------------------------------------------------------------kyhpdknpgdkeseanfkdiayayeilsdedkkdtlhvikyiikdfdelsakDNQDLGNKRIRLYEYQLYPLRKYFSDQIYRVLNSP-TRSKIILDRIFSNLKPMYIIKQTVVNELLRYYNSTNEMNLYSTLLKYTFRGPQSINr---TVSVYQRDLHDSYTGRLSLVASSATDPGISGTIVPFV---TLHDNFF---------
+>SRR5574343_12702 
+-------------KyaEGFNDEFLMGSDDp-SLEDFIIMAMREFEAIENIKIEDIKVVKDQSQIDINEHTINInykrkdisaieypkfkYMADSRYGE--VIFKIRIATNLSeeVITKKILFPIEV-DGSYLNSDKKMMAIYQLIDAstynqrgkitlksrmpiiiyynshrilqdvngtefimpsysyalntkskrpgaksrtkfinpialycakmgmqntieffgmkdiveivsdfkesdkdhyyffelddtfvkvdsylfdkydmvrsftcmcvnlrcrdfpvtvnnlenkeywicrigyigsaknknilsfkekgittiymverlldqitannlrlpdvykyniyfvlywmitnyadikkkSNMDIANKRIRRNEYIVLSSLGKkvnenINKLVEKKSkSKM-N-TMDTLLELF-NFNSDIIVSGM-RNlnDLVKSDDVVNDMTFLE-TLCYSAKGFQSQASeNSkMLATKYRYLDPSMVGRTDINVSSNSDIGTSGMFTPFV---KTYNTFYFTPEVEPC-
+>15348|Ga0213822_1003661_6|+3234|00	58	0.252	3.301E-05	4	133	277	2	147	586
+fs---KFISQYENPNRKRINEELIYGMRNEPLVDYILDAFKSLEVINNIKMLDYDYIEHESQFDTDVV----nekylkskkskgknikkhiNIDVTRYNMLRVNFKLTLNNEVQykQv---ELLLLKQYKKYYLMMSGNKFYPIYQIVDSstynnk-------------------------------------------------------------------------------------------------------------------------------------------------------
+>14212|scaffold148011_2|+1136|01	79	0.269	5.335E-12	0	208	277	0	256	261
+MF-NLIKKYSETNKEKFNKDFIYSREDSSILEYVRDIFKALEIIDEIKLEEITLD---------------tdessfgpiknqhkyfkSITESRLDKISYKIRITPSESNSsqnfpilsdepedkeillKADTtkisensflikgDIYINKLIDRCFYINEGVRYFLIYQVVDNatygnkesvslksllmpitlvrnisdfcvpefgknlvpdvpnfdvllfakrinpllyilgkdaynllikmplkekdniineriafrdpkiidlfnkflsv-------------------------------------------------------------------------------------------------------------------------------------------------------
+>UniRef100_UPI001563C49D hypothetical protein n=1 Tax=Sharpea azabuensis TaxID=322505 RepID=UPI001563C49D
+MKSALKNYSSGW-ESELNTPLMEKSADAPLVDYVIDAFKSLEVVKQIKFTNFEYTEKESEIDINKH----ifkrekrkkkkdrydikFISDDRVGKLTVYAKVTMLETDpttGvtSyqvypIKKSILIPLQDENGNYIIKGKPYYLIYQMLEKstytssnsvtlkslmpiavkrniieaedvngnhynlptyyvfvfrkeilillfymskglrytldflnvsneisftpkmpkntdnkivfqlstkcflsvekesfekypyiqsvvggfitmctnrvtmeqledprqwikrianpdnyekgygilkyfnrlldettkkvikvpeyhkeniytllrwmmqefnelrlkDNCDLKNKRLRCNEYIASLLTAEFSRRLNRIIsMGN-KVTIDNIKELF-KFPGDIIIQKLHTSGILRFDDTVNDMNFWS-RLKYTNKGPHSLGGrNQnNIGIRYRDLHPSFLGEIDVLVCGNSDPGTSGVLSPFA---K---------------
+>UniRef100_A0A3B8SM37 Uncharacterized protein n=1 Tax=Firmicutes bacterium TaxID=1879010 RepID=A0A3B8SM37_9FIRM
+MKETLKYYKNPN-EdKVNTDLIYRKNVDEETIAYIVNACKCLEIVDNIKFLGYKINSDETTIDPESY----itrrsskkadkeqkyiFINNNRNFELILMFELNAYEKKyqrVrrMiINKKLLLPMVDDDGYYLIKGKRYYLIYQLLESstynkgnglsvksflpidiqreiieitdieeneyeipiytitmfnkerdillfyfaemgirralsflmvdefisvyegdldtlykdgeldtnfyryfkfndsiyvevdkkafdeykyvrtivgmikqvinrktlythlynrdyylrhigegqaqtqidliekgeltlqrfkrmldintililkleycnkkdifclircimqnfdsfrskDNLDFKYKRLRSQEIIGAMFTTILSSKFNKITsQKS--LTLDTLQKIF-SFQGNCLITQLVNSGLMVYDDKMNDLDALT-KLKFTMKGQNSLGNkNGkKITSKYRSLDPSKLGYQDIIAIGNSDQSGSPCTVMC--------------------
+>UniRef100_UPI0015A8FC7B hypothetical protein n=1 Tax=Clostridia bacterium TaxID=2044939 RepID=UPI0015A8FC7B
+MKDFLNYIRNDE-EiiKTYNMDIIERSCDESLVTYIVDAIKSLEVIENIKFLGYEYQDDESQIETSDY----iqtratgkeannkyiYLHDSRIGELTVKLELTCYDKKkdaVmsKiIKKKILIPVEDENHRFILKGKKQYLVYQLVDTstyntknsvvlksfisidvsrehteivdtdgneytvalyhlnmfkkkrdimsfyfakmgvtdalvfwnvatiikfveqpvmtdlysiyfkissklfirvnramfmkydyvksivgmilaicsnrvtkdilykkeywverigvvnstgmsyiekgystliqlsrmldettkkvlrteeynkeniycvlrwmvqnfkelrtkDNLDFANKRLRYNEFIAMLFTKKLSERINRLItKGK-NIAMDELEDIF-KFQGNIILTVLYKCGLLRFDDSVNDLDFST-KLQFSLKGINSLGNkNNrTITKKFRALHPSHIGRIDINVVGNSDPFTSGTLVPTI---K---------------
+>UPI0003E52A2A status=active
+l---QYVSEYSQQFDKHLNADLILNIRKkDDMAYYIDLMWKELARHipHNLKYLGYTYDDTRRRF---------gelnsvtgkkkktsnrtmSITDTYARMAVFQFEATIENHETnemetqyiEt---PIYIPLYIDNYHFYIRGNKYSAPFQIVDSivytsknniivlktmtraikmnrerrftalkdvydnkymtynfyiymnskkvpfllyylsyfgfsgtftffgadkfckfyneapkkqamdpdhlwfqfctiyiqvekkafeeifnlrqfiscllevqkrnmdvadicsttrwkmilgasiseanaltkgegllktfiisldaqtvinikkliggspkenmhqvvrwmfvrfgelssKTSSLLNKRIRISEWLIDPILKETYKKLYRFLtTNE-KSrDMARLVDIL-RLSSGIILGAISgrnkqVLnlNIAKYSANVNDNVLISDALRFTSSGPGAPTSGGgGLSSQFRVFNSSYVGRIDLYNSSNSDPGTSGIIIPS----TQINM-----------etltfardilhgdt
+>307.fasta_scaffold2711340_1 # 3 # 314 # -1 # ID=2711340_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.599
+--RQFIAQVSKEKTMELDPELFDRTEEKSIAEYIVSGLKVIESLPYIKFTKWKLIEDASKIDIKLNRK--hikdrnidknkdikkiiSIRDTAQEMLTMTFSID--YEGEhrFIKKNLLIPSYIDKYHLLINGKEVLPQKQIVDMstynqkrslklkttltpidlykeeiktpfistdndnfsniktfilnlftkelnplyyymakfglhktinyfgmkdiidivdqeynkeinyyfqinkelflevdkrffnssdfikafsymvfdmfkgrvkldivddinywvtklgmlfttntknqlakglnvlvsfdrildditrdtlridkkhlqsthsllrwliqnyvflrkkNNHDLANKRMRCNEVTAFYFIQSMSQRINQLLNKK-KLTIEAIERIF-NWNSDELFRIMLSNknTLLKYDADINCFDMLN-GLRFSFLGSQGI-SGGkNIGDQFRDIYPSHLGRIDLNGISHGkNTALTGFITPKCK--IYGNGFFSKR------
+>SRR5574344_286022 
+MKKKLLKKFSDQNPEVFNKDFILSKKDDAVLPEITNIFKSLEILKQVHIESVEMD---------------tneedygpikqqghyykSPLCSRLTKIHYVISIDGLDYKIek----DLFLPKMLDNCFYINEDVRFFPIWQVVDNlsyvtnngvslkslmmpitlivnepfnyepefgktivekipnyyallfskkisplyyvmldaslksleragispfenldkfqtytddtlindfcnfigldikfaddkmdlveegrtvfklaykkeeglsfsikdsylatergrvclglllsvrskdrknkvvfsktqfttpwfwldtlidvsgfsksadpfkrlekikavytsleriiddqtretltipaddkksiftiirylllnfddlfrtDPQDLHRKRVRLYEYILFPLRVYFGQHINRIVNQQ-TNkeDAKSIEKIFSSLTPMFLLKNLITSQLLRTYNSTNEFDLFNAYLKGT-------------------------------------------------------------------
+>16202|Ga0265294_10011117_6|-6233|00	75	0.273	1.420E-10	4	226	277	3	225	518
+----FLKDYSLQNTEKFNLDFIYLKDKENIMQYIDDICEALNIVKGIEYMGSEFI---------------gneresvlkedkNVNSSRMNLIKMRFRVTGHSNKHkkelseEIEVPVLFPKIIDRFYFIHNGNYYFPIWQIVDKdtyvvghgerrqlvlktlllpivlryrlaefkdmneenvikgrifdlnlfskkinflyyyvtnfginetisyfgyseyitvlespcqltdsnsvtfqv-------------------------------------------------------------------------------------------------------------------------------------------------------
+>14210|scaffold07743_3|+1189|00	78	0.276	9.700E-12	7	227	277	6	238	520
+-------YYQEQNPEKFNDEFIYKKNKQDIVKIVSGICDALEIINGVTFKTVEYI---------------tnesdprfvkyrekDVNISRYNLLILKFRIEGYSNKEkktmieDIDLPILFPKLINEFFFIHNGNRYYPIWQIADRdtynvgirekrslvlktlllpivlrfesieyevndefilkgkvfllhlfnkkinflyyflnkftipecieflgmsdffsvdpepledripitiskgivinvdqtsekfr-------------------------------------------------------------------------------------------------------------------------------------------------------
+>JI9StandDraft_2_1071091.scaffolds.fasta_scaffold2929181_1	70	0.294	6.706E-09	0	207	277	4	212	482
+----MLRQYQKSLKERFNEEFIRLRDKENIVDYVSDICKALQVVEGVEFLGCDVV---------------tdeskfktrgrenskfvSIEESRLNLITMKFRIS--QDGKqeVIEKSIYVPKLVDGFYFQLNSSRYYPILQVVDKstynsrnavvlktllmpiilrfkktlivdsagkkysgkvfslnlfrhnvnilhyylghtrmssvlqyfgfgeedmgfvansditk-------------------------------------------------------------------------------------------------------------------------------------------------------
+>MGYP000206073017	111	0.372	8.390E-23	106	271	277	14	179	200
+------------------------------------------------------------------------------------------------------------------------------dvyhvlrwmaynhtqvqdiDSVCVYNRRIRLYEYMLYPLLINFANATYRILNSR-NVDMNRLETVFNSISPMFIIRHLLTNTLFRYSNNTSTLDLFTSALRWSARGPQALGSSGdGVALMFRNIHPSYLGILSLNSASASDPGMSGTFVPMAK--DIDNMFFkSKDFTP---
+>SRR5574343_924590 
+FNDAV------------NDKLINGLFDIPLEEHVKEIISSLEtCCSGIKIISMEYHADEHNIHMNDH----iikrekkikkkdkckhkFINDDRVGRLSIVVDITGVDDDnkestIvtRrIKRDILISLVDKHGRYTLKGKKCYMIYQLVENstytttkglvgksllaidierslmkgiediegntyelpiyhvkifknlinimiimshnglinaleflgvidiisiveeidhidmqdnlifkinkklfilvnrnifnkymyvqgilamilemcnnrfsiediydgelwikklhksgklekgisqlifcdrmidetsarvlginkynkkdiysflrwmllhynelrkkDNLSLTSKRLRKNEYIASLLNMEFTRRLNRVLlEVQ-NgvVTLRNLEDLF-KFPGSILKEKMYSSGILRYDDIINSMSVVS-KTRYTLKGPHSQGNkNKkSMSVSSRGLHPSMIGHKELL------------------------------------
+>3300022895.a:Ga0213825_1000097_58	84	0.508	1.461E-13	4	125	277	5	126	490
+----FIKSYQLSNPEKFNEDLINLKKNEDITMYISDVCKSLEIIEYIEFLGCEYQEMNKVY---------kntsaskeiDIEESRLVNLVMRFRIS--KDGEeeIIEKKLFFPELIDGQYFIINGNRFFPVFQLVDS-------------------------------------------------------------------------------------------------------------------------------------------------------
+>MGYP001351538910	106	0.371	6.106E-21	104	264	277	12	166	168
+------------------------------------------------------------------------------------------------------------------------------kqdiysilkwmlqnfdehrkiDYNDLANKRLRVWP-IAFPLLMLFSKATYRILNTR-NLTIKTIAGVF-NIKPNFLLKNMItSNSNIRYSNYVNVIDLFGAYLKVVCKP----GGSTtDISEKARGIHPSYIGRLSLISSSASDPGITSTIIPFA---QLENRRF---------
+>SRR5574344_62276 
+------------------------------------------------------------------------------------------------------------------------------akDNMDLKNKRLRMNEYIASYLIKRLSKRMNKF-iSNN-DVKLEDVELLI-NMEQDYLLKTVisSKKPLLRFDNTVNDLDLFT-SLKYTVKGPGAIGGkSGnAINDIYRGIHPSYVGAIDLNTSSNSDPGMSGMFTPFV---ELYGK-FFSEEMEP--
+>MGYP000933482619	121	0.343	3.855E-26	104	272	277	5	169	574
+------------------------------------------------------------------------------------------------------------------------------kqsiysivkwmiqnfaelkqkNNMDLSTKRLRLNEYIASMLSIRLGESVNRVLaSQG-KATFKQVENIF-KFPGNIVLQLLQTSQLLKYDDRVNDLDIFS-ALRYTVKGPNSLGSkSDrNINVKFRGVHPSYLGNLDINVYSSSSPGLSGSCTPFA---KVDGLYFDNNPE----
+>EndMetStandDraft_3_1072993.scaffolds.fasta_scaffold4383462_2 # 89 # 259 # -1 # ID=4383462_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.690
+------------------------------------------------------------------------------------------------------------------------------ryestcllnrrhdewnfnsieetitnlfshismidgwsvkevlwkppvksgrteelkrhltrviritledprkethnfdvkipilvdkqffyigghlkipifqllddpvlykdnqsdirirtnvisvtmtpdyfklfrekvpihelvtaiytedefkhfvvdtinalapkppkniehkvmkldhttgrlcvklssqrqtevlealwticmenygnstdierliqlgsyfskihndeekkgnhikfsltkaanvdifskrffktnsivfellrayidgprSDVNVSNKRIRFSEY-ILAPLAKk----MYDMVmTIN-NT----GKPDY-KIPQSILLEECNINQLIHFNNSINPVSELASLFQCSLVGTGAF--KKeSVPAHLKDLNDSQFGHICSADTP--DRDGCGVILNM-----------TPTTKLNLLgkfitd
+>MGYP000183432047	64	0.261	3.084E-07	4	203	277	3	208	563
+---FLKYYKNEN-EdKVNYSLIKRENLMEEAIQFIVNASKSLEICENIQFIGYSINNDETSINPESY----vtqrggdkntkyiYTNDNRNLELTLKFKISAFEKKsgkVesEyIEKKILIPKIDENDYFTLKGKKRYLIYQLLESstyntsngitvksylpidlirefddltdttgekytcpiyvvkmfnklrdillfycahmgfyntlryfs-------------------------------------------------------------------------------------------------------------------------------------------------------
+>MGYP001338165221	76	0.401	4.313E-11	0	134	277	3	137	159
+----LIKEYSKTNIEKFNLDFIYKKNNENILEYLDDVSKALNILNGIEYLGSEMI---------------tnereaklkedkNINISRMNLVILHFKITGYSNKKkevleeIINLPILFPKIINNFYFIHNGNYYFPIWQIADKdtyvvgrner-------------------------------------------------------------------------------------------------------------------------------------------------------
+>MGYP001228275072	78	0.416	1.308E-11	6	134	277	7	139	488
+------KEFQEENPEKFNEDLIYLKKKdtepENVIKHIDNICESLELINGIEYLGSTVETNEYSF---------mhnrntqEVNISRLILITMKFKIS--SENKse-iVEVPLFFPKLVDNYYFILNGSNYFPIFQLVDKdtyvigsgqkr-------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR5699024_4609880 
+--XTKNIQEEVSKQEPFNEDVIYFRENENLEDIISDIYKSVEFIKGVKFIDCKVVPPNEVYEYNQ-----mtdkqfkardfrkiNVEESKLLEVQITVEFE-SAEGEkeLYTHKLDFPELIEGQYYYINDNKFFPILQLADTefykpkastvvmknllqplsvngskkdelidddkkmpkklrgrtlylevfnknkpvpaflffiakmgldetfefldikkycelvdtndekddkhyyfrinnkitiqvdkewldqddryrtsmvlcikdlfkgmragldkvydkefwlknlgsvfsgstnvdtkiekansmilsfdrildnstknisrlepedkestyhvvkymfknfdnlnllDNTDLANKRLRVLEYLTYPLNRKNSDTSYRMINFT-DX-----------------------------------------------------------------------------------------------------------------
+>MGYP000887225514	64	0.278	5.544E-07	0	154	277	2	196	220
+IIYSLLKEYSDQNPEKFNDDFIYSREKEDFMESITDIIKSLEIIDEIEILDVKLVEDESQFGPMKN-YNElingkigkidastenfkkgykPIKRSRLNKIIFTARITpsFEIEPteiladepqPrkvvpnkEsytITKELFINKLVDDFFFINDDIKYYLIYQLTDKgfyrvndaiclksllmpittrrfnsily-------------------------------------------------------------------------------------------------------------------------------------------------------
+>A0A2W4I656	63	0.256	1.076E-06	0	179	277	0	212	621
+MILDKLHHEKFENREGFNEFLIYGNRNEELVEYIKMVLKDYERVGCYKMLSAELITDEREIDISKYEMEKfsykknlkgilentrSINDSRYNLLKVVFEISiagNNGEIErkEKEVHLLLPKPYNKYYYLINGKKLYPIYQVVDNstynkdnnttvivktlrsplkivksnveiedtnkniwnltrytyeisygkkdnkinpalyyfakdgf-------------------------------------------------------------------------------------------------------------------------------------------------------
+>UPI001968260E	45	0.301	4.745E-01	2	164	277	949	1110	2206
+------------------------------------------------------------------------------------------------------------------------------sdfkylGDNNIEKFNKELIQKVNNEEVEQLKQEINELNNIK-KDLFEKVEKLD-GVSTEEINEAKN--KIKEAPDKDEALKIFE-ELEHKSKKENAK-KEIeKLSNLSKEIAQKHF--IDLINKAN-KDDIDNIVENAN---KINK---INENNINELkklpllnqnyltdsenkik
+>JYMV01.1.fsa_nt_gi|819816404|gb|JYMV01053755.1|_1 # 3 # 1463 # 1 # ID=53755_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.386
+------------------------------------------------------------------------------------------------------------------------------lrkkDNMDLTNKRLRCNEYIVSLLTKAFNERMNRVIaAGS-RVTLDKVKEXL-KFSGNILMDQLHISGLLRYDDRINDMDFFA-KLRFTLKGPNSLGNkNEnNIPMKYRGIHPSYLGRLDINVCGTSDPGSSGIITPFC---KTEGLYFDGAHEPED-
+>G4KKD3	80	0.368	2.363E-12	11	146	277	15	150	516
+-----------DNPEKFNEDLIFMRNKEskELHHYFYDVFNSLKLKGITFLSSETIT---------------detefhkyipkksiPIENSRLELVRAKFRLE--ADGEskEIVVQIFFPKLIDNYFYEIKGSRYLAVYQVTDRnfytssdasvylksllmplg-------------------------------------------------------------------------------------------------------------------------------------------------------
+>MGYP000900749470	56	0.286	1.409E-04	11	175	277	1	166	177
+------------kNPEKFNNGFIEKYED-NILEQIEEIFSTLA--KTTTGIDV------------------isvrklnelefkqreiqNVYISRFDLIEVKLRITGIEKRtklEktEdIIVPLFYFKNINNR-FIFNGNNYFPIYQIVDRdtynvktknsknlilktllmginiksklskeeitllddtklkiegkilri-------------------------------------------------------------------------------------------------------------------------------------------------------
+>MGYP000843856067	91	0.421	8.678E-16	145	264	277	11	127	138
+-------------------------------------------------------------------------------------------------------------------------------------------------LRKYFSDQIYRVLNSP-TRSKVILNRIFSSLKPMYIIKKTVVNELLRYYNATNELNLYSCLLKYTFRGPQSINr---IVSVNQRDIHESYVGKLSLVASSASDPGISGTLTPFV---QLYDNFF---------
+>SRR5574343_142680 
+------------------------------------------------------------------------------------------------------------------------------lrqkDNLNIENKRLRRNEYIASLLTAEFSNRLNRIVsMGK-KASIDEFKEIF-QIPGDLLIKKMHEFGILRTEEIANDMDFFN-KFKFTKKGPHALGNkNEkNISIIQRGLHPSYLGYVDISVNSSSDPGTSGLLSPFC---NIDGLYFDKEDEPNN-
+>MGYP001304103111	117	0.274	8.373E-25	96	272	277	36	212	284
+------------------------------------------------------------------------------------------------------------------------------kdilqiseynkrdiyavtrwlvqnfealrrkDDVDLKNKRLRSNEYIAALFTQELSMRVKRIVdYRN-SIDMPRLKDAM-KIPGDIIVQKLRTSGLMKFDDKINDMDIWT-KLRYTIKGPNSMGNkNPlAIASRYRDIHPSYMASIDINVCGTSDPGASGTLTPWV---KTDGLFFDGNMEPE--
+>MGYP000845639897	105	0.284	1.528E-20	102	273	277	22	191	276
+------------------------------------------------------------------------------------------------------------------------------rlpipgydilvwilreyanlrlkNNLDVGTKRKRLAEYFAALYITKLSTGMFKFAdEGK-NIQISQIEKRI-FTFPDYLLKVISRDRLVNSRDNVNDDDAFL-ALKFSYKGISGLGEnKNsSIPRGYRQVHPSHLGRIDLDSSSPNDPGLTGMICPMA---EMY-DNYFSDYNEPNT
+>MGYP000601149992	59	0.273	1.379E-05	0	145	277	0	178	215
+MH-KFLKRYSEENPEKFNKDFILSRTDDDILEYVRDIFNALEILNEIEILDVSLE---------------tdesgfspiiasnrfykPILESRLNKIHYKVKITPSKESVlkpilvdefetdidmaKFDAmeeskssdssfiiekDLFINKLVDKSFYINE-----IFYCIL--tpynsnsvtltkrfeddffgelikeeqf-------------------------------------------------------------------------------------------------------------------------------------------------------
+>MGYP000407612070	127	0.277	5.139E-28	101	276	277	16	188	335
+------------------------------------------------------------------------------------------------------------------------------pyhkrniytilrwimmefnelrmkDNLDLNTKRLRdENEYISSLLTKELSRRLNRILsLGE-KATIDNYRELF-KFPGDLIIQRINSSGILRFNDNVNDMSFFS-KFKYTNKGPHALGSkNTnNIGIRYRGIHPSYLGNIDILVCGNSDPGTSGMLSPFN---KMKSFYFDDSPEKDDN
+>MGYP000222913508	103	0.289	7.033E-20	104	269	277	5	163	164
+------------------------------------------------------------------------------------------------------------------------------iydvlaylmqnfnelrkkDNLSLKNKRLRRREVVAAMVTQDISKRISNIIkKGA-KVELDDILNAM-KIPANLLIQKMNKSNLLRFDDNINDNLSII-KLTYTIKGPNSVGGkNSnKISKDIRGIHPSYLGHIDILHCGNSDPGTSGVLNPFT---DIKSMYFDE-------
+>SRR5699024_507913 
+------------------------------------------------------------------------------------------------------------------------------kkDNYDVSIKRIRFGQYVAATYIFKVIKGINRVSdQNN-RITTESIKRAI-RTDPMYLVNAISKSNLVTYRNMVSDMDGLL-ALKYTLKGISGIGEtDSnSIPDSIRFVHPSHLGRLDLDASSDNNPGITGMISPFI---KLDHG-YFSDKDE---
+>MGYP001150754531	109	0.262	5.278E-22	96	271	277	4	184	240
+------------------------------------------------------------------------------------------------------------------------------eslrlpeiykgnvyrilywmiadfdsmkqrVNIDMANKRIRKNEVLVSSSLGRkiaenVNKLIERKTkSKM-N-NMDTLLEMF-NFNSDIVITGM-RNmnDVVKFDEVSNDMMFLN-QFSFTSKGPNSLGEgNSkNIANKYRYLHPSMVGKLDLFTTSNSDAGLSGSIVPFV---KLYDGYFFTPEREP--
+>MGYP000966724697	64	0.406	3.084E-07	12	125	277	12	127	166
+------------NPEQFNERFIFQRKHDDLKDYLEDICKALEVIEGITFRGCEII---------------edetkfsqhfqdenawiNIDESRQVLAIMRFHII--HKDQeeEISVPLFFPKLVDDFFYILNGNRYYAIYQLVDR-------------------------------------------------------------------------------------------------------------------------------------------------------
+>MGYP001245870616	113	0.267	3.342E-23	104	272	277	7	179	208
+------------------------------------------------------------------------------------------------------------------------------kediyslmrwvifefdtlktrNNMDLNNKRIRKNEHIVQPTLGKkiaenIIKILERAGkSNM-N-VIDTLLEGF-NFPSDIIISGM-RSngYLIKSDDLVNDFTALS-DLYYSCKGPNSLGEkSSkMISQKYRNIHPSFKGRIDINVSSNSDVGMSGAFTPFV---KLYDRFYFTPEREPD-
+>SRR5574344_2832439 
+------------------------------------------------------------------------------------------------------------------------------lkDNLDISTKRIRCAEYIAALYAMKLTNGIYRISaLGK-RVDINQIKKAI-NINPMYLIGAMQKCRLVNYRDMVNDKDAMA-ALKFTYKGIAGIGEsSNnSVPNSYRAVHISHLGRVDLNSSSSTDPGLSGTICPLG---KLYKDNSLSDFEEPNF
+>561|Ga0247611_10004535_8|-11008|00	96	0.250	9.191E-18	101	271	277	328	502	517
+------------------------------------------------------------------------------------------------------------------------------pktnsftilrwmflnysqlsnKNASIYNKRLRYAEYLVAPVTRECQTRLYRFLkTRP-NMrDKKRLIDVF-KPSPSLLCNAIIgkvknkSQmlNVAKYSNQVNDLVLLSTALKWTASGPGSATEySGhRVSAHFRNYAPNYVGKVDVLATPNGSVGLSGNLSPW----V--QV-----------dtknltftnp
+>MGYP000620994815	119	0.274	1.798E-25	101	260	277	9	168	186
+------------------------------------------------------------------------------------------------------------------------------pedkddiyrilrwmmyefsalrkkDNLDISTKKVRYAEYIAALYASKLAIGIYRLSdKGD-KADLDTVRKAI-RIPPMYLINAITKCQLVNYKDCVNDLDALT-ALKYTYKGVSGIGEkS-nAISSAYRAIHPSHLGRVDIDSSSNSDPGVSGTLCHLihC---MIY-------------
+>ThiBio_1000_plan_1041568.scaffolds.fasta_scaffold84292_2 # 249 # 446 # 1 # ID=84292_2;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+------------------------------------------------------------------------------------------------------------------------------akDNLDVTTKRIRFSEYIASLYVMKLSKGIYRISdtRKK-NINLDSIKRVI-RIPPMYLISAITKCNLINYRNLVNDLDSTL-AIKYTVKGVSGLGDqSSkSVPKIYRYIDPSNIGIFDLDDSPKSDPGMSGTISPLV---QLYGM-SFSDYSEPNI
+>SRR5574344_1829837 
+--------------------------------------------------------------------------------------------------------------------------------IDMANKRIRKNEVIVSSTLGRkisenIHKLIERKTkSKM-N-NMDTLLEIF-NFNSDIILTGM-RNmnDIVKADDSSNDMAFMY-DFAFTCKGPQSLGEgNSkNIADKYRFLHPSMVGTVDLFTTSNSDCGMSGSIVPFV---KLYDGFFFTDKKEPC-
+>A0A1V5ZN73	76	0.301	3.476E-11	0	136	277	0	120	1005
+--------------MIFKNPYYSLEED-NIFNLRKKEYDSIP--TKVRRIIRPIE--EMGFELTDF----kikdvknssfELQKTIKDNFIIKFKNE-----Nhi-IDLSFYIPRLIDNNYFIINGMRKVPLFQLFDIpmveknnilkir-------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR5574343_553303 
+------------------------------------------------------------------------------------------------------------------------------nkNNTDISTKRIRSSEYIASLYAIKLSSNINNISnLGT-KVNIKKLMQAI-CIKYSYLLDQLKTCKLVTFKNSVNDNDALT-VLKYTYKGIAGIGEkKSsAVPNKYRFVNASHIGRVDKDSSSNSDPGMSGILCPYA---TIYENGFLSDFKEPNS
+>MGYP001098387776	60	0.270	1.030E-05	0	132	277	0	154	457
+MIDYLCQYETVF-DQNLNVDLMTRAHDKPLLDYILECWKSLEVIRGVKIIGWEYTDKESEIDINKY----ifkrergkkknekwqykYIDDSRLGLLTVTVQIHLEYTDvkdgeKkvEeqvIKKSMLIPLQDENGYFEINGKKVYLIYQLVEKstytapn-------------------------------------------------------------------------------------------------------------------------------------------------------
+>MGYP001048931705	64	0.268	4.136E-07	9	151	277	10	167	555
+--------SNPN-KDRLNYGLINKTYDKPLIEYINDSAKSLEVIKNIEFLGSRFVEYESEIDMSKY----errrkskdkkknkqeikymSIDDSRVAELILKFRITYKGEVe--iIEKPILIPMPDEYGYYQIKGKRYILMYQLVDAstyvnknsvvlksimpifmtrkafsk-------------------------------------------------------------------------------------------------------------------------------------------------------
+>MGYP000392794212	105	0.282	1.125E-20	123	272	277	0	149	167
+------------------------------------------------------------------------------------------------------------------------------rlkDNFSLDNKRLRCNETCSSLLTLEFSKRLSRLMsLGD-KASIENFKEMF-KWPGDMLITKLFQSGLLSFDDSVNDLNFFK-KFKFTTKGPQSLGNkNGnNVGVRYRSIHPSFIGNIDILVCGNSDPGRNGLLSPWG---KIKGLYFDDSMETGN-
+>tagenome__1003787_1003787.scaffolds.fasta_scaffold6361306_1 # 2 # 262 # 1 # ID=6361306_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.713
+------------------------------------------------------------------------------------------------------------------------------dhnltstyalirwmmqnfgqlrkkDNYDLANKRVRSNELIAASFNMNFSRKINSLLNRK-KLTIEAIEKIF-NFREDELMSSLIYGrhpcAILRYGVDVNSNTAIN-ACRYTTLGLSGL-SGGyATPVAARDIHPSHIGRLDLNCVAHGqNTALAGM------------------------
+>SRR5690554_4107726 
+--------------------------------------------------------------------------------------------------------------------------------ASLINKRLRLAEYIIDPLKQLMKKKAYSYGrTRgG-IRDIRRLESVF-TVPPSIILDAIIgkTPtlNTGKFSNAVNDFTIINSITKCTQTGPNSPGSgKSsYMPKDFKRLHQSMIGRVDLINTSVNQPGVNLLILPNC---NIDPKNLSFKKVLDNEgex
+>SRR5574344_818829 
+------------------------------------------------------------------------------------------------------------------------------akDNIDISTKHPRMADEyLPSIYAMKISRGIYRISdKGK-NVTFKDVTRVI-DTPPNYILKNINAANLVDYVDLVNDNDAEL-ALAYTYKGISGLGDqgSGsAVPLIYRSVDPSHLGKVDLDSSSASDPGLSGMICPMA---KIYDG-SFSDYQEPNG
+>SRR5437762_982590 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------LDLKRLETVFSNIGPMFIIKRLITNELFRYNNATSSLELFSAALRWSSRGSQSLGSSGgSITIKYRTVHPSYLGVVSLNAASASDPGMTGTLVPMSK--NIDTMFF---------
+>GraSoiStandDraft_17_1057272.scaffolds.fasta_scaffold71550_1 # 1 # 2025 # 1 # ID=71550_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.717
+------------------------------------------------------------------------------------------------------------------------------KDNSLKNKRLRLDEYVITPLKVALKKKAFQWAkIRgS-FRDLKRLVDVF-KIRPSIILDAIIgnSSqslNVARYSANVNDFSLLNVITAATTSGPDT--GsVSgWVTKDNMTLHPSMIGRVD--------------------------------------
+>APSaa5957512622_1039677.scaffolds.fasta_scaffold288786_1 # 47 # 475 # 1 # ID=288786_1;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.275
+------------------------------------------------------------------------------------------------------------------------------akNNLDVGTKRVRLAEYVAALYAMKLSTGMFQFAdDGV-NIQVSQIEKRI-FTFPDYLIKAISRDRIMIGKNNVNDLDSFN-AIKWTFKGLSGLGDsKDsAIPSGYKQVHPSHLGRIDMDSSSANDPGMSGMLCPMA---PVF-DNYFSAFDEPNT
+>UniRef100_UPI0015BA3A6B hypothetical protein n=1 Tax=Bacilli bacterium TaxID=1903720 RepID=UPI0015BA3A6B
+------------------------------------------------------------------------------------------------------------------------------DNYDMSYKKLKIAVYIAGFYANKLSKVlINAANgINS--LTINKFFKTF-NIDHKFILDCLKNSNLVSYKNNVNDDDIFS-VLKYTFKGASGIGEnKAsAVPVKYRLANPSHIGKVDCDTSPAGDPGMTGLLCPYA---KVYDGMYLSDYKEP--
+>tr|A0A1V5ZN73|A0A1V5ZN73_9BACT DNA-directed RNA polymerase subunit beta OS=candidate division CPR1 bacterium ADurb.Bin160 OX=1852826 GN=rpoB_3 PE=3 SV=1 
+------------------------------------------------------------------------------------------------------------------------------SDIDLINRRIRFIEYIILSEMIKt----VFDFYiTNK-DK----KKPKF-NINSNRVISNCNVSDIVQFDFSINPIDELTKLSRVTLLGPGGF--GReNVPEHLRDMHESMFGRICVVDTP--DRDNCGVLHCL-----------LPNTKLDENlkfde
+>SRR6056297_869767 
+------------------------------------------------------------------------------------------------------------------------------idrtygqkavfnmkeanenmidpitkellefeglpvslsnlltstcidklmnddidSLADLKIYRGRLSEMFLNLMYSQikSSHSEYRRKlTFD-D-----EEAKI-NFYENWLIENAyAGGGILDfYSEPTNPIEEINSASKTIKTGPSGV-PGKiSFKKQHRNLHPSHIGNMGANASS--E-GNTGLDVAH----TLTCAIM---------n
+>MGYP000953135005	75	0.285	1.420E-10	5	125	277	1	139	376
+rk----FLHKMENKYEENLNLDILNKAFDKPIEEYIYQAFKSLEILPAIKILGYEYDPKgEADYDQNNY----iirrnknknkaikSIAESRCSVMYIDIELKGMNKKGefEvrqIKKPIIIPIQDDKGFYTIKGKKYYLIYQMVDK-------------------------------------------------------------------------------------------------------------------------------------------------------
+>JI91814CRNA_FD_contig_21_7087840_length_271_multi_5_in_0_out_0_1 # 3 # 269 # 1 # ID=259509_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.689
+------------------------------------------------------------------------------------------------------------------------------DDTNLLNKRMRCMEYMVLKIISKa----AFDLCmLSK-GS-----SIKL-KINSKQIISEVSVSDVVQFDSSINPIENLTSILRCTYLGksTGGF--DRsSIPTRLXDINPSMFGRICPVETP--DRENCGVVQSL-----------IPNVNFDQNykfteei
+>DeetaT_19_FD_contig_21_1246311_length_242_multi_4_in_0_out_0_1 # 3 # 212 # -1 # ID=74185_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.605
+------------------------------------------------------------------------------------------------------------------------------fpdskddkiidkrqnfkdptlidkfnsffgvsikfsddevklieegrtvlklkdksglgtfisvetaklesedenlfsvlgcladirtenkkkrmtftyddfitpnfwidklsifftknsdpikkfdkiktmlisldrlmddatrkilnikeedkkntlsvihymlrnfdnlareDNQDLDNKRIRLYEYQLYPLRKYFSDHIYRILNSP-TRSLNVLERMFSNLSPMYIIKQTVVNELLRYYNSTNELNLYGCLLKYT-------------------------------------------------------------------
+>AP41_2_1055478.scaffolds.fasta_scaffold168832_1 # 2 # 754 # 1 # ID=168832_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.252
+------------------------------------------------------------------------------------------------------------------------------DDTDFINKRIRCFEYVILSKVSKa----VFDLCmSNR-TS----RKPKF-NINSSQILSDVNVSTIVQFDFSINPIEELTLLSRTSLVGPGGF--KKeNVPYYLRDIQPSMFGRVCPVDTP--DRENCGILQNL-----------LPNVDLDENlkftekt
+>tagenome__1003787_1003787.scaffolds.fasta_scaffold20758199_2 # 692 # 1501 # 1 # ID=20758199_2;partial=01;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.677
+------------------------------------------------------------------------------------------------------------------------------KDMSLINKRLRLAEFIIDPLKQVMKQKIYHFKrTRgG-YRDIKRLEDVF-KINPNMILDSLIgkTAggmNTGKFLNAVNDLSILHSITKATQTGPGAPSSgKGsYVPKDFKRLHFSMVGRTDLISTSVNSPGTSFNVLPNC---K---------------
+>MGV-GENOME-0379675_67	69	0.246	1.211E-08	0	133	277	0	155	587
+MRSNLCHYVNKW-EKELNIPLLEKSADKPLVEYVKEAFKSLEILKPIKITGFDYTEKESEIDINNY----vfrrdkkkkkkerygikAIGDDRVGRLTVHIELALPDTNpstkaHeyKihnISKSILIPLQDENGYYVIKGKKYYIIYQMVEKsiynvgnr-------------------------------------------------------------------------------------------------------------------------------------------------------
+>HubBroStandDraft_2_1064218.scaffolds.fasta_scaffold5900333_1 # 1 # 231 # 1 # ID=5900333_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.619
+------------------------------------------------------------------------------------------------------------------------------DDTDFINKRIRCFEYVILSKISKa----IFDLCmSNK-ST----RKTKF-NINSSEILSSCNVSDIVQFDFSINPIEELTKLTRTSLIGPGGF--EReNVPVYLRDITNSMFGRICPVDTP--DRDNCGILQSV-----------LVNTPLDENlkfteet
+>SRR5574344_2185230 
+------------------------------------------------------------------------------------------------------------------------------rkENTDITTKRIRFSEYIASMYANKLSTNiYSKISnFNS-KVSMKNLVQAV-KIRYNYFIEQLKKCKINPYKNSVNDNDALN-VLKFTYKGISGIGEnKSsAVQKKYRFVNASHIGKVDLNSSSNGDPGMSGTLCPYV---QLYDGSF-SDFKEPNS
+>MGYP000304499464	61	0.242	3.208E-06	0	132	277	0	154	160
+MIQYMKDYVTVY-EKELNEDLLTKAADKPLLDYILESWYSLEVMEGIKILKWEYTEKESEIDINKY----ifkrergkkrkekydykFIDDSRLGLLTVWVEIQVETKDpklnqPvlYkqtIKKSMLMPLQDDDGLYHLNGKDIYMIYQMVEKstytasn-------------------------------------------------------------------------------------------------------------------------------------------------------
+>DipCnscriptome_2_FD_contig_31_1712854_length_2177_multi_9_in_0_out_0_1 # 1 # 144 # 1 # ID=308873_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.493
+------------------------------------------------------------------------------------------------------------------------------DDTLLTNKRVRCFEYMILSKISKi----VFDLCmANR-TA----RQPKF-NVNSTQILSECNVSDIVQFDFSINPIEELTLLSRISLLGPGGF--KReNVPKHLRDILPSMLGRICPVDTP--DRENCGVLQNL-----------IPNVKLDENsrfkrdf
+>APFre7841882654_1041346.scaffolds.fasta_scaffold1449677_1 # 1 # 246 # -1 # ID=1449677_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.467
+------------------------------------------------------------------------------------------------------------------------------KDVSLVNKRLRLSEYIIEPLKSELKNKANRFTkIRgS-YKDIKALENVF-RPSPSIILDAINgkTSglNIGKFTSNVNDLSLMHAITKTTQIGPGAPGSgKSsFLPREFKRLHHSMTGRTDLISTSVNSPGVTLNILPNC---D---------------
+>SRR5574344_663366 
+------------------------------------------------------------------------------------------------------------------------------kkNNVDVSIKRFRMGEPIAAVLANKMSSSIYSLSdSGK-KVTLMGVKRRL-YTHPLYVINNIvNMSNLIAYRDLVNDDDATL-ALKYTYKGISGLGENGaSIQQTYRYVDPSHVGIVDLDSSTTSDPGMSGTICPMA---EIYNGNSFSEYQEPNF
+>MGYP001365060698	63	0.274	7.432E-07	4	125	277	0	133	403
+---FIKTYKNDN-ENRINFDLINRVNDDELVEYLVNSCKSLEVLKNIKFLGYEYITDESKIDINDY----mstrkkskkksdtkymYLQDSRYGELKLRFRLTCKDDEt--iITKKLLVPIPDENGYYTIKGKKYFLLYQMVDS-------------------------------------------------------------------------------------------------------------------------------------------------------
+>HotLakDrversion3_1040250.scaffolds.fasta_scaffold01032_4 # 2710 # 3081 # -1 # ID=1032_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.669
+------------------------------------------------------------------------------------------------------------------------------DDTNFINKRIRCFEYIILSKVSKa----VFDLCmANR-NS----KTPKF-NINSTQILSECNVSNIIQFDFSINPIEELTMLSRTSLVGPGGF--NReNVPYYLRDIQPTMFGRICPVDTP--DRENCGILQCL-----------IPNVDLDENlkftdva
+>HotLakDrversion2_2_1075449.scaffolds.fasta_scaffold185995_1 # 2 # 157 # 1 # ID=185995_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.462
+------------------------------------------------------------------------------------------------------------------------------NIADLKVYRARLSEMLLNMLYSQikMSMSEYRKKvKLG-D-----EEAKI-NMYSDFVIDTIyEHAGVLNYTEPTNPIDEIALASRTIKNGPGGI-KNRqSFRKEHRNIHESHIGNLGATATS--ESGNTGLDTCH----TLNPAIL---------n
+>Dee2metaT_33_FD_contig_31_56257_length_1805_multi_10_in_0_out_0_1 # 153 # 1727 # -1 # ID=705009_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.455
+------------------------------------------------------------------------------------------------------------------------------ENLNYNNKRLRFVEQLIYIHLCKd----FYNMIvCVR-KN----RKIKF-SINSKSILSNINVSNIVQFDSSLNPLAELSLFLRTSLSGPGGF--EKsNVPQYLREIHPSMINLFDSADTA--DRDGCGTTQYL-----------LPNVNIENNgtmtkqn
+>A0A349YHB5	117	0.222	9.177E-25	0	133	277	2	157	404
+MLKYLRDYPNGY-EDRLNIDLMNKSADDPLWVYVLDAWKSLEICPNLKIVDYKYNTTESTIDINDH----iykrkksqrkrdkvdykFINYDRFGCLTIWIKITVPEVDpktkvEiiKertVKKDILIPLADEHGYYFIKGKRYYLLYQMLEKstyttkns-------------------------------------------------------------------------------------------------------------------------------------------------------
+>YNPBryunderm2012_1023409.scaffolds.fasta_scaffold00474_15 # 15168 # 15983 # -1 # ID=474_15;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.632
+------------------------------------------------------------------------------------------------------------------------------DDKDYRNKRIRCFEYIVLSKVAKn----LFNLClASF-KT----SSPKF-NINSKQIISECNVSNIIQFDFSINPIDELSKLTRVSLVGPDGF--TKeNVPVHLRDLWPSMFGRICPVDTP--DRENCGVLQNL-----------LVNTKLDNNlrfseei
+>UPI00015C1537 status=active
+------------------------------------------------------------------------------------------------------------------------------DDTAFTNKRVRCFEYLIFAKLSKn----VFDLCfSNR-TS----KQPSF-NISTGQVLSDCNVSDIVQFDFSINPVEELTKLSRISILGPGGF--KReNIPRHLRDICPTMFGRVCPVDTP--DRDNCGVLQNL-----------IPNVILDENlkftqny
+>UniRef100_A0A1V5ZN73 DNA-directed RNA polymerase n=1 Tax=candidate division CPR1 bacterium ADurb.Bin160 TaxID=1852826 RepID=A0A1V5ZN73_9BACT
+------------------------------------------------------------------------------------------------------------------------------SDIDLINRRIRFIEYIILSEMIKt----VFDFYiTNK-DK----KKPKF-NINSNRVISNCNVSDIVQFDFSINPIDELTKLSRVTLLGPGGF--GReNVPEHLRDMHESMFGRICVVDTP--DRDNCGVLHC---------------------
+>MGYP000988200338	54	0.266	7.995E-04	4	125	277	4	137	438
+---LSK-YKNPN-ENNINFGLIERTYDDDLVQYIVNSCKSLEVLKYITFLGYDYTDDESKIDINNY----itirkknkkkgdktkfmYLQDSRYGELELRFKLDCKGESt--iIKKKLLIPVPDEKGYYTIKGKKYFMLYQLLES-------------------------------------------------------------------------------------------------------------------------------------------------------
+>MGV-GENOME-0379766_164	44	0.279	7.834E-01	5	124	277	4	130	583
+--AKFIAEYNDKNRPKFNDKFFNKSDD-DIIEDLKDVILSCERNKFYTIKVLNFEVIDDYNEVQKL----ligdetpsiSIKDSDLKILKVTYHVAcTKDED-TFDVLIAIPRVIDGAYIHLNGNDYFPLFQLVD--------------------------------------------------------------------------------------------------------------------------------------------------------
+>KBSMisStaDraftv2_1062788.scaffolds.fasta_scaffold1420677_1 # 3 # 350 # -1 # ID=1420677_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.664
+------------------------------------------------------------------------------------------------------------------------------DDTLFTNKRVRCFEYAIYSKVSKn----VFDLCfSNR-TA----RQPKF-NINSNQIISGCNVSDIVQFDFSINPIEELTKLSRISLLGPGGF--KReNIPSHLRDICPTMFGRICPVDTP--DRDNCGVLQNL-----------VPNVELDDNlkftntq
+>GraSoiStandDraft_53_1057289.scaffolds.fasta_scaffold4412820_1 # 1 # 240 # -1 # ID=4412820_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.683
+------------------------------------------------------------------------------------------------------------------------------DDTDFRNKRIRVFEYMILNKVSKy----VFDLCyTNR-SA----RKPKF-NVHSSQILSECNVSDIVQFDFAINPIDELTKLTRTSLVGPGGF--KReNVPKHLRDITDSMFGRICPVDTP--DRDNCGILQNL-----------IPNALLDGNlrfkees
+>21749|Ga0256407_10344028_2|-808|01	84	0.281	1.461E-13	108	227	277	0	125	132
+------------------------------------------------------------------------------------------------------------------------------ypylknmgirsvrwmlmnfpelrqkNNLDLSTKRLRLNEYIASLLSIRIGEGVSRVLtYGN-NIDLKQvETNIF-NFSGNVVIQSLHNSQLLKFNDLVNDLDVFS-SLKYTIKGPNSLGNkSShNVNTR---------------------------------------------------
+>10166|scaffold01593_37|-32010|00	58	0.266	4.414E-05	4	124	277	3	137	556
+---FIKNYVNKN-EERFNYPLINREYDDDLVDYIVDCCKSLEVLEYIKFIGYEYVTNESEINTSEY----idarsrtkpkkndatkymYIQDSRYAELRLKFKLECGGESk--vITKKLLIPIPDNNLYYTIKGNKYFLLYQVVD--------------------------------------------------------------------------------------------------------------------------------------------------------
+>uvig_592128_50	53	0.204	1.067E-03	0	134	277	2	171	434
+----MIKYINEIllpEqEKRLNLAIMRKEYDLPLIEYIKDVWKSLEVVKNIEILGFDYNEDESNIDINRY----irtrgkkksakervkykFINDERYAVLTVRYKVTAKAEDakpdeSkmKetiREKRMLIPVIDSNGFMYLKGKRYSLWYQLVEKstyttkdtvtlkslmpiglkr-------------------------------------------------------------------------------------------------------------------------------------------------------
+>uvig_590315_7	53	0.233	1.424E-03	0	129	277	0	148	561
+MHEFISKYSNVK-EveSRFNMALINRTNDDDLITYIVDACKSLEVIENIKFLGYEYTDDESKIDMNKY----ittrstrskdkikkyiFIHDNRVGELTVRFELTCWSKEkkEmiTkiQDKKILIPIPDENNYYLMKGKKFFLLYQMVDTstyn-------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR5574344_1435633 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------I----IKKFI-NNSPDSLIKQLIRCRLVNSNNLISDNDATA-ALKFSYKGVSGIGKKKeTISDIYRHCHPSHLGRVSLTTSSDGDPGMSGILCPRT---ELYDKHF---------sefeep
+>SRR5574344_112313 
+---XMLMEFSNQNPERFNSDFILSKNDDDILSEIKNIFKSLEIIDEIHVEDVEIN---------------gneeefgpikqqgkyykSPLESRLTKIHYKVRIDGRDEPIek----DMFLPKMLDHCFYYNEGVRFFPIWQVVDNlsyatnngvslkslmmpitmivldpfndqpygdkklvtdipnyfalifnkkvsplyyfmckfaldsltkagispyadldkfqgftdptmidelskfmnielkfsddpttlvengktvftvseknktgvsfsmkdtd-------------------------------------------------------------------------------------------------------------------------------------------------------
+>SaaInlV_150m_DNA_2_1039686.scaffolds.fasta_scaffold209198_1 # 1 # 141 # -1 # ID=209198_1;partial=10;start_type=ATG;rbs_motif=TAA;rbs_spacer=4bp;gc_cont=0.348
+------------------------------------------------------------------------------------------------------------------------------DDSDYRNKRIRFVEQIIYVHLCKd----FYNLInSLK-KN----RKIKF-SVNSKNILSNVNVSEIVQFDNSLNPLSELALLTRTSLSGPGGF--EKqNVPLSLREIHPTMKNLIDPSDTA--DREGCGTTQYL-----------VPSVNINDDgsfyskt
+>MGYP000759445788	65	0.243	1.714E-07	6	125	277	5	147	484
+-----KDYVSEF-EEALNVPLMNKEADAPLVDYIIDSWKSLEVVPNIKCVDFEYTEKESEIDINKY----ifkrekkkkkkdrydykFINDDRYGRLTVKLEISLLEENtetgeKfiHkypIKKAMLIPLQDEDGYFFIKGKKYYLIYQMVEK-------------------------------------------------------------------------------------------------------------------------------------------------------
+>MGV-GENOME-0379702_91	51	0.321	4.510E-03	163	271	277	0	96	209
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------MTVVYRKS-IQskRERFEIRKNSLSRVRY-SQSYSETYKSSLGEqSSkIISQKYRNIHPSYLGKIDLNVSSNSDVGMSGAFTPFM---ELFDNFYFNPNPEP--
+>MGV-GENOME-0373825_67	52	0.250	3.382E-03	4	124	277	3	140	562
+---FIKHFKNIN-EDQLNMKLIKREYEDDLIDFVVNVFKSLEVIRSIQFIDYSVEYDESKIDINKY----itsrkkkkkkeehikyhYIKSDRVFELTMRFHIEGIDNNeFksKiITRSILLPKKDHNNYMTLKDKKYFLLYQLVD--------------------------------------------------------------------------------------------------------------------------------------------------------
+>UPI00014C1E81 status=active
+------------------------------------------------------------------------------------------------------------------------------ymntdniideaiyvlkngaiDDSNYINKRVRFAEQVIYTFLASd----FYDLIvSIK-RKni----KKSMF-HVNSKIVVQKANQSRIVQFDHSINPLSELAMINRLSLSGPGGF--EKdNVPPYLRDINPTMFGLVCPADTG--DRENCGTTQYL-----------VPTVELNEDls
+>SRR6056297_54415 
+------------------------------------------------------------------------------------------------------------------------------DMSDLKIYRARISELFLNIMYSQlkMSHNEYRKKiRImD-D-----KDAKL-NLYSDFILETIyNQVGVLNYTEAVNPIDEIFLASKTFKTGPGGV-PGKnSFKKEHRNIHESHIGNMSANATS--ESSNVGLDTSH----TLTPAIL---------n
+>SRR6056297_2982769 
+------------------------------------------------------------------------------------------------------------------------------LFNDLNNKRLVFIEYLLRPFLMKISSLASEVSKGiN-K-DNLRVDELL---ITKYFLTSSDlnnpTGkkTIGLSGNYIYDSKNLY---SCILQPKATFITpGMnVPPGEVKHLHESHYETLCPITVSSQHPGETVSVIPNV---RLNS------------
+>OM-RGC.v1.006195602 TARA_018_SRF_<-0.22_C2138829_1_gene152804	COG0714	K03924
+------------------------------------------------------------------------------------------------------------------------------NDLQFTNKRIRCFEYVILSKVIKt----VFDCCmANI-TS----RSSSF-NISSSEILSKCNVSDIIQFDFSINPIEEITKLSRTSLVGPGGF--KReNVPKHLRDIYPSMKGRVCPVDTP--DRDNCGVLQDL-----------LPNVGLDENfrfnntt
+>GraSoiStandDraft_55_1057291.scaffolds.fasta_scaffold3521746_1 # 2 # 169 # 1 # ID=3521746_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.565
+------------------------------------------------------------------------------------------------------------------------------DDTDYQNKRVRCFEYLILGRVAKa----VFDLCmSNR-TA----KQPKF-NINSNAILSECNVSDIVQFDFSINPVDELTKLSRASLLGPGGF--NReNVPEYLRDVCPSMFGRICSVDTP--DRDNCGILQNL-----------LPNVDLDNNlmftnnt
+>AP95_1055475.scaffolds.fasta_scaffold23897_1 # 3 # 482 # 1 # ID=23897_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.594
+------------------------------------------------------------------------------------------------------------------------------DDCNYDNKRIRFAEQVIYCHLCKd----FYNMIsILK-KG----GRAKY-SNNSKVILSNTNQSSITQFDFSLNPLAELALLTRTSLSGPGGF--EKqNVPAYLRDLHPSQLGIIDPSDTA--DRDGCGTIQYL-----------VPSLTIDPDgtfekde
+>UPI0003AD6717 status=active
+------------------------------------------------------------------------------------------------------------------------------DDTDIRNKRVRCFEYAILQKVAKs----IFDLCvSNR-SS----RFIKF-NVNSKQILSDCNVSDIVQFDFSINPLEELTKLSRLSILGPGGF--NRdNVPKYLRDIMPTMFGRICPVDTP--DRDNCGILQNL-----------LPNVKIDENlkfidei
+>SRR5699024_7861798 
+mITSKIVNRINEEvsRDEMPNLDLVKFRKNEDTVGVIRALFTSYESVEGIKIKDVALKEFDSIYEF-------rekpkssarndkeyysvDIESSRYLNLEIVLELTCQVTGEveDFKINMLYPELIDDQYFLINNNRYTPIFQIVDAefyntkntivyknlfmplsikgdkkkeledingels-------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR5574344_84971 
+------------------------------------------------------------------------------------------------------------------------------kkNNVDVTIKRLRIGEPIAMCYAEKLSSAIYALSdIGK-KVVLKSVRQRI-YTTPMYVINRLmgaKMTNLVSYRDLVNDNDATL-ALKYTYKGISGLGETGSIQQGYRYVDPSRAGILDLDSSTTSDPGMSGTICPTA---KIYNGNSFSDYQEPNY
+>SRR5574344_238787 
+------------------------------------------------------------------------------------------------------------------------------kkNNVDVSLKRLRIGEAIAAIYATKLNQSIYSLSdSGK-KVTLQAVKRRI-YTTPMYVINNIpNQSNLIAYRDFVNDNDATL-ALKYTYKGISGLGEGGaSIQKSYRYVDPSQAGIVDLDSSTVSDPGMSGTICPMA---QIHNGNSFSDYEEPNF
+>SRR5574344_2178123 
+------------------------------------------------------------------------------------------------------------------------------saenkkdifsvmkylmlnfnelfnaDPQNLHNKRIRLYEYILFPLRVYFGQHINRIVNLQ-THrDATAIEKVFTSLTPMFLLKNLITSQLLRTYNATNDFDLFSAYLKGT-------------------------------------------------------------------
+>SRR5574344_1773769 
+------------------------------------------------------------------------------------------------------------------------------kkDNLDISTKRIRMEEYLAFLYAAKLVKGIFRIAkAGK-RATVDTIKKSI-KTQPTFLLKEINKCNIVNFRDMSNDLDSIT-ALEFTYKGLAGIGEkNMrSVPEIYKSVHPSHLKRIDLDSS----------------------------------
+>MGV-GENOME-0379802_42	43	0.248	2.449E+00	0	124	277	0	130	583
+miNQAKFIADYNERNRPKFNDKFFQKSDD-DIIEDLKDVILSCQRDKFYTIRVEKFEVIDDYAEIQRL----ltgeetptiSIKDSDLKILKVTYYTAiGSQED-TFDVLIAVPRVIDGAYIHLNGNDYFPLFQLVD--------------------------------------------------------------------------------------------------------------------------------------------------------
+>GraSoiStandDraft_57_1057295.scaffolds.fasta_scaffold4131532_1 # 1 # 246 # 1 # ID=4131532_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.577
+------------------------------------------------------------------------------------------------------------------------------ngtcDDSDYANKRIRFVEQIIYVHLAKd----FYNLInSIR-KN----RKLKF-SINSKAILSSVNVSNIVQFDNSLNPLSELAMLSRTSLSGPGGF--EKsNVPQSLREIHPTMTYLIDPCDTA--DREGVGTIQYL-----------VPNVEFTDDgs
+>APAra7269097403_1048558.scaffolds.fasta_scaffold43915_1 # 1 # 471 # 1 # ID=43915_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.677
+------------------------------------------------------------------------------------------------------------------------------plslliassfseeefdlflidriptpnekvkaivnlcvelwetttqserikhlgdffsvrpgdnvkkgnnvvfslkaafavdvfnhqffktnnllfemlyainegrrSDLTLDNKRIRFSEY-LISPLIKk----VYDLLtSLN-QT----TRNKF-RISQTIIFDFCNHSDIVRFNFPVNPVTELASLFQTTLVGPGGF--KKdNVPSYLRDLHKSHFGRICPADTP--DRSGCGVTLNM-----------VPTVVLNEPgtfvgf
+>SRR6056297_806173 
+------------------------------------------------------------------------------------------------------------------------------EFNDLNYKRITLLEMLLRPFLDKISSLATEVSKGiP-K-DQMKMDELL---ITKYFLTSVDtsnpTGkkQMGLSGNYIYDTKNLY---SSILQSKATFLTpGMeKPPSAVKHLHETHYGKICPITVSSQKPGEIVSLISNV---ELDE------------
+>SRR5699024_5857558 
+------------------------------------------------------------------------------------------------------------------------------qkENPNYANKRLRRNEQLGSIFGEFLSQRAMKLMtGNG-CKELDEYKNFL-KFQSDILFKKL-SSPFIQFDAEFNDMSFWT-TLKFSNKGHQSPG-igNSkRMSREVVATDISHIGRKDLTSLSNTX------------------------------
+>MGYP001029387733	48	0.226	4.489E-02	16	132	277	15	154	450
+----------------LNKSLIEKSDDRPLLDFIIEAWYSLQIIDGIEIVDWEYTDKMSQIDINKY----iikrnrnvrqkekydfkYIDESNLGLLTVTVKLTVDVTDpklneTvtKeqiIKKSMLIPIMDEDGCYLLSGQKVYTIYQLVEKstytaan-------------------------------------------------------------------------------------------------------------------------------------------------------
+>MGYP000497750925	58	0.380	3.301E-05	189	270	277	27	109	111
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------IAKYDAGVNDNALLKVALRYTINGPGSPGSsGGsLTSTQFRIFDPSYVGRVDIYQSSNSDPGVSGCLTPTC-KVDMKNLVFSKE------
+>LakMenE01Jun11ns_1017448.scaffolds.fasta_scaffold7842709_1 # 2 # 88 # 1 # ID=7842709_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.391
+------------------------------------------------------------------------------------------------------------------------------yfytdsiveeflyaiqneiyDDSDYVNKRVRFVEQIIYVNLCKd----FYNLInSVK-KN----RKVKF-SINSKSISSSINVSNIVQFDNSLNPLSELALLSKTSLSGP-GF--EKqNVPQSLREIHPTMKHLCDPADTA--DREGCGTTQYL-----------VPNVNINPDgsfys
+>GWRWMinimDraft_13_1066021.scaffolds.fasta_scaffold96568_2 # 100 # 399 # 1 # ID=96568_2;partial=01;start_type=ATG;rbs_motif=TAAAAA;rbs_spacer=10bp;gc_cont=0.397
+------------------------------------------------------------------------------------------------------------------------------DFIDLKNKRLSFIELLLAPLFKKAANITYQVSTGf---C----IDELM--IDQYVIVKNFhKnegkktKNnkLTFRSFHGLSGKTLYDLVNLYSSLLVHKC-SfvkpGMkSPPRSIANIHESHFGKLCPITVSAINPGEMLSIVPE----IFVDP-----------
+>SRR5699024_4314638 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------MYLVNAITKSNLVNYRNMVSDMDSML-ALKFTYKGIAGLGEnDSnSIPEICRHTHPSHLGRLDLDNSSDTNPGITGTISPFT---SIYDG-YFSDYQEPNS
+>SRR5699024_10938529 
+----YLNQLPNEYRELLNQDLLNKSFDRPLHEYIFDSFKGFEILPNIKILGYEWVPDEDKYDVNDH----virrnsnknktikHISETRCGVMYIDVEITAPDKNDviKvyyIKKALVLPIIDENGYITIKGKKCYLIYQLEDK-------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR5690606_35936364 
+----------------------------------------------------------------------rdmrwiSLEESRLNLIRIKFRVS--HKDKtdEIKKEIYFPKLINDFYFILNGSKYYPIYQLIDA-------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR5574344_756720	58	0.292	3.301E-05	135	236	277	0	101	102
+---------------------------------------------------------------------------------------------------------------------------------------VRRPDYMSASYANKVSKGIYRASdNQK-KITARDIKRYI-FVEPDFLIDKIVKDKFVGFRNSVNDNDAFT-ALKYSYKGISGLGEqKGtTIPDSYRHIPVQSLGR----------------------------------------
+>MGYP001060620593	83	0.248	1.973E-13	166	275	277	9	129	212
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------KKIDSIF---NQTILIKTFKeffkLSELSQFMDQINPLSEQTQKSKVSVFGPNGI--KRdNINSKIRDIHPSQYNRFCSIETP--EGQGAGLTSSI----TLFGKV-KAAWDMGAVavgatiyfgseesnrql
+>MGYP001054467548	75	0.352	1.420E-10	186	273	277	15	98	218
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------GSSLFRYNMDVNDLQALN-GLKFSITGIQGL--PStRIKDEQRDLYPSHLGRFELNAISSSSPGASGMLTPFC---KIYGEGYFGEEPST--
+>MGYP000916330295	64	0.236	4.136E-07	9	125	277	101	231	522
+---------PNEYRDNINIGMLKKEYDPPLIEFMVDAFKGLEILPNIKILGYQWEPQEEKYDINDH----virrninknkvikNIAETCCGVLYIDIEVSGLDKSGikKvhyIKKPIIIPIQDEDGYYLIKGKKCYLIYQMVDK-------------------------------------------------------------------------------------------------------------------------------------------------------
+>MGYP000658248955	51	0.240	4.510E-03	8	119	277	7	133	135
+--------YCEKNRKKINPKLFERSFDKPLVDYILDTFKNLEVLPGITMTSYEYITDQTKIHTQIN----kknkrdpkiknnkrlerlvTSGESIYDLLILHYHVKVRTQE-AdVTRRIWIPKLIDGRWYIRGGKKVLPL-------------------------------------------------------------------------------------------------------------------------------------------------------------
+>GraSoiStandDraft_54_1057290.scaffolds.fasta_scaffold4879956_1 # 2 # 220 # 1 # ID=4879956_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.721
+------------------------------------------------------------------------------------------------------------------------------NDLDLRNKRIRCFEYVVLEKVAKa----VFDLCvTNR-TT----RNPNF-NINTSHIISECNVSDIVQFDFAINPIEELTSLSRTSLVGPGGF--KReNVPRGLRDINDSMYNRICPVDTP--DRENCGVLQNL-----------LINTKLDNNlrfseer
+>GraSoiStandDraft_47_1057283.scaffolds.fasta_scaffold3960276_1 # 1 # 243 # -1 # ID=3960276_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.638
+------------------------------------------------------------------------------------------------------------------------------lrkkENLDLENKRLRCNEYIASLLTKALSERVNRIIsLGN-RVTIDRVKEIF-RFPGDIILQQLYRSGLLRYDDKVNDMDFFS-KLKYTIKGKNN-----------RPCSPYMRGKTRX-------------------------------------
+>GraSoiStandDraft_34_1057297.scaffolds.fasta_scaffold3462715_1 # 2 # 250 # 1 # ID=3462715_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.602
+------------------------------------------------------------------------------------------------------------------------------DDCSVENKRLRFLEYYLYSFLCKd----FYNMIvTLK-SS----KAATF-SNNSKVVLVNANSSPIIQYESPINPIDELARLTRIAMTGPGGF--KKdNIPAYLRDIHHTMKGRICPADTG--DRENCGTLLYL-----------IPNLKLDTDglftdqk
+>BarGraIncu00222A_1022003.scaffolds.fasta_scaffold333740_1 # 59 # 457 # -1 # ID=333740_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.779
+------------------------------------------------------------------------------------------------------------------------------ehcvdmllnkkmdSLADLKIYRARLSEMIINVMYKQlmMSHNRYSWKaEYG-D-----DNAKI-GIDPDYIMKELiTDAAVLTYTEPVSPVDEIFLSSKTIKSGKGGV-RKSvMFKPEHRNIHPSQYGIISANTTT--EGPSVGLQTSH----TLTPVIV---------n
+>11966|Ga0209995_1003046_1|-38|00	52	0.242	2.535E-03	10	124	277	9	135	559
+---------NPN-ENRLNFGLMNRDYDDDLIEHIVASCKSLEVLKYVEFTGYDYIDDEKEIDLNHY----ittrrktkkksdikymYLQDSRYAELRLKFRLNCKGEKa--nIEKKLLIPVPDENGYYTIKGKKYFLLYQLVD--------------------------------------------------------------------------------------------------------------------------------------------------------
+>UPI0008B9FDF1 status=active
+------------------------------------------------------------------------------------------------------------------------------AFTDLNNKRVVFLEMLLQPFLTRISGLCTEVAKG---N----YKNEM-KVDQLFIIKYFlKakntnmTNssVGLSGNYLYDTKNLYSGILVNKCSF----IPpNMsMPPTEVKHVHPSHFGKVCPISVSAQSPGETVSLIPTV---HLDE------------
+>SRR5574344_1794767 
+------------------------------------------------------------------------------------------------------------------------------nkDNYDMTYKKIRVSAYIAGIYAAKLTTNlINSTNgINS--LTVEKLYKNL-NIPHSFIIDILKKGNLVSYKNNVNDDDIFS-VLKYTFKGTSGIGEnKAsAVPVKYRLANPSHIGKVDCDTSPAGD------------------------------
+>OrbCmetagenome_4_1107370.scaffolds.fasta_scaffold173123_1 # 122 # 274 # 1 # ID=173123_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.484
+------------------------------------------------------------------------------------------------------------------------------krPDTDYNFKRVRFVEY-VLAPLIKk----VYDLIvTLyiyK-TF----KKSIF-QISKDVVLEKCVTSEIIRFNLPINPITELSSLLNIVLTGPGGL--KKdTISPYMRDIDDSQYGIVCPADTP--DRDGCGVVLNL-----------IPTVQLDDIgrfifn
+>MGYP001100451438	68	0.344	2.933E-08	187	271	277	4	89	157
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------nDVIKSDDIVNDMDFIL-DLAYSNKGPNSLGEsNSkMIATKYRYLHPSMVGVVDLNVSSNSDVGMSGSFVPYV---KLYDGFYFTPEHEP--
+>APHig6443717497_1056834.scaffolds.fasta_scaffold135232_1 # 15 # 602 # -1 # ID=135232_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.315
+----------------------------------------------------------------------essgywvDIDESRLDVIYLTFEVSKKDKK-EvIKKKLLFPKLINDFYFIIGNNRYYPIHQIIDA-------------------------------------------------------------------------------------------------------------------------------------------------------
+>AntAceMinimDraft_18_1070375.scaffolds.fasta_scaffold399234_1 # 2 # 172 # -1 # ID=399234_1;partial=10;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.444
+------------------------------------------------------------------------------------------------------------------------------SDTNIKHKRIRYSEY-ILFPLVKk----IYDMLvTLK-NN----KTVKF-QIPKSIIEDGCNISDIVHFNFTMNPVGEIASMIQCSLTGPGGF--KKdNVPAHLRTLDDSQFGVICPADTP--DRDGCGVILNM-----------VPNVGLNELgkfkd
+>AmaraimetP72IA01_FD_contig_31_4077815_length_392_multi_4_in_0_out_0_1 # 2 # 391 # -1 # ID=519002_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.700
+------------------------------------------------------------------------------------------------------------------------------DDCNLENKRLRCMEYFLYHFLAKd----FYNMImSLK-RS----KRDTF-SNNSKIILVNANTSPVIQYEAPLNPLDELARLSRVALTGPGGF--KKdNIPPYLRDIHPSMKGRICPADTG--DRENCGALQYI-----------VPPMQMCTDglfpknk
+>SRR5699024_11187944 
+------------------------------------------------------------------------------------------------------------------------------gkDNLDLSTKRIRLPEYQAALYAMKIARSIYRTGnLGK-SITLQDIEKAI-YTQPELLLKRISKDSLVNYRNSVNDLDSMS-ALKWTFKGVX--------------------------------------------------------------
+>SRR5699024_11123730 
+r---EFIAQYCHKNDEKVNMDMLHPSYDKPIYEYILDTCKNLEVIPGLTLESWELITDQTKIHSVIN----krnvkdpkiknnktlerlaQPNRTLYDLLVLNFHVQVKDAD-LhIQRRVRVLKPIRGGMYIRNGKKVRLLNQVVDN-------------------------------------------------------------------------------------------------------------------------------------------------------
+>OM-RGC.v1.032145507 TARA_085_DCM_<-0.22_scaffold76805_1_gene53854	""	""
+------------------------------------------------------------------------------------------------------------------------------DFINLNHKRLIFIEALLRPYFKAISSAMSAVI--R-N-TVK-IKYLT-AIKQDSIIDNFmSslglQANF--YYDITNGYTSIL-AHRASFKSP-----fVQkKLPLCVANIHPTHKGRICPITVKNTDPGVNVSLTPTI---KIDY------------
+>MGYP001494660659	52	0.426	2.535E-03	205	271	277	1	64	70
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ALKFSSRGPQSLGSSGgHTLLKFRELHPSYKGNISLITSSASDPGLSSTLNPFCK--DLNGMFFEP-------
+>JRYF01.1.fsa_nt_gb|JRYF01046246.1|_1 # 2 # 340 # -1 # ID=46246_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.643
+------------------------------------------------------------------------------------------------------------------------------itqtygsrsiilirlisenfvdpitkellqfenhptnlvdlsskvavdqllnyqmdSLSDLKIYRARLSEIILNQVYKQikLSHNYYRKQvMEG-M-----SDAKI-FTDPDYVINNLlTEAGILQQTEPVNPITEIMTSSRVTKGGPGGV-PGKkSFKKEHRNIHSSQYGN----------------------------------------
+>GraSoiStandDraft_50_1057286.scaffolds.fasta_scaffold4245718_1 # 3 # 65 # -1 # ID=4245718_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.571
+------------------------------------------------------------------------------------------------------------------------------KRNDLTNQRLRSSEVFNHQILKQVLKSYNTYRLQK---VSGDKAAEY-KCDTDRVIKEI-TNsKLVRNLENVNPLEELSCLTRTTPIGPGGV-ANKvAITEPARGTHESYYGNLDP-------------------------------------
+>GraSoiStandDraft_35_1057300.scaffolds.fasta_scaffold1067112_1 # 2 # 496 # -1 # ID=1067112_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+-------KYESM--PIFHRRRNEWTKD-NIQNNVDLLFENIESLDGFKYIGSSWVVF-------------nnddgserkrtreELKKSIFSVLKVNIESA-----SgkEFEYFIQFPDLFYDQFFYIGGNLKIPVFQLFDKpilyretkngh-LLKLRTNVVS----ITLDLNRK---------DG--------------QVHAQLF------------------------------------------------------------------------------------------------
+>DeetaT_9_FD_contig_21_15310054_length_264_multi_3_in_0_out_0_1 # 2 # 262 # -1 # ID=729909_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.479
+-------RYNDV--VLFDRRKEELSRD-AVKFHIDEIFSTVEVIDGWTYHGSNWV---------------etipvtkkeELKKSIFRVIHCKISDP-----NnkEYEYNLQIPELIDDQFFYIGGFLKVPIFQMFDFpiifrktpsgrqsqedsynYMLKLRTNAIT----LGVDLNRR---------DG--------------SINLQLFNKDIPLGVLLSA------------------------------------------------------------------------------------
+>Dee2metaT_6_FD_contig_21_13169236_length_243_multi_3_in_0_out_0_1 # 3 # 242 # 1 # ID=461171_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+------------------------------------------------------------------------------------------------------------------------------DHLNFENKRIRGIEYFITAPIANn----IFQFClTNR-KT----DKPKF-SVNSSHIISECNVSEIIQSDTFYNPIYELSELTRFSVIGPLAY--RRiSVPKEVRDIHDSMFGRVCPVDTP--DRDNCGIVQSF-----------CNKVQFDEKrqlskpc
+>11283|Ga0207864_1002997_5|-2498|00	50	0.219	1.069E-02	8	125	277	7	136	557
+-------YENEN-EKRINYGLITREYDEDLIKLIVNACKSLEVLEYIKFLGYTFIEDEKEIDLNEY----mttrkksrkksdtrymYMQDSRYMELRLKFKLECKGEEa--iVTKKLLIPVADENGYYTIKGKKYLLLYQLVDS-------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR5699024_5809797 
+------------------------------------------------------------------------------------------------------------------------------IDSNYENSRIRSNEIIMAHLYRELAVAWSNYRSG--------RTDTF-SIPENCVIKLLLTSKIVDPKSKLNITLELENDRNIKLKGPSGM-NEDhSFTIEKRAFHPSMKGIVATNSTPSGEVGINRHLVTNX-------------------
+>SRR5690554_3337484 
+e---DFVSYFSNTMKNIVNKDLIRCRRNENMVEHIDSLCKEIKKMigSDAEYLGYEV---NDKINSVRE----inrpdkkskknigniflSTEPTYARSYNFNFKITFKGET-RkIKMnIYVPLISEDGVNYLIKGNKYCTPFQLIDSvtynridtknkyeevclkttiqdikmqrfrcvikdvnsesysvnrfniklnakvnkipfilfylasfgfyktldyfglshplvgvkiyktlpskdepihnsvlffkfGSVFLSVNKVV---FLASTIVRDl----ICTILvNKkR-SVTADN------IIKTEYWLMSLG--SFLSQNNTLSSGISLR-------------------------------------------------------------------------
+>MGYP000859979040	79	0.285	7.194E-12	179	272	277	0	94	181
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------YIIKNINAANLVSYVDLVNDNDAEL-ALSYTYKGISGLGEqsSGtAVPIIYRNVHPSHLGRVDIDASSSSDPGLSGIICPTA---KTYNG-AFSDFSEPN-
+>MGYP000075114441	65	0.288	2.300E-07	177	270	277	1	92	187
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------EDIFITKLYSSGVLRYSETNSDIDSYS-KWKVTKKGPNALGAtNSrRIPIRQRALHPSMLGCLDISSSSSSDPGQSLDLSPYT---DMKSLYFDDS------
+>KBSMisStaDraftv2_1062788.scaffolds.fasta_scaffold7861248_1 # 3 # 266 # -1 # ID=7861248_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.644
+------------------------------------------------------------------------------------------------------------------------------SLSDLKIYRSRMSEMVLQSMYKQikQAHTEYKNKvSFG-D-----AKAQL-WLDKEYIIRDMiTDAGVLQHTEPVTPVDEIMLASRVIKSGRGGV-QSKqMFKVEQRNIHPSQYGIISANSTP--EGGNVGIINRH----TLTPVIV---------n
+>GraSoiStandDraft_41_1057321.scaffolds.fasta_scaffold2503583_1 # 95 # 268 # 1 # ID=2503583_1;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.454
+------------------------------------------------------------------------------------------------------------------------------LFVDLRYKRLTFIEPLLNPFFKAIGRASNALLeNGf--------QRHTL-NIQLKEIVNHFf-EKlDGASNYNTVNGYSGIL-SHRATFKNPFGTG---ILPPEVSEIHWTHYDKICITSITNQNPGVNVFLVPDQ---ELD-------------
+>848.fasta_scaffold107166_2 # 525 # 1148 # -1 # ID=107166_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.638
+------------------------------------------------------------------------------------------------------------------------------ALSDLKIYRSRQAEIMFELLYKVlmVAHNTYKTEVDfG-NE----DAKAF--LNNNYVIDCLLgihphTKgnSVLEIAEPYNPVAELKMASKLIKSGPGGI--SSrQAKKEHRNLHKSNQGNIGANATT--EYSDVGIVNHN----TLTPL--LSN------
+>3502|Ga0352979_1029160_2|+872|00	54	0.197	5.989E-04	16	125	277	15	156	605
+----------------LNHSLMNKTADDSLVNYVVDSWKSLEVVKNIKFIGYEYTEKQSEIDINKY----ifkrekkkkknekfdykFLEDNRFGKLTVFLEVTLMEKEkvedgegklketgkLvkHvykHKKEMLIPLQDENGYYYIHGKKYYLIYQMVEK-------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A1V5ZNY6|A0A1V5ZNY6_9BACT DNA-directed RNA polymerase subunit beta OS=candidate division CPR1 bacterium ADurb.Bin160 GN=rpoB_4 PE=3 SV=1
+------------------------------------------------------------------------------------------------------------------------------DRNDISNQRIRNSEILVHLAQKQILAAYSTYREQ---ILSGNKSAVL-EIKPNKVLKDFINSEVLMDMEFSNPAEEMSVMTRVTPVG-KYIGGipTTeAFQLDARNVHPSYFGNIDP-------------------------------------
+>SRR6056297_1324537 
+------------------------------------------------------------------------------------------------------------------------------SFVDLRHKRLTYVELLLRPFFKAVTGACYNLLqKR--------KVKKL-NINLGDITKHFf-KDlEGNVLYDTVNGFSSVL-AHKASFKNPYGSS---RLPDEVSSIHPSHKNVICPNSITNQNPGQTVSLVPNV---ELDLK-----------
+>SRR5699024_6174369 
+---------------------------------------------------------------------------------------------------------------------------------------PNLNEYLIKHYRKEQIDNCINYI--K--MTFIEAAKLF---EGEIKFKDY---RILRPDERIHEM-----LDNPKYAPTIDI-TqTElMLVEFRFEVNKQIFSTLIYLPYLYNDAIIINGSKYY--------------------
+>SRR5574344_886106 
+l---ELVSGFSSKNDGMFNDKLIVEIRKkDEMTKYIDDACKAVCQLipEYVKYLGYHYQDSRGKM---------lerdkddegslktankneiriNINDTFAKEAIFDFECSFGGTTIhqSf---SMWIPLLIDNSHFYIRGNKYSCPLQIIDAitftkkdvlvlktitraikferekiiltdifgnkyntnklmiyitrksipvlvyyfarfgffntlky-------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR5574344_457971 
+------------------------------------------------------------------------------------------------------------------------------SKNDLCNFRVRGNELIYATMYEIIAKAMLAYQNAK---YNGSNKNII-KIQQNALLSALISQQNISLASKLNPILEIESSSFCGMKGFKGI-NLAdAYTLEIRSYDKSMDGILSCNSTS--YSGNIGIQRSL----TVNPQLN---------
+>SRR5574344_2240334 
+--------------------------------------------------------------------------------------------------------------------------------------------------LEDVCSSdLSKISnFNS-KVSMKNLVQAV-NIRYNYLIEQLKKCKINPYKNSVNDNDALN-VLKFTYKGISGIGEnKSsAVQKKYRFVNASHIGKVDLNSSSNGDPGMSGTDRKST---RL--------------
+>MGYP001259151436	101	0.275	2.383E-19	181	276	277	12	105	198
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------LSPFF------------NFSPLCQYLDQINPLADITHKRRITTRGPGGI--TSaRGAFKIRDIHPTFYGRLCPIETP--EGKNAGLISSL-----------ASYARLNSHgfletpfyqln
+>MGYP000859692989	66	0.317	9.524E-08	189	271	277	1	83	161
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LVNYRNDVNDLDTFS-PLKFTFKGISGIGEnKKsTIPDSTRQINPEYIGRVGLDESSPSDPGLTGMLCPYV---NLLNG-NFSDKPEP--
+>GraSoiStandDraft_57_1057295.scaffolds.fasta_scaffold662831_1 # 3 # 179 # -1 # ID=662831_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.723
+------------------------------------------------------------------------------------------------------------------------------KRNDLSNQRIRNSEVIIHLLQKQMLSTYTEYREQ---RLSGNKEAKF-VIPPDKLMSQFVNLDLVTSMEYSNPIEEMATITRISPVG-KTLGGipDQrAIQVKDRGVNPSYFGDVDV-------------------------------------
+>GraSoiStandDraft_14_1057315.scaffolds.fasta_scaffold246475_2 # 735 # 1211 # 1 # ID=246475_2;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.742
+r---DFIASYCHKNDNKINPDLFNRTFDRPLVDFAIATCKNLEVLPAIKLVSWEYITDQTKIHTEID----kdltkdpnikknkalerlaSTGESVYDLLILHFRVRAKDQE-AyVTRKLRIPKLIKGRWYIRGGKKVLPLIQVVDN-------------------------------------------------------------------------------------------------------------------------------------------------------
+>ETNmetMinimDraft_27_1059897.scaffolds.fasta_scaffold264186_2 # 329 # 589 # 1 # ID=264186_2;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.391
+------------------------------------------------------------------------------------------------------------------------------NFIDLKNKRISFIELLLAPLFKKVANITYQINKGf---L----IDEMV--IDQFVVIKNFhKneskkaKTnkASFRSFHGLSGKTLYDLVNLYSSLLVHKC-SfvkpGMkSPPRSIANIHKSHFGKICPITVSSINPGEMLSIIPE----IFVDP-----------
+>AACY02.12.fsa_nt_gi|130828082|gb|AACY022868620.1|_1 # 1 # 894 # 1 # ID=199515_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.266
+------------------------------------------------------------------------------------------------------------------------------------LQRIRSSEVFSYQIQKLILGSYTDYSVKR---EHGDEDIKY-YCDAKDLVSNI-INsQLMRPLENINPVEELSSLTRITPVGPGGI-PDShATTKQSRNTDDSYYGNIEPNDTP---------------------------------
+>SRR5690606_32447520 
+------------------------------------------------------------------------------------------------------------------------------PIGNVLNYRLRNYEQIAGILNHVLMKAYIDYLNG---YLRGNTRNTF-DVVENDVIMALTKASSVNPYSALSPVLELETYSRTSQKGFMGL-ENSaSYSKEMREFDDNKLSVYSAGATS--FGGSVGITRAL----TYKPHIK---------
+>SRR5690554_4005584 
+------------------------------------------------------------------------------------------------------------------------------SETNLSNYRIRGYENIATILYKTLSMQ-YRLYKQN-SS----GMGRI-SVQQDQILVGLHKSFILENYDATNPINELKSKAIVTFKGPCGV-NNDrVFTLEKRSYDFSAIGTMAISSTDGAPVGITKHLTLNP---NI--------------
+>SoiMetStandDraft_5_1073268.scaffolds.fasta_scaffold59066_2 # 698 # 1405 # 1 # ID=59066_2;partial=01;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.672
+------------------------------------------------------------------------------------------------------------------------------LFNDLSYKRIVFIELLFDPLIKIIGNTVTDLLKGR-------RVSDI-KLKQSAIIDHFyAsaESGLKSKNTGLSGNNIYNIINGYSSILSLKA-TfknpkGYsELPKEVHEVHTSHKHHICPITISNADPGVTISLIPDL---KID-------------
+>OM-RGC.v1.036751382 TARA_037_MES_0.1-0.22_C19979167_1_gene488974	""	""
+------------------------------------------------------------------------------------------------------------------------------DRSDLSNQRIRNSEVLVHLAQKQILATYTNYKEQ---VLSGNTEAKF-NLNSTKVLTDFIMTELVTDMEYANPIEEMSTMTRISPVG-KKVGGipDKmAIPAEARTLHPSYFGNVDP-------------------------------------
+>ERR1035437_4688035 
+------------------------------------------------------------------------------------------------------------------------------DDSNYANKRLRFVEQIIFTHLCKd----IYNLInSVR-KN----RRLKF-SVNSKAILSAVNVSSIVQFDNALNPLAELAMLSRTSLSGPGGF--EKsNVPQSLREIHPSML------------------------------------------
+>DipCnscriptome_3_FD_contig_21_4158751_length_251_multi_5_in_0_out_0_1 # 1 # 222 # 1 # ID=257095_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.495
+------------------------------------------------------------------------------------------------------------------------------DFIDLKNKRISFIELMFAPLFKKVANVAYQVNKGy---S----LNEIM--IDQYVIVKNFhKndnkktNSnkAAFRSFHGLSGKTLYDLVNLYSSLLVHKS-SfvkpGMkSPPRSIANIHESHFGKICPITVSSINPGEMVSIIPE----NFVDP-----------
+>APPan5920702963_1055757.scaffolds.fasta_scaffold1808367_1 # 2 # 217 # -1 # ID=1808367_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.847
+------------------------------------------------------------------------------------------------------------------------------EYIDLNHKRLVFIELLLSPLLKRVGNVAAQAARG---F----FPDEL-KIDHLQPLKHFlTspdkkKKgsEGLSGNYLYDTVNLMSGMLSHKVSM----VNpGStNPPSTISDTHRSHFKRICPISVSNQKPGEVISVLPTT---KFDY------------
+>SRR5699024_4687309 
+------------------------------------------------------------------------------------------------------------------------------vkDNLDISMKRIRGAEYIAALYGTKVYEGLIRISdKGN-KLTLVDIEKAI-NTYPDFLIKKITTDPLINYRNSVNDLDSIX-------------------------------------------------------------------------
+>SRR5690554_5396369 
+------------------------------------------------------------------------------------------------------------------------------ikDNLDLSTKKIRYAEYIASLYAIKISRGIHRIShLGK-KADIKDMRKVL-VTDPMYLIYSITKCTLVNYSNSVNDLDVFS-SLKFTFKGISGIGEnSKsTIPD----------------------------------------------------
+>SRR5574344_2178089 
+-----------------------------------------------------------------------------------------------------------------------------------------------------INKLIERKSkSKL-N-TMETLLELF-NFNSDIVVAGM-RNlnDLIKTDDLVNDMDFLQ-QIGYSAKGFQSNSSdNSkMLATKYRYLDPSMVGKLDINVSSNSDVGT---------------------------
+>HubBroStandDraft_6_1064221.scaffolds.fasta_scaffold5020341_1 # 1 # 267 # 1 # ID=5020341_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+------------------------------------------------------------------------------------------------------------------------------DRNDISHQRIRNSEVLVHLAQKQFLKSFTEYKQQ---YLSGNKDAKF-NFPAGSILNQFVNLEIVQNMEYANPLEEMATITKISPVG-KTVGGvpDKeGLNLDARNVHRSYFGNIDPvDT-----------------------------------
+>DeetaT_2_FD_contig_31_2440142_length_244_multi_2_in_0_out_0_1 # 2 # 244 # 1 # ID=980747_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.663
+------------------------------------------------------------------------------------------------------------------------------LFNDLNYKRLVFIELLLDPIIKSVTTATSNLLKGK-------QVSDL-KLKQSAIIDHFyAssDSGIKNKTKGLSGNNIYNIINGYSSILSLKA-TfknpkGHsELPKEVHEVHNSHKNQICPITISNSDPGVTISLIPEL---KID-------------
+>APWor7970452555_1049268.scaffolds.fasta_scaffold76099_1 # 754 # 936 # 1 # ID=76099_1;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.372
+------------------------------------------------------------------------------------------------------------------------------SFIDLNQKRVIFIELLLRPLFERVAGLIKQIISG---F----KIDHL-HMNQLMIIKSFlTskdmnKNkKGLSGNYLYNTTNLYSGVLQNKICM----IQpGVkNAPREIQSIHPSHFGKICPISVSSQNPGEIVSVIPGI---RLNK------------
+>ABMP01.1.fsa_nt_gi|180222761|gb|ABMP01007392.1|_1 # 3 # 122 # -1 # ID=7392_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.367
+------------------------------------------------------------------------------------------------------------------------------DRNDISKQRIRSAEIFNYQIQKQILKSYNVYLSQR---EHGDDDSEF-YCDTRELVKNI-VNdKLVQSIENINPFEELSSLTKVSPVGPGGL-ADKkAMTKPSRSLHNSYYGNYDPMDTP---------------------------------
+>SRR5699024_192537 
+------------------------------------------------------------------------------------------------------------------------------IDSDYANSRIRSNEIINAYLYKALATAWEQYRAE--------RTDTF-SIPEREVIRSILEDQLVDPHSTLNVTLEQENDSIVKLKGPSGM-NEDhSFTIEKRAYHPSMRGI----------------------------------------
+>SRR5574344_54171 
+------------------------------------------------------------------------------------------------------------------------------ppfnehtidgyrkaqvkRFPEFVDTVFR----EAVPLFGGaLIYHGYRVMSPE-------RRIAY-NVDNVLTKGKV---NIQQ-----SELELLEFMFEF----------ENqMIPV-FIYLPYLYNGALVINDTRFY-------------------------------
+>SRR5574344_2720180 
+------------------------------------------------------------------------------------------------------------------------------ssdvcssdllgvdkkefnensvlrifvatmiscskrsmdmnfirnpvrwtsylgesisipkalekgqallktftntmdfqtqniirqlvpgsersnifsvtrwifinyatltsKDEGLQNKRIRLSEYLISPFIKIFTEKVYRFKnTPD-KLkSMKNLMDIF-KIKSSLILNAIIgkishdDTglSIAKFFFFLMIQASTRSTLFPYT------------------------------------------------------------------
+>SRR5574344_1742130 
+------------------------------------------------------------------------------------------------------------------------------PESDISNYRIRDNEIISQCLYSALTDQ-YNVYKKR-SG----KRISM-TIPPNIVMTKVYKTDIFGNYDSISPISEIRNECITTFKGPGGT-KLEqAFTTQKRSFDPSYFGIFGISTPDNLNAGIVKELTVNS---NI--------------
+>SRR5574344_1067466 
+------------------------------------------------------------------------------------------------------------------------------qkDNLDISTKRVRWSLYLACHYSSKIAKGIYRISdSGS-DAKLETIRKAI-VTSPDILLKAITKDSLVAYRNVVNDDDAIM-ALKFSYK-----------------------------------------------------------------
+>GraSoiStandDraft_57_1057295.scaffolds.fasta_scaffold3853483_1 # 177 # 248 # 1 # ID=3853483_1;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.583
+------------------------------------------------------------------------------------------------------------------------------SRNDLTKQRIRSSEIFVQQIQKIMLASYNNFKSRK---LAGDKDVKF-TVHTEGVITDI-VTsRLVRDLENINPLEELGSMTRTTPIGEGGI-PSKdSLTLKDRNVSPSYYGNLDPVNTP---------------------------------
+>ETNvirnome_6_100_1030635.scaffolds.fasta_scaffold126348_1 # 1 # 450 # 1 # ID=126348_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.356
+-------RYKNV--TLFDRRKEEWNHS-ALQEHIDSIFGTVEIIEGWKYNGAHWI---------------etlpvqkkeELKKHIFRVIRCKLTDP-----AgkEHEYNLQIPELINDQFFYIGGFLKVPIFQMFDLpiiyrktpkgt-MLKLRTNAIT----LGVDMNRR---------DQ--------------SINVQVFNKDIPFGTLLAAFHTKEEWTAFVAAHSGPKPEPVSRIEelaNTaWAQEMTYDERCERVGEYFMTKPNEKHKRGEGILFSLKAAY----------------
+>EndMetStandDraft_2_1072991.scaffolds.fasta_scaffold731541_1 # 27 # 515 # 1 # ID=731541_1;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.538
+------------------------------------------------------------------------------------------------------------------------------TRNDLSKQRVRTTEVFNHMIMKQILHSYNQYRFQR---IAGDNKAEY-KCDTDRVISEL-LNsVLVRSLENINPLEELSCLTRVTPIGPGGI-PDAnAMTDQARSTHESYYGNLDP-------------------------------------
+>WetSurSiteA1Bulk_404760.scaffolds.fasta_scaffold861989_2 # 205 # 276 # 1 # ID=861989_2;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.569
+------------------------------------------------------------------------------------------------------------------------------DKNDLSNQRIRGSEIIAHLIVKSVSQAYTIYRNQ---VLSGNKNAIF-EIREKDIRSAFLTSDIVSNMEYANPVEEMAVMLRVSPIG-SGIGGlkNKaAISSEYRNVHQSYFGNIDP-------------------------------------
+>SRR5699024_5825987 
+------------------------------------------------------------------------------------------------------------------------------lkskQIMDITNKRLRDNEYIASLMTTELSRSLYRIMsKVrK-PqSrSLNTLEELF-SFRGDILINNLYNSGLFKYDDVVNDMDFWN-KLKYTIKYX---------------------------------------------------------------
+>SRR5699024_5549435 
+------------------------------------------------------------------------------------------------------------------------------rkhvnedsfydrefwmkqlgrqftsnsnksldkahsiiisverlldvttknsmrhpekekedvftaivvsiknfenilriDNHDLSNKRIRVAEYLLYPLTARLSKSVYRLISSR-NPPISRLKQLFSSLDKX--------------------------------------------------------------------------------------------------
+>SRR5574343_20748 
+------------------------------------------------------------------------------------------------------------------------------DRNDILNQRIRGSEVLVHFIQKQILASYTNYKQQ---VLSGNKNAKF-EINQSKLLSEFIRSEIVANMEYANPIEEMAVMTRISPVG-KSIGGipDKrAIHDEARNVHESYFGNIDP-------------------------------------
+>MGYP000829196247	65	0.310	2.300E-07	91	158	277	56	127	128
+---------------------------------------------------------------------------------------------------------------------------------------------------KEaVKREIHDLIPK--------------HITKEDIMASIN--YNMHLEYGLGNDDDID------HLG-----NrRIrAVGELLQNQYRIGLSrmeRVVR-------------------------------------
+>MGYP000029087171	106	0.250	4.498E-21	182	271	277	0	87	248
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------QEFF------------GSNQLSQFMDQTNPLAEITHKRRLSSLGPGGL--HRdRAGLIVRGIHPSYYGRICPIETP--EGKNAGLVGSI-----------ATFTQINKNgflesp
+>LakMenEpi03Aug12_release.lakeMendotaPanAssembly.Ray.scaffolds.fasta_scaffold117832_1 # 3 # 992 # -1 # ID=117832_1;partial=10;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.460
+------------------------------------------------------------------------------------------------------------------------------KFNDLKNKRVIFLESLFTNVFRKIGDLAINASANK-NY----KPDLC-NINDGMVFKYFlTPNDPNKTSKGLSGDHLYTTSNMYDGCLQHKI-SmvppNLnNPPKDISQIHQSYFNKICPITMANQDPGKIVSATPGC---KIS-------------
+>LakMenE18May11ns_1017448.scaffolds.fasta_scaffold1583115_1 # 3 # 134 # -1 # ID=1583115_1;partial=10;start_type=ATG;rbs_motif=ATA;rbs_spacer=10bp;gc_cont=0.508
+------------------------------------------------------------------------------------------------------------------------------DRNDITYQRVRNSELLVHLALKQLLKAYTEYKQQ---YIAGNEDATL-NFPEGIIRSQFNQLELSQSMEYANPLEEMATITKVSPIG-KTTGGipDTqAVQLDARDVHPSYFGNIDP-------------------------------------
+>HubBroStandDraft_6_1064221.scaffolds.fasta_scaffold95402_2 # 1508 # 2557 # -1 # ID=95402_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.683
+------------------------------------------------------------------------------------------------------------------------------KRNDISHQRIRSSEVFAYQIQKLILGSYTDYMVRR---EHGDKNASY-YCDARTIVNDI-INsPLMRTLENINPLEELSSLTRITPTGPGGI-PDEhATTPQSRNTHESYYGNIEPNDTP---------------------------------
+>UPI00024E2224 status=active
+------------------------------------------------------------------------------------------------------------------------------KRNDLANQRIRNSEIIINLAYKQIHAAYNAYRQQ---VLSGNEDAKL-VIQPTTVMTEFVKTELVTPMEYANPMEEMSVVTRLSPTG-KQIGGiDKrAMTHEARNIHPSYFGNIDP-------------------------------------
+>SRR5574344_3099419 
+----------------------------------------------ITFLGYDVITDESKIDTSKY----ittrkkikkrernikhqYIHPDRCIELVLRFNIHVKDET--anISKSILIPKIDENKYYTIRGKKYFLLYQLVDNstytsrsgltlkslmpicinknmdvlvdveghtfdtpyyfvnvfkreietflfyfck-------------------------------------------------------------------------------------------------------------------------------------------------------
+>SoimicMinimDraft_8_1059736.scaffolds.fasta_scaffold528527_1 # 1 # 177 # 1 # ID=528527_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.497
+------------------------------------------------------------------------------------------------------------------------------DRNDISNQRVRGSEVIVHLVQKHLLSAYTNYKAQ---VLSGNTNAKF-EVNQTKVLSQFINSEIVTDMEYANPIEEMAVMTRVSPVG-KSIGGipDKrAIQSKSRNVHPSYFGNIDP-------------------------------------
+>OM-RGC.v1.011492475 TARA_124_SRF_0.45-0.8_C18758817_1_gene463128	""	""
+------------------------------------------------------------------------------------------------------------------------------KRNDLSHQRVRSSEVFAHQISKAIQTSYSEYESRR---TVGDKDAEF-RCDTRKIVQDI-VNsQLMRPLENINPYEELSSLTRITPVGIGGL-NDArGLTTNDRSIHESYYGNIDPMDT----------------------------------
+>MGYP000983665315	44	0.392	1.386E+00	0	55	277	0	54	75
+MY-SHLRKYSEENPERFNREFILSRTDDDILEYVRDIFKALEILNEIEILSITLE---------------a---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>MGYP000826452234	56	0.385	1.409E-04	218	272	277	5	60	191
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------RDrKTSLRYRDIYPSHLGRYDLNVCSSSDPGLTGYLTSNV---QFDENGYFDTENSEPD
+>KBSMisStaDraftv2_1062788.scaffolds.fasta_scaffold7829343_1 # 3 # 266 # 1 # ID=7829343_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.489
+------------------------------------------------------------------------------------------------------------------------------ERTDLSNLRVRGSEVLTHLIQKQVLAAFTAYREQ---VLSGNKNPQF-TISPTKVLHDFVNSDIVTLMEFANPVEEMSSITRTTPIG-RGVGGiaDReAIQIEARNVHPSFFGNIDP-------------------------------------
+>GraSoiStandDraft_34_1057297.scaffolds.fasta_scaffold1113305_1 # 2 # 505 # -1 # ID=1113305_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.593
+------------------------------------------------------------------------------------------------------------------------------------------------------------LMvATF-RN----YKDKF-QIPQNLVLDSCSsstskngkndVAHIIHYNLPYNPVSEIASLLQCSLVGPGGF--KKeNVPPHLRNLDESQLGLICAADTP--DREGCGVINNM-----------VPITKLDENglfis
+>SRR5699024_5507474 
+------------------------------------------------------------------------------------------------------------------------------nieilaeevvpdqddvdynrhiininykk--KHLDQIEIPRNKFVADTRFSE--MVFTIRIhTNL-N-EATIV--------KRILLPVI-DDgvCIINSKTWKPIWQLCD-ANTYTQRGKVTLKSrMPiIIYQTKNRIIPDTTGREWNLISHSYALDTKPKRRGAK---KKTKFX----------
+>SRR5699024_1129566 
+------------------------------------------------------------------------------------------------------------------------------IDSAYYDSRLRSNEIVNVYLYQELAKAYASWKIG--------RIPKF-SIPEDAVIKDLLTATIVDSHSKLNITLELENDRQVKLKGPGGI-NEErSFTLEKRAFHPSMRGIIGMNSTP---------------------------------
+>SRR5574344_436304 
+------------------------------------------------------------------------------------------------------------------------------pp-----------FNDKLLVGYSRDqVNKG-----PS---Y----LEEVF--KQAVLVLNDSRKK----YPDALE-VEYVGRRVRTPVEHVRYV--FTqSLTKDRANINRDEIQLIEY------TFSVNGTLFNI----PIYLPYWVDDSMIVNGtihn
+>SRR5574344_2014135 
+----YLNKLPNDYRDRLNKSIMNKEFDKPLVEYIFDAFKGLEILP-------------------------ninkvikNIAETRCGVLYIDIEISGLDKNGvlKvryLKKPLIIPIEDEKGYYLLKVKKCYLIYQLVDK-------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR4030042_1163569 
+------------------------------------------------------------------------------------------------------------------------------ERNDLANSRIRGSEILVHLIQKRLLAAYNEYQEQ---VLSGNKKANF-KVNAATVLSDFLRSEIVTDMEYANPVEEMATMTRVSPVG-KGIGGipDKeAIKIKDRNIHPTFYGNIDP-------------------------------------
+>MGYP001101579316	59	0.318	1.845E-05	91	150	277	79	143	145
+---------------------------------------------------------------------------------------------------------------------------------------------------KEtIRKNLSELIPK--------------HITKEDIIASIN--YNMHLEAGVGTSDDID------HLG-----NrRIrAVGELLQNQYRIGLS-----------------------------------------
+>MGYP001024604749	68	0.295	1.626E-08	204	272	277	1	70	141
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Q-ALKFTYKGVSGLGEgSNnSIPDIYRSIHYSHLGKVDLDASSDGNPGITGTICPFA---PNYDG-FFEDYQEPN-
+>MGYP000704416237	42	0.488	3.256E+00	229	271	277	0	42	98
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LHPSMVGVQDLFTTSNSDCGMSGSFTPFV---ELYDGFYFTPEHEP--
+>HubBroStandDraft_6_1064221.scaffolds.fasta_scaffold786986_1 # 3 # 350 # -1 # ID=786986_1;partial=10;start_type=GTG;rbs_motif=GGT;rbs_spacer=7bp;gc_cont=0.667
+------------------------------------------------------------------------------------------------------------------------------ERNDITNQRIKNSEILVHLAQKQLLKAYTEYREQ---YLSGNKDAVL-NIPENVVMGQFSTLEIVQDMEYANPVEEMATITKVSPVG-KSVGGipDKqAVQLDARNVHPTYYGNIDP-------------------------------------
+>GraSoiStandDraft_50_1057286.scaffolds.fasta_scaffold7024871_1 # 1 # 225 # -1 # ID=7024871_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.711
+------------------------------------------------------------------------------------------------------------------------------DDTDFRNKRIRCFEYIVLAKLARd----IYNLCiASR-NA----LRPKF-STNSKQVISECKTSSIIQYDQSLNPIDELTKLSRVSLAGPGAF--TK--------------------------------------------------------
+>EndMetStandDraft_2_1072991.scaffolds.fasta_scaffold6301724_1 # 3 # 215 # 1 # ID=6301724_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.648
+------------------------------------------------------------------------------------------------------------------------------DRNDISNQRIRNSEIIVHLAQKQILMTYTQYKEQ---VLSGNKNAKF-LLSPTKVLSEFLNSEIVTDMEYANPIEEMSTMTRVSPVG-KKVGGipDKmVVQVEARNIHPSYFGNIDP-------------------------------------
+>DEB0MinimDraft_6_1074348.scaffolds.fasta_scaffold142768_1 # 2 # 457 # 1 # ID=142768_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.447
+----------------------------------------------------------------------------------------------------------------------------------------------ILSPMVRk----AYDMLiAVK-KT----HKDKF-SIPQNIIIDNCNsstpkngkndVAHIIHYNFPINPVGELASLMQCSLVGPGGF--RKdNVPPHLRNMDDSQFGLICAADTP--DREGCGVIQNM-----------VPTVKLKENgmfed
+>APCry1669189000_1035189.scaffolds.fasta_scaffold930738_1 # 2 # 226 # -1 # ID=930738_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.702
+------------------------------------------------------------------------------------------------------------------------------DRNDITKQRIRSAEIFNYQIQKQILRSYNVYLSQK---EHGDENATF-YCDTRQLVQNI-VNdKLVQTVENINPYEELSGFTKVSPVGPGGV-ADKhAITKPARNLHDSYYGNYDP-------------------------------------
+>UPI0008370E75 status=active
+------------------------------------------------------------------------------------------------------------------------------KRNDISKQRIRSSEIFNYQLQKLIVGSYSEYLASI---ERGNKDAAY-YCDAKQIISTI-VNtsQMIRPIENINPYEELSSLTKVTPIGPGGL-ADEnGVVDSARNIDSSYYGNLDPMDTP---------------------------------
+>SRR6056297_1177631 
+------------------------------------------------------------------------------------------------------------------------------DISDLKVYRARLSEMFLNIMYSQlkMSHNEYKRKvNIlN-D-----NDAKI-NLYSDHILETIyNETGVLNYTEPVNPIEECFLASKTFKTGPNGV-PGK--------------------------------------------------------
+>SRR5699024_3116275 
+--------------------------------------RSLEVAPAIKILKFEYTEDESKIDINRY----ifkrekrkkkkdrvnykFVQDSRCGSLTTWIQITLPVKNpktgeIsiEqkvFKKSILIPLKDDRGYYYIKGKKYYLIFQLVEKstytgnqx-------------------------------------------------------------------------------------------------------------------------------------------------------
+>LauGreDrversion4_2_1035121.scaffolds.fasta_scaffold2361241_1 # 1 # 423 # 1 # ID=2361241_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.461
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------DnNISVKYRGIHPSYIGLIDINVCGTSDPGSSGVITPFA---KTDGLYFDNSFEPED-
+>GraSoiStandDraft_4_1057263.scaffolds.fasta_scaffold5888755_1 # 1 # 171 # 1 # ID=5888755_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.561
+------------------------------------------------------------------------------------------------------------------------------ERNDISNQRIRGSEVLVHLTQKQILAAYTVYKEQ---VLAGNKDAKF-AIPQQKVISDFVRSEIVANMEYANPVEEMAVMTRISPVG-KAIGGipDKdAIQTDARNVHPSYYGNIDP-------------------------------------
+>EndMetStandDraft_2_1072991.scaffolds.fasta_scaffold129410_2 # 405 # 1199 # -1 # ID=129410_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.682
+------------------------------------------------------------------------------------------------------------------------------RPNDLTYYRLRSSEIFVNYLQ--kYILAQYSLYREQ--ILAGNYNAKL-EIEPNKVLTQFRNSEIVSKMEYQNPVEELAEITKVTFVG-KTTGAiSReAVSVAKRNLDPSYYSNIDP-------------------------------------
+>APHig6443717497_1056834.scaffolds.fasta_scaffold3293813_2	102	0.303	9.543E-20	207	271	277	4	65	183
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------RLsALGpggiareraqMEVRDVHPSHYGRMCPVETP--EGPNIGLIGSL-----------TAFARINTFgfietp
+>561|Ga0247611_10017404_6|-2620|00	50	0.270	1.425E-02	199	270	277	0	69	162
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------MEVMN-PYVRLEHLPNALGNkDSrRIPIRQRLLHPSMLGYIDLASSSNSDPGRSGDLSPYN---NMKSLYFDDS------
+>WetSurSiteA1Bulk_404760.scaffolds.fasta_scaffold347870_1 # 227 # 421 # 1 # ID=347870_1;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.621
+------------------------------------------------------------------------------------------------------------------------------SQSDISNYRIRGNEIISECIYKELIDR-YNVYKKR-TG----KRNSV-TMPQDAIMSRLYKTEILASYDALNPVAEIRNSGLTTFKGPGGT-KLDnAFTLEKRAYDKGYMGVFGISTPDNKNAGVIKELSLNP---KI--------------
+>UPI0006CAD5F3 status=active
+------------------------------------------------------------------------------------------------------------------------------SDTDITNRRLRFCEYLIGHYFSRa----MMNFClSNyK-------KKQNF-KFNSTQILTGC-INPIIQFDLTINLIDQLTMLCRCSLIGPGGF--EReSVPk-----------------------------------------------------
+>SRR5699024_8447418 
+------------------------------------------------------------------------------------------------------------------------------kkDSHDLKYKRVRANEVPAYFFDKHISKNVYSLLNT--------DNPPV------------E--KYIRLLNSINEMSFLK-------------GAs----------------------------------------------------------
+>SRR5699024_4781268 
+l---DFIAQYETKFKERINRDMFTRAYDRPLVEYILDSCRNLEVIPAIKLVGWEFITDQTKIRTEID----kknskdpkiknnralerlaQPNRTLYDLLILHFRVTAKGRT-AdVTRKVRVLKQEKG--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR5574343_309658 
+-------------------------HERPLHELLIECFKSLEMVENIKIISWEYDDNEDH-DINQY----vrirtkiknkgkknkkeiprvkYMKDTRFGSLTIKIELSCRTTAkngiVdeQrmyITRRLIVPTFDENGYLFINGKKYYLLYQLLEKssyvtalcvvvkslmpltvkrnkykatdiegieytlpiynvfifknevnvlliyasqglqyaleylgvytamrvtetidnkennlylpitskrylevnkklfdkhtfvqamtgmllemtnnrfnlsvmnn-------------------------------------------------------------------------------------------------------------------------------------------------------
+>MGYP000188673075	106	0.287	6.106E-21	207	271	277	6	67	83
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------RLsALGpggltrdragFEVRDVHPSHYGRICPVETP--EGPNIGLIASL-----------STFARINEFgfietp
+>ERR1712050_174435	53	0.322	1.900E-03	202	253	277	4	61	117
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LTHKRRLTKLGPEGI--NLsNRTVNARDIHPSYFGSLCPVETP--DGPHVRMVNSP----TLTRHL----------
+>ERR1035437_3391415 
+------------------------------------------------------------------------------------------------------------------------------KRNDISKQRIRSSEIFNFEIQKLILGSYSDYLSKL---ERGSKDATY-YCDTKQIISNI-TNtsRMIKSIENINPYEELSSLTRISPIGPGAI-SDIhGIPQDARGLNDSYYGNIDP-------------------------------------
+>12553|scaffold_106048_c1_1|-2|11	91	0.287	8.678E-16	207	271	277	0	61	282
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------RITATGPGGV--NReNASLDMRSIHPTHYGRICPIETP--EGRNAGLVNSL-----------TVYGRVNKLgyietp
+>SRR5919199_1789891	87	0.285	1.314E-14	210	271	277	74	133	188
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------avgpdapapperapIEVRDVHPTHYGRMCPIETP--EGPNIGLIGSL-----------SSYAEISEHgfvtsp
+>SRR5699024_5370574 
+------------------------------------------------------------------------------------------------------------------------------kkDSNDLCNKRMRVNETQAYFFDNYITRNVYSLLNT--------DNPPF------------E--KYVRLLNSINEX-----------------------------------------------------------------------------
+>SRR5574343_201275 
+------------------------------------------------------------------------------------------------------------------------------pkfndhllvhyrnNELNYAPEYIR----IVFEEAVKfRNDPEFKFVtYRE-LTPEERMTRLV-NMPIKQLCGKF---DINR-----NECSTFE--YIFEYRG-----ErLSaDIQLPYMINNTIILGgKEWF-------------------------------------
+>SRR4030042_3610309 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------FNFPINPVSELASMCQATLTGPGGF--KKdNVPSHLRDLDESQFGRICPADTP--DRDGCGVILNM-----------IPTVNLDEKgrflepd
+>MGYP000938562267	79	0.310	7.194E-12	218	274	277	0	54	615
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------srqsakLEVRDVHSSHYGRLCPVETP--EGPNIGLIGSL-----------ALYAKLDEFgfiltpyvr
+>ETNmetMinimDraft_22_1059887.scaffolds.fasta_scaffold62443_1 # 1 # 921 # 1 # ID=62443_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.378
+------------------------------------------------------------------------------------------------------------------------------AFIDLSQKRLVFIEILLSPIFKR----IASLASR---ASRGFVINEV-SMDQMELVKNFyInlHNKFIY--DNVNAFDTML-SHKTHLLS-----PNVeNAPGVIANLHPTHFKKICPISVS--SQNPGETVYTIA----------NAKCDI---
+>1_EtaG_2_1085319.scaffolds.fasta_scaffold56518_4 # 852 # 1121 # -1 # ID=56518_4;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.552
+------------------------------------------------------------------------------------------------------------------------------DRNDLSRLRVRLSELFSSLIQKQANAAYSEYESKR---EGGDDDAKY-FIDANKVFSQF-QQsQNLQPFESINPLEELSMLTRVTPIGIGGI-TDTrAFPKSARNIHHTYYGNIDP-------------------------------------
+>UPI0003458083 status=active
+------------------------------------------------------------------------------------------------------------------------------DDTLLTNKRLRCFEYMVTSKVSKa----IFDLCiANR-VS----RQPKF-SINSTEILSECNVSDIVQFDFSINPIEE---------------------------------------------------------------------------
+>SRR6478736_3477994	89	0.309	2.149E-15	218	271	277	48	99	100
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ssdraqMEVRDVHPSHYGRMCPIETP--EGPNIGLIGSL-----------ASYGRINAFgfietp
+>SRR5699024_7326903 
+------------------------------------------------------------------------------------------------------------------------------DITDPKNFRIRSNEIFVQFIYtavvrgyLEYRKSIYKKRPVK--VTVDR------SVVSKSIYGSTDktghklPScAMIEDSSILNPVLEMEKKGSISFKGPSGIG-LEqALTLPKRSFNPGMTGTIAISTSP-X-------------------------------
+>SRR5574344_1306906 
+--------------------------------------VEIQRHlpKNMKYLGYRFDDSGRRF---------kelnvgkdkdkshptrksmSIYDTYARLAVFEFELTNLNQQTdemetiyvEc---PIYIPLYVDNYHFYIRGNKYSAPYQITDAitytnksn-------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR5574343_316267 
+------------------------------------------------------------------------------------------------------------------------------enledhdywrcrigyigsaksknlltflekgrttiymierlldsvtkmnlrlpeeykqniyyilrwmimdfdslksrNNMDLNNKRIRKNEYIVMSSLGKkisenINKIIEKKSkSKL-N-TMDTLLEMF-NFPSDIIVN----------------------------------------------------------------------------------------------
+>MGYP001380826010	43	0.314	2.449E+00	184	237	277	3	55	77
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------iVGNPLSMPLEEINPLHLIEQARRVTQMGPGGL--GEdSITEEAQNLHPSEFGFL---------------------------------------
+>MGYP001342775158	61	0.346	4.296E-06	195	243	277	0	47	58
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------QLNSLSEITQKRRLTGLGPGGL--SLsNRKIEIRTIHPSHFGRVCPVETP---------------------------------
+>MGYP000368449357	78	0.232	9.700E-12	208	271	277	42	111	320
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ltplgfstpariaqmsttdesqwfRLPTDVHPTHYGRVCTIETP--EGPNIGLINSL-----------ATYARVNKYgfietp
+>18309|Ga0308175_107008227_1|+1|11	78	0.309	9.700E-12	224	276	277	0	51	111
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------FDVRDVHNSHYGRICPVETQ--EGPTIGLVGSL-----------ATYARLNEYgfietpyrrvln
+>GraSoiStandDraft_43_1057313.scaffolds.fasta_scaffold4984790_1 # 32 # 229 # -1 # ID=4984790_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.641
+------------------------------------------------------------------------------------------------------------------------------DINDITKQRIRNSEILVHLAQKLILAQYTEYKEQ---VMXGXTDAEF-QLPESKIISQFNXLEIVQDMEYANPAEEMATITKISPVG-KSVGGiaDKgAVQLDARNVH----------------------------------------------
+>ERR1035438_7001689	80	0.290	2.933E-12	218	271	277	128	179	334
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------sdntagLRGALVHPSHYGRICPIETP--EGPNIGLIASL-----------ATFARINEFgfletp
+>APFre7841882724_1041349.scaffolds.fasta_scaffold605106_1 # 3 # 320 # -1 # ID=605106_1;partial=10;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.654
+------------------------------------------------------------------------------------------------------------------------------DRNGCDKLRIRSSELFVALAQKQVLMAYNEYMSKR---AGGDTTATL-YINPTSVFTDV-ITsQNVAILENINPVEELSTMTRISPVGIGGV-PKSeAFPRQAMNVHPTYFGCIDP-------------------------------------
+>APCry1669193181_1035450.scaffolds.fasta_scaffold121794_2 # 371 # 493 # -1 # ID=121794_2;partial=00;start_type=ATG;rbs_motif=AAAAAA;rbs_spacer=12bp;gc_cont=0.252
+------------------------------------------------------------------------------------------------------------------------------ERNDLTYQRIRNSELLVHLAQKQLLKAYTEYREQ---YLAGNKDAVL-NIPEGVVRVQFSKLEIVQDMEYANPL-----------------------------------------------------------------------------
+>SRR6056297_1062162 
+------------------------------------------------------------------------------------------------------------------------------AFNNLNNKRLVFMEYILRPFLIKISNFATEVAKGI-N-----KDQMF--VD----------------------------------------------------------------------------------------------------
+>SRR5699024_4737409 
+------------------------------------------------------------------------------------------------------------------------------ietvtdqdevdynrytininykk--KRLDEIEIPKNKFVTDSRFAE--MIFTIRItTNL-N-QATIV--------KRILLPVE-DDgvCLIGSKIWKPIWQLCD-ANTYTQRGKVTFKSrMPiIIYQTKNRLISDTSGRVWNLTSHSYALDX---------------------------
+>SRR5574344_2211449 
+------------------------------------------------------------------------------------------------------------------------------RESDISNYRIRGNEIISECLYKVLTDE-YNTFKKR-AG----KKLTL-SIPRNAVMSKVYKTEIMEYYNCLSPMAEIKNNSTTTFKG----------------------------------------------------------------
+>RhiMetdeSRZDD1v2_1073273.scaffolds.fasta_scaffold1096771_1	83	0.294	3.597E-13	222	271	277	0	47	210
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------agFEVRDVHFSHYGRMCPIETP--EGPNIGLQGAL-----------ASYARLDEFgfietp
+>MGYP001245192321	85	0.272	4.386E-14	218	271	277	1	52	168
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------SRdHVSFAVRDIHPSHYGRICPIETP--EGQNAGLISSL-----------SVYARVNSFgfietp
+>MGYP001234634283	83	0.312	3.597E-13	225	271	277	0	44	212
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------EVRDVHYTHYGRLCPIETP--EGPNIGLISSL-----------CVFAKINKMgfietp
+>MGYP001197672602	61	0.340	5.752E-06	229	271	277	1	41	515
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------IHPSYYGRVWPIETP--EGKNAGLVGSL-----------ASFAQINADgfvmap
+>MGYP001102547808	64	0.312	5.544E-07	225	271	277	0	44	845
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------QIRGIHPTYYGRLCPIETP--EGQNAGLVNSF-----------TVYTQRNSQgiletp
+>MGYP000782510599	85	0.306	5.926E-14	224	271	277	0	45	142
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------FEVRDVHHSHYGRMCPIETP--EGPNIGLIGSL-----------TTYGIVNEYgfietp
+>MGYP000610262328	88	0.272	5.317E-15	224	276	277	0	51	560
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------FEVRDVHPSHYGRLCPIETP--EGPNIGLINTL-----------AVYAKTNEYgfletpyqvvkn
+>MGYP000583444013	90	0.277	1.589E-15	219	271	277	106	156	175
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------rdragMEVRDVHPSHYGRMCPIETP--EGPNIGLIGGL-----------SCYARVNEFgfiesp
+>GraSoiStandDraft_53_1057289.scaffolds.fasta_scaffold3359805_1 # 1 # 264 # -1 # ID=3359805_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.614
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------KF-VMSPTKVNSDFQMTELVMSMEYANPLEEMSTITRVTPVG-KSVSGipDKrAISISGRNLHPSYFGNIDP-------------------------------------
+>GraSoiStandDraft_28_1057319.scaffolds.fasta_scaffold1012090_1	73	0.319	4.661E-10	226	271	277	0	43	232
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------IRDVHPSHYGRICPINTP--EGQNVGLVLSL-----------ALYSRLNSFgfietp
+>GraSoiStandDraft_12_1057312.scaffolds.fasta_scaffold4448159_1 # 3 # 221 # -1 # ID=4448159_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.630
+------------------------------------------------------------------------------------------------------------------------------EFNNIAHKRLVFLELILDPLFKA----INKLVID---L----------KCGKPIISVPIKAGAIIN---------------HFYSSGNMGIGSqkRNkGLSgNNLYSIVNGYSGILSL------KGSFEN-------------------------
+>21879|Ga0214471_11289911_1|-1|11	85	0.306	8.006E-14	224	271	277	0	45	184
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------FEVRDVHPSHYGRICPVETP--EGPNIGLISSL-----------CVHAKVNKMgfietp
+>10576|scaffold5524598_1|-2|11	68	0.306	2.933E-08	224	271	277	2	50	77
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------FEVRDFHPSHQGRLCAVETP--EGEAIGLVAHL-----------ALFARLDEHgfllapsrp
+>SRR5699024_9774429 
+------------------------------------------------------------------------------------------------------------------------------IDSDYHNSRIRSNEIVYAYLYRELAEAWGRYKDG--------REEKF-SIPADAVIKTLMTANIVDPHSELNLTLETESDRQVKLKGPSGM-NEDhSFTLEK--------------------------------------------------
+>SRR5699024_10189601 
+--------------------------------------------PSIKIMGFEYTEEESAIDINNH----ifkrdkkrkknekfdykYVDDDRYGKLTTHIQITVKEKDtktgeTfeHvypFTKAMLIPLQDKNGYLHIKGKKYYMIYQMVEKstytssqsvtlkslmpvavkrqsidiapletevpieiqtavapiveadpnaearkseheigdvlgrqyhvpvyyifvfrkeipvilfymskgvdvalnelqvanvihpmeslpeplrddclyfkisgr-------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR5690606_20123389 
+----------------------------------------------------------------------------YGEIRARFKLNVKDESe--iIEKKFLIPLTDEFGYYTIKGKKFFSIFQLVESstyakgqsvilkslmpvvvcrkqidikntdgdmfkaytyavqlysriidvfyfyfskmgvtdtlkyfslsnvmritqaeedkeenyyfqihselfvevsx-------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR5574343_645850 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------KINTTAPYNSENPIEEQAVLSECSFKGLRGV-NLEqAFNIEKRSFDLTHYGi----VGLPSNYGPGVGVSKYL-----------VAEPSI---
+>SRR5512139_2885729	80	0.280	2.933E-12	223	271	277	0	46	107
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------pIEVRDVHPTHYGRMCPIETP--EGPNIGLIGSL-----------ASMATVDEFgfirap
+>SRR5512135_429412	91	0.280	6.413E-16	223	271	277	0	46	110
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------gFEVRDVHPTHYGRVCPIETP--EGPNIGLISSL-----------TTYARVNEYgfietp
+>SoimicmetaTmtLPC_FD_contig_31_32717767_length_270_multi_2_in_0_out_0_1 # 1 # 228 # -1 # ID=1537443_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.671
+------------------------------------------------------------------------------------------------------------------------------PQNDLRNYRVRGNEIVIAMLYQIIAKAYLGYQKNK---LNGRNLEIL-DIPRNKLISSLLQEPNVNDHSTLNPVLEMENIANISAKGFRGV-NLGdAYTLEMRA------------------------------------------------
+>MGYP001317410091	80	0.285	2.174E-12	224	271	277	1	46	125
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------FGVRDVHYTHYGRLCPIETP--EGPNIGLISSL-----------AMFAEVNDHgfiesp
+>MGYP001019049347	85	0.280	5.926E-14	223	271	277	0	46	270
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------gFDVRDVHNSHYGRICPIETP--EGPNIGLIGRL-----------ASFARVNEYgfietp
+>MGYP000826627951	76	0.311	5.811E-11	228	271	277	2	43	295
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------DVHYSHYGRLCPIETP--EGPNIGLISSL-----------CVYAKISPMgfietp
+>MGYP000632750057	91	0.241	8.678E-16	220	274	277	1	55	141
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------rragFEVRDVHPSHYGRISPIETP--EGPNIGLIVSL-----------STYARVNAYgfietpsseve
+>GraSoiStandDraft_15_1057317.scaffolds.fasta_scaffold6283281_1	82	0.274	6.556E-13	222	271	277	0	47	244
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ISFAVRDIHPSHYGRICPIETP--EGQNVGLIASL-----------TTSARVNKSgfletp
+>ETNmetMinimDraft_8_1059916.scaffolds.fasta_scaffold971424_1	80	0.254	2.174E-12	223	274	277	0	51	163
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------gFDVRDVHATHYGRICPIATP--EGPNIGLVGHL-----------ASYARVNEFgfvetpyfeve
+>ERR1712194_851758	81	0.280	8.848E-13	223	271	277	2	48	121
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------gFAIRDIHPSQYGRICPVETP--EGPNAGLIGSL-----------STYGRINSYgfietp
+>UPI000443B9F0 status=active
+----------------------------------------------------------------------ittvqhrvgfikLLCDYPLDKLGVIDTRKNITNINekVITKRILIPLQTEDGYYINNNKKMKAIWQLIDAstysqrgkitlksrmpiiiyhnkhrkiedvdgnefsmpsysyalnakskkpgskvmtkfinplmiyaakmgynktreffgmknivfisddykesdkenyyifqvddifikvdkylydkyelvrsfvcmtcnlrsknypvtrstledn-------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR5699024_7642602 
+------------------------------------------------------------------------------------------------------------------------------IDSDYHNSRIRSNEIVYAYLYKELADAWGLYKDG--------RNEKF-SIPEDAVIKKLLTAN----------------------------------------------------------------------------------------
+>SRR5574344_850459 
+------------------------------------------------------------------------------------------------------------------------------PQSHVSIFRIRGNEIIAAELYGLISKASIRYQKS----RMNGGRGAF-SIAQGDLINNLIslPSv-----------------------------------------------------------------------------------------
+>SRR5574344_2181139 
+---------------------------------------------------FHYLDNRKRM---------lerdeehdendyknelriNINDTYAKEAVFEFTCTFQGQVIsqKf---SLWIPLLIDNSHFYIRGNKYSCPIQIIDAitftkkdvlvlktitraikferekiiltdifgnkyntnklmiyitrksipvlvyyfarfgffntlkyfgtdeyiklysgdlssgvpedkyifkfgsvylgvdkkafesnpvlrmfvatiiasgkrtidmdyirnpcrwtmllgetisipkslekgvallktftasmd-------------------------------------------------------------------------------------------------------------------------------------------------------
+>SoiMetStandDraft_2_1073263.scaffolds.fasta_scaffold2431506_1	89	0.245	2.149E-15	220	271	277	0	49	183
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------dragFEVRDVHPSHYGRICPIETP--EGPNIGLIGNM-----------ATYSQINPYgfvetp
+>SaaInlStandDraft_5_1057022.scaffolds.fasta_scaffold549751_1 # 1 # 345 # 1 # ID=549751_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.565
+----------------------------------------IRRNS-------------------------nknkvikNVAETRCGVMYIDIEVSGLDKNGvtKihyLKKPLVIPIQDKDGYLMIKGKKCYLIYQMVDK-------------------------------------------------------------------------------------------------------------------------------------------------------
+>MGYP001069340199	78	0.270	1.308E-11	225	271	277	0	44	244
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------EVRDVHYTHYGRLCTIETP--EGPNIGLISSL-----------CVFAKINKLgfietp
+>MGYP000929851382	76	0.288	4.313E-11	228	271	277	0	41	391
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------DVHYSHYGRMCPIETP--EGPNIGLIVSL-----------AMFTKINEYgfleap
+>MGYP000910570672	81	0.265	1.194E-12	224	271	277	0	45	73
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------MEVRDVHYSHYGRMSPIQTP--EGPNIGLISYL-----------ATFAKINEYgfieap
+>MGYP000883072551	89	0.265	3.932E-15	224	271	277	0	45	332
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------FEVRDVHYSHYARICPIETP--EGPNIGLIGSL-----------ATYARINEYgfieap
+>MGYP000796279273	89	0.260	2.149E-15	223	271	277	2	48	436
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------nMEVRDVHYSHYGRMCPIETP--EGPNIGLISYL-----------ATYARINEYgfieap
+>MGYP000692607187	82	0.254	4.857E-13	222	271	277	0	47	196
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------agFDVRDMHPTHYGRICPIETP--EGPNIGLIASL-----------STYTRVNLFgfietp
+>MGYP000643499730	43	0.260	2.449E+00	180	227	277	2	50	68
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIQKMHSSGVFRFDDNINDMDFFS-RFKFTNKGPHSAGQkNGnSVGVKYR-------------------------------------------------
+>MGYP000636835830	56	0.302	1.409E-04	213	254	277	1	43	339
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------IQSP--lSRtQPNFEARDLHSTHYGRICPSETP--EGANCGLGKNIA-------------------
+>MGYP000624164949	67	0.276	5.287E-08	226	271	277	4	47	113
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------IRDIHPSQYGRLCPIETP--EGQNAGLITSV-----------SMYGRISALgwietp
+>MGYP000520367291	83	0.260	3.597E-13	223	271	277	0	46	233
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------gIEVRDVHPTHYGRLCPIHTP--EGANIGLITHL-----------SSFARVNKYgfletp
+>MGYP000202137342	93	0.254	1.910E-16	222	271	277	0	47	546
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------agFEVRDVHPTHYGRMCPIETP--EGPNIGLINSL-----------ATFARVNKYgfietp
+>LGVC01.1.fsa_nt_gb|LGVC01101494.1|_1 # 3 # 353 # 1 # ID=101494_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.530
+------------------------------------------------------------------------------------------------------------------------------SFVDLRFKRLTFIEPLMVPFCKAVSDA-----AK----------------------------GLLK-------------------------GNNVkGLNLQLGAVIKHFFAKLDG-------------------------------------
+>GraSoiStandDraft_47_1057283.scaffolds.fasta_scaffold2362195_1	82	0.270	6.556E-13	225	271	277	0	44	158
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------EVRDVHFSHYGRMCPIETP--EGPNIGLIGAL-----------STFARVNPYgfietp
+>GraSoiStandDraft_15_1057317.scaffolds.fasta_scaffold829124_1	84	0.260	1.461E-13	223	271	277	0	46	162
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------gFEVRDVHRTHYGRICPIETP--EGPNIGLISSL-----------SCYAQINEFgfiesp
+>GraSoiStandDraft_13_1057314.scaffolds.fasta_scaffold698705_1	75	0.288	1.054E-10	228	271	277	0	41	161
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------DVHFSHYGRICPIETP--EGPNIGLLSSL-----------ASYARINEFgfiesp
+>A0A197JCC8	48	0.325	7.962E-02	219	257	277	25	64	225
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------EnSAGRDMRQLHPSQVGYICLSETP--EGKSTGLVKHL----AMAA------------
+>6931|Ga0210057_1685847_1|+2|11	55	0.236	3.359E-04	229	276	277	0	54	135
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LHPTHYGRFCPIETP--EGTEIGLRKNL----SILSRV-STRVVLDENkflktleqegmekn
+>2344|scaffold_1385085_c1_1|-3|11	68	0.317	1.626E-08	232	271	277	0	37	107
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------SHYGRICPIETP--EGPNIGLIGSL-----------ASYSRINRMgfietp
+>SRR5699024_6661262 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------msgafTPFMELFDNFYFNPNPEPCD---------------------------------
+>SRR5699024_5592503 
+------------------------------------------------------------------------------------------------------------------------------ykr--KS-GNYDIPKFKYLATNRVGE--IQFHVNIkTNK-N-ERNIV--------KKILIPIE-YDgfYTLNNKKWKALWQLVD-ASTYSQKGKITMKSrMPiIVYKSKKRPLIDMNGEVMQFSTYSYALNRKT-------------------------
+>SRR5699024_4239903 
+------------------------------------------------------------------------------------------------------------------------------mkDNLDLSIKKVRYATYMSTLYAMKIVYGIYRMA----------------DMNKRVTVSSIKRX-----------------------------------------------------------------------------------------
+>SRR5574344_693699 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ENQF--NKgKVNIQHSELSLVRY-IFDF------DGEEVGSPVFI----PIWH---NNSLQINDTkyd
+>SRR5574344_405781 
+-------------------------------------------------------------------------------------------------SILVPRMDENSYNTIRGKRYFLLYQLVDNstytsrdgltlkslmpicvnknmdtlidvdgniyevpyyyinafkrqietflfyfckigfrstlkffvvdkvisiipd-------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR5260221_10708534	64	0.285	3.084E-07	231	271	277	0	38	154
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------PSHHGRICPIETP--QGPNIGRIGRL-----------ASYGRVNEYgfietp
+>SRR3989338_3984684	51	0.315	6.014E-03	225	261	277	176	213	832
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------EARALHATHWGRLCAEETP--EGVNIGLRKYL-----------ALFALISE-
+>SRR3989337_1429776	66	0.285	1.278E-07	231	271	277	1	39	646
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------PSNYGRMCPIETP--EGTNIGRIGSL-----------ATYGKINQHgfietp
+>MGYP001081869778	73	0.266	6.272E-10	228	271	277	0	41	269
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------DVHVTHYGRVCPIETP--EGPNIGLISSM-----------STFARINEFgfietp
+>MGYP000692771824	91	0.230	6.413E-16	221	271	277	0	48	221
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ragFEVRDVHPTHYGRICPIETP--EGPNIGLINSL-----------STYSKINKYgfiesp
+>ERR1039458_7051889	87	0.240	1.777E-14	223	271	277	0	46	303
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------gFEVRDVHTSHYGRMCPIETP--EGPNIGLIGHL-----------ASYARVNDHgfietp
+>AP12_2_1047962.scaffolds.fasta_scaffold275723_1 # 1 # 510 # 1 # ID=275723_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.725
+------------------------------------------------------------------------------------------------------------------------------SRNDISNQRVRGSEILVGLAQKQILAAYTIYKEQ---VLSGNKEAVF-TIPPTKVINDFLTTELVTDMEYANPVEEMSTMTRVSPT-----------------------------------------------------------------
+>AntAceMinimDraft_10_1070366.scaffolds.fasta_scaffold574240_1 # 3 # 383 # -1 # ID=574240_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.331
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------mvpGRhSFKVSHRNIHPSNYGNVSAAATS--ESSDVGLVNHHT----------MTPSIIN--
+>MGYP000733196215	64	0.282	4.136E-07	234	271	277	22	57	208
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------YGRMCPIETP--EGPNIGLINSL-----------ASYAKLNQYgfveap
+>MGYP000546203554	59	0.282	1.845E-05	234	271	277	0	35	264
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------YGRLCPVESP--EGPNIGLISAL-----------SCFAQINEYgfvetp
+>HubBroStandDraft_6_1064221.scaffolds.fasta_scaffold2284729_1	66	0.268	7.097E-08	232	271	277	0	37	193
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------SHYGRICPVETP--EGPNIGLIGTM-----------STFARVNEMgfletp
+>SRR5699024_7575449 
+------------------------------------------------------------------------------------------------------------------------------vkDNLDISMKRIRGAEYIAALYGTKGYAWLIRIYDKE--------------------------------------------------------------------------------------------------------------------
+>SRR5699024_12296923 
+----------------------------------------------------------------------trskrdWSSDVCFPILVLNFHVQVKDAD-LhIQRRVRVLKPIRGGMYIRNGKKVRLLNQVVDN-------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR5690606_16901470 
+------------------------------------------------------------------------------------------------------------------------------lkDNIDISTKRIRRPEYIAAIYATK--------------------------------------------------------------------------------------------------------------------------------
+>SRR5574344_1864706 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------RKRSYDPSYFGIFG-ISTP--DNSNAGIVKYL-----------TLNPNI---
+>SRR5574343_491762 
+------------------------------------------------------------------------------------------------------------------------------SLSDLKIYRARLSEIILNIVYKQikLSHNFYRKKvTEG-D-----SQATV-FLDPDYV------------------------------------------------------------------------------------------------
+>SRR4030042_803222 
+------------------------------------------------------------------------------------------------------------------------------DRNDVSNQRIRGSEILVHLAQKQILAAYTDYKEQ---V-----------------------------------------------------------------------------------------------------------------
+>MGYP000692613405	46	0.250	3.327E-01	237	271	277	63	95	133
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ISIDETP--EGQNAGLMASL-----------ASYARINYLgfietp
+>LWDU01.1.fsa_nt_gi|1020221887|gb|LWDU01039391.1|_257	51	0.281	8.019E-03	224	254	277	7	38	273
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------FEARDLHPTQWGKICPTETP--EGPNCGLVKNFS-------------------
+>SRR5574344_703675 
+------------------------------------------------------------------------------------------------------------------------------NSSDTSSWRIRDYEVLNVLLYESIAEN-YKIYSTK--------------------------------------------------------------------------------------------------------------------
+>SRR5574344_12626 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------EVTLWTsnfkYNkAILPLYLNIPYSVNGSLTINSTEYH-------------------------------
+>SRR3984957_18067116	49	0.228	3.370E-02	232	265	277	0	34	320
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------SQVGRVCLVESP--EGKNCGMVSYM-----------ATYCRIDEDgfm
+>16258|Ga0233407_10952146_1|-3|11	42	0.275	5.753E+00	244	271	277	0	25	95
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------EGPNIGLVGHL-----------ATFAKINEYgfletp
+>SRR5699024_5779794 
+--------------------------------------------------------------------------TLYDMLYLHFRVKVKGHD-QlVTRKVRVLKQVRGGMYIRNGKKVRILNQIVDN-------------------------------------------------------------------------------------------------------------------------------------------------------
+>SRR5699024_2802746 
+--------------------------------------------------------------------------------------------------------------------------------HEATVSRIRCAEVINAIVYKNVAKAYEKYKET---S----------TYANPVKISIX--------------------------------------------------------------------------------------------
+>SRR5574344_53230 
+------------------------------------------------------------------------------------------------------------------------------SEINMNNFRVRSNEMVNAMLYKIVANAFSKYKrTA---A----NKTPI-KIS----------------------------------------------------------------------------------------------------
+>SRR5574344_1516439 
+------------------------------------------------------------------------------------------------------------------------------VETDLNIFRIRRNEIINALLYKNIATAYEKYKl-----------------------------------------------------------------------------------------------------------------------
+>LauGreDrversion4_1035100.scaffolds.fasta_scaffold156808_2	42	0.333	5.753E+00	225	245	277	14	34	571
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------EARDVHGTHWGRLDPIETP--DG-----------------------------
+>SRR5574344_152063 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------KKnNVDVTIKRLRIGRSEeHTSELQSP-D-------------------------------
+>SRR5574344_1549124 
+---------------------------------------------------------------------------------------------------------------------------------------------XMALLKiGEIANA-----AG--------IDAQY-VEPYGFYKAKID--TAIN--------------AKLTNKADGKL-------VLVTAITPTVVNgTIHN-------------------------------------

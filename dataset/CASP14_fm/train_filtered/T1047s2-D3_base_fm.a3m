@@ -1,0 +1,710 @@
+>T1047s2-D3:
+DAKVVINSRTGSVVMNREVTLDSCAVAQGNLSVGGSLQSVRSSASLNNVVRALNALGATPMDLMSILQSMQSAGCLRAKLEII
+>tr|A0A1B9M7G9|A0A1B9M7G9_9GAMM Flagellar P-ring protein OS=Gilliamella apicola OX=1196095 GN=flgI PE=3 SV=1
+sakvvintrtgvvvmnqkvrldncavahgnlsvvinrklnvsQPNTPLAGGATVVTPENQISVEQE---------GGALHNLASGADLNHVINSLNVLGANPTELMSILEALKTAGCLHAALETI
+>tr|A0A1W9SRW0|A0A1W9SRW0_9GAMM Flagellar P-ring protein OS=Erwiniaceae bacterium 4572_131 OX=1971639 GN=flgI PE=3 SV=1
+eakvvvnsrtgsivinqsvrlgscvvsngnmsiivhqiknkkRDLYFLKSFNKNIKKDQSIEDMAD---------KNYMNdIATNKENLHNIVRALNKLGTKPDELMSILQLMKSAGCLNAKLEIV
+>SRR5665213_1177892	97	0.385	5.638E-21	1	82	83	524	637	638
+akvvvnertgtvvmggditlascaiahgnlsitistsnvvvPSAP-FSRTQPPVQTNTQISAAEG---------NKKLVYISGAATLAQVVRALNTIGVSPRDLIAIIQALRQAGSLQADVEII
+>SRR5947208_1874915 
+aakvvinartgsvvmneavtlnpcavahgslsvtinstpvisQPGP-LSQGQTVVAEKADIAIRQD---------AGSLIQMPAGTKLTDVVKALNALGATPQDLLAKQLERQLGVATGLTPPNL
+>GraSoiStandDraft_35_1057300.scaffolds.fasta_scaffold1070931_1	76	0.413	1.552E-13	1	72	83	58	161	162
+akvilnartgsvvlnesvtlgacavahgnlsvtisttp-TVS----------QPGPFA-------------NGRTVTTEqSDISISTGNKAMLELPAGVRlsDVVKALNAMGATPqdlLVILQAMKSa
+>A0A4D6Y6G0	66	0.362	2.549E-10	0	81	83	254	369	371
+eakvlvnprtgsvvmnqsvklgscivsngnisimlneiinknKDFDFLKLFKKNQTKKNISDASIN---------KNYMDrISLNKVNLNHIIQSLNLLGTRSEELISILQLMKNAGCLNAKLEI-
+>MGYP000562686450	57	0.493	6.482E-07	0	75	83	427	505	507
+dakvvinsrtgsvvmnrevpldscavaqgnlsvtvtllphwshftrvvgqsnrfsAPFSA----EISFTEDSHRWQQYA---------AGGL----------------------------------------------
+>DipCmetagenome_2_1107369.scaffolds.fasta_scaffold94699_1	75	0.367	2.927E-13	0	71	83	56	161	162
+eappkviinartgsvvltqmvrvtecavshgnlsisitreq-QVS----------QPLPFS-------------QGETVVTEqAQVQVQEQTSKVLLIPTTASlsDVVKALNAvGATPSDLLAILQAMka
+>24025|scaffold60348_2|-373|00	71	0.217	7.002E-12	1	82	83	287	461	462
+akvvvnertgtivmgenvrlasmaishgnltikiqtqfnvsQPEA-PafigrvgrgpgravgtqdvetdigqgrrGp-GRAVVTPDVETDIGRGrrgpgrtlvtPDAgrglgrTVVTPDvetdveeeDSRVIQVDESVTLGDLVKALNSLGVTPLDLVAVLTAAKAAGALQADLELI
+>tr|A0A2H0QT65|A0A2H0QT65_9PROT Flagellar P-ring protein OS=Alphaproteobacteria bacterium CG11_big_fil_rev_8_21_14_0_20_39_49 OX=1973900 GN=flgI PE=3 SV=1
+ravvvideasgtivmgeevkidtvavaqgnlmvavnnnfsdkDNA--F-sSDVSRtSGNTEPVNNNNNp---------GNGLAVLPQGANLRDLVSGLNALGVGTRDLITILQTIKVAGALHADIEVR
+>APAga8741243762_1050094.scaffolds.fasta_scaffold00490_13 # 12930 # 13811 # -1 # ID=490_13;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.575
+patvvinertgtvivseevkvskvaiahgnisvivrqtnrvvQPNP-LAEGQTALEENTDLTVAEE---------KRVLNEIGGDVPLSELVKALNALGVTPRDLVSIFSALQKSGALNAELVIM
+>A0A2E3QPZ1	91	0.300	9.008E-19	1	82	83	70	192	193
+akvvvnsrtgtvviggdvrispaavahgslsvkiqedtkllSEGTGTVvgtsatvaGTTATTAAETELDVDQQ---------PARaF-VFDPGIQLQTLVDALNETGTTATDMVAILEALREAGSLRAELIII
+>A0A1Z8WS46	80	0.321	5.232E-15	1	82	83	273	387	388
+arvvinsrtgtavinrsvrvtaaavthgtisvriqatnevsQAGA-LaQGGQTQAVQNVDISVDEP---------DSKMFLFEPGIELQDIVDAVNQVGATPSSLIAILEALRRSGSLRAELVVI
+>UniRef100_A0A521KZF8 Flagellar P-ring protein n=1 Tax=Planctomycetes bacterium TaxID=2026780 RepID=A0A521KZF8_9BACT
+arvvinertgvivlgegvritrgavtkgnltvtvsetpqasQPGP-LSNGATTTLPRTSLLIEEE---------ASALSIVNGAADLQEVVEVLNVLGVTPRDMIQILHSMSQSGMLHAEILTL
+>tr|E6QM27|E6QM27_9ZZZZ Flagellar P-ring protein FlgI (Basal body P-ring protein) OS=mine drainage metagenome OX=410659 GN=flgI PE=3 SV=1
+aptvvinaqdgtvimgadirispcavatgtlsvsvqnnpqvsQPNM-FGRGVTVAATNTKVKIKSH---------KAHLVLl-DKTSSLEGVVRTLNTVGATPSQLVSILEAMKADGALHARIKVI
+>OrbCnscriptome_3_FD_contig_123_226777_length_4331_multi_4_in_2_out_0_2 # 2154 # 2354 # 1 # ID=323820_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.358
+dakviinsrtgsvvmnqavkindcavahgnlsvvidtvp-VIS----------QPNPLA-------------GGETVVTQrSQIeinqgggalQVSTAFGAEWLRGMVAAlsDARLRGFTILQAPdayFYPRAAEAMngaavrrfpvama
+>JI10StandDraft_1071094.scaffolds.fasta_scaffold4855502_1 # 1 # 285 # 1 # ID=4855502_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.688
+aarivvnartgtvvigrsvkvtsaaishgslsvtitesvdvsQPNP-LADGDTVATLQSDIQVRAG---------SGRMLLFEPGIDLADLVGAINRIGAAPDDLIAILQALRESGALRAKLVVI
+>A0A2T3KMT9	68	0.315	7.157E-11	1	82	83	253	366	367
+akvsvnsrtgtvmitgdvtlspvaiseagviiniseqqgvsQPTP-ISg-GQTVETKSSQVSIKKQ---------QDNLKYVTKSASLKELVSTLNSISTSPKDLASIIQLLKSSGSLNAEV-EVi
+>SRR5262245_48694911 
+pakvvvnertgtvimgsqvriatvavshgnlsiqikselqvsQPLP-LApqGAQTVVVPKTDVTVKED---------KAALAVVQGGASIGDVVSGLNAIGATPRDLIAILQAEERRVGKECRCRWW
+>SRR4051812_35872797 
+karvvinsrtgtvvsgsqvqistvmvshgglslrvlpkvvpvpDP-----dnprvmrqqtmwldpVTKsYRPRPPEGTRPTPM---------LGTASVI-GAASVDDIANALNALGARPKDLVAIFEAIHRAGALHAELVVM
+>MGYP001352055972	83	0.318	7.043E-16	2	82	83	251	360	361
+kvvinsktgtivigdnvrllpvaithgsisikieggesslaknvyIFDA---EK------PAEIQVKEE---------SSDLHFVKPDNSLSSLVDALNEVGVKTKELISILQAMEEAGALVATIEVI
+>MGYP000661906432	52	0.453	4.038E-05	2	73	83	162	224	267
+kvvinartgsvvmnqmvmlercavahgnlsvtinstp-VIS----------QPAPAS-------------RATVCQNAlPPAidkag---------------------------------------
+>15171|Ga0335395_10000001_4|+4787|00	85	0.272	7.642E-17	1	82	83	281	405	406
+arvvinartgtvvaggevriaavavshgglslrvqprtervqER-----qggevtertvyidgVTReRFTEPPIGTKPTQM---------PGTLTVL-EGVSVESIANALNAIGARPRDLVAIFESIQRAGALYGELVVM
+>UniRef100_A0A4Q3WLZ4 Flagellar P-ring protein n=1 Tax=Alphaproteobacteria bacterium TaxID=1913988 RepID=A0A4Q3WLZ4_9PROT
+earviidektgtivmgenvriapvaishsnltikvtedkqvsQPLS-FNvAGQTVVTDRSTIERIDD---D---P-NkGKFQMLNAGASLSDLVSGLNALGVKPRDIISILQNIKAAGALQAELVVL
+>SRR6201996_1052866	85	0.289	1.441E-16	1	82	83	288	401	402
+akvvvnertgtivlggdvllspvsvlhgglqiqvdtvvsatDAAP-GS-nAAPAVVSNTSVRVQDK---------EASsIR-LENGADVEELVKGLHTIGATSHDIVSILEAIKAAGGLQADLEVI
+>OM-RGC.v1.032776239	88	0.282	8.296E-18	1	81	83	261	377	379
+arvvinertgtvvidenvrvspvavthgsitvkvmeegmaYySfSG--EegeeTGEAWAMTR-DfVTVEEK---------EVPMVALPAGASLEEIVEVLNMIGTNPHDIAAILIAIDQAGALHGVLEI-
+>MGYP001081356615	51	0.370	7.627E-05	1	76	83	104	192	222
+akvvinartgsivmnqavtlaacavahgslsvtisngd-RLV----------D-MPRE-------------ElAQAIWNDvCEAG--GVSGELPPWQIVRErrATFAATPAQNALR---------
+>MGYP001003719813	96	0.292	2.004E-20	1	82	83	259	371	372
+arvvinertgtvvmgadvriatvavshnnlnvridaywqfsPMPE-FL-GDGTNGMASSAGTDTM---------GGNVMLISGNTNVEDLVNALNAIGASAQDIIAILQAIKAAGALYGDLIIM
+>MGYP000464525321	52	0.351	2.939E-05	1	81	83	16	102	141
+arviinartgsivlnqavtlgacaiahgnlsvsisstpvisQPNA-LSIgGQTVVAEQERSIALLE---------KLVGSQPDEFPEWGAVAATMEI----------------------------
+>MGYP000108626243	47	0.351	1.833E-03	1	62	83	83	176	185
+akvvvnprtgsvvmnqtvtlqacavahgnlavvvsadsnvsQPGA-FSGGTTAVTTQSDIQLKAS---------GTTLMNVKPGANLADVVKAAQDAGKSTYQL--------------------
+>SRR5919204_224972 
+parvvidertgtvvigrdvqvstvavahgnltvritesprasQPLP-FSGGETVVTPETTLTADQQ---------GGNLAIV-KGTDLQTLVSGLNRIGLKPIGDM--ERELEKRTALLEAK-VVey
+>SRR5581483_9679197	83	0.285	5.128E-16	2	81	83	285	396	398
+rvvinertgtvivggevrvgraaithgnitvlvstatrvsQPAP-FSSGTTAVTKNVSVGVNES---------PGAFFVTPESATVEQVASTLNIVGAKPEDVIAIFQGLKDAGALHGKLII-
+>SRR5206468_2918392 
+sivmnravtldtcaishgnlsvtvgadtqvsqppagsrgAtVVT----------QTPQVSVKKD---------AGKVIMLNGGASLAEVVKAMNAIGATPQDGMLDSQDTKTYTSMLDQQMSQ
+>SRR3989339_2168586	63	0.307	4.016E-09	12	81	83	0	103	104
+ivmgenvkisevavsygginvivgpvnlyseGHAdaynsA--S-DTMRI--QTNVNLSRS---------DSSIL-LvPSSSRLSTLVKALNAIKAKPQELIAILQAMKKVGSLKAELEI-
+>MGYP001489827953	71	0.283	7.002E-12	1	81	83	31	143	145
+akvvvnprsgsivfdenvkiapvavtsggitvkvsstqtvsQPPP-LSGGETTVTTGETLEVERG---------GGPLVALNAGTDINELVRALNSVGATSHDIINLIIAIDQAGALYGVLEI-
+>MGYP001230608781	81	0.285	2.506E-15	1	82	83	299	410	412
+akivinertgtvvagqhirvrdaviahgplritietvpevtP-AG-WGm-GGAPVTTQQAQVTVTE---------GDKVTTVQG-TTIGEVLSNLNALGYTPRDLIAILQNMAAAGAIKAQIEMI
+>MGYP000931398785	45	0.340	1.235E-02	6	80	83	118	209	212
+ndetvmsgagtvakdfmqqaphldAILV-AAggg--GLA----GGMATWLG---------DRVRLIVCETDGTRAFAAALAALGAKPRDLVSILRALKVAGALRADLE--
+>MGYP000080977831	69	0.283	4.706E-11	1	81	83	261	373	375
+arvvvnsrsgsvvitgnvelspaavtfgrtmisisnntqvsQPGP-FSEGRSKEVVNSAINIEQT----------GgLMHSIPKSRDLQQLVTVINAMGLVPDELVGLLEALARAGSLQAELII-
+>GWRWMinimDraft_3_1066011.scaffolds.fasta_scaffold16341_1	83	0.264	3.734E-16	0	82	83	169	289	290
+earviinertgtvvaggdvilepvmvshgslviqikeeeentMQisQtgP--GTTaaPPTSTTRTTAEASET---------VQPvEF-FRKSTSVRDLANTLNgGMVLSPRDIIAIFQAIDQAGALRAKLIII
+>UniRef100_A0A519ZP47 Flagellar P-ring protein n=1 Tax=Rubrivivax sp. TaxID=50259 RepID=A0A519ZP47_9BURK
+aarivvnartgsivinqavtigpcavahgnlsvtisstpvisQPSP-LSQGQTVVTQKADIRINQE---------PGSLIQLPAGTQLTEPFDG-PALARQPAWrGVERRDQVGHQGSRQAARiavhagadEV-
+>UniRef100_A0A1G0XL04 Flagellar P-ring protein n=1 Tax=Lentisphaerae bacterium GWF2_45_14 TaxID=1798572 RepID=A0A1G0XL04_9BACT
+vakvvfnertgtivmgsdvkissaavshanlfvniknsvgvsQPNA-FteSsGAKTEKVVDQTTMAKEQ---------NTKVFELPNVTTVGELVRVLNTLGVGSRDIIIIFHCLRQAGALHAELEAM
+>SRR5919206_208428 
+pakvvidghsgivvmganvrvstvavaqgnltvtitempqvsQPQA-F-sNGVTRTVPRSQVDVSDEa---------NRRLRILHDGVTLAELVDGLNALGIGLADTLA-----GELLSLQEARASX
+>MGYP001005731977	87	0.271	1.564E-17	1	81	83	83	196	198
+arvvinertgtivaggdvrlapaavvhgnltitvkeapvvsQPqAA-FGt-GDTKVVQRSDVKVDDK---------PKDVTYMKGAPTLADVAAALGSLGLSPRELAGVLQALRAANALEAEL-VV
+>MGYP000019256315	56	0.336	1.682E-06	1	74	83	109	195	217
+akviinsrtgsivlnqavtlgacaiahgnlsvtinstpvisQPNA-LSGGTTQVTLGPLGEssyvveagLSEG---------DRIATSSMQALRDGA-----------------------------------
+>GraSoiStandDraft_14_1057315.scaffolds.fasta_scaffold2255374_1	74	0.284	1.042E-12	0	82	83	48	156	157
+eqkiiinertgtiiagvdvevkpvvitqgdmtvkilsqneVSKP--S-GSVTM--DKSLVIGLN---------ENEVY-TeKGTTTVANIARSLQKMGATPKEMISILQAMKSAGAISVDLEII
+>A0A7Y5IUI8	55	0.238	1.862E-06	1	80	83	278	407	412
+arvvvsertgvviaggeaklsaveivqgelrivvepgVPEevhI--QaQppVvdPTgAmVQPPTqQVQrVGarpgRtQvv---------EGdKtLVQLKEGDTVGNMIRAISasEVGASPRDIIAILQALDRMGALHAQL-I-
+>UniRef100_A0A1G9MLG5 Flagellar P-ring protein n=1 Tax=Halarsenatibacter silvermanii TaxID=321763 RepID=A0A1G9MLG5_9FIRM
+tarvvinendgtivkghnaristvsvahknmsvtvssdstiqQGEE-EEEAfIE---EEQEMEIEDE---------QENSMVVEGGSNTGDLITALNAVGADASDMVSILQEIEAAGALHAELEVR
+>tr|A0A1F6QFG9|A0A1F6QFG9_9BACT Flagellar P-ring protein OS=Candidatus Margulisbacteria bacterium GWF2_35_9 OX=1817873 GN=flgI PE=3 SV=1
+vakiiinektgsvvmggpimispvviaheslnisikntdgvsQPNI-Lag--GDTTLVKGSIVTVEDraS---------QAPFKTLQSDTNtIESIVAILNNIGVSPQDIIVILQLMKEAGAIKAKLEIV
+>SRR6266446_3938619 
+kakvvvnertgtvvmgrdvrlgavsilhgsfsievittysasQPNP-LA-gGQTEVLPETKLKASDS---------AARnVE-LNEGASVEELVTRLQAIGATARDVVSILQASKPRAPWKLSWRSS
+>SRR5882672_5435734 
+aakvivnsrtgtvviganvrvspaavahgslvvkitetalvsQPNA-LAQGRTVVVGQSDINVDQG---------SARMFVFEPGTSLNSIVEAVNQVGAAPGDLVTTppispnavdltgLEQLRRSAARDDKTAVA
+>GraSoiStandDraft_10_1057309.scaffolds.fasta_scaffold2720355_1 # 3 # 293 # 1 # ID=2720355_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.636
+varvvvnartgtvviggdvrvtpvkvshgcisievrenttkkPDQPIITengnptatTIDPAKDKNKINLYCAK---------NMStY-VFDFGITLSDVVDAINPKKKyrikNIPDTLGILKALKEAGALRAEMIII
+>ERR1035437_4446374 
+nkivinertgtvvmgadvaidtcavshgdfnvniavtkqvsQPNP-FVpGASAMVYEDSNIKVEGA---------GNQLITVPQGANVQDLVIALNVLGAS-------LRKLQAKNKLX------
+>UPI001A9D8665	84	0.252	2.191E-16	1	82	83	261	375	376
+akivinertgtiiigqkvvieavaishgditiqvqventavPGGG-QVnAPGTVNQQNTNTEVREE---------PGRVFVAEQAVTLGQIAETLNALKVSPRDVISILQAMKEAGAIHAELKLI
+>UPI0004D7B55E	73	0.266	1.154E-12	0	82	83	241	349	350
+ddkividertgtivsginvsvdpvvlthgditikiepssyEEGA--E-GEVDL--LDGSSINSK---------ANMLR-IkEQKTTIASVTRALNKLGASPSDIIAILQNLKRVGAIHVDVEII
+>UniRef100_A0A3N0ZHL0 Flagellar P-ring protein n=1 Tax=Bacteroidetes/Chlorobi group bacterium Naka2016 TaxID=2382229 RepID=A0A3N0ZHL0_9BACT
+arvvinertgtivvggnvqinpvviahggleisiqkeivfpPQPM-IAlylnrgytlDSIMKIIVQEQMN---P---------AVAIDLr---TPTVQDIANALNLLNVTPRDLISIFQALKESGALSAEVIIQ
+>UniRef100_A0A399X4C1 Flagellar P-ring protein n=1 Tax=Armatimonadetes bacterium TaxID=2033014 RepID=A0A399X4C1_9BACT
+aalvvinertgtivvggnvrlgpavvakgslnvrietdllvsQPAP-FSKGETAVVPQTRVDARED---------QAQVALIAPTATVADLAKLFQALRVSPTDIIAILQALQEQGSLKARIRVQ
+>U7D8T9	85	0.254	8.457E-17	1	82	83	261	374	375
+arvvmnertgtvvagsdvrisevavthggikveitnrpeavMPQP-FTFGQAVTVPNPEQVVEER---------DMDMVVLDQNTSVTELSQALNSMGVSPRDVISIFQAIREAGALHGDLVVM
+>tr|A0A2M7P1W1|A0A2M7P1W1_9BACT Flagellar P-ring protein OS=Candidatus Desantisbacteria bacterium CG_4_10_14_3_um_filter_40_18 OX=1974544 GN=flgI PE=3 SV=1
+varvvinertgtvvmgenlyilpvavshkdlylvvtgegekqegkgaaptiivsAPeiSTeTMSnAlG-AInIKPTTEqIttvlDiIKqqstEspttpEtggkntaetk---peA-QTT-tqsQGKVVILSTRVKVGDVVKGLSSVGATPQDVIAVLQAIKAAGALQAEIVIM
+>tr|A0A2E8DRP1|A0A2E8DRP1_9BACT Flagellar P-ring protein OS=Candidatus Poribacteria bacterium OX=2026781 GN=flgI PE=3 SV=1
+vatvvvnektgavvigegvristfavslngT-G-----ANS-L---T-IKIN-------------RL---PGgESTLDDVVAALKAAGTSTMELIEVLKLMEKAGALHAKLIIM
+>SRR6478735_5594221 
+parviinsrtgtvvigsrvrvmpaavshgsltvtiterasvsQPME-FGRGDTVVVPESSISVNQP---------QARMFVFDAGVDLNDIVRAVNQVGAAPGGLVARadvsskdassvdANDFKQFAALRRGAEAK
+>SRR3569623_1855080 
+gakvilnartgsvvmnqtvtldtcavshgnlsvvinsep-VIS----------QP--LA-----------SCGGGLADVLiRHLsinr---AAQGVPAEDGAQPPasAASDAPQANWGEGdspLPVKGLRSQngdpsptgvrsrtarpahvqafedklsahaddasr
+>MGYP000921380497	79	0.266	1.682E-14	0	82	83	89	197	198
+dekivvdertgtivsginavvspvvithgaitikiepnsyEEAA--Q-NDVNI--GSDTSVAPS---------QNLLK-IsGEKTTVANVTRALNKLGATPSDIISILENLKRVGAIQVDLEII
+>MGYP000632755928	52	0.305	4.038E-05	1	79	83	128	217	272
+arvivnsrtgtvvissyvrvmpaavahgslvvtitedqqvdFRRR-VAVvEDGDNAIRVSRRFAMH---------HVIVGIDGQAPDLVEVLQIALRAPL-------------------------
+>14919|scaffold4412625_1|+1|11	53	0.414	1.556E-05	1	59	83	61	130	134
+akviinartgsivmnqsvtldacavahgnltvtiqsi---------QSMLAQ-----L-------------G-I-NVPPGSNpqLKNVAAVMVTAQLPP-----------------------
+>tr|C1DC17|C1DC17_LARHH Flagellar P-ring protein OS=Laribacter hongkongensis (strain HLHK9) OX=557598 GN=flgI PE=3 SV=1
+lprvvinartgsvvmnqtvtvepcavahgnltvtvqstpvvsQPNA-FSQGQTVAGQQADISINQQ----------GRPVDQRAARQQSQRNRPRPECGRRHP-AGSVVDPDGHEGSRRTQG---
+>SRR5690554_3913460 
+aarvvinsrtgtivvgqnvkvspaaithgnltvtiqenpevvQPNP-LAQGDTAVQQNTQIAVTED---------PPRMFQFGRATTLNEIVQAVNKVGAARGEVMAVLEALNQLADFRAGRIGI
+>SaaInlV_200m_DNA_3_1039701.scaffolds.fasta_scaffold84088_1 # 26 # 463 # -1 # ID=84088_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.340
+qsliivnertgtivmggavhigeaivahgnltvsvgstlsayMPNP-FTe-AKPVVTEKVATKTKED---------KAKVILVPGt-VTVQELADAINQMGSTPRDLISILEALHRLGAIQMEMITL
+>MGYP001277519858	77	0.271	5.987E-14	1	72	83	141	243	244
+arvvvnertgtiiagqhvmisevaiahgslsisispiesasLGAP---gGPQAQLQLGGAIEVDEA---------KPRLLALPPASSVSDVAKALNALKVTPRDIIAIFHSLKAA----------
+>MGYP000057621075	57	0.307	6.482E-07	1	82	83	239	323	425
+aivvlnertgtvvmgenvristvavaqgnlivkveetpqvsQPNP-FAp-EgaETVVVPReQGYGLPA-----------SESLLIELNGELQGRGSVI------------------------------
+>MGYP000040062768	57	0.307	6.482E-07	2	78	83	86	175	247
+kvvvnertgtvimgenvriatiaiahgnlsvtntifsnnnGGGA-VSg--nPTSPSLDYNLYYNNT---------SA-----NTGGTIPD------------RGYYQL--RIDGSGALLGE----
+>ERR1700751_6071532 
+pqvvidaqsgpvvmgqdvqigpaavaygtlsvtvneapegaQPAP-FSNGRTQVVPRTQIQANEK---------HAKVVEl-HNAPRVSDIVRNLNAIGATSSDLMALLQACSKPDPCAPTX---
+>A0A3R7QUS2	77	0.247	6.627E-14	1	81	83	255	367	369
+ariiinertgtivigdnvriskvvvsygsltvqitenrqvvQPNV-LSsGGKTLVQQSTDLQTFNN---------KSPFSLI-DAPDLNSLISGMNSMGLKTDGIISILQGIKAAGALQSEI-II
+>UniRef100_UPI0009BEB5D6 flagellar basal body P-ring protein FlgI n=1 Tax=Vibrio coralliilyticus TaxID=190893 RepID=UPI0009BEB5D6
+allivnertgtivsggnvqvksitvahgnlelsiktkynvsQPdnfivgrFN--QASgNTVVVPDTTIRVTES---------DKKvTN-TESATTVFQLVKELRQLGLSTRDIIVILQAADKAGAINGKLIIQ
+>tr|A0A124JT99|A0A124JT99_9SPHN Flagellar biosynthesis protein FlgA OS=Novosphingobium fuchskuhlense OX=1117702 GN=AQZ52_17535 PE=3 SV=1 
+aarvvvnertgtivaggavrlssvviaqgdirvritgqrtasQPsfvgGY--ASDiASLVVTNTKLEVEQG---------QRDaVV-SLPNTTVADLVLALTRAHVDTRGIISVLQAVKAAGALHAEIIVQ
+>SRR5580692_10477631	57	0.290	8.907E-07	1	58	83	64	156	157
+arivinertgtvvagehvaiattavshgnlylgiaeipqpqPQQQ-RDNQLQAAAPvtpPIGFAASEQ---------RARLLVIPKSt-TVAEVARALNALGVT------------------------
+>SRR5574344_2853803	74	0.272	1.042E-12	1	65	83	62	160	161
+arvvinertgtiviggnvevlpsvvghgnlevtiqrqvvvpQHAP-FTvrppsaVETADITAEEERN---A---------VTPMEIpa---GATVQNIVDALNGMQVSPRDLISI-----------------
+>SRR5450830_1349102 
+aakvvmntrtgsivlnqavtlgpcaiahgnlsvtisstpvisQPNA-LSGGPRTASTPRSRStrrwwrLASS---------RRCCQSRSEARRSARWISPWQPRSSLLPTSTSrprcWARAWDCTRCYTTAPksrnSVS
+>SRR5271165_1937952 
+vprvvinertgtivisgdveigsvavthknlvieaggqT-aA-----R-P-FV---GLDPIDP---------T--------SPKLKALVEALNAVHAPTEDIIEIIKIWIVMGNFTPPX---
+>SRR5258708_2650305 
+pakividersgiivmgrdvrvstvavaqgnltvsiseapqvsQPAP-LSRGRTRVVPRTQVGVQED---------GKKLALGKEGVSLQQLVDALN----ppaPPPPTITPPPQPTNPPRPSTPPTTS
+>SRR3569832_1832637 
+makviinartgsvvmnqevmlapsaeshgnlsviintpp-VIS----------QPASFS-------------LVVSVVSShSEIdirrrpg------GGGRGGGGAARagGGGARGA---------------
+>MGYP001132973930	59	0.321	9.630E-08	1	74	83	102	181	184
+akvvinertgtivigsdvrvspvavsygtltvqvtetpqivVV------GC------------------------GAIGLP-LATAFA--VRGCDVLGVDMDA--ARLAALRAGS---------
+>MGYP000428923709	69	0.232	4.706E-11	2	81	83	256	371	373
+rivinertgtivagggvtlgkatishgdiklqiksnktaeFSplevnVG--GNN-sGVVVTNSEMSVDES---------IANvVE-MEESATVFDLVQSLRKIKATTKDVIVILQALKASGSMHSELII-
+>UniRef100_A0A5C5VY82 Flagellar P-ring protein n=1 Tax=Planctomycetes bacterium Pla111 TaxID=2528000 RepID=A0A5C5VY82_9BACT
+earvvvntrtgsivvdgdvaigdvlythrnltvdtqsa--------T-S-FM---AIADGQT---------T--------RPKLDRLLEALSNLKVSADDKIDIIRALAKAGKLHAKLIIL
+>UniRef100_A0A520R9W7 Flagellar biosynthesis protein FlgA (Fragment) n=1 Tax=Verrucomicrobia subdivision 3 bacterium TaxID=2052186 RepID=A0A520R9W7_9BACT
+rarvlinektgtilatspvkisscaishgsltisiantqgvvQPGA-FApeTAETQQTNATDVGIDQT---------DTGLSFLKDMPTIQEVSTELNKLGVSTRDIISIFQAMEKLGALNAEIIYQ
+>UniRef100_A0A518ARV7 Flagellar P-ring protein n=1 Tax=Planctomycetes bacterium Pan181 TaxID=2527972 RepID=A0A518ARV7_9BACT
+earvvinprtktvvisgdvrigdvvvvtdnvlveagts--------V-E-FA---EMRSSDS---------A--------NPSLDRLVAQLKNLKVSDEEVIEIIQRINTAGKLHGKLIVE
+>UniRef100_A0A3M1U708 Uncharacterized protein n=1 Tax=Armatimonadetes bacterium TaxID=2033014 RepID=A0A3M1U708_9BACT
+pavvvinertgtivvggnvkiapamvahggltvrinqyneviQPPP-LSGGQTALQQNTEVNAKED---------RVNIGVVNPNATIEDLAKVFRALKVSPTTLIAILQDLRAQGAIKARIVIR
+>UniRef100_A0A3E0N4N4 Flagellar basal body P-ring protein FlgI n=1 Tax=Planctomycetes bacterium TaxID=2026780 RepID=A0A3E0N4N4_9BACT
+earvvinrdaktvvvtgdttiggvvinhrnlkietgaeP-lG-----G-R-FV---EVEsP-QR---------S--------GGKLTALVDALEAVQADTDDIADILLGLSRSGKLHARVIIE
+>SRR5689334_13233933	62	0.260	1.042E-08	1	80	83	29	124	134
+arvivnertgtvvigehvqisavaishgnlsvqikv-PDS-----QSLQG--SALPP------------S-PAT--PQGPPtQPNIsVRG-PAsIGnTPTlTKtgRVAILK--KSAN-V-GEL-V-
+>SRR5579885_2120467 
+nrvvvnektgtvvvggdvtigksavsygdytitiapelqvsQPNP-FGAGRTVAQRTARIGVNQE---------KSRFFMTPQGASVEQVAATLSAVGVKPTDTAAIFQAFKQAGVLYGELIV-
+>SRR5262245_43357450	61	0.230	2.702E-08	1	81	83	100	212	214
+akvmidqasgtvlagegvlispcvvglsdltisiveeeeisQPGP-WSIGTTERVGRTRIEAAQN---------STELKKVGGGATVSDLLQNLKMLNLTPAQLISVFQALDQGGFLHATLEV-
+>SRR3546814_17647281 
+arvivnsrtgtvvmnqavrlspaaishgrltirideaprivQPAP-FSDGVTAQEESSEISVEQE---------GSRVALLEGAASLSELVDArseehtseLQSLMRISYAVFCLQKKITKPK---------
+>MGYP001495818658	50	0.320	1.440E-04	0	53	83	141	221	223
+dasskivinartgtvvigekvrlfpvalthggisvrinddtg---G-AFGGpAI---TQEALAIEED---------ESRLIYLRPSDTLSSLVNALN-----------------------------
+>MGYP001332628742	56	0.295	1.224E-06	1	77	83	146	231	272
+akviinsrtgtvvinsavrlapaaishgkltvrieekptisQPGN-FPtsaSARPALDDPRHDQDQHD---------PPREQIDVEQRQPEDGLRA-------------------------------
+>MGYP000940914139	55	0.295	2.311E-06	2	81	83	4	81	83
+-----rVVrVGVVGIGRLGNYHLQKY---nmmp------ecaiVGVADIVEEMPSVEELAKALNALGVSSREMMAIFQSLKRAGALQAEV-VI
+>ERR1051325_7648309 
+kvvidqasgtvlagegvmisrcvvavsdltisvvneqevsQPLP-gWNRGTTEKVGRTHIEVTTN---------NTEPKPLAGGATISDLLQNLRTLGLTPPQLVAVFQSLDMGGYLHAQLEI-h
+>A0A7X8FYG8	76	0.254	1.717E-13	0	82	83	236	337	338
+drksqivinertgtiilgenikiapvaithkdisisiaa--------E-L-DV-LKNNPNNKG---------DANsFY-Y-DgGNTVKNIVKMLNAIGAGPNDIISILNALKYAGAIDAEIKTM
+>A0A3M2C5S9	77	0.247	4.824E-14	1	81	83	260	364	366
+arvvvneregiivmtgdveisptalthgdlvitsvtpp-AGA--DPAAPApA-GPSRwAGL-ST---------SAR--P-QESARLADLLAAFKQLDV-PvDDQIAILMQLHRTGALHAEL-I-v
+>A0A1E4BB64	54	0.262	6.640E-06	3	81	83	257	355	357
+lvidvragtvvaggdlpvgdatvshegltlsiggasgdSASA--PPAqsGAGE-SAP-V----------------RL---ASGTNALRIAEALRVLGASPRAVASIFVALREAGALSADVEI-
+>5512|Ga0310123_10038372_4|-2683|01	72	0.240	3.711E-12	1	81	83	127	234	236
+arvvlddatgtvvvgsdveigavavthgnitvetgafvgiD----LKREEKLLdPAQEPDEGQDE---------GNNE---AQGNiRLQALVNALNAIRV-PSsDIIDIIRQIDESGQLYGKV-V-v
+>14399|Ga0335069_12698532_1|-152|01	58	0.260	2.498E-07	3	81	83	18	117	119
+viidskkgiivsggnvivtdsaislkgikvviggnsssSP---W--GSN---PASQAQ-KEN----------S-VQYFKTTTTVSDLVDALNQTGASVSDLVELLQLMYKNGNLKAKLIV-
+>UniRef100_A0A537RPM3 Flagellar P-ring protein n=1 Tax=Alphaproteobacteria bacterium TaxID=1913988 RepID=A0A537RPM3_9PROT
+parvvidertgtivigkdvqistvavahgnltvrvtesarvsQPLP-FSKGETTVAPETTIIADQK---------GGNFAIV-RGTNLQTLVAGLNRIGRQaPCRRIwwCNDDGPEAARDLAT-----
+>SRR5882672_8046706 
+arivinertgtivatstvrlsqvaiahgsltitvsnqqgvsQPGP-LSn-GTTAPVQRTQTNVNEG---------KGSFTIMPerrlqdRRPTAERVmnVTALNPPAAPAQ-SIALSKIEHARASKLTGG-ALr
+>SRR5579875_503267 
+avvvideatgtivmganvristvaiaqgnltvrvtetpevsQPAP-L-sNGTTTVVPRTQVQVDDQh---------DRKLGIVQGSVTLRDLVASLNASASARATSSASSRPSRPPAPCRPIWWCA
+>SRR3546814_11203308 
+aakvvinsrtgtvvigsrvrvmpaavshgslavtisekpqvsQTAP-FSDGQTGVGPRSQNEVTQA---------GAG--------QVGRASRRERG--CTVGGNAVVAGLLKKKK---------
+>MGYP001413065851	54	0.242	8.240E-06	1	80	83	268	370	398
+arvvinsrtgtavinrnvkvsavavthgaitvsisatnevsQPEP-FsEG-ETVEIQNAEIEVAEA---------ANPMVLFQPGVDLREIVDSYTVL--IPENYFKSdlLQAQVI-----------
+>MGYP001294788855	60	0.231	5.101E-08	1	78	83	119	226	397
+arvvlnertgtvvmgadvsistvavahgnltvtvqaenqvsQPAP-FSRGGETVGGGS--MTHAA---------KAVQLCLANDIRTADAMDALRRAGHAPSPLAGIPIAVKDLADIQGQ----
+>MGYP001217223479	66	0.301	4.347E-10	0	82	83	7	78	79
+-DAR-IGRGETVVVPRSEVEVRHD---------RNAMFAWPEGTSLQSIIDTVNSLGATPDDVMSILQALERAGALNAEVIVM
+>MGYP001214150300	44	0.287	2.332E-02	10	82	83	1	87	166
+gslvvridenpmvvQPAP-FSRGRTALEPNSTISASQQ---------DNVVSRIGPGASLAEVVDALNALGASPADLVAILDQGDRTAEGRFRLCVI
+>MGYP001069992667	61	0.287	1.966E-08	1	82	83	68	152	185
+akividersgiivmgrdvrvatvavaqgnltvtisespqvsQPNP-LSRGRTVVLTLDEAIQHSA---------ERELdkALAETGAISGVVVVM-------------------------------
+>GraSoiStandDraft_17_1057272.scaffolds.fasta_scaffold635962_1 # 1 # 276 # 1 # ID=635962_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.569
+prvlidsksgivisggniriseaaisygnmelrigeqRT-T--Q-A---F---RQ-E-SKG---------EN-VKLLKSSTSVEELVQSLNQIGFTGSDIVKILQLLYKNGNLKARL-IVq
+>ERR1017187_214286 
+pakivinertgtivmggdvklspvsvihgnlsiqvitaynva-GVA-P-isptpgapgdkrkgenagpiTLEPVVVPETNLSANEdA---------AQTMR-LDEG----------------------------------------
+>A0A4U8TMT5	73	0.235	1.585E-12	2	82	83	241	346	347
+rivideksgtivagvgitiepvivthgditikvtdempd---D--P-EAIKL--EDGTMMSRA---------QGTIS-sTnGTKPTVSSVVKALQRMGATPRNVISILESMRKSGALRADIEVM
+>A0A4D6XY39	42	0.215	1.266E-01	0	81	83	260	375	379
+epkiivnnrtglvisnadikvgsctivskhfsllikinkndlsgcsdQQKfD-FlS--KK-F-DNKKIyH-NNK---l------N-TV-LIKNAVDIHVILSILNKFHITPDEIVSILTSMKDVGALPATLDI-
+>A0A212KRK4	67	0.210	1.351E-10	0	81	83	289	402	406
+eaiitidqgtgviamtegvkmepgsiavggltvtvssditpvtRQGT-F-EGETRlVdVP--ELTVSED---------RANFLSLPAGTDLRKVQETLNALKLKPTSIISVFSAMHKAGMIHADIRV-
+>12675|Ga0207706_10302236_1|-26|00	64	0.231	1.549E-09	1	72	83	251	358	403
+arvvinertgtivaggdvkiskvaishgdlkvsiltdnlvsQPmlvrQT--GAGvQSVLVSNSRVGVEEK---------GETgFV-AADTTSVADLVQLLARVKTNTRDIISILRAVASA----------
+>UniRef100_A0A2G6JHP4 Flagellar P-ring protein n=1 Tax=Planctomycetes bacterium TaxID=2026780 RepID=A0A2G6JHP4_9BACT
+iptitcnqrngtvvigagvrispcligienltvqvtenvrisQPgNA-FSkNapGETQKYSETEIKTQsEG---------SG-LQPLESQENLGHLLQALRLLGVDGRQLITVIKELHGAGKIHGEL-IIr
+>UniRef100_A0A2E0WWP7 Uncharacterized protein n=1 Tax=Planctomycetaceae bacterium TaxID=2026779 RepID=A0A2E0WWP7_9PLAN
+earvvvnertgsivisgdvtigdvvvshndvvveagga--------M-Q-WE---SLTTQEV---------D--------DTKLQSLVNALKALEVPAAEMIDIIKGIEKNGKLHGVLIME
+>tr|A0A2D5B993|A0A2D5B993_9BACT Uncharacterized protein OS=Phycisphaerae bacterium OX=2026778 GN=CMJ24_11220 PE=3 SV=1
+garivinertgtilvtedveigpvavshdgltvtsispEYEL--L-GltPEQPV-QGAwVGLDvRK---------DTP--p--GQSMHLNALLEALRGFNV-PvKDQIEIIYELQRSGALHAEI-I-s
+>SRR6267142_549385 
+nqavriqdcavahgnlsvvintqp-VIS----------QPGPFS-------------NGSTVVAQtSQIQLNQGGGALQVVKSGASpaDGMFDTQQ-----ekIYTSMLDQQlaqhlsgrglglaeamqaql
+>SRR5690606_4228762	51	0.242	5.550E-05	1	58	83	35	133	134
+akvvinqqsgtvvlgdsvevapvaiahgnlkvevkaptrelasKPAA--eGekkEpGaQdAApAAPp-AD-E-GaEkK---------ANQVMLLSQGATIADVVSSLNEMGAS------------------------
+>SRR5258708_36853726 
+aarvvigdrtgtivmgdqvrlstvavsqggltvrvtetpqvsQPAP-F-sGGRTVVVPRTNIDVSDGs---------GGRRGVPSSAGSNPEPGRPLENPHHAGPGAAPAASAAEQARAPQARCAAR
+>SRR5216683_2106053	53	0.363	1.556E-05	1	59	83	535	600	707
+akividersgiivmgrdvrvatvavaqgnltvtisespqgrRRDP-GRHRGDV-MQY-SLINNTT---------GSMP----------------------------------------------
+>SRR2546423_250803 
+pariiinertgtivatskikisscavshgeltisiasslevsQPNP-LSqTGQTVVVPRTETKTREA---------KGKLVPLPDMPSVEKIASAlNAHPGAERVCLWPPLFSFPSA----------
+>MGYP001263518941	51	0.266	7.627E-05	1	82	83	74	163	164
+akliinslsgdvvlngrvevlpcsltigdielev--------Gk-N----Q-D-DV------------GANYISI-KNSSVTDLLKALSMAKLKPHQIVEIIKTLNAAG-LiVGEVEII
+>MGYP000153204458	59	0.247	9.630E-08	2	66	83	27	123	148
+rvvidqrsgtvvitddvristvavtvgglvirtretpgvyHPGP-FARAGESVAvPRIRIEEGKG---------RRLVVVP-ANVPLRELVNRLNGLGLGSRDLTGVL----------------
+>ERR1035437_1640603 
+pakvvintksktivfteevelapttilsggmtieivsptp-L-A----P-A-----SGaVAI-DP---------RQL-----GNAKLRDLVEAFKAFRVAPDDr-IAIVKLLHDQNILK------
+>A0A553JUY1	70	0.203	2.009E-11	1	81	83	249	366	368
+arivvnersgiivsgsdipvssvvishgnlnlkisstprvsQPdsvffGD--QSNiKTVTVRDTEIQVNEQ---------QQAiYI-NKNTTTIAEVVSSLQKLNISTRDMISILEGLKRSGALHAEIVI-
+>UniRef100_A0A4Q3TZ44 Uncharacterized protein (Fragment) n=1 Tax=bacterium TaxID=1869227 RepID=A0A4Q3TZ44_9BACT
+tgtiviggnvkiapcavakgslsvqvtsetfvsQPAP-MSKGTTERVTNKTLDTKEQ---------TAEIAVIRPNTTVADLAAIFQALHLKADDVINILRALHEQGALKAKLVVQ
+>UniRef100_A0A3B1DEB0 Flagellar P-ring protein FlgI n=1 Tax=hydrothermal vent metagenome TaxID=652676 RepID=A0A3B1DEB0_9ZZZZ
+qarvvvnattgvvivtgevridpvvishdkltievggsg---G--ATSG-------gRfvsVPQ-LpQ---------ESG----QSGSQLQELVRALKQLRV-PnKEVVHIIRELHRSGKLHAVY-D-eh
+>SRR6267378_4218224 
+tarvivnartgsiainrtvslepaaiahgnlsvtitstp-VVS----------QPGPLS-------------GGQTTVTErTDMELKRAARD----DPRQAvkKVATQFEALFMQMvmkSMREATLRSglldsqeqdmyrgmldqqvaqqiaasgtgls
+>SRR5690606_18136143 
+rakvvinsrtgtivmgqnvliepvavthgnlivaidenfqspSPTL-WPAAKPWWYPIPTSMYTTMa---------TTVCLNSARAYHWIVSSKLLTKLALRRVT---------------------
+>SRR5580698_7140436 
+ngsvvlgenvkitpvsiafnniriqvrgelaesaqgvv-PD-----GDSPpI-PASGINQSKT---------PKRL-QISSkGPSVADIVTSLNEVGAGPEDLVf-LIQGLKSAGAL-------
+>SRR5437660_7344721 
+earvvinqktgtivfggdveigavvithknmvvdv--GA--STGQSTAPPASRfLPL-ET---------SAT----PT-PQLKALVDTLNAp-RVPPEHVIDTVKALDRDGKLHAQLVI-
+>SRR5260221_11692487 
+arvvideqngvivmgenvristvaiaqgnltvkvtetpqvsQPNP-FspTglgapapvidpntglplgngadgtqfapggGAQTVVVPRTSVTVDEQs---------ERRLAVLPEGVSLQQLVNrdrKSTRLNSSHTVISYAVFSLKNKNDRRSRHTGAkpephi
+>SRR5229473_3131373 
+arivinertgtvvanaririsncavshgnltinvastldvsQPNP-LSqTGNTnlSEADKIREVSRQF---------EAVLLRQILQNARKTIVPSKFNPESAQNSIYQDLVTSQLAdhisqsGTFGlADV-L-
+>SRR3546814_18927955 
+parvvinsrtgtvvigagvtvsaaavahggievsiseqpfasQPAP-LSRGSTVVVTDSSVSIPQR----------AgTASK------LDRTSAVWGKSGSEGVDLgWPRMNQKKKT----------
+>SRR3546814_18352956 
+pakffsnertgtivigayakvsrgavsygtftvqvtetpqviQPEP-FSRGVTAMQPETDIMAMKD---------GGPVSIL-DGPDLRTLVAGLNNIGVKPDGIIAILQRSEERRVGKECV-ST
+>MGYP001453803884	55	0.190	4.364E-06	1	82	83	81	200	213
+akilvnersgtivatekvtiapcaisvggltisvastqgavQPLP-ATq-GQTVPTQATQVDVEET---------STELVALPALPTIDDLAKELNNIGVEIAQITSISDQKEIIKKAldearnRADI-ViM
+>MGYP001224548911	64	0.250	1.549E-09	1	68	83	92	183	230
+aqvvldersgtvvmggsvrispiaisqnglsmqvklptpeQQegaenQA--aadAnTlrS-D-IF---MLK--G-------------------GADLKEIVDGFNKIGASSRDLIEVLKS--------------
+>MGYP001148831975	68	0.237	6.465E-11	1	82	83	73	169	170
+arvvidaqsgilvmgenvrigkvavsyesvdvsvg--A---V-D-Sf-Fa-TGA--E-ERP---------D-SF-VLDETISVEDFVSTLKAVGLDT-KiVIEILKALDRAGALYGTLVVM
+>MGYP000647503162	42	0.250	8.319E-02	1	79	83	52	140	209
+ariiinektgtvvmgndvristsqprrldavmy-PEA-M-Q-EEIVV--TGLEqLAD----------GSRV---REDV-FRAVIEAVH--G-DAAD-AA-AAALDEDGDLATRL---
+>MGYP000476473781	59	0.328	1.323E-07	1	66	83	1	67	172
+akvvinektgtvvmganvristvalahanltvei--GT-YFEAsQPA--P---FNAPQE-----------H--------DLRHF----KS--A-PRsQII-L-----------------
+>MGYP000340701012	54	0.193	8.240E-06	1	80	83	26	140	210
+arviinettgvivmgenvrvstvaiaqgnltihvqetpgvaMPNS-F-tNAPPVVVPQSDIAVIEEdgverq---------rtFEPRAIIDlvpaIlevEADALALFFGQDEgraikVGADQAEIV-------------------
+>MGYP000299118958	41	0.207	2.159E-01	1	79	83	269	379	383
+arvvinrttrnisftgavtvsptvlqlpglgsivvgrpaagseDP----S-GDRA--A-ARAG-GPP---------SGPPAA-PAAApgrgeAvgFGELLEALAAIRASPAQMVDAVEHLHKTGSLHAQL---
+>MGYP000291877659	49	0.280	5.138E-04	1	72	83	80	160	171
+akivvnsrtgtvvisrnvkvtaaavthgpitvtvsatnevsQANP-FadqgFRRGISEAREARRRGHVE---------PRIVPVLQTPAEA-------------------------------------
+>MGYP000117475401	54	0.283	5.997E-06	1	65	83	79	157	215
+avvvlnektgtvvmgenvristiavahgnlsfqiredynvsQPLP-YAp-RGTggVVDTGRGVTMGSG---------GQ-TVVT--PSTQINV----------------------------------
+>APCry1669189534_1035231.scaffolds.fasta_scaffold789289_1 # 3 # 260 # 1 # ID=789289_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.616
+arqyrvvvnertgtivagaevsispavisqgdiritvdsrnegsQPsyisGL--ANDvSSLVISNTRLDLDQG---------RNDaAI-RMGASTVGDLIQGLRALQVDTRRMISILEALRTAGALHAELVVE
+>A0A2G2JZQ4	67	0.252	1.856E-10	2	82	83	307	397	399
+kvvinrrkglivigseveigpcivshkgiiidpsseV-d------T-R-FM---KVATRQE---------F--------TTQLKELTEALDAMRVPTEDVIDIIEAINEQGKLYGEIKYI
+>12764|scaffold878028_1|+2|10	71	0.223	9.619E-12	1	81	83	147	249	251
+arividgrdgtvvtggdirlgtatvshrgltvaigapspaDTIR--RAAppDSTGGgAGT-I----------------KA---AVGASVQDLVQGLHAAGAKAGEVAAIFEALRAAGAIRAEVIV-
+>UPI0008AD6F9D status=active
+earivinrgtgtivideqveigpavishngmsivttqpp-PRP--TEETPVV-SEQYaASI-HV---------PNR-----EFAgaRLRELVDALNQLNV-PsKDIIEIVENLHRMGKVTGKL-V-i
+>UniRef100_UPI001298388D flagellar basal body P-ring protein FlgI n=1 Tax=Roseimaritima sp. JC651 TaxID=2662066 RepID=UPI001298388D
+strvvinerdgvvvigedveiapvlishrglrieava--R-----E-S-FVeLDAtmPLDPQAPrv---------A--------NVKLKNLADALNALDVPTDDLIAIIKTLKLKGDLYGEVIFQ
+>UniRef100_A0A432FF15 Flagellar P-ring protein n=1 Tax=Aquificaceae bacterium TaxID=2053503 RepID=A0A432FF15_9AQUI
+akividgrsgvvlfggdieikpvsvsvegvtvtvreyapvaEEYP-TLPGSVVGKNSQGVLTKEQ---------TQTVYPI-KGTTVGDLIKSLNEIGLTPDQIVSVLEAMKQAGALNAEIEVR
+>tr|B6AZ36|B6AZ36_9RHOB Flagellar P-ring protein OS=Rhodobacteraceae bacterium HTCC2083 GN=flgI_1 PE=3 SV=1
+paqiivnsrtgtvviggnvnvtpavithgsltvriredvevtPTNETIIldgaivnaPGDPIETADTEIAIDEP---------IARaF-LFNPGVSLSDVVDSINAIGATPS----------------------
+>SRR5580698_10374310 
+akvvinertgtivmckevrvspvaimhgdltveiqttydvtQPGP-LSSGTTAVIPQVAVGVKEE---------KARnVV-LKEGATVGNWCA--HSIRSVPRRATSSRFCRACalPGHWNPRSRLY
+>SRR5262245_43185965	65	0.215	1.127E-09	0	80	83	50	151	155
+earvvinrvkgtivvtgdveispvwfsqngmsiqtttpp-AAG--TPENPVL-TEESvGVL-DT---------TGK-----PAAKLQDLVTALNRLKV-PaARMIDLIETMHRTGRIGAKL-I-
+>SRR5260370_1402406 
+ariiinertgtivatarihiascavsqgnltititstqdvsQLNP-FSqTGQTlnTVIASSETPESNV---------TGIYNDMVNNQLAHSISRS-GEFGLAK-SLQAQLVHQ-------------
+>SRR5207247_4012482 
+ertgtvviggavriapvaiahgsltvdiqtdvevsQPLP-LSGGSTRVVPQTGVKVNEP---------HAAVMEFHPGTTLAELVRALNALQVTDRKSTRLNSSHEWISYAVFCLK--
+>MGYP001462130306	57	0.314	6.482E-07	1	65	83	321	390	392
+akvvvnartgtiviggdvrvspaavthgsltvrvqedvnvtQTQTAAIangvaaiaDgaAVANPDTEIAV----------------------------------------------------------------
+>MGYP001225621176	63	0.209	7.581E-09	1	81	83	286	390	392
+amvicnrrsgaiiltadvtvspvaithrdltitttipp-PTP--TPQDPLI-DREKwMSI-TP--R------DTS--T-SQAARLADLLAAFNRLDI-PiDQQVEILQMLAKGGQLQGKL-V-i
+>MGYP000906988493	62	0.213	1.042E-08	1	80	83	253	355	358
+atvicnaragvivvtgdveispglishkdlvitttvpa-PTP--SVINPLV-ERNRyATL-DT---------QNR--P-KERAKLSDLLAAFKQLDI-PpAQQIEVLQLLHKTGRLHARL-V-
+>MGYP000862594783	62	0.224	1.431E-08	1	80	83	249	346	350
+arvtinptagtividgnvtispvtityrgmtistesllrQQRQ--QEG------KADA---EP----------GDF-RLPDSVELRLVIEALEALKA-PfDDr-VAIVRELARSGNLQGQL-V-
+>MGYP000738920464	59	0.328	1.818E-07	1	55	83	2	68	155
+amvvinertgtvvmgasvristiaiahgnlsieiattpipsQPLP-FSr-SATHISTQFAALIDNL---------NEV-----------------------------------------------
+>MGYP000675205561	55	0.314	2.311E-06	1	61	83	12	80	178
+arvvvdqrsgtivmgedvrisrvavsqgnltlrieetpldhlFRER-PGEGQA-----KLRARLAGf---------G--LGADQAD----------------------------------------
+>MGYP000527771221	55	0.314	3.176E-06	1	58	83	29	98	212
+akvvidarsgtivigedvridrvavsqggltvmgredpevsQPDP-ITIG------------GTT---------DGG-----GRVIVASRVNQVNAT---------------------------
+>MGYP000396758909	57	0.252	8.907E-07	1	81	83	108	194	217
+arivvdeatgtivmgenvridtvavaqgnllvtmrldvdGR-P-L-KGE---FLRSA----Q-------------L--V-NTM-----ID---QLSVfTSE-VTRVAREVGTEGKLGGQAVV-
+>MGYP000187880796	53	0.261	1.556E-05	1	71	83	30	113	233
+akivinektgtlvaggdvtlgkvaishgdlriqvggedG-aE-----LfST-LS---VID--N-------------------KlgTGLTSSIEKMNQLAkTDPSKVGPELEKFQQ-----------
+>MGYP000125428734	52	0.261	4.038E-05	1	78	83	3	86	321
+akiiidersgvivmgkdvrvsqvavaqgnllvtmrldvdGR-P-L-KGE---FLRSA----D-------------I--V-NTM-----IK---QLSVfTSE-VTRVAREVGIEGKLGGQ----
+>ERR1700685_3878748	56	0.234	1.682E-06	2	57	83	21	114	116
+kiiideasgtivmgenvridtvavaqgnlvikvdeiqkvvtqTTGR-AVp-PgaAPIAVLAlgPTQTIEEG---------NNKVAVLKHGTTLRELVAGLNALGV-------------------------
+>ERR1700682_1843626 
+arvvvnertgtvvmggditlaacaiahgnlsitiatqntgvPPGP-FTKRPS---PTPTRGSPRA---------SRAATWSTSPAprrwrkSSARSTRSASRRAISSR----------------------
+>ERR1035441_9372444 
+tsrvvinertgtvvmgkdvrvapvaimhgnlsvelqtnllvsQPGP-LSQGTTQVVpQDKAAATEER---------SRNVIPicnharqLERRVADESVGVATGAVVarddaggsagqgggdgral--------------------------
+>DipTnscriptome_2_FD_contig_123_43389_length_423_multi_37_in_1_out_2_1 # 3 # 422 # -1 # ID=124168_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.498
+larvvideqsgiivmgenvristvaiaqgsltiriteaaqvsQPGP-FAev-GTTTTVDRTDIQVDEGe---------ERRLTVtanrrVPAGTgqwpeRTGDRTEGHDhdpsgRQGIGRTasrnrgDVMTPITdssfAMQANNALQAGRNIP
+>A0A293NH34	72	0.207	2.990E-12	1	80	83	277	382	385
+arivinertgtilvtedveigpvavshdgltvtsitpEYEL--L-GleqSAAPS-QSAwIGLDaRK---------NIQ----GRPMHLNSLLEALRRFNV-PvKDQIEIIHELKRSGALHAEI-I-
+>11870|scaffold_4856431_c1_1|-3|11	54	0.275	5.997E-06	1	77	83	4	77	95
+arvivnektgtvvigehvqisavaishgnltvqvrd-PAD-----IPASI--AKIRR------------Q-PLA--PPQAPvQP--FQG-QD-GsSAPlRG---------------------
+>SRR5690606_508668 
+gakvvinertrtivitgdvsispvmiahegltitqitpn-PVP--NAFEPQV-EQLPwVGV-DP---------DKR-----GGTRLADLLAAFNQMKV-GvDSQIQIIKTISQSGKLHGQL-I-i
+>SRR5690349_13500656	54	0.247	5.997E-06	1	70	83	51	130	162
+arvvinertgtvivghkvrissvaiahgslvikpnvaaapvpapgglmplhQgDTamlP--DplmprdgTKD-KI--D-EI-LEAlR-----------------------------------------------------------
+>SRR5690348_18229228	53	0.362	2.138E-05	1	55	83	44	101	110
+akividersgiivmgrdvrvsmvavaqgnltvtisespersEEHT-SELQSPVHLVC-RL----------------------------------------------------------------
+>SRR5579884_4313925 
+rarvvinertgtivaggdvrlapvavvqggltivvketpeasQPvAP-FGq-GTTVVTPAPRSTRARG---------TGRWSTSPPPPHSPTSRPRSGRSacrrerwpasckrsegpGRSKRRWSSNERAHRSSGPAGRT----
+>SRR5574343_1679667 
+parvvinsrtgtvvisrnvrvmaaavahgtisvavavtnevsQPAP-MSQGQTTPVQNAEVSVQEA---------KNPMFLFQPGEDLRMTEATITCPNCSTAVPLT--ESL-------------
+>SRR5258708_12847296 
+thrrgcnertgtivatstvrvsqvaishgsltitvasnlsvsQPNS-FnNs-GQTVTVPTTNTTVNEV---------KGGFQVMGELPSIERLASALNALAVSTRELMALFPTFTPPGAPQPAL-ALt
+>SRR3569833_888185 
+aarviinsrtgtvvisskvrvtaaavahgsisvtiterqdvsQPNS-FTNgTTATVTPKSTIDVQQG---------DARGGRGRAGGGRGGGGRAGDQGG--------------------------
+>SRR3569623_1743905 
+gakviinsrtgtvvigeyvrvtaaavahgslavtisekptvsPPQP-LTGGTTTVVPSTEETVAQA---------RAA--------VSKQVYGAGNSSARSQSRPVTEDGPHLX-----------
+>SRR2546423_2561342 
+aarvviskstrnisftgavtisptvvqvaglgtvsvggagGAeRG--G-AKA---AAPGLgGI-TT---------D-AA----PGTNFQQLLDTMSPLPA-SKDqMVEIVEQLYRSGTLHAQL-V-y
+>SoimicMinimDraft_9_1059737.scaffolds.fasta_scaffold1135869_1	53	0.272	2.138E-05	1	63	83	101	176	179
+arvvvnertgtvvigenvsvssvamshgslklkipgdaaegDLfggGA--evvEePdhlHPmiN-NF---DVG--A-------------------MPTVRELV---------------------------------
+>SoiMetStandDraft_2_1073263.scaffolds.fasta_scaffold4444839_1 # 3 # 74 # 1 # ID=4444839_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.542
+npkvvfnsrtgtvviadglrvkaaavthgslkvvisesskvsQPAP-FSQGQTTVTPQSQVSVAQH---------AQFHHagHFLAKAHATGAVDAArhffhrhqRRAGLRRHNALFFFVAGLHLAVTYGQVLQL
+>MGYP001455048653	57	0.338	8.907E-07	1	59	83	105	161	168
+akvivnsrtgtiviggdvrvtpsvvthgsltvrinedkqvtPTANVAQnaqgtvvtP---------------------------------------------------------------------------
+>MGYP001369723785	57	0.228	6.482E-07	1	69	83	284	372	469
+arvvinertgtivmggdirvdpvaisrggvqlqinasreayqgvyvAP-P--A-GN----EKArQ-TTQE----------------F-SGASIAEIVRG--GINAVPRGQWEAFRSL-------------
+>MGYP000917286594	51	0.276	1.048E-04	1	69	83	10	80	84
+arvvvnertgtivmgkdvrlstvavslfpls-P---F------L---C-FHCDSG---------TGEL--LP--VTfLQRK--Q-GT-GITQRDFLPCFRQI-------------
+>MGYP000751463130	55	0.256	3.176E-06	1	67	83	30	109	290
+avvvlnektgtvvmgenvristiavahgnlsfqiredynvsQPMP-YAp-RGTggVVD---GATLFFQ---------GT-LLIDFDPARMIDVLR--------------------------------
+>MGYP000196214737	57	0.280	4.717E-07	1	59	83	198	272	489
+arvvidersgtivmgqdvrvstvaiaqgnltvkvteapqvsQPW----qa-ARPLVTQAHGLILGQQl---------ANRFNLMIGNIP--------------------------------------
+>MGYP000144013762	46	0.225	4.757E-03	1	74	83	14	99	216
+akvvidevagvivvgdavrvstvaiqqgnltisvqesgalpVRHD-FNVVPANVYDSFILGtdtldvqvtgidcpdryrealrtaGA-------------------------------------------------------------
+>ERR1051326_6721066	47	0.205	2.519E-03	1	80	83	7	108	112
+arvviskstknisftgavtisptvvqvaglgtvsvggngGGeRG--A-AaKA---AAPGVvGI-TT---------D-AA----PSTNFQQLLDTLSRLRA-SKEqMVEIVEQLYRSGTLHAQL-V-
+>ERR1044072_9647746 
+rarvvinertgpvvsgggvrlssvsvahgdlkvnittdflvsQPtifggidsnvRV--GRGvRTAIVAPTRIEAEEA---------GSGrGD-VRTPHTPPH-----------------------------------
+>12696|Ga0207660_10344959_1|+1|11	53	0.218	2.138E-05	2	69	83	267	362	397
+rlvidgrdgtvvaggdmtvgeavvshggvtltiggpaaaTAGP-sap-aagPPGpdGAGGtGNQA-V----------------RV---ATGASVQAVASALQAVQTSPSEIAAIFESL-------------
+>SRR5882762_2364506 
+aarviinsrtgtvvissnvtvspaavshgslsvtikeeqsvsQPGP-FSAGETKVVSNSTIKARAA---------CSCS---SPGSNWNRSCAPSMRWERRPAISWPFWKLX-------------
+>SRR5690606_41819324 
+gqnivvardgtvvaggdlrvggavvshagmtltigggqagPYLD--GvDGgAV---PGG-I----------------RL---DAGATVQEVAAALHAVGAVPQEIAAILESLHRTGAPAATGVS-
+>SRR5690242_18836386 
+parvivnqasgtivltadvnispsaiidkdltivstqpp-PVP--TPQSPIE-ERSSgSSL-AT---------GAT--P-AEQVHLQDVLNAFKQLNV-PvEKQIQILEMLSNMGQLHAEL-I-l
+>SRR5438128_915648 
+rarvvinertgtivaggdvrlspaavvhgpltivvkeaprvsQPkAI-AGg-GSTVVTPRSDVQPNEP---------QKPV----------TAGKGLGLAEMLTRALGGApnhaekeAHGVKSTAGAQAIQ-ET
+>SRR5438093_8569953	67	0.215	1.676E-10	1	81	83	11	103	105
+ariiisgregtivaggdvrigpavvshhgvtlsigggaaaPG-E-----EG---HGI-L----------------RM---AAQVSVQDVAAGLHAAGLHAEEIAAVFEALEAAGAMSAEVII-
+>SRR5262245_22604373 
+earvtinrkagnivvtgdarvspvvisqagltltvinp-PSG--SALKPAV-EQQDfVAL-DK---------LDQ-----RLPNVRDLLEALNRLKV-PfASRVSILEEIHRAGKLHARL-M-y
+>SRR3546814_10309934 
+akvvinsrtgtvvigsrvrvmpaavshgslavtisekpqvsQPAP-FPDGQR----------SEE---------HTS--------ELQSLMRISYAVFCLKKKNQTQYDIYTNQSNE-------
+>MGYP001437574853	59	0.333	1.323E-07	1	58	83	41	97	252
+akvvvnartgtiviggdvrvtpaavshgsltvkvnedtnttPGQTLFDdagnvtqaT---------------------------------------------------------------------------
+>MGYP001382297523	53	0.266	1.556E-05	1	71	83	107	181	214
+arvvinertgtivigekvriskvgishgnislkildektKK------E-K-----------S-------------------VDDKIRMQYDSNAAGVAaPETVLTSKHELKR-----------
+>MGYP000939300042	59	0.192	1.818E-07	1	81	83	81	184	186
+aqvivnertgnilvtgdveisavtvgndtlvvttvtpq-PAP--SLANPLV-ERRNwTEL-GT---------AGT--N-ADRARIEDLLVAFKQLSV-PvREQINILSQLHQSGRLHARF-I-v
+>MGYP000141260726	56	0.198	1.224E-06	0	79	83	290	390	394
+eatiyinektgtiaftgnveiapvvvhvnglsvrsvepPPQP-LP-GQ----P---L-VNDS---------QwSKF-dTaIESvG-KINDLITVLDQLNV-PvQEKINAIYALRDAGALRARI---
+>GraSoiStandDraft_44_1057316.scaffolds.fasta_scaffold656373_2 # 441 # 635 # 1 # ID=656373_2;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.697
+arvvidertgtivignevkisrvaishgtltvriteaprvvQPEP-FSRGETAVEPYTAIEATQP---------NARVAV----PHYHREVDEVI-YGLSGtltgqingetRELRAGDCALIPRGAVHhaenlhgeAAR-ALi
+>Dee2metaT_18_FD_contig_21_234404_length_325_multi_8_in_0_out_0_1 # 3 # 323 # 1 # ID=38046_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.492
+kvvvnsrtgtvvisrnvrvtaaavthgpitvrisatnevsQANP-FaeaakplnFKMPMLSWRSPIIRCFYS---------SRAWIFETSSMRLTRWVRLRHPX---------------------------
+>UniRef100_A0A3L7TK86 Uncharacterized protein n=1 Tax=Planctomycetes bacterium TaxID=2026780 RepID=A0A3L7TK86_9BACT
+parvvidranevitvddrvefrpaavtagtlrittispepqpSVdEP-IA--DT-IAw--AGIATSEA----------GR-----NSMKLRSLLDALIELDV-PfTtQ-VAILRSLKTQGAMKAEI-I-e
+>tr|A0A2T6QUR6|A0A2T6QUR6_HELPX Flagellar biosynthesis protein FlgI (Fragment) OS=Helicobacter pylori OX=210 GN=C2R84_03105 PE=3 SV=1
+knkiivdeksgtivsgvdiivhpivvtsqditlkitkepln---D-s-K-NTQDL--DNNMSLDTA---------HNTLS-SnGKSITIAGVVKALQKIGVSAKGMVSILQALKKSGAISAEMEIL
+>tr|A0A1G3RB81|A0A1G3RB81_9SPIR Flagellar P-ring protein OS=Spirochaetes bacterium RBG_16_67_19 OX=1802196 GN=flgI PE=3 SV=1
+snkvvidaasgiiifgeqvrigkvavsykdvsvkvgapsawrAEE---N------------P-DKP---------E-QF-TLQENTTVEQLVDALRTVGLDT-EtVIQLIKAIDKAGSLYGTLVIL
+>SRR5574340_1344662 
+pavvvmnektgtvvmgenvristvavahgnlsiqikeetrvsQPQP-FAp-RPGgrpLLEQERGLILPPG---------GSGRERSEEHTSELQSPK--------------------------------
+>SRR5512136_1925114 
+akvvlnertgtivmgenvhiatvavshgnltlyiketpqvsQPAP-LSetg--ETKVVPRTALKVKEG---------EGGLALVKEGVQEEMVecleFRVYWLIGTAAQeDRESHLPPLKLPFV--------
+>SRR5436853_395982 
+arviinsrtgtvvigshvrgmpltvanggvynd-----Y-KGlDT-L--DADAK-RQD---------R-Q-A-LRTAArQLESLfTRMmLKSMrEANATfgDkLMgSd-QQDFYQ-GMFDAQIA--
+>SRR5215469_363475 
+lpkvtineragiivigenvevkpvlvthrnfiaeaa-PAP----GEPEeI-P-PQIfrDM-DT---------DAKFRQM-NGETVTNMkLKSLqatmDALKATPQDIIDVIKILHKQGAIVGEV-V-
+>SRR5215207_9339062 
+agkiiidersgiivmgrdvrvstvavaqgkphrhhfgdaageptgallaRPD----RGRST-LARGRAGgr-QEArr---------GQR-GYVAAAAgRRAQCARHRSArHDRDPTgDqg------GRRHPG---------
+>SRR4028118_1267061 
+aarvvieeasgtivmganvrvstvaiaqgnltirvtetpqvsQPNP-L---gngESVGGPRTNTAVGDEg---------APPGGVTRRERPEPTRAATGRPWWCRAPTSRWRTRPSAAWACCAAGFPCR
+>SRR3989338_7588191 
+vakiivnertgtivigesvkiapvavsyagidviigdvsifseGYSadsaqD--E-SRYRA--RSRASLKKT---------EGNLK-LvAGGATLSSLVKAVNTR---------------------------
+>SRR3989304_43424 
+parvvvnertgtviisknvriapvavahggphipgkpegagvarlvaPRDA-TGf-TDTVVKALDKIAPApP-----------------PsdPSAPVSGVVSSPFGLRADPLNGKERFHDGVDI----------
+>SRR3569833_1545038 
+arvvvnertgtvvsgvnvqiaptaisygdlkisittdntvsQPtllaDP--SSSiRTQIVSNSRIDLQEP---------HGAtLI-TQQDNTIADLVLALGRLGISAQKNKTNQKTKKTTKTQHTKHKN-
+>MGYP000162100296	53	0.237	1.556E-05	1	74	83	39	117	196
+arvvvdqrsgtivlgedvrisrvavsqgnltlrieeeplvgnQLDD-GGDDAPL-vAVVHVVTGVLGa---------D--LGVVEAVVPFGA-----------------------------------
+>GraSoiStandDraft_34_1057297.scaffolds.fasta_scaffold2034935_1 # 3 # 356 # -1 # ID=2034935_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.593
+iprivinertgtvvagggvrigevlvshgniqiqtqqsffvsQPAP-L-slQGETVIGSSGSASITEG---------PSKTFVLEGDISVTELAASLNRLGLTTRDI--------------------
+>ERR1035438_6937215 
+pakvvvnertgtivmggdvrlspvsvihgsltidvqtativsQPPP-YS-gGETKTVTETRLSVNDA---------PAQsIQ-LQEGANVDELIKApkkhakIHNRTRNTRSRKTnprpayrhLQEVMRRPGESQIGRAHV
+>VirMetMinimDraft_7_1064189.scaffolds.fasta_scaffold75264_1 # 2 # 862 # 1 # ID=75264_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.476
+rakvvvnertgtivmgkdvrvggvsilhgnlsirsqpsmkcrNQRL-FR-rDERQLSRSRTCAPRKP---------LPGgLN-CAKGRASSNWSTVCKPSGR-------------------------
+>UPI0003A4DCFF status=active
+vptviinkdagsvaidedveimpttvthgnmvitisavanqtqqpqQPqQP--QQQQK---PE-RfVGI-DP---------NARLMNI-ENPKLKALQESLNAVNV-PaRDIITIIEMLDRQGSLHGRI-I-y
+>UniRef100_A0A6N6JV76 Uncharacterized protein n=2 Tax=Bacteria TaxID=2 RepID=A0A6N6JV76_9BACT
+avvtidettgvivfsgnvrvlpgaftvrgisvtigaggdvpErPEP----G-TSV-KSATVPL-------------SR----P-NVQLRQLIDTFNllKLdaG--EK--VAVIRALSQNGMLQAKVRY-
+>SRR5580704_5429514 
+rakvvvnektgtvvigehvqistiaishgnlsvqvk--gqNS--vsvRgPas--ivT-GA---AAG--KdeK----------PEhIA-LVK-----------------------------------------
+>SRR5262245_61998396 
+vakvvldertgtvvigenvrittvaiahgnlnieireepqvpQPAP-LSq-GRTTVTPKSDVKVKED---------NPTTASIFDIMVTIRYVAPAYPSKQQEAAYVTSLSDRSX-----------
+>SRR5262245_46489312 
+pttvaidqvsgtviagagivvspcvlglseltiavttdpyvvQPNP-FTYSQAEQVSRTHIEVRSD---------SKDLKPVAGGVTVGELLQNLRSLGLTPAQLVTVFTELHRWHYLQARLEV-r
+>SRR5215813_2505690 
+rakvivnertgtvvmgkdvrlgavsilhgnfsieiateykvsQPNA-FA-kGDTEVVPQTTIRPKKL---------PRGgLS-CKRVRRSKSWSTGCKKSGQPR-----------------------
+>SRR5207245_2199131 
+rakivvnertgtivmggdislspvavmhggltievetqysvsQPNA-LGGGETVVLPQTTVTAGRP---------SLRLRVRSA-ATRNTVSQPQWX----------------------------
+>SRR3546814_14865967 
+pvvisnepvvnQPDTPFGGGQTVVTNNTQIAMRSA---------PATIKHVPTSANLAAVVQALHALRPTPPQLLSILHTLKPPGAPHPDPAAH
+>SRR2546422_6550099 
+aarvilnertgtviigsdvrimpvaiahgslnitvktdfgvsQPAP-FSQGQTRSEEHTSELQSRlhL---------VCRLLLEKKKTDTHVIPRGRSPLAWPRQHSVHGRSAALPSRAGSX-----
+>MGYP001291421539	59	0.339	9.630E-08	1	52	83	90	142	252
+akvvvnartgtiviggdvrvtpaavthgsltvkidekkkvigiVTERDIVkrl----------------------------------------------------------------------------
+>LakWasMet37_LOW7_FD_contig_21_784823_length_849_multi_7_in_0_out_0_3 # 638 # 847 # -1 # ID=37741_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.448
+rpkvifnsktgtvviaqgvtvrpaavshgalkviineqsqvsQPAP-LGAGTTTVTPQSRVNSGSG---------QRAHVQLARGHQVANHRRHHQQHRCHAGX---------------------
+>SRR5919204_404251 
+parvvinertgtiimgsqlristvaiahgnltiqvreerqvsQPGA-FApqGAQTVVVPRREAPSehRSE---------RPGQRRFADARHRRHASHAARKRRTPX-----------------------
+>SRR5690606_3863740 
+srvvvnertgvivaggdvridaitvshgnirvtidtsynvsQPswvrNV---DNvSTVVVPESDITVEDK---------TLSsLR-VGPDTTIWDLVEAMRQINVS------------------------
+>SRR5437016_6037012 
+rarviinertgmvisggnvrisqvtisqqpivsgndnrlR-AA-LGqEfGK-LFF-HT-L-L-QS---------TTKp-TA-GGkGHkTMQALsLDMFseHfArqLAV-QHEaIFSqFLGtRIE--GAMQekARX---
+>SRR5437016_4754475 
+rarvvvnersgtvvlgrdgcrtgghlmslais-PSS--dtSRiADQ-V-PA-KAKA-EK---------AAcD---F-ESV-lLGSLLESLqKTFaG-TPgGD--S-SEN-SSyaAmGA-QA-LaSA-
+>SRR5262249_8665453 
+psrvvidmkhkvmtidetvelrptavtagdlrittitpppvpTPeAP-IL--DT-TSw--TGLATGAE----------NK-----NSTRLKDLVDTLRQLEV-PfEtQ-VAVVENLHRQGAFKAEI-V-k
+>SRR5207253_1400574 
+arvvinertgtiimgsqlristvaiphgnltppaaatrptv-PStP--K-G---VDPGM-VKaAREfE----------A-I--F-----VQQLVKAMRQAssasGpglltgkkTRAyQDMLdeEMARAMAQSGGLGvADFML-
+>SRR3546814_8942113 
+pakvivnartgtvvingavrvgtaavshgkltvsikespmvvQPAP-FSRGQTAIEPSSEIEVSEN---------YGPAFLMNPNASLSELrseehTSELQSLMRI-SYAVfCLKQKKQ------------
+>SRR3546814_16242506 
+parvivnartgtvvinnavrvgpaavshgkptvrideqqrvsHHAP-FSKGQTAPEQNSSLPLDAE---------MRPMTLLDPAPQLADTvqeTRTGQGTKQV------------------------
+>SoimicmetaTmtLPB_FD_contig_31_29570444_length_260_multi_2_in_0_out_0_1 # 2 # 259 # 1 # ID=1311479_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.678
+larviideqsgtivmgenvqistvaiaqgsltiritetpqvsQPGP-FAev-GTTTTLRFIPSSPRsssinsRAs---------RPRSPInpttLVSAAVWRAIIDKIVDLPTPEPEKMPILCpLQTVRKAFITRTPRS
+>ERR1051325_6130536 
+pakvvvnertgtivigadvkvsrvavsygtltvqvtetptviQPEP-FSRGRTAVRSPSSTVPIcarwspvstasassrtasspscKA---------SSPPAPF-KRSSSCNDRDPVHHYH--------------------------
+>ERR1035441_7352169 
+rarvilnertgtivmgkdvrlgavsilhggfsvqisteysvsQPLP-LS-sGKTEIVAETDVKAKDS---------PAKrLE-IGEGHRPTGERLAKHGCDRPRRDLHPAS----------------
+>ERR1035438_9006743 
+aarvvvnertgtivmgrdvhiapvailhgnltveiqtsleisQP-P-LTAGTAAAAeqdaGQQGNCERKS---------QHRQRRtsldrhvSGLGKRESQHHMRPGIGNgqs--------------------------
+>ERR1035437_3681259	55	0.207	4.364E-06	1	67	83	24	105	106
+akviintktktivfteevelspttisyktmtiditaaap-A-A----P-V----VAGtAFT-EP---------RQA-----GNTKLKDLVEAFRLYKVSPDDr-IAIVE---------------
+>16465|Ga0209483_1211847_1|-2|11	51	0.265	1.048E-04	1	47	83	185	248	255
+akvvidevagvivmgenvristvaiqqgnltitvnessavsQPSA-FAKVGNTAVVPQSSVtvde---------------------------------------------------------------
+>UPI0005F4BDDC status=active
+parvvfnektgtiilgkdvkiaevsilhgnlslqvgtlynvsQPEA-FSr-GETTVVPERTITVEEE---------KSRSVMLREGASVEEGVPPFmrgEGRGWVTAEYAMLPASTGRRKARDGIKKDG
+>UniRef100_A0A523U8U6 Uncharacterized protein n=1 Tax=Planctomycetes bacterium TaxID=2026780 RepID=A0A523U8U6_9BACT
+egkilidkknngiwitgyvivtesafsykdvsiriQP-P-VA-lGAPAQPPAKrkDI-IHKmP---------KGtNVPPFSKvGIELQKLISTLNDLEVKTEDVIGIIEGLHKARAIKAKIeYV-
+>UniRef100_A0A4D6YBQ1 Uncharacterized protein n=1 Tax=Buchnera aphidicola (Thelaxes californica) TaxID=1315998 RepID=A0A4D6YBQ1_9GAMM
+hvpvtinlsknvdpnilninnycfiknnvlkyknisiifhnkinnfQKNP-----D-ILIKKINaINIHNsN---------NNNI--F--NLDINELLNILKyT-GF-SNiEIASILESMKTLN-FfSyP-IEI-s
+>SRR5580700_7919189 
+parvvvnertgtivmgrdvhispvailpghlataaaiR-GH-YRrGGQR----RSE--C-Q----------RGS-----RAQRVTQARRhC-GGTGARPGG--hR-LHTARCnCdSA-KPACS--
+>SRR5436309_1714849 
+vakvvldertgtvaigenvristhatahanpsieikdepqdvksAAAE-LSSlfvSQMLaVMRRT-VP--KS----------G-L--LNKGF-AHDTyVSMFDQeIAhtIARReDfgLTAMLQrQLKDpgAdrqvpGrPLTA-LpR--
+>SRR5215469_17323635 
+arvvidensgvivmgpdvristvaiallqhghhtagsphqHPD---RRGQ-----RQQ-D-RRG---------AGRrVPAVPGG-R----AEC--A-GRrSPRHhLHpA---G-HQGGG-RtsGRYR--
+>ERR1039458_10598599 
+parivinertgtivlggdvklspvsvihgslsiqvvtthdaa-IIP-D-nkgrpqqvlvpqqrdrkstrlnsshlgiSYAVFCLKKKQVNHRVqP---------ETREC-VASSRHHYH-----------------------------------
+>SRR6266850_2237844 
+aarividardgtvvaggglrvgaatvshagitlqigg---T--SRANS---DGL-V----------------RV---ASDARSQRPrPRRSRAPSIRARRAPPIRTCSSAAWRTRwSPCSX-
+>SRR5690606_8884852 
+arivinertgtivatstdrlsqvasahgafqirhnqalciclcw-P---YGRG-S----EHD-D-RRE-----------RMS-L-R-C-HRH-QRAADD-R-TPRSrALrAr-rLHA-RNDGHLpKTE-TL-rrpssx
+>SRR5438132_1391920	44	0.223	1.697E-02	1	59	83	64	128	194
+arvyidqqsglvvvggeveigpvaithkdilvevgE-GQ----GE-----R--fVSV-DP---------AG------SnvPETFAQVLGGASP----------------------------
+>SRR5262249_32692467 
+arvvideqngvivmgenvptapapgaqgpppvrvpeprQaPHP-IPSAPPA-TP-TP-S-PPT---------PTP----PP-PQ----TRP--P-S-SPaRP-AAT--A-R-S-S-RpA-X---
+>SRR5207248_276395 
+earvqineregtmimtgdveispvviihkgltistinpa-PVP--TPRTPVV-NTKQaIAI-DT---------TNQ-----GGAKLQD---AHGA-RA-PlSQHQQLEKQtqVWVAQTFFGTL-L-k
+>SRR3546814_13299650 
+varvvvnsrtgtvvigatvrvsaaavsrgsmtvkitenqqvrQPGP-V-RLEARRVGTECVSTE--------------IARWAEEHEKKKQIKTRE-----------------------------
+>JI10StandDraft_1071094.scaffolds.fasta_scaffold1076738_1 # 3 # 704 # 1 # ID=1076738_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.654
+earvqinartgtivmtgdveispvvishkgltistvnpa-PVP--TPRPPFrlasvvlsatywwS-RRADvTVK-AA---------TPP-----SGCTMPKSTAAAPEIwKF-PpPPVVSV-----------------
+>ERR1712096_569195
+arvvvdertgtvvigsnvaisevavthgsllvtistemtvsQPLP-ASEGQTVLVPEKSKKKREK---------KKKKKEA-KTRQVKKSRNQKTTRKEKPKKEK-------------------
+>ERR1700735_2614340 
+gakvvvterpgtvviggtvvlqpvsilhgglainvvsefevsQPNA-FGSGTTQVVQQSRVEARDK---------PVNrIE-LRQGGHRRRPGAQPAGD---------------------------
+>ERR1022692_4486670 
+agvmlwgrtpvlrpasTP-A-CSc-GSSDgIhLDRCRLRI-QR---------AGHLYLL-SGKSIRRFgIAEhINAaaLDERPlRscfD--A-FAhALR-V-RLHG-Iw-I-
+>APDee1175537692_1029409.scaffolds.fasta_scaffold24716_1 # 2 # 721 # 1 # ID=24716_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.685
+takividersgvivigrdvrvssrrqdfrqewrgrhrlaglrstpqasR-D---S-G--LMTTTTTMTtAAEA---------KAAI------AQVADLID--NRr-GVi-ERE-TTL---VH-AGKVR------
+>UniRef100_A0A170PBW2 Flagellar P-ring protein n=1 Tax=Buchnera aphidicola subsp. Tuberolachnus salignus TaxID=98804 RepID=A0A170PBW2_BUCTT
+kniiflkpkkneitlkheiylntakiikkhiflnihnirKTSS--TTSKT---SK-HFA--K------------KI--FKK-TRLTNIIHALK-fLNL-PiSHIFSILKSLKNKN-LiKAQIKII
+>SRR5579871_2505306 
+qarvvlnvksktivvtgeveispvviahgnlsvsva--------GEDA---DAQ-N-EES---------RARF--VP--L-MERVARRHN-I--SP-S--S---S--TPX---------
+>SRR5512142_725164 
+dqkiiinertgtivagvdvevkpvvvtqgsltvkilsqneVSKP--A-GSVAM--DKSLVIGLN---------ENEIF-TeKG-----------------------------------------
+>SRR5207247_8599573 
+trviinerkqifivgadveigsvavmhknrliqvagsdpP-a------N-E-AV---AFHPRGDt---------S--------KPKLESLVAALEVREVPAI----------------------
+>SRR2546427_7380744 
+sakvvinartrseehtselqsqsnlvcrlllekkkntghsRSTL-LWN-------PSTWTLDP-------------LVMHTAAL---------------------------------------
+>SRR6202051_2883313 
+rgardhqsahghggdqqqrdgesgggvpwlvvrhhqgraerqsagtlregrrdQGGhQ-FDhQGRSRLEPHVPVQARRR---------TGtdRACrQ-RGGSGARR-SGG-HS-GSSERGr-CpA---S-R-AD--R-NL-I-
+>SRR5690349_15803549 
+earvvmnepagsivsgadveigavvvrhkyfvsesektL-rN-----G-R-FV---PLDVGGT---------Q--------ATKRRSPVSALQ-----------------------------
+>ETNmetMinimDraft_9_1059917.scaffolds.fasta_scaffold1748947_1 # 2 # 202 # 1 # ID=1748947_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.373
+kakvivnartgtiviggdvrvtpavvthgsmtvrvnedqnvnQNNNIAMnsdqivvtPGDATVTPDTEIDVDEE---------VAKhL-FLILALNYLKLWNPX------------------------------
+>SRR5690606_39422307 
+ytlslhdalpicsgvivigsdvrvsevaiaqgnltisvseapqvsQPNA-FAdR-KSTRLNSSHVKIS--------------YAVF----CLKKKIQ----IQMihGPYtvsyESLGSVX---------------
+>SRR5258708_9945334 
+vgavapegapgttvmgvavrispagiaqgsltiritetpqvsQPNP-FAPGPGV-VPSIPGQLN--p---------D---TVVP-GQPRPRLDAnGRPIVDPatGPP-IIHFVPQVHPGTRPPA-----vpg
+>SRR5258708_21240848 
+stlfpyttlfrsvlgqdvridgvaiahgnlrlvikkttqvsHDSV-F-GHDElTHSTTVSVDDSGK---------KGNLVVF--------LITRRKFPDRKSTRLNSSHQIISY-----------
+>SRR5258707_1230189 
+aakvvmpmrygrpdyqladaltkvspqaqtkakassqdfeavflnsmfsqmtsgikgE-GP-F--GDT---PGTGVwrSmLTEE---y------SKSFAK-TRG--IRN----FNAV-Y--RT-L-LLQhA-RR--A-QP-----
+>SRR3546814_10327017 
+lgpqlaeaafpagidrggegvergvalgeggaavvEPSP-QLAQRLELVGGSGV-LGDD---------RQGVDDGPGAFELGDVVDA--RSEEHTSELQSLMRISYAVFCLQKK----
+>RhiMetdeSRZDD1v2_1073273.scaffolds.fasta_scaffold4564404_1 # 2 # 388 # 1 # ID=4564404_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.388
+ravivinertgtivaggnivlrpvaishrdltievkgdaA-gA-----AN---------------------------------KNGQAF----------------------------------
+>25BtaG_2_1085352.scaffolds.fasta_scaffold31140_1 # 1 # 603 # 1 # ID=31140_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.449
+aakividersgiivmgrdggagqshridfgepasQP----A--QSAVArPNRG-DATHR---------RQRF----R--RRQEIcSRE-RRrVaAAarrRPQR--Ar-HRpA-RPdrhpAGD--------
+>SRR6266545_380806 
+ngrayadrspvdgarhryaeaavdrvdhrardaeigvaqleldelartdarrdgaldrraagdasgiQ-liD--LgrAaAGrRacacNAdVaLrHRVHLAIGafErrQq---Q-----RAaaQaL-RVAErGNRyVDELARlRIrRKLrG-DHDggDVLQ-LQ-VRARGQVDAELrE--h
+>SRR5947208_6972797 
+earvlindktgtlivsgdaeispvvishrgltistiqpq-PVP--TRQTPVI-STRDvVTL-DT---------THQ-----AAPSPKTWPAPLT-----------------------------
+>SRR5690606_27377967 
+rprivineqaglititgnvvirpsvltsgrlvvtttepei-PAT-L---QN---PK--IT--Q------------------SNST---LIS--TT-G-DPRSVAqAqaLLEAMRRmEv-PVDEQIQMF
+>SRR5579872_1679490 
+perahghrrhgrryyprpgcdrsrqsfdhdhddehgrsagtvherpRPDPnEYqNrRQRTE-AP-AHL-LERRa---------DAR----PGGAcSqhAGRLpPRP-HRhLaGpsrfrrVASRyrDhLMD-IKNIGGAatGqS-pspeQqqA-LsRL-hdaakafeg
+>SRR5438034_1208061 
+aarivinertgtgsagfavnapkplhgQPSP--A---T---ERAKVaELSQQ---f------EA-M--L-----MNQMVQQMrKSL-LD-ED--E---S-EGAG-FGAS-TM-
+>HubBroStandDraft_5_1064220.scaffolds.fasta_scaffold1256012_1 # 3 # 212 # 1 # ID=1256012_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.710
+vqvvslgegctceppsgcsaslspwessasssasptfspdrsrpgwqssgrgrasadlrgdgvtgdavwDPiaDrdrP-WRDGG--VMRRTStvI-VGgHK---------D-RaMQR-PPGSrSpMTSTrrSEApeIccRrvALcAVAPAGpgIVyMIVDAVVRlSrGC-DVE-PV-
+>ERR1043166_9385329 
+arliidgrdgtiiaggdlaigeasvshggitvtigavdttaAV-K-----------NN-L----------------LV---PAGTPVTRVGNRHRLIPFV------------------------
+>SRR5919198_894913 
+pivdpatgqpiidfvpqvqpgsrqapv-PGA-IAGGaATVVVPRTPTAghgVSAQt---------QAD-AVrV--GREFEHMfVS----------QmLSQMFAGVKTDGRFGGGF---
+>SRR5471032_2111570 
+lppgypaagssyetviqfqphpdrvgagrlfgdsddhrE-DA--ADGAS---GDAAAAIGQQ---w------R-HL---PEQ-R---VpAD-L-R-G-PPRAp--G---G-RRAdpGH-HRE-N--rrrqgr
+>SRR5204863_7728759 
+ntvivnkrlqaiivgadveiapvavmhknrviqtggapP-a------N-Q-FV---PLDISEFqga---------R--------NSKSNTEDDAIDTP---------------------------
+>SoimicmetaTmtHMC_FD_contig_51_617121_length_212_multi_2_in_0_out_0_1 # 3 # 212 # 1 # ID=1504352_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.752
+xxxxxxxxxxxxxxxxxxxxxxxxxxgscfgqyqcgrfgqcpqrhrcqRPGH-HRh-PAGHQSGRGTLRR--F---------NNHVVGSVCRDEDSLGSGttyYRQGEAVIHFPKSikgsgcAVX----------------
+>ERR1700712_3457307 
+hgkairlgivcrmvalihmafgsyvalaal-PHS--SR-iRD-I---TEIQgV-RP---------N-QL--I-GyG-----LVVGL-Q-GTGDRQqtYFTVqtLAnMLQRMG-V--QIP--
+>ERR1044071_6374757 
+rarvginertgtsptsasrsaagagarasfwaecwssssl-PRwT-WASArRSCAPPRKE-DSHER---------DfGN----PErrDERSGA-ARA-rRRr-G-EPrRarrQhr--QrVggrLPaAARRVrGSArRgAQ-RA-prprrgggar
+>tr|A0A1C0AXB3|A0A1C0AXB3_9PROT Flagellar P-ring protein OS=Arcobacter porcinus OX=1935204 GN=flgI PE=3 SV=1
+kkkliidvnreaiiaggditispitisrnsftlridkttldDtNwnNPAINrGvdvGDGIkIADKSVVDI-DN----------A-M--INtKKDpTISDLVRSLKVMKI-PmSEIIDTIKMIKQMGAIDVDIEL-r
+>SRR6266849_5666228 
+rarvivnertctvvspsrlrpkwksps-PSP-FRRARP---P---w-SA-------------SRM------CRLRN-SPcA-EwK---SPK---A-PKS-SNSSTVcRT-----
+>SRR6056300_680486 
+pvaekaatgslfansadslvgrgknfrvgdiitvllsESAQ--A-NRS---Q-TR-DTSRT---------ASN-S-LPSGAS--------TKVGnISP--FLdGI--NLNES-TI--E----
+>SRR5690606_21161713 
+mpisqrtegslyqdayglnlfddrkahfvgdvitvtlsertvsR-KS--S-G---V---A-TG-KKS---------GMNF---NAG-P---L---L---GVNPT-F-kgnG-LDtEISQD---R-T----
+>SRR5690348_17491415 
+itsinytsstaiytlslhdal-PifD--FN-lG-S-L--NS-IKVAlHN---------P-DL------TTARRVSEAINAfLGttaAVPSDpgtvLVSVpQRS-EEhTSELQSPVHLVcrlll
+>SRR5680860_1081863 
+siflsemlksmrkagdvlaegnylnssQSE--F---yRD-MF-DSQMSLTMA---------GGQ------GTGLADAlVRQLgKDIpGIN-KEg--Ap-LAS-QKT-SL-ADYCLLytspsp
+>SRR5579883_1671034 
+ssaeamanagfapingltrvkdianlqgvrgnqli--G--Y--G--LVV---GLE-GTG---------DGQTTQFTQ-AS---LVNMLRRFGIdVPTSAV-MVKNV--A-AV---M---
+>ERR1017187_10457988 
+---------------------------------------LERRVADESVGVATGAVVarddaggsagqgggdgralpqrnskgrrYGGRPVSGPERHRFHPAGYYRDLA--
+>tr|A0A1C2C6Z3|A0A1C2C6Z3_9ALTE Flagellar L-ring protein OS=Alishewanella sp. HH-ZS GN=flgH PE=3 SV=1
+paprpvlrngslftqshsnslytdnrarhegdiitvvlrertQ--A--S--KNA---KTESK-KDS---------NVAF---EPiN--IAG-RN-AS-IG-G--N--V-LQ-F-GSSS-NQD----
+>SRR5712691_6527365 
+rrrvgvaeasgrvpsggilesdl-PhAA-FA-SNSRL-----L-LREP---------D--I-----G-TATRMAAAIDtALGAgTAKveDpgSVA-LT-FKD-GEAAAQLsKI-q
+>SRR5690625_4954796 
+aslpqntagslyqgsygmglfndrkahnvgdiitvtlsertvsS-KS--S-G---V---S-VQ-KDS---------SLDF---GAG-P---R---S---EEHTS-elqS-rghL-VCrLLLEK---K-K----
+>SRR5690606_33044524 
+xsngslyqesaplnlfsdrkagrlgdiltvvlsektvsK--------KS-----SNVEISKE---------S-DV---SiPGtSA------SV--LGNPVhfKGL-GLnTN-LS--AE-R-E----
+>SRR5690606_19576905 
+ipvvnrtagslyqeaygmslfndrkalnvgdvititlsertvsR-KS--A-G---V---N-VS-KSS---------NNSL---STG-R---F---L---DMGLG---S-LAgNIEQT---R-D----
+>SRR5574337_516934 
+pqcrvayqingttvtfdassslnvssyswsfgdggsattava-THT-Y--G-T--TGK-yNVALSgTG---------AG-L----GGCT---WVQTVN-V-ASP-N-VpptAsgILNVV-AS-T--ATV---
+>SRR5471032_870463 
+vqvdgrrqaagdhrrrqqprrqsrrhhgdpagaRP------GR-----R-H-R-RRT---------GGHL-----GTA---M--TI--LN--P-N----LNRYKEAGkA-EaAPLPA-d
+>ERR1051325_3789381 
+ngagigtrirpgemasavvlrrdaE----MA-SE-ILL--A-V-V-KS----------G-MSrAI-R-TSPSAF--TIDE-GM-PR---S---T-NTP-PVsRPDV-X-
+>tr|Q21IL2|Q21IL2_SACD2 Flagellar L-ring protein OS=Saccharophagus degradans (strain 2-40 / ATCC 43961 / DSM 17024) GN=flgH PE=3 SV=1
+sqaqppangslyspnssidlfsdrkalrvgdiitvvlqertssK--------KS-----SNIGVKKD---------N-DI---SQGSS------TV--FGTTPglGNL-GLgLD-VQ--GE-R-E----
+>tr|F3LIP9|F3LIP9_9GAMM Flagellar L-ring protein OS=gamma proteobacterium IMCC1989 GN=flgH PE=3 SV=1
+kpvpkptngslfqeyqgmslfgntnnhrigdiititldeetis-SKS--T-G---V---G-ID-KTS---------D--VSLLEGGnSTiLGR-dnTK--N-IPIV-GD-VTI--PLSSSQD-R-S----
+>tr|A0A1Y2K5W7|A0A1Y2K5W7_9PROT Flagellar L-ring protein OS=Magnetofaba australis IT-1 GN=flgH PE=3 SV=1
+pevmapnkgsiwqsaqrnalftdnkarsvgdiltvniaeti--NA--T--KS---SNTTLS-KND---------ESK-TSL-GG--LFGLTAALQA-G----GL-Sk-FTD--SA-TIKSE-NT-
+>tr|A0A1J5MHW0|A0A1J5MHW0_9GAMM Flagellar L-ring protein OS=Gammaproteobacteria bacterium MedPE GN=flgH PE=3 SV=1
+qpavnivktgslfdanrldslyadvkarrvgdiievvlsentS--A--Q--KKA---NSNTK-KEN---------SANL---TPitG--LNG-AN-VT-IG-G--N--S-LA-F-GLNQ-DSE----
+>tr|A0A0N7J8R8|A0A0N7J8R8_9BURK Flagellar L-ring protein OS=Limnohabitans sp. 63ED37-2 GN=flgH PE=3 SV=1
+vdkprqatgaiyngrhsdnffgrsrnyrvgdlitvvldestR-----A-GR-E--QKGSVS-RDA---------ENNV--VPSGL-VSK-VQNL-AL---PTKVLgTTLGgVL-N-GiNLNeSSIK--
+>SRR5690606_32509103 
+ngsiyqpgalgnfplfedrRPrN--V--GDivTVLLSE-RINAAKN------------V---STSTSRNS---GI-ELGfdtV-PR---S-LEkSL-G-GqSLDftGN-NV-
+>SRR5690348_8570505 
+gmaaaadlmmplsardymgrg-S-E--ASASPL----SAlMPM-NtP---------DVR-----GAGgRFRQVLGAAQFNPL-TaADHIPGVRK-GKVGQSEHEA-L-teqaqkwvaqtffgtlmk
+>SRR5512144_2538697 
+rggerqvsavaqgpvslgggfsasAPGA--SttSGmTTAgIIPDGAlVEkelpVERAp---------DGKLKIsLhQPDITtASRVAEAhnLRT-GtdataIDPKT-VEV--TLREPGALEA-MnAM-t
+>SRR5437762_2736787 
+glsfggsytgrgeitrsekfvtqmsltvqqvLPN-----GD-LVIQGEQwLKINgER---------T-RV-g-V-RG-RVRA-AD-ID--G-N-NSVLStrIADaQI-DyDG--RG-F-V-srs
+>SRR5210317_62197 
+atgnrmpdgsiysdqaaglfatdrraskvgdiitvafsE--S-F-QA-T----KSQ-NA-AA----------SK------S-SSNKI--SL-P-GIIPgSDL-eErISEALTSSSE-RS-----
+>SRR3546814_4221337 
+ptlgthqrtdglgigqprvlqseraapmeQPtdSPAY---E-LAL-RARMD-RDA---------SAR----ASGA-----IE-IDA----PRE--QVWDrS-EEhTSDLQS-LmRI-syavf
+>SRR3546814_1506077 
+adlllararrrphvrplflftralergeaararalvvveragDRQ--FA--R--L---AAI-VATA---------TARL-----G--FGAL--GFGALG---R-----FD--R--GeAARGD-R--
+>SRR3546814_12047270 
+rdreagrlghspqhdrgeargaigAwPR-IYSH-RAQMV----L-L--G---------GGcR-HHLRHRARSEEHTSELQSL-MrSP--Y-AVFC-LKK-N--KAHX---
+>tr|A0A1W9S7K8|A0A1W9S7K8_9BACT Uncharacterized protein OS=candidate division Zixibacteria bacterium 4484_95 GN=B6D58_01445 PE=3 SV=1
+ktdaktegtaglgaldfiplwgasgsdeiqydgqgQTEK--S-GvlraKmTVVV----IDVREN----------GDL-VI-EGNR---VVT-VNN---E-KETL-F---L-S-GIIRsRDI---
+>tr|A0A0S2JZF3|A0A0S2JZF3_9GAMM Flagellar L-ring protein OS=Pseudoalteromonas phenolica GN=flgH PE=3 SV=1
+qaeqivatgslfnpnlsndlygdkkalrvgdiltvvlrettS--A--T--KAA---NTTTG-KST---------AASL---DPvvG--LGG-AN-VN-IG-S--Q--S-LQ-F-GMNS-SNS----
+>SRR5690554_2022982 
+dsaygpsngaiyrpatavnlyqrrahrlgdvltinlneattaR-KS--S-G-T-----S-YS-RE------------------SSTNVGDM--TL--FG----S--N-VNS--ATE-LGssSD----
+>SRR5687768_4511985 
+apirlvgyglavgldgtgdK-G---G-G--A--RGSGMTV-Q-----------S-V--V----N---LLRRFD-VQV-P---VEMMRT-RNV-A--A-----
+>SRR5687768_3126772 
+qtplvaadgkvyavaqgtvsiggfgaagtgqttgvdhkniltvgtlaqgalverEiPVSLlY--GDRLrlVLRDPDFT-TAS---------RvARaL-gdVFGAG-RVQA-EDStMv-TLGfaATPgDDeLVA---AI--A-RLQ-QL---
+>SRR5262245_11748168 
+ksagqiensarmpsggllevdl-PRPd-YTESDKLILKDPDITM--A----------SRVATaINK--ELGE---GMAKVE-DPGA-IALnLKdA-KEDrASVwaHiRDLRV-
+>SRR5208283_3915419 
+vslllndasfstaeavaavinqewasSgPqsGP--ASATTSATTSAPVAaV-iDS---------R-RV----D-IRLPA-AE-L-T-GmATP---VpALLARIEN---L-A-VEV-rrrx
+>SRR3569832_122099 
+etlppategaifqagreislfsdtkaqrvgdmitiilvektqasK-KA--STNSS---KDQDVAM-DN---------P-TL--L--GAP---L--SF-GMpGnL-PlngRKL-D-LEtKIK--GT-RA-----
+>SRR3546814_4952753 
+erikdlasiqgvrgnpligyglvvglD-G---S-GD----Q---V--RQT-----------PFT--QQ--SLTNMLSQLET-G---R-------A--S-G-WdRwC-X---
+>SRR3546814_3346246 
+vqtcalpisvggyqfegltasvqknhptvgwi-P----S-GAT-VEQGSPLGVAgDG---------SSlGI-LLNhPDfTNASRVAAAIRA-GI-P-G-VQ-VRA-EHAGKVtvsyPgppASLrteerRV-
+>ERR1700681_1131593 
+rpdpenlgfyilmtiliarliarsfmalrpglrAPhGA-LRRGAPT-HP-AR-S-RER---y------ARR-SPWARGTTalLSAAmLTlSIPGIaGAQPvR-L-kDVTR-V-Q-GVVANQL-V-
+>ERR1035437_841317 
+vlpprpgcrsiawrflthdravwpvttgtrsargriywllpqrRRQS-V-RGN--LQP---IErlFRHR---------TGQLCA-EPPPT---VsVE--HELR-RP--VFSLYDpSWRE-DE-RAS----
+>SRR5665213_3731971 
+dvykrqvpstyvdndtisilleHPD--F--GQaSIVMQ-S-LN--Q------------Q---F--GDQVAKAVDGgqID-VKI-PynyRDnVVDFVAAVQDT---R--V-V-
+>SRR4051812_8168015 
+rikdiagiegvrenqligyglvvglN-G---T-GDK-L--NNNVS-PAN---------HS-LACW--SA-wVSTPaTRS-RR--CQPRtSp--pS-wLRpSCRPfP-EWQPDX---
+>GraSoiStandDraft_25_1057303.scaffolds.fasta_scaffold3438870_1 # 3 # 248 # -1 # ID=3438870_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+qfealfmqqlmksmreatmssgmldnsgsQ----L--G-T------EM-LDTQ---y------ANKMSg-LPGG--LAAAIErQLQrQMGggATAA-LAA-PPA-AAAGA-pSA-----
+>ERR1700710_583687 
+vpmpvtirlrhlaaaalaaligfta-P----A-GaASRI--K-DV-VDfEG---i------RQNM-LV-GyGL-VVGLngTGdSLNrSI-FT-REsLIGMLERLGVnArdaG-LRTN-NV-
+>SRR5882757_7630748 
+lpnspashklhqaaaefesillaslwksmkssfaSPDE--ESSD----PAHE-TL-DD------------L-----G--VQSMCAAVgKAggLGLG-R-LI-LkhLEpQVSD-GSVQnPK-PV-ygts
+>SRR5690606_39511914 
+ErmiPSD-FAKRPDIMLNLRNPSFQRsE---------EHTSELQSRENLVCRLLLEKKKRPHSRCAL--------------------
+>SRR5262245_53268398 
+-------------------------------------RARRGRREDRHDRDRREGVAARRRDHV---RRAHRRGR--------
+>SRR5258708_34349348 
+gqslprgvvanarlgggagggrapafdlnaqkavtvsllNPD--FS-mAR-QV-ARA-INagLKADv----------ARM---TDNTN---IeVA-IpSTYaG-RAv-DLIA---AIENV-PVQP-----
+>SRR5216683_1733975 
+ptrscgspcefwgfkmryrt-----F---ELILL--M-V-L-------------G-L--L-GcGAAHGSFLEQ-SR-D-H-RNL-hS-FPT-RHT-S-ETE----
+>SRR5208282_955473 
+sigagkgsgstsgislfntvsiptalsaqtganstkthait--VS-FQSAmmATVIdVlPSGTMAI-AG---------D-QQFIM-NGSkqTvhVTGIIRqEdIdNTd-SI-PSNr-IAn-AQA-H-yDGNV-P-----
+>SRR5205807_93789 
+isllltawvparvpaatrlkelvslegvrdnqligyglvvglngtgdrrqtlfaaQSAAVlggYAaGGNaggagaTQIVnhP-T-VgRIPD-----------GAIVEAPsPSVKIGNTVRlQLHqAdFTTAAR--VAgVVN--QK-fGAVaNAE-S--
+>SRR3546814_15104079 
+trtdtlfpyttlfrsfkarekvarrgrlyhdavdrkldrlarklvveatceQhDGPRIA-A-AA--QRTQ-HV-ES---------AA----F--GHA---IVED-QQVG--PRacQr-VehrSAdHED-RKlAGdEIgRAH----
+>SRR6056300_1044433 
+nvllaertdasksndssvtksnestiaNPi---LG-GQ-A---R------D------------KL-----G-SFRG-YD-FN-MG-----F-G-FES-DQA----------
+>SRR5882762_3838600 
+alfenpvahrvgdlvtirlvESTA--A-SKS---SSTN-T-KK-----------A------TNAT---IaIPTI--LG-QP---VT-YKgA-SVlSGGLgDsSD----
+>SRR5690606_13760505 
+xlfsdrkatrvgdiitvvlqertssK--------KS-----SNIEITKD---------N-EI---TAPiSS------GV--FGLSPthNGN-PVdID-LR--AD-R-E----
+>SRR3569833_4743228 
+kpnkthtqnkhtkkqkntt-PN---NH-NT----N-K-K-TQH-----------Q-------TNTKH-TK--HK---K-K----------------------
+>ERR1051325_10499232 
+rttgvpgekspiasatppskrtrstpsrhastTPRiP-VS----A--P-T-ISATfSS---------TGRV---KTSAPAPN-CSSFPPLK-TPmR--VpSMnasWRsCVTKT-AVTA-V-X-
+>ERR1022692_1552886 
+mirRP-P---RS-T-LFPYTTL-F-R-----------S-LCA-EPS-Q---VVSA-eHEL--R-RSVFSVYDpS-RREDE-PAS----
+>SRR3546814_4930337 
+---------------------SEE-----------H-----TS-EIQSLMR--NSY-----DVFC-LK--KTNNSY--E----
+>SRR6185437_1491546 
+draqptsstvlsqqealvkdvssiegirdnqli--G--Y--G--IVV---GLQ-NTG---------DSQMTYFP----LQTLLSTLQRLGItVPyP-LTSImVKNM--AGVFvEATLpPF-aqpgsk

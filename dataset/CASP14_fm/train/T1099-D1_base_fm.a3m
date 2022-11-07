@@ -1,0 +1,224 @@
+>T1099-D1:
+NVYDLPDDFFPKIDDLVRDAKDALEPYWKSDSIKKHVLIATHFVDLIEDFWQTTQGMHEIAESLRAVIPPTTTPVPPGYLIQHEEAEEIPLGDLFKHQEERIVSFQPDYPITARIHAHLKAYAKINEESLDRARRLLWWHYNCLLWGEAQVTNYISRLRTWLSTPEKYRGRDAPTIEA
+>O72886	254	0.971	1.115E-73	0	177	178	53	230	305
+NIYDLPDDFFPKIDDLVRDAKDALEPYWKSDSIKKHVLIATHFVDLIEDFWQTTQGMHEIAEALRAVIPPTTAPVPTGYLIQHEEAEEIPLGDLFKHQEERIVSFQPDYPITARIHAHLKAYAKINEESLDRARRLLWWHYNCLLWGEANVTNYISRLRTWLSTPEKYRGRDAPTIEA
+>Q6RSE4	293	0.966	2.456E-87	0	177	178	53	230	305
+NVYDLPDDFFPKIDDLVRDAKDALEPYWRSESIKKHVLIATHFVDLIEDFWQTTQGMHEIAEALRAVIPPTTTPVPPGYLIQHEEAEEIPLGDLFKHQEERIVSFQPDYPITARIHAHLKAYAKINEESLDKARRLLWWHYNCLLWGEANVTNYISRLRTWLSTPERYRGRDAPTIEA
+>Q6RSG4	289	0.960	1.083E-85	0	177	178	53	230	305
+NVYDLPDDFFPKIDDLVRDAKDALEPYWRNDSIKKHVLIATHFVDLIEDFWQTTQGMHEIAEALRAVIPATTAPVPQGFLIQHEEAEEIPLGDLFKHQEERIVSFQPDYPITARIHAHLKAYAKINEESLDRARRLLWWHYNCLLWGEAQVTNYISRLRTWLSTPEKYRGRDAPTIEA
+>Q9W8I1	288	0.955	1.484E-85	0	177	178	53	230	305
+NVYDLPDDFFPKIEDLVRDAKDALEPYWKSDSIKKHVLIATHFVDLIEDFWQTTQGMHEIAEAIRAVIPPTTAPVPSGYLIQHDEAEEIPLGDLFKEQEERIVSFQPDYPITARIHAHLKAYAKINEESLDRARRLLWWHYNCLLWGEATVTNYISRLRTWLSTPEKYRGRDAPTIEA
+>UniRef100_Q67850 Precore/core protein n=1 Tax=Ross's goose hepatitis B virus TaxID=259931 RepID=Q67850_9HEPA
+NVYDLPDDFFPKIDDLVRDAKDALEPYWRNDSIKKHVLIATHFVDLIEDFWQTTQGMHEIAEALRAIIPATTAPVPQGFLVQHEEAEEIPLGELFRYQEERLTNFQPDYPVTARIHAHLKAYAKINEESLDRARRLLWWHYNCLLWGEPNVTNYISRLRTWLSTPEKYRGKDAPTIEA
+>sp|P13845|HBEAG_HHBV External core antigen OS=Heron hepatitis B virus OX=28300 GN=C PE=3 SV=1
+NVYDLPDDFFPQIDDLVRDAKDALEPYWKAETIKKHVLIATHFVDLIEDFWQTTQGMSQIADALRAVIPPTTVPVPEGFLITHSEAEEIPLNDLFSNQEERIVNFQPDYPITARIHTHLRVYTKLNEQALDKARRLLWWHYNCLLWGEATVTNYISRLRTWLSTPEKYRGKDAPTIEA
+>tr|Q8UYB4|Q8UYB4_HHBV PreC/core antigen OS=Stork hepatitis B virus PE=4 SV=1
+NVYDLPDDFFPQIDDLVRDAKDALEPYWKAETIKKHVLIATHFVDLIEDFWQTTQGMSQIADALRAVIPPTTTPVPDGYLISHNEAQELPLNDLFVNQEERIVNFQPDYPITARIHTHLRVYTKLNEQALDKARRLLWWHYNCLLWGESNVTNYISRLRTWLSTPEKYRGKDAPTIEA
+>tr|M1G524|M1G524_9HEPA Precore/core protein OS=Parrot hepatitis B virus OX=1128118 PE=4 SV=1
+NIYDLPDDFFPKIDDLVRDAKDALEPFWKTDSIKKHVIIATHFVDLIEDFWQTTQGMNHVAEALVSLIPPTTVAVPQGYLTTHEEAEEIPLDGLFNYQEERIASYQPDYPVPARIHTHLKVYTKINEQALDRARRLLWWHYNCLVWGEANVTNYISRLRTWLSTPEKYRGKDAPTIEA
+>M1G511	235	0.820	5.744E-67	0	177	178	52	229	304
+NVYDLPDDFFPTTEDLVRDAKDALEPYWKSESIKKHVIIATHFVDLIEDFWQTTQGMVHIAEAIRTLIPPTTVPVPEGYLTSPTEAEEVPLDGLFNHQEERIASFQPDYPITARIHTHLRVYTKINEQALDRARKLLWWHYNCLVWGEANVTNYVSRLRTWLSTPEKYRGRDAPTIEA
+>tr|M1G516|M1G516_9HEPA Precore/core protein OS=Parrot hepatitis B virus PE=4 SV=1
+NIYDLPDDFFPKIDDLVRDAKDALEPFWKTDSIKKHVIIATHFVDLIEDFWQTTQGMNHVADALVSLIPPTTVAVPQGYLTTHEEAEELPLDGLFNHQEERIASYQPDYPVPARIHTHLKVYTKINEQALDRARRLLWWHYNCLVWGEANVTNYISRLRTWLSTPEKYRGKDAPTIEA
+>tr|A0A218NK28|A0A218NK28_9HEPA Precore/core protein OS=Tinamou hepatitis B virus OX=2018685 PE=4 SV=1
+NVFDLPHDFFPDIEDLVRDAKDALEPYWKQDSIKKHVIIATHFVDLIEDFWQTTQGMSSVANALLALIPGTTTPVPQGYLIDTKEAEEIALTELFNSQEERITSFQPDYPVIARIHTHLRVYTKLNEQALDRARRLLWWHYNCLLWGESNVTNYISRLRTWLSTPERYRGRDAPTIEA
+>UPI001652B78E	208	0.752	1.302E-57	0	177	178	10	147	222
+NVYDLPDDFFPKIDDLVRDAKDALEPYWKSDSIKKHVLIATHFVDLIEDFWQTTQGMHEIAESLRAVGGSGG----------------------------------------AEIHAHLKAYAKINEESLDRARRLLWWHYNCLLWGEAQVTNYISRLRTWLSTPEKYRGRDAPTIEA
+>tr|I6QDU5|I6QDU5_MELUD Putative PreC/C OS=Melopsittacus undulatus OX=13146 PE=4 SV=1
+NMFDLPIDFFPSIEDLIRYTKDAIEPFTKEGSLKKHVVLATHFLDLVEGFWATTRGMRDVAAALRPLVPAELEPIPEGNYTTKSELEELPVDGLFNYQEELIRNRDPNYPLVGRVYTHLIVYAKLNEQSLDNARRLLWWHSNCLIWGEPNVTDYISRLRTWLSTPEKYRGRDAPTIEA
+>A0A193AUV5	203	0.293	4.175E-56	1	176	178	11	207	266
+-VENLPDDYFPDNDQFLRHAFDVAHLYWEDAENKTyHVQTSRSIYEVIlilrtvppllgfthrqlREHWEYLRDQENWGNQTPPPYP--LPELPHSFPVSIRDPPLLTQFQAITDRHRELRGAvNVGQPNSYRELWMLSEFNRFLGIMLESQTRFLikrlWYHINCIAWGEATVHNHVAKVRTWLATPAPYRGQNAPLIE-
+>A0A411NH22	183	0.274	5.475E-49	1	176	178	11	207	266
+-VENLPDDYFPSNDAFLKHAFDVAHLYWEDADNKTfHVQTSRSLYEMIlvlrtvppllaftyeqlKTHWEYIVAQEAWTSAIPiPTYP--LVPLPPTFPVSIGDPPLLTQFQRLTEGDRTLRGARLGSPNSYRELWMLSEFNRFLGTMIESQTRFLikrlWYHINCIAWGEAAVHNHVAKVRTWLATPPPYRGQNAPIIE-
+>UniRef100_A0A0M3P3L7 PreC/core protein n=1 Tax=White sucker hepatitis B virus TaxID=1690672 RepID=A0A0M3P3L7_9HEPA
+-VKDLPHDFFPLLKDQVQFSKDVIKEYNEHHSQNRHVEVINCSLESYDNL---------------QLIYAKVTISNWTAIANNGDSVQVALDENART--------GLAYIFQSTIEMSI--------------RRKLWWHTNCLMWGESQTAEYTAKLRSWLMTPTSYRNQYAPTIEA
+>A0A0M3P3L7	136	0.287	1.396E-32	1	177	178	32	171	213
+-VKDLPHDFFPLLKDQVQFSKDVIKEYNEHHSQNRHVEVINCSLESYDNL---------------QLIYAKVTISNWTAIANNGDSVQVALDENART--------GLAYIFQSTIEMSI--------------RRKLWWHTNCLMWGESQTAEYTAKLRSWLMTPTSYRNQYAPTIEA
+>E0ZRZ0	102	0.225	5.364E-21	4	175	178	18	139	183
+--------------------------------------------------------------------------LPSDFFPSVRDIIDTAsglFRDAFESLEHCSPYHtALRQAILCwgelmtlatWVGANLEDPASrdlvvsyVNTHMGLKFRQLLWFHFSCITFGRDTVLEYLVSFGVWIRTPPAYRPPNAPIL--
+>A0A165XEV6	46	0.232	8.208E-02	26	177	178	152	318	430
+--YWSWDDLY---EDFPVRAPVVRAPFIHSHP---SELLLTDDLQVAraHHFIARVRPL--FLANARPIIPPPVLKtpvvlVIPGFLYN--------LNKGVSRISRKPLEF-IAHPDIHPVNCDIHGCQRggcyDRNHDAVRYCTRCdkWWHEGCLPLGDFDA---MFAGGSWRQTLEGEEDPDVFEA--
+>A0A1M6L3B3	90	0.209	8.663E-17	65	173	178	298	434	7759
+----------------------------------------------------------PVPPPVR-EGPPDPTPappiregTPEPVPAPGTLNDDLA-DLFTRHRDEMLVPFHPNSPTGArawdnAVERNVFRTEVadvfqraFAERLGTDQARRLgddYADTLVRSWGDPDLGSH-LSRTIGDRLPPPLREHlsDVP----
+>A0A1M6L3B3	90	0.209	8.663E-17	65	173	178	298	434	7759
+----------------------------------------------------------PVPPPVR-EGPPDPTPappiregTPEPVPAPGTLNDDLA-DLFTRHRDEMLVPFHPNSPTGArawdnAVERNVFRTEVadvfqraFAERLGTDQARRLgddYADTLVRSWGDPDLGSH-LSRTIGDRLPPPLREHlsDVP----
+>A0A0G3VUE6	86	0.290	1.434E-15	87	175	178	30	126	170
+------------------------------------------------------------------------------------------DIDPYKEFGASAELLsFLPSDFFPSIRDLLDTASAlyrealespeHCSPHHTKIRQLLWFHISCLTFGRETVLEYLVSFGVWIRTPPAYRPQNAPIL--
+>SRR5688500_11771305	56	0.264	2.846E-05	1	74	178	20	96	117
+------------------------------------------------------------------------------------------VGDVPAVRFD-----NVDHPLTRlWANPGIP----FPVKLRDDFVDLFePGKTGCCMQVW-TLDAYEPGVEAYPMAPPQGDATLHPV---
+>SRR5688572_6625329	52	0.250	8.108E-04	1	75	178	38	115	116
+------------------------------------------------------------------------------------------VAGVPTIRFE-----NTDNPFIRvWANPGIP----FPVRAFDDFVDLFeERKTRCCAFDW-TLEAYEPGAEAYPTGPVGPAAPFLPAP--
+>I0DG56	86	0.122	1.959E-15	4	175	178	2	168	212
+-----------------------------------------------------------------LXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXxxxXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXDDPASrelvvsyVNVNMGLKIRQLLWFHISCLTLGRETVLEYLVSFGVWIRTPTAYRPPXAPIL--
+>A0A2K8ID94	92	0.295	1.331E-17	112	175	178	14	84	128
+-----------------------------------------------------------------------------------------------------------------aWVGSNLEDPASrelvvgyVNVNMGLKLRQLLWFHISCLTFGRETVLKYLVSSGVWIRTPPAYRPPNAPIL--
+>A0A2I7YUS6	93	0.295	7.128E-18	112	175	178	36	106	129
+-----------------------------------------------------------------------------------------------------------------aWVGNNLDDPASrdlvvtyVNTNMGLKIRQLLWFHISCLTFGRETVLEYLVSFGVWIRTPPAYRPANAPIL--
+>A0A2I7YUM4	93	0.300	5.216E-18	113	175	178	37	106	118
+-----------------------------------------------------------------------------------------------------------------WVGANLEDPASrdlvvsyVNTHMGLKFRQLLWFHVSCLMFGRDTVLEYLVSFGVWIRTPPAYRPPNAPIL--
+>A0A1L6KUP8	91	0.300	4.641E-17	113	175	178	37	106	126
+-----------------------------------------------------------------------------------------------------------------WVGANLEDPASrelvvsyVNTHMGLKFRQLLWFHISCLTFGRQTVVEYLVSFGVWIRTPPAYRPSNAPIL--
+>A0A1L6KUP6	94	0.300	3.816E-18	113	175	178	19	88	109
+-----------------------------------------------------------------------------------------------------------------WVGANLDDPASrdqvvsyVNTNMGLKFRQLLWFHVSCLMFGRQTVVEYLVSFGVWIRTPPAYRPPNAPIL--
+>A0A2I7YUT3	93	0.285	5.216E-18	113	175	178	33	102	125
+-----------------------------------------------------------------------------------------------------------------WVGSNLEDPASrdlvvnyVNTNIGLKIRQLLWFHISCLTFGRETVLEYLVSFGVWIRTPPAYRPPNAPIL--
+>A0A2I7YUR0	93	0.277	5.216E-18	111	175	178	30	101	120
+-----------------------------------------------------------------------------------------------------------------gtWVGNNLEDPASrdlvvnyVNTNMGLKIRQLLWFHISCLTFGRDVVLEYLVSFGVWIRTPPAYRPPNAPIL--
+>A0A2I7YUQ6	93	0.285	7.128E-18	113	175	178	37	106	129
+-----------------------------------------------------------------------------------------------------------------WVGTNLDDPASrdlvvnyVNDNMGLKLRQLLWFHLSCLTFGRETVLEYLVSFGVWIRTPPAYRPPNAPIL--
+>A0A2I7YUP7	96	0.285	8.000E-19	113	175	178	42	111	123
+-----------------------------------------------------------------------------------------------------------------WVGVNLEDPASreqvvsyVNTNMGLKFRQLLWFHVSCLTFGRETVLEYLVSFGVWIRTPPAYRPPNAPIL--
+>A0A2I7YUN8	95	0.277	1.495E-18	111	175	178	36	107	130
+-----------------------------------------------------------------------------------------------------------------gtWVGNNLEDPASrdlvvnyVNTNMGLKIRQLLWFHISCLTFGRETVLEYLVSFGVWIRTPPAYRPPNAPIL--
+>A0A2I7YUN1	94	0.285	3.816E-18	113	175	178	32	101	124
+-----------------------------------------------------------------------------------------------------------------WVGNNLQDPASrdqvvnyVNTNMGLKIRQLLWFHISCLTFGRETVLEYLVSFGVWIRTPPAYRPPNAPIL--
+>A0A1L6KUQ8	89	0.277	2.209E-16	111	175	178	34	105	132
+-----------------------------------------------------------------------------------------------------------------gtWVGNNLQDPASrdlvvnyVNTNMGLKIRLLLWFHISCLTFGRDVVLEYLVSFGVWIRTPPAYRPPNAPML--
+>A0A1L6KUQ4	96	0.285	8.000E-19	113	175	178	17	86	107
+-----------------------------------------------------------------------------------------------------------------WVGSNLEDPASrelvvsyVNVNMGLKIRQLLWFHISCLTFGRETVLEYLVSFGVWIRTPPAYRPPNAPIL--
+>tr|A0A193AU86|A0A193AU86_9HEPA Core OS=Bluegill hepadnavirus OX=1862822 PE=4 SV=1
+----------------------------------------------------------------------------------------------------------------------------INESEGNRMQKAFWFHWASLTFGDKTVQDFIVSFATWLQTPPAYRPPNAPIL--
+>A0A2I7YUU9	96	0.283	5.852E-19	109	175	178	46	107	119
+-------------------------------------------------------------------------------------------------------------------------PTSrdlvvsyVNNNMGLKFRQLLWFHISCLTFGRETVIEYLVSFGVWIRTPPPYRPPNAPIL--
+>A0A2I7YUP0	91	0.271	3.396E-17	113	175	178	41	110	122
+-----------------------------------------------------------------------------------------------------------------WVGVNLEDPSSrdlvvsyVNTNMGLKFRQLLWFHISCLTFGRQIVLEYLVSFGVWIRTPPAYRPPNAPIL--
+>A0A2I7YUN3	91	0.271	2.486E-17	113	175	178	32	101	113
+-----------------------------------------------------------------------------------------------------------------WVGNNLQDPASrdlvvnyVNTNMGLKIRQLLWFHTSCITFGREIVLEYLVSFGVWIRTPPPYRPPNAPIL--
+>A0A2I7YUM1	92	0.271	1.331E-17	113	175	178	43	112	124
+-----------------------------------------------------------------------------------------------------------------WVGVNLEDPASrelvvsyVNTNMGLKFMQLLWFHISCLTFGRQTVIEYLVSFGVWIRTPPPYRPSNAPIL--
+>A0A2I7YUK2	94	0.271	2.043E-18	113	175	178	37	106	118
+-----------------------------------------------------------------------------------------------------------------WVGVNLDDPSSrdqvvsyVNTNMGLKFRQLLWFHISCLTFGRETVLEYLVSFGVWIRTPPAYRPPNAPIL--
+>A0A2D1PJL4	93	0.271	5.216E-18	113	175	178	7	76	122
+-----------------------------------------------------------------------------------------------------------------WVGNNMEDPASrdivvnyVNTNMGLKIRQLLWFHISCLTFGRETVLEYLVSFGVWIRTPPAYRPPNAPIL--
+>A0A250KCB6	93	0.283	7.128E-18	109	175	178	13	74	118
+-------------------------------------------------------------------------------------------------------------------------PISrdlvvsyVNTNMGLKFRQLWWFHISCLTFGRETVIEYLVSFGVWIRTPPAYRPPNAPIL--
+>UniRef100_A0A1W6GWR4 Core antigen n=1 Tax=Bat hepatitis virus TaxID=1303386 RepID=A0A1W6GWR4_9HEPA
+-----------------------------------------------------------------------------------------------------------------------------MNTFGLKLRQQLWFHLSCLTFGEATVLEFLVSFGTWIRTPQPYRPPNAPIL--
+>tr|C9WDH8|C9WDH8_HBV Core protein OS=Hepatitis B virus OX=10407 GN=C PE=4 SV=1
+----------------------------------------------------------------------------------------------------------------------------VNSHMGLKFRQLLWFHVSCLMFGRDLVLEYLVSFGVWIRTPPAYRPSNAPIL--
+>tr|A0A2H4Z5C9|A0A2H4Z5C9_HBV Capsid protein OS=Hepatitis B virus OX=10407 GN=C PE=3 SV=1
+----------------------------------------------------------------------------------------------------------------------------VNVNMGLKLRQLLWFHLSCLMFGRDIVHEYLVSFGVWIRTPAAYRPTNAPIL--
+>tr|A0A1P7ZTY6|A0A1P7ZTY6_HBV Core protein (Fragment) OS=Hepatitis B virus OX=10407 GN=C PE=4 SV=1
+----------------------------------------------------------------------------------------------------------------------------VNVNMGLKIRQLLWFHISCLTFGRETVLEYLVSFGVWIRTPPSYRPPNAPIL--
+>tr|A0A0H3V1C0|A0A0H3V1C0_HBV Capsid protein OS=Hepatitis B virus OX=10407 GN=C PE=3 SV=1
+----------------------------------------------------------------------------------------------------------------------------VNTNMGLKFRQLLWFHIFCLTFGRETVIEYLVSFGVWIRTPQAYRPPNAPIL--
+>Q77BG0	94	0.339	2.792E-18	123	175	178	0	52	96
+----------------------------------------------------------------------------------------------------------------------------yVNTNMGLKFRQLLWFHISCLTFGRETVIEYLVSFGVWIRTPPAYRPPNAPIL--
+>A0A2I7YUR1	91	0.339	3.396E-17	123	175	178	54	106	118
+----------------------------------------------------------------------------------------------------------------------------yVNTHMGLKFRQLLWFHISCLTFGRETVSEYLVSFGVWIRTPPAYRPPNAPIL--
+>A0A2I7YUQ3	94	0.339	3.816E-18	123	175	178	54	106	118
+----------------------------------------------------------------------------------------------------------------------------yVNNNMGLKFRQLLWFHISCLTFGRDTVLEYLVSFGVWIRTPPPYRPPNAPIL--
+>A0A0V1ANI0	92	0.339	1.331E-17	123	175	178	12	64	114
+----------------------------------------------------------------------------------------------------------------------------yVNVNMGLKIRQLLWFHISCLTFGRDTVLEYLVSFGVWIRTPPAYRPPNAPIL--
+>UPI00197DB2FA	86	0.346	1.434E-15	127	175	178	0	48	92
+-------------------------------------------------------------------------------------------------------------------------------NMGLKFRQLLWFHISCLTFGRETVVEYLVCFGVWIRTPPAYRPPNAPIL--
+>UniRef100_U3M5H3 External core antigen n=1 Tax=Roundleaf bat hepatitis B virus TaxID=1508710 RepID=U3M5H3_9HEPA
+-----------------------------------------------------------------------------------------------------------------------------QASVGLRMRQLMWFHLSCLTFGQPTVIEFLVSFGTWIRTPQAYRPPNAPIL--
+>UniRef100_E0ZNB6 Core protein (Fragment) n=1 Tax=Hepatitis B virus TaxID=10407 RepID=E0ZNB6_HBV
+-----------------------------------------------------------------------------------------------------------------------------NTTVGLKFRQLLWFHVSCFCFGRETVIEYLVSFGVWIPTPAAYRPPNAPIL--
+>UniRef100_A0A482KMS0 Core protein n=1 Tax=Tai Forest hepadnavirus TaxID=2557875 RepID=A0A482KMS0_9HEPA
+-----------------------------------------------------------------------------------------------------------------------------QSTIGLRVRQQLWFHLSCLTFGNHTVLEFLVSFGTWIRTPAAYRPPNAPIL--
+>tr|U5JH54|U5JH54_HBV Core protein (Fragment) OS=Hepatitis B virus OX=10407 GN=C PE=4 SV=1
+----------------------------------------------------------------------------------------------------------------------------VNANRRVKIRQLLWFHISCFTFGRETVLEYLVSFGVWIRTPPAYRPQNAPIL--
+>tr|L0HCB8|L0HCB8_HBV Capsid protein OS=Hepatitis B virus OX=10407 GN=C PE=3 SV=1
+----------------------------------------------------------------------------------------------------------------------------VNVNTGLKIRQLLWFHITCLTLGRETVLEELVPFARWIRTPPAYRPPNAPIL--
+>tr|A0A141R7Y7|A0A141R7Y7_HBV Capsid protein OS=Hepatitis B virus OX=10407 GN=C PE=3 SV=1
+----------------------------------------------------------------------------------------------------------------------------------LKIRQLLWFHISCLTFGTQTVVEYLVSFGVWIRTPLPYRPPNAPIL--
+>UniRef100_W8PAA2 External core antigen n=2 Tax=Hepatitis B virus TaxID=10407 RepID=W8PAA2_HBV
+-----------------------------------------------------------------------------------------------------------------------------NTHMGLEIRQLLWLLISCICFGRKTVLEYLVSFGVWIRTPPPYRPPNAPIL--
+>UniRef100_W5ZXR0 Capsid protein n=1 Tax=Woodchuck hepatitis virus TaxID=35269 RepID=W5ZXR0_9HEPA
+-----------------------------------------------------------------------------------------------------------------------------NDTWGLKVRQSLWFHLSCLTFGQHTVQEFLVSFGVWIRTPAPYRPPNAPIL--
+>UniRef100_A0A5K6TV77 External core antigen n=2 Tax=Hepatitis B virus TaxID=10407 RepID=A0A5K6TV77_HBV
+-----------------------------------------------------------------------------------------------------------------------------NTHVGLKMKQLLWFHISCLIFERKTVLEYLEYFGVWIRTPPAYRPPNAPIL--
+>UniRef100_A0A2H5BVJ1 External core antigen n=1 Tax=Bat Hepatitis B virus TaxID=1401315 RepID=A0A2H5BVJ1_HBV
+-----------------------------------------------------------------------------------------------------------------------------QSTVGLRMRQQIWFHLSCLTFGQQTVIEFLVSFGTWMRTPAAYRPPNAPIL--
+>UniRef100_A0A2H4RID7 External core antigen n=1 Tax=Bat Hepatitis B virus TaxID=1401315 RepID=A0A2H4RID7_HBV
+-----------------------------------------------------------------------------------------------------------------------------TSTIGLRIRQQIWFHLSCLTFGQHTVVEFLVSFGTWIRTPQAYRPPNAPIL--
+>tr|U3M6H7|U3M6H7_9HEPA Core protein OS=Tent-making bat hepatitis B virus OX=1508712 PE=4 SV=1
+----------------------------------------------------------------------------------------------------------------------------LRSKYLKHITKAIWYHLSCLTFGKQTVHEYLVSFGTWIRTPAAYRPVNAPIL--
+>tr|U3M5R9|U3M5R9_9HEPA External core antigen OS=Horseshoe bat hepatitis B virus OX=1508711 GN=C PE=3 SV=1
+----------------------------------------------------------------------------------------------------------------------------VQTTVGLRMRQQIWFHLSCLTFGQQTVIEFLVSFGTWMRTPAAYRPPNAPIL--
+>tr|M4PSH7|M4PSH7_9HEPA Core antigen OS=Bat hepatitis virus OX=1303386 PE=4 SV=1
+----------------------------------------------------------------------------------------------------------------------------VQSTIGLRMRQQLWFHLSCLTFGQSTTIEFLISFGTWARTPQAYRPPNAPIL--
+>tr|D0EYW7|D0EYW7_HBV Core protein (Fragment) OS=Hepatitis B virus OX=10407 GN=C PE=4 SV=1
+----------------------------------------------------------------------------------------------------------------------------VNTNMGLKIRQLLWFHLSCIMFGRDTVLEFLVSFGVWIRTPPAYRPPNAPIL--
+>tr|A6MFZ2|A6MFZ2_HBV Core protein OS=Hepatitis B virus OX=10407 GN=C PE=4 SV=1
+----------------------------------------------------------------------------------------------------------------------------RNVKMGPKISQLLWFHISWLMFGRETVLEYLGSFGVWIRTPTAYRPQNAPIL--
+>tr|A0A2U8SZQ3|A0A2U8SZQ3_9HEPA Core protein OS=Domestic cat hepadnavirus OX=2107574 PE=4 SV=1
+-----------------------------------------------------------------------------------------------------------------------------VNsTVSLKLRQQMWFHLSCLTFGQHTVLEFLVSFGTWIRTPAPYRPPNAPIL--
+>tr|A0A067YVL8|A0A067YVL8_HBV C protein OS=Hepatitis B virus OX=10407 GN=C PE=4 SV=1
+----------------------------------------------------------------------------------------------------------------------------VNVNMGLKITQLLWFLPSCLTFGRQTVLAYLVTFAAWIRTPPAYRPPNAPIL--
+>A8WE38	72	0.271	7.592E-11	113	164	178	12	70	71
+-----------------------------------------------------------------------------------------------------------------WVGANLDDPGSrdlvvsyVNTNMGLKFRQLLWFHISCLTFGRDTVVEYLVSFGVWIRTP-------------
+>A0A077YYY0	83	0.333	1.270E-14	128	175	178	0	47	106
+--------------------------------------------------------------------------------------------------------------------------------MGLKLGQLMWFHISCLTWGGEIVLEYLVSFGVWIRTPPPYRPPNAPIL--
+>UniRef100_Q80J61 Core protein n=1 Tax=Hepatitis B virus TaxID=10407 RepID=Q80J61_HBV
+----------------------------------------------------------------------------------------------------------------------------LPSDFFPSIRDLLDTASACLTFGRETVLEYLVSFGVWIRTPPAYRPPNAPIL--
+>UniRef100_A0A481MR21 Core protein n=1 Tax=Shrew hepatitis B virus TaxID=2507572 RepID=A0A481MR21_9HEPA
+----------------------------------------------------------------------------------------------------------------------------VDNTAALHLRKAIWFHTSCLTFGQGVVLEYLVSFGVWIRTPAPYRPANAPIL--
+>UniRef100_A0A286QXE0 External core antigen n=1 Tax=Hepatitis B virus TaxID=10407 RepID=A0A286QXE0_HBV
+-----------------------------------------------------------------------------------------------------------------------------DTNMGLKFRQLLWFHISCLTFGRDTFLEYLVAFGVSIRTPTAYRPPHAPIL--
+>tr|E0ZNG1|E0ZNG1_HBV External core antigen (Fragment) OS=Hepatitis B virus OX=10407 GN=C PE=3 SV=1
+----------------------------------------------------------------------------------------------------------------------------------LKFRQLLWFHISCFTFGRETVIEYLVSFGVWIPPPPAYRPPNAPIL--
+>tr|E0ZNB0|E0ZNB0_HBV External core antigen (Fragment) OS=Hepatitis B virus OX=10407 GN=C PE=3 SV=1
+----------------------------------------------------------------------------------------------------------------------------VNTNLGLKIRQLLGFHISSLTFGRETVLEYLVSFGGGIRTPPPYRPPNAPIL--
+>tr|A0A0K0WT52|A0A0K0WT52_HBV External core antigen (Fragment) OS=Hepatitis B virus OX=10407 GN=C PE=3 SV=1
+----------------------------------------------------------------------------------------------------------------------------------LKFRQLWWFHISCLTFGKKTVIKYLVSFEVWIPTPQAYKPPNAPIL--
+>tr|A0A067YSJ0|A0A067YSJ0_HBV C protein OS=Hepatitis B virus OX=10407 GN=C PE=4 SV=1
+----------------------------------------------------------------------------------------------------------------------------VNVNMGLKIKQLLGFHISCLTFGKKTVLEYLGSFGVGIPTPPAYKPPNAPIL--
+>UniRef100_U5JPQ9 External core antigen (Fragment) n=2 Tax=Hepatitis B virus TaxID=10407 RepID=U5JPQ9_HBV
+-----------------------------------------------------------------------------------------------------------------------------NVNMGLKISQLPCFHISDLTFGRETVLEYLVSFGVRVPTPPAYRPPNAPIL--
+>UniRef100_Q9QRQ8 External core antigen (Fragment) n=2 Tax=Hepatitis B virus TaxID=10407 RepID=Q9QRQ8_HBV
+-----------------------------------------------------------------------------------------------------------------------------NTNMGLKIRQLLWFHISCLTFGRETVLDIwsLSECGFALLQPIDHQMPlsyqh-------
+>UniRef100_D3TJ97 Core protein n=2 Tax=Hepatitis B virus TaxID=10407 RepID=D3TJ97_HBV
+-------------------------------------------------------------------------------------------------------------------------------PHHTALRQAIlcWVELMNLaTWVGSNLEEYLVSFGVWIRTPTAYRPPNAPIL--
+>tr|A0A077YZ10|A0A077YZ10_HBV Core protein (Fragment) OS=Hepatitis B virus OX=10407 GN=C PE=4 SV=1
+-----------------------------------------------------------------------------------------------------------------------------------KFRQLLWFHISCLTFGRETVIEYLVSFGSVDSHSSSFLVSPHPPL--
+>SRR5262249_16831854	74	0.255	2.729E-11	128	170	178	211	257	269
+-------------------------------------------------------------------------------------------------------------------------------EWNL-VQDVYWWNFGCLPSAcanrKNALLRQAVKLCVWLGPPDCYRRQ-------
+>UniRef100_Q70HP9 Core protein (Fragment) n=1 Tax=Hepatitis B virus TaxID=10407 RepID=Q70HP9_HBV
+-----------------------------------------------------------------------------------------------------------------------------NTNMGLKIRQLLWFHISCLTFGRETVLEYsaSFGVGFALLQPIDHQMPlsy-------
+>U5JRC3	64	0.323	6.767E-08	142	175	178	106	139	177
+----------------------------------------------------------------------------------------------------------------------------------------------DLTFGRETVLEYLVSFGVWIRTPPAYRPPNAPIL--
+>U5JJ50	60	0.275	1.460E-06	143	175	178	94	133	171
+----------------------------------------------------------------------------------------------------------------------------------------VTWAARNMGDGRETVLEYLVSFGVWIRTPPAYRPPNAPIL--
+>tr|A0A067YUP7|A0A067YUP7_HBV C protein OS=Hepatitis B virus OX=10407 GN=C PE=4 SV=1
+----------------------------------------------------------------------------------------------------------------------------VNVNMGLKIKQLLGFHISGLTFEKKTVLDYLGSFEVGIPPPPAYEPQNAPIL--
+>UniRef100_Q9E0N5 Core protein (Fragment) n=1 Tax=Hepatitis B virus TaxID=10407 RepID=Q9E0N5_HBV
+----------------------------------------------------------------------------------------------------------------------------------LKFRQLLWFHIFCLTFGRYTVIEYLVSFG-------------------
+>UniRef100_G0Z2Y0 Core protein (Fragment) n=1 Tax=Hepatitis B virus TaxID=10407 RepID=G0Z2Y0_HBV
+-----------------------------------------------------------------------------------------------------------------------------NTNIALKFRQLMWFHLSCLTFGRDTVIEYLVS---------------------
+>tr|Q9E0Q7|Q9E0Q7_HBV Core protein (Fragment) OS=Hepatitis B virus OX=10407 GN=prec/C PE=4 SV=1
+----------------------------------------------------------------------------------------------------------------------------------LKFRQLLWFHISCLTFGREVVLKYLV----------------------
+>tr|D3TJA3|D3TJA3_HBV Core protein OS=Hepatitis B virus OX=10407 PE=4 SV=1
+-------------------------------------------------------------------------------------------------------------------------------PHHTALRQAIlcWVELMNLaTWVGSNLEEYLVSFGVWIRTPTAYRPPNAPIL--
+>tr|A0A1P7ZUD6|A0A1P7ZUD6_HBV Core protein (Fragment) OS=Hepatitis B virus OX=10407 GN=C PE=4 SV=1
+----------------------------------------------------------------------------------------------------------------------------------LKIRQLLWFHISCLTFGEKLFLNIWC----------------------
+>SRR5688500_19396403	50	0.256	3.691E-03	136	170	178	21	59	105
+-----------------------------------------------------------------------------------------------------------------------------------------lWWNTNALPLAgadrRHQLLRPSVKWCVWLGPADCRRNQ-------
+>UniRef100_Q9QRQ9 Core protein (Fragment) n=1 Tax=Hepatitis B virus TaxID=10407 RepID=Q9QRQ9_HBV
+-----------------------------------------------------------------------------------------------------------------------------NTNMGLKIRQLCGFIFLALLLEEKLSLSIwfLSECGFALLQPIDHQMPlsyqh-------
+>UniRef100_E0ZNA5 Core protein (Fragment) n=1 Tax=Hepatitis B virus TaxID=10407 RepID=E0ZNA5_HBV
+----------------------------------------------------------------------------------------------------------------------------------LKFRQLLWFPLSCLTFGRKTVLEYLVSFGVGF-PPLKLIDP-------
+>UniRef100_A0A1P7ZU00 External core antigen (Fragment) n=2 Tax=Hepatitis B virus TaxID=10407 RepID=A0A1P7ZU00_HBV
+-----------------------------------------------------------------------------------------------------------------------------NVNMGLNSDNYCGFTFPVYFW-ERTVLD-ICVFWSVIRTPPAYRPPYALSY--
+>SRR6185369_15729320	58	0.219	8.379E-06	136	172	178	0	40	125
+-----------------------------------------------------------------------------------------------------------------------------------------wWWNYTAIPSSgCSAVRGLLrpsVKACVWLGAPDCFRDQsa-------
+>SRR5215217_9777975	68	0.195	2.828E-09	129	171	178	0	45	99
+---------------------------------------------------------------------------------------------------------------------------------WNQVQDAWWWNIAAMPWAgstKRDLMRG-sLKACVWLGDEDCYRSQd-------
+>MGYP000331917099	60	0.204	1.334E-06	130	171	178	0	43	230
+----------------------------------------------------------------------------------------------------------------------------------NIVQDAYWWNHAAIPVAgaSHGLMRQ-sVKYLIWLGSPNCYRNQd-------
+>UniRef100_U5JJT4 External core antigen (Fragment) n=2 Tax=Hepatitis B virus TaxID=10407 RepID=U5JJT4_HBV
+-----------------------------------------------------------------------------------------------------------------------------------------------------LFLSIwcLLECGFALLLLTDHQMPlsyqhfRKLLL--
+>UniRef100_A6YK00 Mutant core protein (Fragment) n=22 Tax=Hepatitis B virus TaxID=10407 RepID=A6YK00_HBV
+-----------------------------------------------------------------------------------------------------------------------------NVNMGLKSDNYCGSTFPVLLLGEKLFLNIwcLLECGFALLLHIDHQMPlsyqhfRKLLL--
+>SRR4051812_47608537	49	0.195	4.996E-03	135	172	178	0	40	134
+-----------------------------------------------------------------------------------------------------------------------------------------ayWWNVCALTTAgacSGGLMKDAVKVCVWVGPPDCFRDQga-------
+>U5JQM4	40	0.291	3.998E+00	152	175	178	68	91	129
+--------------------------------------------------------------------------------------------------------------------------------------------------------EALESPGQWIRTPPAYRPPNAPIL--
+>MGYP001245988790	45	0.304	1.857E-01	150	172	178	0	22	174
+---------------------------------------------------------------------------------------------------------------------------------------------------lmRPSVKAC-----VWLGEPGCYRNQDA-----
+>SRR5205085_325742	40	0.260	8.986E+00	149	171	178	0	22	157
+--------------------------------------------------------------------------------------------------------------------------------------------------GlmRRSVKPI-----VWLGDPDCYRDQd-------
+>UniRef100_Q8JXJ6 External core antigen n=1 Tax=Hepatitis B virus TaxID=10407 RepID=Q8JXJ6_HBV
+-----------------------------------------------------------------------------------------------------------------------------NINMGLKIPVLL-------LEEkqATIVVSYILPY-FWKRDCT------------
