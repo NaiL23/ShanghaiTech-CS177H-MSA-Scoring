@@ -46,9 +46,9 @@ class EmbeddingScoreDataset(Dataset):
         msa_name, msa_score = self.msa_name_list[idx], self.msa_score_list[idx]
         msa_embedding = read_embedding(msa_name, self.padding_size, self.embedding_path)
         return {
-            'name' : msa_name,
-            'score' : msa_score,
-            'embedding' : msa_embedding
+            'name'     : msa_name,
+            'score'    : torch.Tensor([msa_score]),
+            'embedding': msa_embedding
         }
 
 def generate_pair_dataset(root = './dataset', is_train = True, num_pair_per_msa = 2) :
@@ -116,12 +116,12 @@ class PairDataset(Dataset):
         msa_embedding1 = read_embedding(msa1_name, self.padding_size, self.embedding_path)
         msa_embedding2 = read_embedding(msa2_name, self.padding_size, self.embedding_path)
         return {
-            'name1' : msa1_name,
-            'name2' : msa2_name,
-            'score1' : msa1_score,
-            'score2' : msa2_score,
-            'embedding1' : msa_embedding1,
-            'embedding2' : msa_embedding2
+            'name1'     : msa1_name,
+            'name2'     : msa2_name,
+            'score1'    : torch.Tensor([msa1_score]),
+            'score2'    : torch.Tensor([msa2_score]),
+            'embedding1': msa_embedding1,
+            'embedding2': msa_embedding2
         }
 
 
