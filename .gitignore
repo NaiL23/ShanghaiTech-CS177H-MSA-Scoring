@@ -1,6 +1,6 @@
 esm_msa1b_t12_100M_UR50S.pt
 model/*.pth
-embeddings/*.pt
+*.pt
 
 .DS_Store
 
