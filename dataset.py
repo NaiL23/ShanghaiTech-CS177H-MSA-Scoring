@@ -96,7 +96,7 @@ class PairDataset(Dataset):
         
         target_file = root / ("train_set_pair.txt" if is_train else "test_set_pair.txt")
         if not os.path.exists(target_file) :
-            generate_pair_dataset(root, is_train, num_pair_per_msa = 10 if is_train else 2)
+            generate_pair_dataset(root, is_train, num_pair_per_msa = 5 if is_train else 2)
         
         with open(target_file) as f:
             pair_lines = f.readlines()
